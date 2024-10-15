@@ -27,21 +27,23 @@
         fetch(url)
             .then(response => response.json())
             .then(data => {
-                // Filtra os clientes pelo código do representante
-                const clientes = data.filter(item => item.codRep === repCode);
+                console.log(data); // Verifica o conteúdo do JSON no console
 
-                // Exibe os clientes na página
-                const lista = document.getElementById('listaClientes');
-                lista.innerHTML = ''; // Limpa a lista anterior
-                clientes.forEach(cliente => {
-                    const listItem = document.createElement('li');
-                    listItem.textContent = `Cliente: ${cliente.nome}, Código: ${cliente.codCliente}`;
-                    lista.appendChild(listItem);
-                });
+                // Verifica se existe um representante com o código fornecido
+                if (data['1091'] && data['1091']['representantes'] && data['1091']['representantes'][repCode]) {
+                    const clientes = data['1091']['representantes'][repCode]; // Lista de clientes para o representante
 
-                // Se não houver clientes, mostra uma mensagem
-                if (clientes.length === 0) {
-                    lista.innerHTML = 'Nenhum cliente encontrado para este representante.';
+                    // Exibe os clientes na página
+                    const lista = document.getElementById('listaClientes');
+                    lista.innerHTML = ''; // Limpa a lista anterior
+                    clientes.forEach(cliente => {
+                        const listItem = document.createElement('li');
+                        listItem.textContent = `Código do Cliente: ${cliente}`;
+                        lista.appendChild(listItem);
+                    });
+                } else {
+                    // Caso não haja clientes ou código de representante
+                    document.getElementById('listaClientes').innerHTML = 'Nenhum cliente encontrado para este representante.';
                 }
             })
             .catch(error => console.error('Erro ao buscar os dados:', error));

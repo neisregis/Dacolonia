@@ -12,12 +12,13 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 20px;
-    background-color: #f8f8f8;
+    background-color: #d2691e; /* Mesmo fundo laranja */
     border-bottom: 2px solid #ccc;
 }
 
 h1 {
     margin: 0;
+    color: white; /* Para se destacar no fundo laranja */
 }
 
 img#logo {
@@ -38,6 +39,11 @@ li {
     font-weight: bold;
     cursor: pointer;
     margin-top: 15px;
+    border: 1px solid #b5530a;
+    padding: 10px;
+    border-radius: 12px;
+    background-color: #b5530a; /* Laranja queimado mais forte */
+    color: white;
 }
 
 .clientes {
@@ -46,7 +52,7 @@ li {
 }
 
 .toggle-button {
-    background-color: #007bff;
+    background-color: #b5530a; /* Laranja queimado mais forte */
     color: white;
     border: none;
     padding: 5px 10px;
@@ -57,13 +63,37 @@ li {
 }
 
 .toggle-button:hover {
-    background-color: #0056b3;
+    background-color: #8b3e07;
 }
 
 .cliente-item {
-    background-color: #fff;
+    background-color: #f4a460; /* Laranja mais claro */
     padding: 5px 10px;
     border-radius: 8px; /* Borda arredondada para clientes */
     margin: 5px 0;
     font-weight: normal; /* Sem negrito */
+    cursor: pointer;
+}
+
+/* Item selecionado */
+.selecionado {
+    border: 2px solid yellow;
+}
+
+/* Botão fixo no rodapé */
+#enviarBtn {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#enviarBtn:hover {
+    background-color: #0056b3;
 }

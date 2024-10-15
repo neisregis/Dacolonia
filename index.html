@@ -15,6 +15,9 @@
 
 <ul id="listaClientes"></ul>
 
+<!-- Botão fixo para enviar informações -->
+<button id="enviarBtn">Enviar Informações</button>
+
 <script>
     // Função para obter parâmetros da URL
     function getParameterByName(name) {
@@ -25,6 +28,17 @@
     // Obtém o código do representante e supervisor da URL
     const repCode = getParameterByName('repCode');
     const supCode = getParameterByName('supCode');
+
+    let selecionado = null; // Armazena o item selecionado (grupo ou cliente)
+
+    // Função para destacar o item selecionado
+    function selecionarItem(item) {
+        if (selecionado) {
+            selecionado.classList.remove('selecionado');
+        }
+        item.classList.add('selecionado');
+        selecionado = item;
+    }
 
     // Caminho para o arquivo JSON
     const url = 'https://neisregis.github.io/Dacolonia/superv_rep_grupo_cli.json';
@@ -38,6 +52,7 @@
             // Cria o item de grupo
             const grupoItem = document.createElement('li');
             grupoItem.classList.add('grupo');
+            grupoItem.addEventListener('click', () => selecionarItem(grupoItem)); // Seleção do grupo
             
             const toggleButton = document.createElement('button');
             toggleButton.classList.add('toggle-button');
@@ -58,6 +73,10 @@
                 const clienteItem = document.createElement('li');
                 clienteItem.classList.add('cliente-item');
                 clienteItem.textContent = `${cliente.codigo_cliente} - ${cliente.desc_cliente}`;
+                clienteItem.addEventListener('click', (event) => {
+                    event.stopPropagation(); // Evita que o clique no cliente selecione o grupo
+                    selecionarItem(clienteItem); // Seleção do cliente
+                });
                 subLista.appendChild(clienteItem);
             });
 
@@ -122,6 +141,16 @@
             }
         })
         .catch(error => console.error('Erro ao buscar os dados:', error));
+
+    // Botão de envio
+    document.getElementById('enviarBtn').addEventListener('click', function() {
+        if (selecionado) {
+            alert(`Item selecionado: ${selecionado.textContent}`);
+            // Aqui você pode definir a lógica para enviar as informações selecionadas.
+        } else {
+            alert('Nenhum cliente ou grupo foi selecionado.');
+        }
+    });
 </script>
 
 </body>

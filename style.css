@@ -1,0 +1,55 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-bottom: 2px solid #ccc;
+}
+
+h1 {
+    margin: 0;
+}
+
+img#logo {
+    height: 50px;
+}
+
+/* Lista de clientes e grupos */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.grupo {
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.clientes {
+    display: none; /* Inicialmente escondido */
+    margin-left: 20px;
+}
+
+.toggle-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+    margin-right: 5px;
+    border-radius: 3px;
+}

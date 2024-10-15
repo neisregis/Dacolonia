@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Clientes do Representante</title>
+    <title>Clientes do Supervisor ou Representante</title>
 </head>
 <body>
-    <h1>Lista de Clientes para o Representante</h1>
+    <h1>Lista de Clientes</h1>
     
     <ul id="listaClientes"></ul>
 
@@ -17,33 +17,77 @@
             return url.searchParams.get(name);
         }
 
-        // Obtém o código do representante da URL
+        // Obtém o código do representante e supervisor da URL
         const repCode = getParameterByName('repCode');
+        const supCode = getParameterByName('supCode');
 
         // Caminho para o arquivo JSON
-        const url = 'https://neisregis.github.io/Dacolonia/Supervisores_e_Reps_Codigos.json';
+        const url = 'https://neisregis.github.io/Dacolonia/superv_rep_grupo_cli.json';
 
-        // Faz a requisição e filtra os clientes pelo código do representante
+        // Função para exibir clientes
+        function exibirClientes(clientesPorGrupo) {
+            const lista = document.getElementById('listaClientes');
+            lista.innerHTML = ''; // Limpa a lista anterior
+
+            Object.keys(clientesPorGrupo).forEach(grupo => {
+                const grupoItem = document.createElement('li');
+                grupoItem.textContent = `Grupo de Cliente: ${grupo}`;
+                lista.appendChild(grupoItem);
+
+                const subLista = document.createElement('ul');
+                clientesPorGrupo[grupo].forEach(cliente => {
+                    const clienteItem = document.createElement('li');
+                    clienteItem.textContent = `Código do Cliente: ${cliente.codigo_cliente}, Descrição: ${cliente.desc_cliente}`;
+                    subLista.appendChild(clienteItem);
+                });
+
+                lista.appendChild(subLista);
+            });
+        }
+
+        // Faz a requisição e filtra os clientes pelo código do representante ou supervisor
         fetch(url)
             .then(response => response.json())
             .then(data => {
                 console.log(data); // Verifica o conteúdo do JSON no console
 
-                // Verifica se existe um representante com o código fornecido
-                if (data['1091'] && data['1091']['representantes'] && data['1091']['representantes'][repCode]) {
-                    const clientes = data['1091']['representantes'][repCode]; // Lista de clientes para o representante
+                if (supCode) {
+                    // Filtragem pelo código do supervisor
+                    if (data[supCode]) {
+                        const representantes = data[supCode]['representantes'];
+                        let clientesPorGrupo = {};
 
-                    // Exibe os clientes na página
-                    const lista = document.getElementById('listaClientes');
-                    lista.innerHTML = ''; // Limpa a lista anterior
-                    clientes.forEach(cliente => {
-                        const listItem = document.createElement('li');
-                        listItem.textContent = `Código do Cliente: ${cliente}`;
-                        lista.appendChild(listItem);
+                        Object.values(representantes).forEach(grupos => {
+                            Object.keys(grupos).forEach(grupo => {
+                                if (!clientesPorGrupo[grupo]) {
+                                    clientesPorGrupo[grupo] = [];
+                                }
+                                clientesPorGrupo[grupo] = clientesPorGrupo[grupo].concat(grupos[grupo]);
+                            });
+                        });
+
+                        // Exibe os clientes na página
+                        exibirClientes(clientesPorGrupo);
+                    } else {
+                        document.getElementById('listaClientes').innerHTML = 'Nenhum cliente encontrado para este supervisor.';
+                    }
+                } else if (repCode) {
+                    // Filtragem pelo código do representante
+                    let encontrado = false;
+                    Object.keys(data).forEach(sup => {
+                        const representantes = data[sup]['representantes'];
+                        if (representantes[repCode]) {
+                            encontrado = true;
+                            const clientesPorGrupo = representantes[repCode];
+                            exibirClientes(clientesPorGrupo);
+                        }
                     });
+
+                    if (!encontrado) {
+                        document.getElementById('listaClientes').innerHTML = 'Nenhum cliente encontrado para este representante.';
+                    }
                 } else {
-                    // Caso não haja clientes ou código de representante
-                    document.getElementById('listaClientes').innerHTML = 'Nenhum cliente encontrado para este representante.';
+                    document.getElementById('listaClientes').innerHTML = 'Nenhum código de supervisor ou representante fornecido.';
                 }
             })
             .catch(error => console.error('Erro ao buscar os dados:', error));

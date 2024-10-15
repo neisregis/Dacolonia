@@ -44,7 +44,7 @@
             toggleButton.textContent = '+';
             
             const grupoTexto = document.createElement('span');
-            grupoTexto.textContent = `Grupo de Cliente: ${grupo}`;
+            grupoTexto.textContent = `${grupo}`; // Exibe diretamente o nome do grupo
 
             grupoItem.appendChild(toggleButton);
             grupoItem.appendChild(grupoTexto);
@@ -56,7 +56,8 @@
             
             clientesPorGrupo[grupo].forEach(cliente => {
                 const clienteItem = document.createElement('li');
-                clienteItem.textContent = `Código do Cliente: ${cliente.codigo_cliente}, Descrição: ${cliente.desc_cliente}`;
+                clienteItem.classList.add('cliente-item');
+                clienteItem.textContent = `${cliente.codigo_cliente} - ${cliente.desc_cliente}`;
                 subLista.appendChild(clienteItem);
             });
 

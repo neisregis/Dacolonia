@@ -3,20 +3,48 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Amendochat - Representantes e Clientes</title>
+    <title>Clientes do Representante</title>
 </head>
 <body>
-    <h1>Lista de Representantes e Clientes</h1>
-    <pre id="json-content"></pre>
+    <h1>Lista de Clientes para o Representante</h1>
+    
+    <ul id="listaClientes"></ul>
 
     <script>
-        // Caminho do arquivo JSON (modifique este caminho se necessário)
-        fetch('Supervisores_e_Reps_Codigos.json')
+        // Função para obter parâmetros da URL
+        function getParameterByName(name) {
+            const url = new URL(window.location.href);
+            return url.searchParams.get(name);
+        }
+
+        // Obtém o código do representante da URL
+        const repCode = getParameterByName('repCode');
+
+        // Caminho para o arquivo JSON
+        const url = 'https://neisregis.github.io/Amendochat/Supervisores_e_Reps_Codigos.json';
+
+        // Faz a requisição e filtra os clientes pelo código do representante
+        fetch(url)
             .then(response => response.json())
             .then(data => {
-                document.getElementById('json-content').textContent = JSON.stringify(data, null, 2);
+                // Filtra os clientes pelo código do representante
+                const clientes = data.filter(item => item.codRep === repCode);
+
+                // Exibe os clientes na página
+                const lista = document.getElementById('listaClientes');
+                lista.innerHTML = ''; // Limpa a lista anterior
+                clientes.forEach(cliente => {
+                    const listItem = document.createElement('li');
+                    listItem.textContent = `Cliente: ${cliente.nome}, Código: ${cliente.codCliente}`;
+                    lista.appendChild(listItem);
+                });
+
+                // Se não houver clientes, mostra uma mensagem
+                if (clientes.length === 0) {
+                    lista.innerHTML = 'Nenhum cliente encontrado para este representante.';
+                }
             })
-            .catch(error => console.error('Erro ao carregar o JSON:', error));
+            .catch(error => console.error('Erro ao buscar os dados:', error));
     </script>
 </body>
 </html>

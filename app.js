@@ -34,8 +34,44 @@ document.addEventListener('DOMContentLoaded', function() {
         .then(data => {
             console.log(data); // Verifica o conteúdo do JSON no console
 
-            // O restante do seu código para exibir a lista de clientes
-            // ...
+            if (supCode) {
+                // Filtragem pelo código do supervisor
+                if (data[supCode]) {
+                    const representantes = data[supCode]['representantes'];
+                    let clientesPorGrupo = {};
+
+                    Object.values(representantes).forEach(grupos => {
+                        Object.keys(grupos).forEach(grupo => {
+                            if (!clientesPorGrupo[grupo]) {
+                                clientesPorGrupo[grupo] = [];
+                            }
+                            clientesPorGrupo[grupo] = clientesPorGrupo[grupo].concat(grupos[grupo]);
+                        });
+                    });
+
+                    // Exibe os clientes na página
+                    exibirClientes(clientesPorGrupo);
+                } else {
+                    document.getElementById('listaClientes').innerHTML = 'Nenhum cliente encontrado para este supervisor.';
+                }
+            } else if (repCode) {
+                // Filtragem pelo código do representante
+                let encontrado = false;
+                Object.keys(data).forEach(sup => {
+                    const representantes = data[sup]['representantes'];
+                    if (representantes[repCode]) {
+                        encontrado = true;
+                        const clientesPorGrupo = representantes[repCode];
+                        exibirClientes(clientesPorGrupo);
+                    }
+                });
+
+                if (!encontrado) {
+                    document.getElementById('listaClientes').innerHTML = 'Nenhum cliente encontrado para este representante.';
+                }
+            } else {
+                document.getElementById('listaClientes').innerHTML = 'Nenhum código de supervisor ou representante fornecido.';
+            }
         })
         .catch(error => console.error('Erro ao buscar os dados:', error));
 

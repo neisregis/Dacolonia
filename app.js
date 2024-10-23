@@ -1,12 +1,17 @@
 document.addEventListener('DOMContentLoaded', function() {
+    // Verifica se a API do Telegram WebApp está disponível
+    if (window.Telegram && window.Telegram.WebApp) {
+        console.log("Telegram WebApp API disponível.");
+        window.Telegram.WebApp.ready();
+    } else {
+        console.error("Telegram WebApp API não está disponível.");
+    }
+
     // Função para obter parâmetros da URL
     function getParameterByName(name) {
         const url = new URL(window.location.href);
         return url.searchParams.get(name);
     }
-
-    // Inicialização do Telegram WebApp
-    window.Telegram.WebApp.ready();
 
     // Obtém o código do representante e supervisor da URL
     const repCode = getParameterByName('repCode');
@@ -125,30 +130,32 @@ document.addEventListener('DOMContentLoaded', function() {
         })
         .catch(error => console.error('Erro ao buscar os dados:', error));
 
-		document.getElementById('enviarBtn').addEventListener('click', function() {
-		if (selecionado) {
-			let message = '';
-			if (selecionado.classList.contains('grupo')) {
-				if (selecionado.textContent.includes('1 - GERAL')) {
-					message = 'Não é possível gerar o relatório para o grupo Geral, por favor selecione outro Grupo ou Cliente';
-				} else {
-					message = `Grupo selecionado: ${selecionado.textContent}`;
-				}
-			} else if (selecionado.classList.contains('cliente-item')) {
-				message = `Cliente selecionado: ${selecionado.textContent}`;
-			}
-			alert(message); // Exibe o pop-up com as informações
+    // Função para enviar dados para o Telegram e fechar o WebApp
+    document.getElementById('enviarBtn').addEventListener('click', function() {
+        if (selecionado) {
+            let message = '';
+            if (selecionado.classList.contains('grupo')) {
+                if (selecionado.textContent.includes('1 - GERAL')) {
+                    message = 'Não é possível gerar o relatório para o grupo Geral, por favor selecione outro Grupo ou Cliente';
+                } else {
+                    message = `Grupo selecionado: ${selecionado.textContent}`;
+                }
+            } else if (selecionado.classList.contains('cliente-item')) {
+                message = `Cliente selecionado: ${selecionado.textContent}`;
+            }
+            alert(message); // Exibe o pop-up com as informações
 
-			// Verifica o conteúdo da mensagem antes de enviar
-			console.log("Mensagem a ser enviada para o Telegram:", message);
+            // Verifica o conteúdo da mensagem antes de enviar
+            console.log("Mensagem a ser enviada para o Telegram:", message);
 
-			// Envia a mensagem para o chat do Telegram (sem fechar o WebApp)
-			window.Telegram.WebApp.sendData(message);
-		} else {
-			alert('Nenhum cliente ou grupo foi selecionado.');
-		}
-	});
+            // Envia a mensagem para o chat do Telegram (sem fechar o WebApp)
+            window.Telegram.WebApp.sendData(message);
+            console.log("Mensagem enviada para o Telegram: ", message);
+
+            // Fecha o WebApp após enviar a mensagem
+            window.Telegram.WebApp.close();
+        } else {
+            alert('Nenhum cliente ou grupo foi selecionado.');
+        }
+    });
 });
-
-
-

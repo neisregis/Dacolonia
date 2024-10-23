@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Verifica se a API do Telegram WebApp está disponível
     if (window.Telegram && window.Telegram.WebApp) {
-        console.log("Telegram WebApp API disponível.");
+        console.log("Telegram WebApp API disponível.", window.Telegram);
         window.Telegram.WebApp.ready();
     } else {
         console.error("Telegram WebApp API não está disponível.");
@@ -131,24 +131,32 @@ document.addEventListener('DOMContentLoaded', function() {
         .catch(error => console.error('Erro ao buscar os dados:', error));
 
     // Função para enviar dados para o Telegram e fechar o WebApp
-		document.getElementById('enviarBtn').addEventListener('click', function() {
-		if (selecionado) {
-			console.log("Item selecionado:", selecionado);
+    document.getElementById('enviarBtn').addEventListener('click', function() {
+        if (selecionado) {
+            console.log("Item selecionado:", selecionado);
 
-			let message = '';
-			if (selecionado.classList.contains('grupo')) {
-				message = `Grupo selecionado: ${selecionado.textContent}`;
-			} else if (selecionado.classList.contains('cliente-item')) {
-				message = `Cliente selecionado: ${selecionado.textContent}`;
-			}
+            let message = '';
+            if (selecionado.classList.contains('grupo')) {
+                message = `Grupo selecionado: ${selecionado.textContent}`;
+            } else if (selecionado.classList.contains('cliente-item')) {
+                message = `Cliente selecionado: ${selecionado.textContent}`;
+            }
 
-			console.log("Mensagem a ser enviada para o Telegram:", message);
+            console.log("Mensagem a ser enviada para o Telegram:", message);
 
-			// Envia a mensagem para o chat do Telegram
-			window.Telegram.WebApp.sendData(message);
-			console.log("Mensagem enviada para o Telegram: ", message);
-		} else {
-			alert('Nenhum cliente ou grupo foi selecionado.');
-		}
-	});
+            // Tenta enviar a mensagem para o chat do Telegram
+            try {
+                window.Telegram.WebApp.sendData(message);
+                console.log("Mensagem enviada para o Telegram: ", message);
+
+                // Fechar o WebApp após enviar a mensagem
+                window.Telegram.WebApp.close();
+                console.log("WebApp fechado.");
+            } catch (error) {
+                console.error("Erro ao enviar a mensagem para o Telegram:", error);
+            }
+        } else {
+            alert('Nenhum cliente ou grupo foi selecionado.');
+        }
+    });
 });

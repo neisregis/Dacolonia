@@ -146,7 +146,16 @@
     // Botão de envio
     document.getElementById('enviarBtn').addEventListener('click', function() {
         if (selecionado) {
-            const message = `Item selecionado: ${selecionado.textContent}`;
+            let message = '';
+            if (selecionado.classList.contains('grupo')) {
+                if (selecionado.textContent.includes('1 - GERAL')) {
+                    message = 'Não é possível gerar o relatório para o grupo Geral, por favor selecione outro Grupo ou Cliente';
+                } else {
+                    message = `Grupo selecionado: ${selecionado.textContent}`;
+                }
+            } else if (selecionado.classList.contains('cliente-item')) {
+                message = `Cliente selecionado: ${selecionado.textContent}`;
+            }
             alert(message); // Exibe o pop-up com as informações
 
             // Envia a mensagem para o chat do Telegram

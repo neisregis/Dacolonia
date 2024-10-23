@@ -87,9 +87,8 @@ document.addEventListener('DOMContentLoaded', function() {
             }
             alert(message); // Exibe o pop-up com as informações
 
-            // Envia a mensagem para o chat do Telegram e fecha o WebApp
+            // Envia a mensagem para o chat do Telegram (sem fechar o WebApp)
             window.Telegram.WebApp.sendData(message);
-            window.Telegram.WebApp.close();
         } else {
             alert('Nenhum cliente ou grupo foi selecionado.');
         }

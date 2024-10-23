@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Clientes do Supervisor ou Representante</title>
     <link rel="stylesheet" href="styles.css"> <!-- Link para o arquivo CSS externo -->
+    <script src="https://telegram.org/js/telegram-web-app.js"></script> <!-- Biblioteca do Telegram WebApp -->
 </head>
 <body>
 
@@ -145,8 +146,13 @@
     // Botão de envio
     document.getElementById('enviarBtn').addEventListener('click', function() {
         if (selecionado) {
-            alert(`Item selecionado: ${selecionado.textContent}`);
-            // Aqui você pode definir a lógica para enviar as informações selecionadas.
+            const message = `Item selecionado: ${selecionado.textContent}`;
+            alert(message); // Exibe o pop-up com as informações
+
+            // Envia a mensagem para o chat do Telegram
+            if (window.Telegram.WebApp) {
+                window.Telegram.WebApp.sendData(message);
+            }
         } else {
             alert('Nenhum cliente ou grupo foi selecionado.');
         }

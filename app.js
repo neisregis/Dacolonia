@@ -133,8 +133,6 @@ document.addEventListener('DOMContentLoaded', function() {
     // Função para enviar dados para o Telegram e fechar o WebApp
 		document.getElementById('enviarBtn').addEventListener('click', function() {
 		if (selecionado) {
-			alert(message); // Exibe o pop-up com as informações
-			
 			console.log("Item selecionado:", selecionado);
 
 			let message = '';
@@ -143,6 +141,8 @@ document.addEventListener('DOMContentLoaded', function() {
 			} else if (selecionado.classList.contains('cliente-item')) {
 				message = `Cliente selecionado: ${selecionado.textContent}`;
 			}
+			
+			alert(message); // Exibe o pop-up com as informações
 
 			console.log("Mensagem a ser enviada para o Telegram:", message);
 

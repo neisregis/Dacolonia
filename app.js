@@ -1,6 +1,4 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Todo o código JavaScript vai dentro desta função
-    
     // Função para obter parâmetros da URL
     function getParameterByName(name) {
         const url = new URL(window.location.href);
@@ -28,7 +26,59 @@ document.addEventListener('DOMContentLoaded', function() {
     // Caminho para o arquivo JSON
     const url = 'https://neisregis.github.io/Dacolonia/superv_rep_grupo_cli.json';
 
-    // Faz a requisição e exibe os dados
+    // Função para exibir clientes com funcionalidade de abrir/fechar grupos
+    function exibirClientes(clientesPorGrupo) {
+        const lista = document.getElementById('listaClientes');
+        lista.innerHTML = ''; // Limpa a lista anterior
+
+        Object.keys(clientesPorGrupo).forEach(grupo => {
+            // Cria o item de grupo
+            const grupoItem = document.createElement('li');
+            grupoItem.classList.add('grupo');
+            grupoItem.addEventListener('click', () => selecionarItem(grupoItem)); // Seleção do grupo
+            
+            const toggleButton = document.createElement('button');
+            toggleButton.classList.add('toggle-button');
+            toggleButton.textContent = '+';
+            
+            const grupoTexto = document.createElement('span');
+            grupoTexto.textContent = `${grupo}`; // Exibe diretamente o nome do grupo
+
+            grupoItem.appendChild(toggleButton);
+            grupoItem.appendChild(grupoTexto);
+            lista.appendChild(grupoItem);
+
+            // Cria a lista de clientes escondida inicialmente
+            const subLista = document.createElement('ul');
+            subLista.classList.add('clientes');
+            
+            clientesPorGrupo[grupo].forEach(cliente => {
+                const clienteItem = document.createElement('li');
+                clienteItem.classList.add('cliente-item');
+                clienteItem.textContent = `${cliente.codigo_cliente} - ${cliente.desc_cliente}`;
+                clienteItem.addEventListener('click', (event) => {
+                    event.stopPropagation(); // Evita que o clique no cliente selecione o grupo
+                    selecionarItem(clienteItem); // Seleção do cliente
+                });
+                subLista.appendChild(clienteItem);
+            });
+
+            lista.appendChild(subLista);
+
+            // Evento de clique para abrir/fechar a lista de clientes
+            toggleButton.addEventListener('click', function() {
+                if (subLista.style.display === 'none' || subLista.style.display === '') {
+                    subLista.style.display = 'block';
+                    toggleButton.textContent = '-';
+                } else {
+                    subLista.style.display = 'none';
+                    toggleButton.textContent = '+';
+                }
+            });
+        });
+    }
+
+    // Faz a requisição e filtra os clientes pelo código do representante ou supervisor
     fetch(url)
         .then(response => response.json())
         .then(data => {

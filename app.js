@@ -131,31 +131,24 @@ document.addEventListener('DOMContentLoaded', function() {
         .catch(error => console.error('Erro ao buscar os dados:', error));
 
     // Função para enviar dados para o Telegram e fechar o WebApp
-    document.getElementById('enviarBtn').addEventListener('click', function() {
-        if (selecionado) {
-            let message = '';
-            if (selecionado.classList.contains('grupo')) {
-                if (selecionado.textContent.includes('1 - GERAL')) {
-                    message = 'Não é possível gerar o relatório para o grupo Geral, por favor selecione outro Grupo ou Cliente';
-                } else {
-                    message = `Grupo selecionado: ${selecionado.textContent}`;
-                }
-            } else if (selecionado.classList.contains('cliente-item')) {
-                message = `Cliente selecionado: ${selecionado.textContent}`;
-            }
-            alert(message); // Exibe o pop-up com as informações
+		document.getElementById('enviarBtn').addEventListener('click', function() {
+		if (selecionado) {
+			console.log("Item selecionado:", selecionado);
 
-            // Verifica o conteúdo da mensagem antes de enviar
-            console.log("Mensagem a ser enviada para o Telegram:", message);
+			let message = '';
+			if (selecionado.classList.contains('grupo')) {
+				message = `Grupo selecionado: ${selecionado.textContent}`;
+			} else if (selecionado.classList.contains('cliente-item')) {
+				message = `Cliente selecionado: ${selecionado.textContent}`;
+			}
 
-            // Envia a mensagem para o chat do Telegram (sem fechar o WebApp)
-            window.Telegram.WebApp.sendData(message);
-            console.log("Mensagem enviada para o Telegram: ", message);
+			console.log("Mensagem a ser enviada para o Telegram:", message);
 
-            // Fecha o WebApp após enviar a mensagem
-            window.Telegram.WebApp.close();
-        } else {
-            alert('Nenhum cliente ou grupo foi selecionado.');
-        }
-    });
+			// Envia a mensagem para o chat do Telegram
+			window.Telegram.WebApp.sendData(message);
+			console.log("Mensagem enviada para o Telegram: ", message);
+		} else {
+			alert('Nenhum cliente ou grupo foi selecionado.');
+		}
+	});
 });

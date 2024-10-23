@@ -141,8 +141,6 @@ document.addEventListener('DOMContentLoaded', function() {
 			} else if (selecionado.classList.contains('cliente-item')) {
 				message = `Cliente selecionado: ${selecionado.textContent}`;
 			}
-			
-			alert(message); // Exibe o pop-up com as informações
 
 			console.log("Mensagem a ser enviada para o Telegram:", message);
 

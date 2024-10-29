@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // Caminho para o arquivo JSON
-    const url = 'https://neisregis.github.io/Dacolonia/superv_rep_grupo_cli.json';
+    const url = './superv_rep_grupo_cli.json';
 
     // Função para exibir clientes com funcionalidade de abrir/fechar grupos
     function exibirClientes(clientesPorGrupo) {
@@ -133,27 +133,33 @@ document.addEventListener('DOMContentLoaded', function() {
     // Função para enviar dados para o Telegram e fechar o WebApp
     document.getElementById('enviarBtn').addEventListener('click', function() {
         if (selecionado) {
-            console.log("Item selecionado:", selecionado);
-
             let message = '';
-            if (selecionado.classList.contains('grupo')) {
+
+            // Verifica se o grupo selecionado é "1 - GERAL" e exibe o alerta
+            if (selecionado.classList.contains('grupo') && selecionado.textContent.includes('1 - GERAL')) {
+                alert("Não é possível gerar o relatório para o grupo '1 - GERAL', por favor, selecione outro Grupo / Cliente");
+                return; // Cancela o envio
+            } else if (selecionado.classList.contains('grupo')) {
                 message = `Grupo selecionado: ${selecionado.textContent}`;
             } else if (selecionado.classList.contains('cliente-item')) {
                 message = `Cliente selecionado: ${selecionado.textContent}`;
             }
 
-            console.log("Mensagem a ser enviada para o Telegram:", message);
+            // Confirmação da seleção do usuário antes de enviar
+            const confirmacao = confirm(`Você selecionou: ${selecionado.textContent}. Deseja enviar esta informação?`);
+            if (confirmacao) {
+                console.log("Mensagem a ser enviada para o Telegram:", message);
 
-            // Tenta enviar a mensagem para o chat do Telegram
-            try {
-                window.Telegram.WebApp.sendData(message);
-                console.log("Mensagem enviada para o Telegram: ", message);
+                try {
+                    window.Telegram.WebApp.sendData(message);
+                    console.log("Mensagem enviada para o Telegram: ", message);
 
-                // Fechar o WebApp após enviar a mensagem
-                window.Telegram.WebApp.close();
-                console.log("WebApp fechado.");
-            } catch (error) {
-                console.error("Erro ao enviar a mensagem para o Telegram:", error);
+                    // Fechar o WebApp após enviar a mensagem
+                    window.Telegram.WebApp.close();
+                    console.log("WebApp fechado.");
+                } catch (error) {
+                    console.error("Erro ao enviar a mensagem para o Telegram:", error);
+                }
             }
         } else {
             alert('Nenhum cliente ou grupo foi selecionado.');

@@ -1444,10 +1444,6 @@
                 ],
                 "853 - DECIO CHURRASCARIA": [
                     {
-                        "codigo_cliente": "66254",
-                        "desc_cliente": "DECIO COMERCIO E SERVICOS RODOVIARIOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "24666",
                         "desc_cliente": "DECIO COMERCIO E SERVICOS RODOVIARIOS LTDA"
                     },
@@ -1477,6 +1473,10 @@
                     },
                     {
                         "codigo_cliente": "52096",
+                        "desc_cliente": "DECIO COMERCIO E SERVICOS RODOVIARIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66254",
                         "desc_cliente": "DECIO COMERCIO E SERVICOS RODOVIARIOS LTDA"
                     }
                 ],
@@ -27502,11 +27502,11 @@
                 ],
                 "853 - DECIO CHURRASCARIA": [
                     {
-                        "codigo_cliente": "53974",
+                        "codigo_cliente": "37981",
                         "desc_cliente": "DECIO COMERCIO E SERVICOS RODOVIARIOS LTDA"
                     },
                     {
-                        "codigo_cliente": "37981",
+                        "codigo_cliente": "53974",
                         "desc_cliente": "DECIO COMERCIO E SERVICOS RODOVIARIOS LTDA"
                     }
                 ],

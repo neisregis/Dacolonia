@@ -85,50 +85,59 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Faz a requisição e filtra os clientes pelo código do representante ou supervisor
     fetch(url)
-        .then(response => response.json())
-        .then(data => {
-            console.log(data); // Verifica o conteúdo do JSON no console
+    .then(response => response.json())
+    .then(data => {
+        console.log(data); // Verifica o conteúdo do JSON no console
 
-            if (supCode) {
-                // Filtragem pelo código do supervisor
-                if (data[supCode]) {
-                    const representantes = data[supCode]['representantes'];
-                    let clientesPorGrupo = {};
+        if (supCode) {
+            // Filtragem pelo código do supervisor
+            if (data[supCode]) {
+                const representantes = data[supCode]['representantes'];
+                let clientesPorGrupo = {};
 
-                    Object.values(representantes).forEach(grupos => {
-                        Object.keys(grupos).forEach(grupo => {
-                            if (!clientesPorGrupo[grupo]) {
-                                clientesPorGrupo[grupo] = [];
-                            }
-                            clientesPorGrupo[grupo] = clientesPorGrupo[grupo].concat(grupos[grupo]);
-                        });
+                Object.values(representantes).forEach(grupos => {
+                    Object.keys(grupos).forEach(grupo => {
+                        if (!clientesPorGrupo[grupo]) {
+                            clientesPorGrupo[grupo] = [];
+                        }
+                        // Concatena e ordena os clientes do grupo em ordem alfabética
+                        clientesPorGrupo[grupo] = clientesPorGrupo[grupo]
+                            .concat(grupos[grupo])
+                            .sort((a, b) => a.desc_cliente.localeCompare(b.desc_cliente));
                     });
-
-                    // Exibe os clientes na página
-                    exibirClientes(clientesPorGrupo);
-                } else {
-                    document.getElementById('listaClientes').innerHTML = 'Nenhum cliente encontrado para este supervisor.';
-                }
-            } else if (repCode) {
-                // Filtragem pelo código do representante
-                let encontrado = false;
-                Object.keys(data).forEach(sup => {
-                    const representantes = data[sup]['representantes'];
-                    if (representantes[repCode]) {
-                        encontrado = true;
-                        const clientesPorGrupo = representantes[repCode];
-                        exibirClientes(clientesPorGrupo);
-                    }
                 });
 
-                if (!encontrado) {
-                    document.getElementById('listaClientes').innerHTML = 'Nenhum cliente encontrado para este representante.';
-                }
+                // Exibe os clientes na página
+                exibirClientes(clientesPorGrupo);
             } else {
-                document.getElementById('listaClientes').innerHTML = 'Nenhum código de supervisor ou representante fornecido.';
+                document.getElementById('listaClientes').innerHTML = 'Nenhum cliente encontrado para este supervisor.';
             }
-        })
-        .catch(error => console.error('Erro ao buscar os dados:', error));
+        } else if (repCode) {
+            // Filtragem pelo código do representante
+            let encontrado = false;
+            Object.keys(data).forEach(sup => {
+                const representantes = data[sup]['representantes'];
+                if (representantes[repCode]) {
+                    encontrado = true;
+                    const clientesPorGrupo = representantes[repCode];
+
+                    // Ordena os clientes de cada grupo do representante
+                    Object.keys(clientesPorGrupo).forEach(grupo => {
+                        clientesPorGrupo[grupo] = clientesPorGrupo[grupo].sort((a, b) => a.desc_cliente.localeCompare(b.desc_cliente));
+                    });
+
+                    exibirClientes(clientesPorGrupo);
+                }
+            });
+
+            if (!encontrado) {
+                document.getElementById('listaClientes').innerHTML = 'Nenhum cliente encontrado para este representante.';
+            }
+        } else {
+            document.getElementById('listaClientes').innerHTML = 'Nenhum código de supervisor ou representante fornecido.';
+        }
+    })
+    .catch(error => console.error('Erro ao buscar os dados:', error));
 
     // Função para enviar dados para o Telegram e fechar o WebApp
     document.getElementById('enviarBtn').addEventListener('click', function() {

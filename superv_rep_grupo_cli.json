@@ -1557,7 +1557,7 @@
                     }
                 ]
             },
-            "1193": {
+            "858": {
                 "1059 - SACOLÃO CASTELO": [
                     {
                         "codigo_cliente": "58265",
@@ -1678,6 +1678,10 @@
                         "desc_cliente": "QUINEN ROCA COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "52901",
+                        "desc_cliente": "SAN PIO MERCADO SAUDAVEL LTDA"
+                    },
+                    {
                         "codigo_cliente": "46579",
                         "desc_cliente": "SANTA VITORIA DO QUILOMBO COM DE PROD NATURAIS EIRELI"
                     },
@@ -1783,6 +1787,24 @@
                     }
                 ]
             },
+            "1193": {
+                "1059 - SACOLÃO CASTELO": [
+                    {
+                        "codigo_cliente": "58265",
+                        "desc_cliente": "SACOLAO CASTELO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "46577",
+                        "desc_cliente": "SACOLAO CASTELO LTDA."
+                    }
+                ],
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "47458",
+                        "desc_cliente": "SUPERMERCADOS CIDADE LTDA"
+                    }
+                ]
+            },
             "807": {
                 "1 - GERAL": [
                     {
@@ -1858,14 +1880,6 @@
                     {
                         "codigo_cliente": "62646",
                         "desc_cliente": "ATALIBA PINHEIRO ESPIRITO SANTO"
-                    }
-                ]
-            },
-            "858": {
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "52901",
-                        "desc_cliente": "SAN PIO MERCADO SAUDAVEL LTDA"
                     }
                 ]
             }
@@ -22355,7 +22369,7 @@
                     },
                     {
                         "codigo_cliente": "70828",
-                        "desc_cliente": "W. PINON LTDA"
+                        "desc_cliente": "W. PINNOW LTDA"
                     },
                     {
                         "codigo_cliente": "43694",
@@ -38817,7 +38831,7 @@
                     },
                     {
                         "codigo_cliente": "70813",
-                        "desc_cliente": "VILA OLIMPICA RESTAURANTE"
+                        "desc_cliente": "VILA OLIMPICA RESTAURANTE LTDA."
                     },
                     {
                         "codigo_cliente": "60827",
@@ -50113,6 +50127,10 @@
                     },
                     {
                         "codigo_cliente": "59351",
+                        "desc_cliente": "DA PRAIA SUPERMERCADOS UBATUBA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "59352",
                         "desc_cliente": "DA PRAIA SUPERMERCADOS UBATUBA LTDA"
                     },
                     {
@@ -64762,6 +64780,10 @@
                         "desc_cliente": "MIGUEL ARCANJO DE BITENCOURT"
                     },
                     {
+                        "codigo_cliente": "52065",
+                        "desc_cliente": "MIGUEL EVAIR PIRES OLIVEIRA"
+                    },
+                    {
                         "codigo_cliente": "68959",
                         "desc_cliente": "MIGUEL FRANZIN JUNIOR"
                     },
@@ -77846,6 +77868,10 @@
                     {
                         "codigo_cliente": "58228",
                         "desc_cliente": "MERCADO BERLATO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70833",
+                        "desc_cliente": "MERCADO E ACOUGUE AMARAL"
                     },
                     {
                         "codigo_cliente": "43807",

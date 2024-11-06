@@ -14948,6 +14948,10 @@
                         "desc_cliente": "POSTO DE COMBUSTIVEL BONTORIN LTDA"
                     },
                     {
+                        "codigo_cliente": "70805",
+                        "desc_cliente": "POSTO MB CESCA LTDA"
+                    },
+                    {
                         "codigo_cliente": "4643",
                         "desc_cliente": "REST.E CHURRASCARIA A SCOZ LTDA"
                     },
@@ -66820,6 +66824,10 @@
                     {
                         "codigo_cliente": "66420",
                         "desc_cliente": "VILMAR GOMES DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "70814",
+                        "desc_cliente": "VILMAR NELSON "
                     },
                     {
                         "codigo_cliente": "68879",

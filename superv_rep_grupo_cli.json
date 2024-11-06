@@ -8168,6 +8168,10 @@
                         "desc_cliente": "B M CASSEMIRO - PRODUTOS NATURAIS - ME"
                     },
                     {
+                        "codigo_cliente": "63230",
+                        "desc_cliente": "BONANZA COMERCIO DE GENEROS ALIMENTICIOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "42344",
                         "desc_cliente": "CHAVES ATACAREJO COMERCIO DE BEBIDAS E ALIMENTOS LTDA"
                     },
@@ -8466,10 +8470,6 @@
                     {
                         "codigo_cliente": "48127",
                         "desc_cliente": "BEIRA RIO SUPERMERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "63230",
-                        "desc_cliente": "BONANZA COMERCIO DE GENEROS ALIMENTICIOS LTDA"
                     },
                     {
                         "codigo_cliente": "55914",
@@ -41472,6 +41472,10 @@
                 ],
                 "1359 - MULTI ANGRA": [
                     {
+                        "codigo_cliente": "70622",
+                        "desc_cliente": "KAL ATACADO 2 LTDA"
+                    },
+                    {
                         "codigo_cliente": "67486",
                         "desc_cliente": "MULTI ANGRA 3 MERCADO LTDA"
                     },
@@ -41490,6 +41494,34 @@
                     {
                         "codigo_cliente": "70621",
                         "desc_cliente": "MULTI ANGRA 3 MERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67490",
+                        "desc_cliente": "MULTI ANGRA 4 MERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67489",
+                        "desc_cliente": "MULTI ANGRA MERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70597",
+                        "desc_cliente": "MULTI ANGRA MERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70599",
+                        "desc_cliente": "MULTI ANGRA MERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67487",
+                        "desc_cliente": "MULTI ITAGUAI MERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67491",
+                        "desc_cliente": "MULTI PARATY MERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70631",
+                        "desc_cliente": "MULTI PARATY MERCADO LTDA"
                     }
                 ],
                 "1 - GERAL": [
@@ -41562,10 +41594,6 @@
                         "desc_cliente": "JM ALIMENTOS  PARATY LTDA"
                     },
                     {
-                        "codigo_cliente": "70622",
-                        "desc_cliente": "KAL ATACADO 2 LTDA"
-                    },
-                    {
                         "codigo_cliente": "52226",
                         "desc_cliente": "KEZIA DO ESPIRITO SANTO GENUEL"
                     },
@@ -41628,34 +41656,6 @@
                     {
                         "codigo_cliente": "57898",
                         "desc_cliente": "MORAIS CRUZ MERCEARIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67490",
-                        "desc_cliente": "MULTI ANGRA 4 MERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67489",
-                        "desc_cliente": "MULTI ANGRA MERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "70597",
-                        "desc_cliente": "MULTI ANGRA MERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "70599",
-                        "desc_cliente": "MULTI ANGRA MERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67487",
-                        "desc_cliente": "MULTI ITAGUAI MERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67491",
-                        "desc_cliente": "MULTI PARATY MERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "70631",
-                        "desc_cliente": "MULTI PARATY MERCADO LTDA"
                     },
                     {
                         "codigo_cliente": "68196",
@@ -48044,6 +48044,10 @@
                     {
                         "codigo_cliente": "69651",
                         "desc_cliente": "OPTIMER COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70812",
+                        "desc_cliente": "PIMENTA FERREIRA COM. ALIM LTDA"
                     },
                     {
                         "codigo_cliente": "45438",

@@ -15756,6 +15756,10 @@
                         "desc_cliente": "EMPORIO PENSE LEVE PRODUTOS ALIMENTICIOS LTDA"
                     },
                     {
+                        "codigo_cliente": "70166",
+                        "desc_cliente": "ERNILO LAUDON PREDIGER 47722215904"
+                    },
+                    {
                         "codigo_cliente": "20093",
                         "desc_cliente": "EUNICE LESSA CHIARELLO"
                     },
@@ -38732,6 +38736,10 @@
                         "desc_cliente": "MERCADO SACOLAO BARCELLOS"
                     },
                     {
+                        "codigo_cliente": "63106",
+                        "desc_cliente": "MINI MERCADO CASON LTDA"
+                    },
+                    {
                         "codigo_cliente": "56580",
                         "desc_cliente": "MINI MERCADO E FERRAGEM BAZAR DOCE MEL LTDA"
                     },
@@ -44756,6 +44764,10 @@
                     {
                         "codigo_cliente": "32636",
                         "desc_cliente": "ELVIO EINLOFT"
+                    },
+                    {
+                        "codigo_cliente": "22709",
+                        "desc_cliente": "EVETE A STEYDING - ME"
                     },
                     {
                         "codigo_cliente": "44652",
@@ -61388,6 +61400,10 @@
                     {
                         "codigo_cliente": "53144",
                         "desc_cliente": "GEFERSON BRAGATTO"
+                    },
+                    {
+                        "codigo_cliente": "70821",
+                        "desc_cliente": "GEFERSSON CORREIRA SCHIMITT"
                     },
                     {
                         "codigo_cliente": "66384",
@@ -79040,10 +79056,6 @@
                     {
                         "codigo_cliente": "70374",
                         "desc_cliente": "ENIO GRAPIGLIA"
-                    },
-                    {
-                        "codigo_cliente": "70324",
-                        "desc_cliente": "EXTRA SUPERMERCADO LTDA"
                     },
                     {
                         "codigo_cliente": "66466",

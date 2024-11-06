@@ -16766,6 +16766,10 @@
                         "desc_cliente": "JURANDIR JOSE BIOLCHI - ME"
                     },
                     {
+                        "codigo_cliente": "53133",
+                        "desc_cliente": "JUSARA DOS SANTOS MENEZES DA LUZ LTDA"
+                    },
+                    {
                         "codigo_cliente": "42222",
                         "desc_cliente": "KLAUS INFORMATICA, PAPELARIA E PRESENTES LTDA"
                     },
@@ -22262,6 +22266,10 @@
                     {
                         "codigo_cliente": "33747",
                         "desc_cliente": "DORACI DA SILVA BORBA 01058152092"
+                    },
+                    {
+                        "codigo_cliente": "24086",
+                        "desc_cliente": "ELY MERCADO LTDA"
                     },
                     {
                         "codigo_cliente": "65797",
@@ -37328,6 +37336,10 @@
                         "desc_cliente": "BAZAR MONICA LTDA"
                     },
                     {
+                        "codigo_cliente": "34911",
+                        "desc_cliente": "BELLA VISTA CAFETERIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "15435",
                         "desc_cliente": "BENEDUZI, FARINA & CIA LTDA"
                     },
@@ -37710,6 +37722,10 @@
                     {
                         "codigo_cliente": "35402",
                         "desc_cliente": "N TEREZINHA TORMES"
+                    },
+                    {
+                        "codigo_cliente": "67993",
+                        "desc_cliente": "OLIVAS RESTAURANTES EMPRESARIAIS LTDA"
                     },
                     {
                         "codigo_cliente": "56796",
@@ -61258,6 +61274,10 @@
                     {
                         "codigo_cliente": "50576",
                         "desc_cliente": "FERNANDO FRANCISCO"
+                    },
+                    {
+                        "codigo_cliente": "70843",
+                        "desc_cliente": "FERNANDO GUIMARAES"
                     },
                     {
                         "codigo_cliente": "65673",

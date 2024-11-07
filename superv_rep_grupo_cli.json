@@ -4218,6 +4218,10 @@
             "1150": {
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "70865",
+                        "desc_cliente": "COMERCIAL CARIACICA MULTIMODAL LTDA"
+                    },
+                    {
                         "codigo_cliente": "67306",
                         "desc_cliente": "DISTRIBUIDORA IRMAOS FONSECA LTDA\r\n"
                     }
@@ -28420,10 +28424,6 @@
                         "desc_cliente": "AGUAI SANTUARIO ECOLOGICO LTDA"
                     },
                     {
-                        "codigo_cliente": "39684",
-                        "desc_cliente": "AHC PESCADOR PRODUTOS ALIMENTICIOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "45784",
                         "desc_cliente": "ALDO HORTIFRUTI E EMPORIO DOS GRAOS FONTANA LTDA"
                     },
@@ -28758,10 +28758,6 @@
                     {
                         "codigo_cliente": "1732",
                         "desc_cliente": "MERCEARIA LISKA"
-                    },
-                    {
-                        "codigo_cliente": "39042",
-                        "desc_cliente": "MINIMERCADO MARAVILHA LTDA"
                     },
                     {
                         "codigo_cliente": "1050",
@@ -30020,10 +30016,6 @@
                     {
                         "codigo_cliente": "19013",
                         "desc_cliente": "MERCADO TREVO ROSA LTDA - ME"
-                    },
-                    {
-                        "codigo_cliente": "42603",
-                        "desc_cliente": "MERCADO VERDE PRAIA DO ROSA LTDA"
                     },
                     {
                         "codigo_cliente": "36032",
@@ -52258,6 +52250,10 @@
                         "desc_cliente": "SOLFESTA DESCARTAVEIS EM GERAL LTDA"
                     },
                     {
+                        "codigo_cliente": "70899",
+                        "desc_cliente": "S.O.S EMBALAGENS LTDA"
+                    },
+                    {
                         "codigo_cliente": "53844",
                         "desc_cliente": "SR. GRAOS PENHA LTDA"
                     },
@@ -53580,16 +53576,16 @@
                         "desc_cliente": "ELISEU L.TUMELINI & MARICLEUSA F.LENZ & MARICLEIDE LENZ LTDA"
                     },
                     {
-                        "codigo_cliente": "70872",
-                        "desc_cliente": "FARMACIA AGAFARMA FELIPE GERMANO DA ROCHA ME"
-                    },
-                    {
                         "codigo_cliente": "54836",
                         "desc_cliente": "FARMACIA DO PEDRINHO LTDA"
                     },
                     {
                         "codigo_cliente": "56094",
                         "desc_cliente": "FELIPE DUNCKE"
+                    },
+                    {
+                        "codigo_cliente": "70872",
+                        "desc_cliente": "FELIPE GERMANO DA ROCHA"
                     },
                     {
                         "codigo_cliente": "53869",
@@ -59158,6 +59154,10 @@
                         "desc_cliente": "ANDREI MENEZES DA SILVA"
                     },
                     {
+                        "codigo_cliente": "70902",
+                        "desc_cliente": "ANDRE LUIS OSORIO DA CUNHA"
+                    },
+                    {
                         "codigo_cliente": "64663",
                         "desc_cliente": "ANDRE MOCELLIN "
                     },
@@ -60542,6 +60542,10 @@
                         "desc_cliente": "DIRCEU DUTRA DOS SANTOS"
                     },
                     {
+                        "codigo_cliente": "70896",
+                        "desc_cliente": "DIULIA VITORIA NUNES DE CAMPOS"
+                    },
+                    {
                         "codigo_cliente": "70558",
                         "desc_cliente": "DIVA CONCEICAO ADAM"
                     },
@@ -61356,6 +61360,10 @@
                     {
                         "codigo_cliente": "67232",
                         "desc_cliente": "FERNANDO PEDRO BOLDRINI"
+                    },
+                    {
+                        "codigo_cliente": "70894",
+                        "desc_cliente": "FERNANDO RAFAEL MULLER"
                     },
                     {
                         "codigo_cliente": "67928",
@@ -65822,6 +65830,10 @@
                         "desc_cliente": "RENATO CRECENCIO"
                     },
                     {
+                        "codigo_cliente": "70900",
+                        "desc_cliente": "RENATO DE SOUZA GOMES"
+                    },
+                    {
                         "codigo_cliente": "69934",
                         "desc_cliente": "RENI GIRONDI THOMASI"
                     },
@@ -68378,6 +68390,10 @@
                         "desc_cliente": "ANA LUCIA HELM NIEDERHEITMANN"
                     },
                     {
+                        "codigo_cliente": "70895",
+                        "desc_cliente": "ANA LUCIA NEVES DANTAS"
+                    },
+                    {
                         "codigo_cliente": "66825",
                         "desc_cliente": "ANA LUCIA VIVIAN"
                     },
@@ -68740,6 +68756,10 @@
                     {
                         "codigo_cliente": "68434",
                         "desc_cliente": "ARNALDO GOMES DOS SANTOS JUNIOR"
+                    },
+                    {
+                        "codigo_cliente": "70893",
+                        "desc_cliente": "ARNO ULRICH"
                     },
                     {
                         "codigo_cliente": "62960",
@@ -72082,6 +72102,10 @@
                         "desc_cliente": "JONAS AUGUSTO SCHNEIDER"
                     },
                     {
+                        "codigo_cliente": "70889",
+                        "desc_cliente": "JONAS JANNER HAMMANN"
+                    },
+                    {
                         "codigo_cliente": "52857",
                         "desc_cliente": "JORDANI GAIO"
                     },
@@ -72156,6 +72180,10 @@
                     {
                         "codigo_cliente": "65420",
                         "desc_cliente": "JOSE LUIZ M. RIOS"
+                    },
+                    {
+                        "codigo_cliente": "70897",
+                        "desc_cliente": "JOSE LUIZ PORTELA COELHO"
                     },
                     {
                         "codigo_cliente": "69604",
@@ -73142,6 +73170,10 @@
                         "desc_cliente": "LUCIANA FERRUGEM CARDOSO"
                     },
                     {
+                        "codigo_cliente": "70891",
+                        "desc_cliente": "LUCIANA FONSECA COELHO"
+                    },
+                    {
                         "codigo_cliente": "62410",
                         "desc_cliente": "LUCIANA GALVAO PUHL GASPERIN"
                     },
@@ -73506,6 +73538,10 @@
                         "desc_cliente": "MARCELO JOSE LEITE RESTUM"
                     },
                     {
+                        "codigo_cliente": "70898",
+                        "desc_cliente": "MARCELO LIBESKIND"
+                    },
+                    {
                         "codigo_cliente": "65989",
                         "desc_cliente": "MARCELO LUIS SILVA NERY"
                     },
@@ -73832,6 +73868,10 @@
                     {
                         "codigo_cliente": "69722",
                         "desc_cliente": "MARIANA MEDEIROS MACHADO"
+                    },
+                    {
+                        "codigo_cliente": "70892",
+                        "desc_cliente": "MARIANA MIKA HANITA"
                     },
                     {
                         "codigo_cliente": "62583",
@@ -74658,6 +74698,10 @@
                         "desc_cliente": "PATRICIA DICKER"
                     },
                     {
+                        "codigo_cliente": "70887",
+                        "desc_cliente": "PATRICIA DO AMARAL BURLAMAQUI PICKRSGILL"
+                    },
+                    {
                         "codigo_cliente": "68579",
                         "desc_cliente": "PATRICIA DOS SANTOS"
                     },
@@ -74956,6 +75000,10 @@
                     {
                         "codigo_cliente": "69370",
                         "desc_cliente": "RAFAELA GERUDE SSLES"
+                    },
+                    {
+                        "codigo_cliente": "70888",
+                        "desc_cliente": "RAFAELA GRUBEL WERLANG"
                     },
                     {
                         "codigo_cliente": "69196",
@@ -76734,6 +76782,10 @@
                         "desc_cliente": "VICENTE DE ARAUJO MEIRELLES LEITE"
                     },
                     {
+                        "codigo_cliente": "70885",
+                        "desc_cliente": "VICENTE DE FREITAS ALMEIDA NETO"
+                    },
+                    {
                         "codigo_cliente": "68656",
                         "desc_cliente": "VICENZO MUNFORTE"
                     },
@@ -77922,6 +77974,10 @@
                     {
                         "codigo_cliente": "43224",
                         "desc_cliente": "FRANCESCATTO COM DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70246",
+                        "desc_cliente": "FRUTEIRA CAMPESTRE VACARIA LTDA"
                     },
                     {
                         "codigo_cliente": "57141",

@@ -7636,18 +7636,6 @@
                         "desc_cliente": "PRODUTOS NATURAIS EMPORIO DO CAMPO LTDA"
                     },
                     {
-                        "codigo_cliente": "70756",
-                        "desc_cliente": "REAL LIMA MEDIANEIRA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "59088",
-                        "desc_cliente": "REAL LIMA SARANDI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "43119",
-                        "desc_cliente": "REAL MIX CIANORTE - COM DE ALIM E UTILIDADES DOMESTICAS LTDA"
-                    },
-                    {
                         "codigo_cliente": "47465",
                         "desc_cliente": "REAL VARIEDADES EIRELI"
                     },
@@ -7782,6 +7770,18 @@
                     {
                         "codigo_cliente": "48487",
                         "desc_cliente": "LIMA E LIMA - COM. DE ALIMENTOS E UTILIDADES DOMESTICAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70756",
+                        "desc_cliente": "REAL LIMA MEDIANEIRA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "59088",
+                        "desc_cliente": "REAL LIMA SARANDI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "43119",
+                        "desc_cliente": "REAL MIX CIANORTE - COM DE ALIM E UTILIDADES DOMESTICAS LTDA"
                     },
                     {
                         "codigo_cliente": "48489",
@@ -52156,6 +52156,10 @@
                         "desc_cliente": "BOTURUSSU 219 DISTRIBUIDORA  LTDA."
                     },
                     {
+                        "codigo_cliente": "22943",
+                        "desc_cliente": "COM DE DOCES BOM PRECO DE S AMARO LT EPP"
+                    },
+                    {
                         "codigo_cliente": "47160",
                         "desc_cliente": "COMERCIAL ZAMPIERI LTDA"
                     },
@@ -52170,6 +52174,14 @@
                     {
                         "codigo_cliente": "69681",
                         "desc_cliente": "DINSA DISTRIBUIDORA NOSSA SENHORA ACHIROPITA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "22944",
+                        "desc_cliente": "DISTRIBUIDORA DE DOCES BIG BOM LTDA EPP"
+                    },
+                    {
+                        "codigo_cliente": "38171",
+                        "desc_cliente": "DOCES E BEBIDAS SUPER TREZE LTDA"
                     },
                     {
                         "codigo_cliente": "67523",
@@ -57956,6 +57968,10 @@
                     {
                         "codigo_cliente": "46382",
                         "desc_cliente": "GILMAR DA CUNHA BANDAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "60467",
+                        "desc_cliente": "GLOBAL VITA COMUNICACAO LTDA"
                     },
                     {
                         "codigo_cliente": "66153",

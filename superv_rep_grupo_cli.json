@@ -48682,6 +48682,10 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "70849",
+                        "desc_cliente": "A C B ATACADISTA DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "14284",
                         "desc_cliente": "CASA DOS FRIOS COMERCIO DE PRODUTOS ALIMENTICIOS LTDA ME"
                     },

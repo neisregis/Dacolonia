@@ -30820,6 +30820,10 @@
                         "desc_cliente": "RAITTZ COMERCIO DE ALIMENTOS EIRELI"
                     },
                     {
+                        "codigo_cliente": "69790",
+                        "desc_cliente": "RAITTZ COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "39497",
                         "desc_cliente": "REIS PEREIRA COMERCIO DE ALIMENTOS LTDA"
                     },
@@ -48418,6 +48422,10 @@
                         "desc_cliente": "SACOLAO DOIS IRMAOS LTDA"
                     },
                     {
+                        "codigo_cliente": "62002",
+                        "desc_cliente": "SAUDE TOTAL COMERCIO DE MEDICAMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "61345",
                         "desc_cliente": "S F DA SILVA DISTRIBUIDORA"
                     },
@@ -49884,10 +49892,6 @@
                     {
                         "codigo_cliente": "68294",
                         "desc_cliente": "A B DA SILVA VARIEDADES"
-                    },
-                    {
-                        "codigo_cliente": "69458",
-                        "desc_cliente": "ADEMILSON FERNANDO TAPPARO LTDA"
                     },
                     {
                         "codigo_cliente": "67043",
@@ -53492,6 +53496,10 @@
                     {
                         "codigo_cliente": "40869",
                         "desc_cliente": "VALERIO DOLEYS ALPI"
+                    },
+                    {
+                        "codigo_cliente": "70841",
+                        "desc_cliente": "VIVIANE ROSA BORGES"
                     },
                     {
                         "codigo_cliente": "35010",
@@ -59842,6 +59850,10 @@
                         "desc_cliente": "CECILIA APARECIDA PACHECO DA SILVA "
                     },
                     {
+                        "codigo_cliente": "70913",
+                        "desc_cliente": "CECILIA DORNELES"
+                    },
+                    {
                         "codigo_cliente": "69917",
                         "desc_cliente": "CELAIR JOSE DUTRA"
                     },
@@ -60124,6 +60136,10 @@
                     {
                         "codigo_cliente": "51679",
                         "desc_cliente": "CRISTIANE SANTOS DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "70909",
+                        "desc_cliente": "CRISTIANE VIEIRA "
                     },
                     {
                         "codigo_cliente": "63921",
@@ -66490,6 +66506,10 @@
                         "desc_cliente": "SIDNEI SAMUEL DE SOUZA"
                     },
                     {
+                        "codigo_cliente": "70911",
+                        "desc_cliente": "SIDNEI VARCARENGHI"
+                    },
+                    {
                         "codigo_cliente": "66061",
                         "desc_cliente": "SIDNEY LUIZ MARTINS"
                     },
@@ -69026,6 +69046,10 @@
                         "desc_cliente": "BRUNO CESAR DE O SILVA"
                     },
                     {
+                        "codigo_cliente": "52112",
+                        "desc_cliente": "BRUNO GARIM SOARES"
+                    },
+                    {
                         "codigo_cliente": "64822",
                         "desc_cliente": "BRUNO GUILARDE SARTOR COMIN"
                     },
@@ -71228,6 +71252,10 @@
                     {
                         "codigo_cliente": "70707",
                         "desc_cliente": "GABRIEL AMORIM SANT'ANA"
+                    },
+                    {
+                        "codigo_cliente": "70912",
+                        "desc_cliente": "GABRIELA PRADO"
                     },
                     {
                         "codigo_cliente": "69566",
@@ -76852,6 +76880,10 @@
                     {
                         "codigo_cliente": "67884",
                         "desc_cliente": "VINAYKUMAR PATWARDHAN"
+                    },
+                    {
+                        "codigo_cliente": "70910",
+                        "desc_cliente": "VINICIO DOS SANTOS JUNIOR"
                     },
                     {
                         "codigo_cliente": "68784",

@@ -12908,6 +12908,10 @@
                         "desc_cliente": "JOSE DAIR DA ROCHA & CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "70921",
+                        "desc_cliente": "KUBASKI COMERCIO DE FRUTAS E VERDURAS LTDA"
+                    },
+                    {
                         "codigo_cliente": "38578",
                         "desc_cliente": "LOPATA & PARTEKA LTDA"
                     },
@@ -17384,6 +17388,10 @@
                         "desc_cliente": "CINE GRACHER LTDA"
                     },
                     {
+                        "codigo_cliente": "44632",
+                        "desc_cliente": "COMERCIO DE ALIMENTOS E BEBIDAS SPRENGER LTDA"
+                    },
+                    {
                         "codigo_cliente": "49703",
                         "desc_cliente": "DEUS E FIEL ITAPEMA LTDA"
                     },
@@ -18656,6 +18664,12 @@
                     {
                         "codigo_cliente": "5046",
                         "desc_cliente": "RUDNICK & CIA LTDA"
+                    }
+                ],
+                "680 - COMPRE MAIS": [
+                    {
+                        "codigo_cliente": "44687",
+                        "desc_cliente": "MERCADO COMPRE MAIS PRA VOCE LTDA"
                     }
                 ],
                 "896 - IASD": [
@@ -30862,6 +30876,10 @@
                     {
                         "codigo_cliente": "15947",
                         "desc_cliente": "S.L.G COMERCIO DE GENEROS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "32260",
+                        "desc_cliente": "SORVETERIA NAPOLI LTDA"
                     },
                     {
                         "codigo_cliente": "68420",
@@ -43384,6 +43402,10 @@
                     {
                         "codigo_cliente": "31572",
                         "desc_cliente": "FRUTEIRA LISBOA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70842",
+                        "desc_cliente": "GABRIEL BASTOS ALVES LTDA"
                     },
                     {
                         "codigo_cliente": "25899",

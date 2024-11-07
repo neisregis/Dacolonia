@@ -52178,6 +52178,10 @@
                         "desc_cliente": "COMERCIAL ZAMPIERI LTDA"
                     },
                     {
+                        "codigo_cliente": "22942",
+                        "desc_cliente": "COMERCIO DE DOCES BIG-PRECO LTDA"
+                    },
+                    {
                         "codigo_cliente": "69743",
                         "desc_cliente": "COMERCIO DE DOCES CASTILHO LTDA"
                     },
@@ -62134,6 +62138,10 @@
                         "desc_cliente": "JACINTO DA SILVA"
                     },
                     {
+                        "codigo_cliente": "70886",
+                        "desc_cliente": "JACKSON ALEXANDER KLOTH"
+                    },
+                    {
                         "codigo_cliente": "69910",
                         "desc_cliente": "JACKSON PICOLOTTO"
                     },
@@ -67046,6 +67054,10 @@
                         "desc_cliente": "VINICIUS SERPA"
                     },
                     {
+                        "codigo_cliente": "70890",
+                        "desc_cliente": "VITOR CABRAL DO CARMO"
+                    },
+                    {
                         "codigo_cliente": "66677",
                         "desc_cliente": "VITOR CARVALHO"
                     },
@@ -67184,6 +67196,10 @@
                     {
                         "codigo_cliente": "55420",
                         "desc_cliente": "WILLIAM MACHADO "
+                    },
+                    {
+                        "codigo_cliente": "70884",
+                        "desc_cliente": "WILLIAN CORDEIRO DE OLIVEIRA"
                     },
                     {
                         "codigo_cliente": "70056",

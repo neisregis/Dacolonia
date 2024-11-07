@@ -1794,6 +1794,10 @@
                         "desc_cliente": "SACOLAO CASTELO LTDA"
                     },
                     {
+                        "codigo_cliente": "70689",
+                        "desc_cliente": "SACOLAO CASTELO LTDA"
+                    },
+                    {
                         "codigo_cliente": "46577",
                         "desc_cliente": "SACOLAO CASTELO LTDA."
                     }
@@ -9663,7 +9667,7 @@
                     },
                     {
                         "codigo_cliente": "70846",
-                        "desc_cliente": "ALVORADA SANTA TEREZINHA"
+                        "desc_cliente": "ALVORADA SANTA TEREZINHA LTDA"
                     },
                     {
                         "codigo_cliente": "57181",
@@ -38259,7 +38263,7 @@
                     },
                     {
                         "codigo_cliente": "70845",
-                        "desc_cliente": "TS BAZAR UTILIDADES LTDA"
+                        "desc_cliente": "TS BAZAR E UTILIDADES LTDA"
                     },
                     {
                         "codigo_cliente": "70802",
@@ -38771,7 +38775,7 @@
                     },
                     {
                         "codigo_cliente": "70840",
-                        "desc_cliente": "LUIS EUGENIO CARGNELITTI"
+                        "desc_cliente": "LUIS EUGENIO CARGNELUTTI"
                     },
                     {
                         "codigo_cliente": "57854",
@@ -53849,7 +53853,7 @@
                     },
                     {
                         "codigo_cliente": "70848",
-                        "desc_cliente": "IWTON CARLOS DIDOLICH E CIA LTDA"
+                        "desc_cliente": "IWTON CARLOS DIDOLICH & CIA LTDA"
                     },
                     {
                         "codigo_cliente": "64430",
@@ -77951,7 +77955,7 @@
                     },
                     {
                         "codigo_cliente": "70833",
-                        "desc_cliente": "MERCADO E ACOUGUE AMARAL"
+                        "desc_cliente": "MERCADO E ACOUGUE AMARAL LTDA"
                     },
                     {
                         "codigo_cliente": "43807",

@@ -16614,6 +16614,10 @@
                         "desc_cliente": "CONVENIENCIA DO REI LTDA"
                     },
                     {
+                        "codigo_cliente": "70908",
+                        "desc_cliente": "COOPERATIVA AGROINDUSTRIAL ALFA"
+                    },
+                    {
                         "codigo_cliente": "22982",
                         "desc_cliente": "COOPERATIVA AGROPECUARIA CAMPONOVENSE - COOCAM"
                     },
@@ -17459,6 +17463,12 @@
                         "codigo_cliente": "59455",
                         "desc_cliente": "SUPERMERCADO GIRASSOL LTDA"
                     }
+                ],
+                "820 - STALOCH": [
+                    {
+                        "codigo_cliente": "44663",
+                        "desc_cliente": "CRISTIANO STALOCH"
+                    }
                 ]
             },
             "1133": {
@@ -17710,6 +17720,10 @@
                     {
                         "codigo_cliente": "30403",
                         "desc_cliente": "POMMERCADO LTDA - EPP"
+                    },
+                    {
+                        "codigo_cliente": "70907",
+                        "desc_cliente": "posto z23 ltda"
                     },
                     {
                         "codigo_cliente": "64046",
@@ -19778,12 +19792,6 @@
                     {
                         "codigo_cliente": "41193",
                         "desc_cliente": "REDE FIFO VIVIANE SCHNEIDER LTDA"
-                    }
-                ],
-                "820 - STALOCH": [
-                    {
-                        "codigo_cliente": "44663",
-                        "desc_cliente": "CRISTIANO STALOCH"
                     }
                 ]
             },
@@ -28424,6 +28432,10 @@
                         "desc_cliente": "AGUAI SANTUARIO ECOLOGICO LTDA"
                     },
                     {
+                        "codigo_cliente": "39684",
+                        "desc_cliente": "AHC PESCADOR PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "45784",
                         "desc_cliente": "ALDO HORTIFRUTI E EMPORIO DOS GRAOS FONTANA LTDA"
                     },
@@ -28758,6 +28770,10 @@
                     {
                         "codigo_cliente": "1732",
                         "desc_cliente": "MERCEARIA LISKA"
+                    },
+                    {
+                        "codigo_cliente": "39042",
+                        "desc_cliente": "MINIMERCADO MARAVILHA LTDA"
                     },
                     {
                         "codigo_cliente": "1050",
@@ -30016,6 +30032,10 @@
                     {
                         "codigo_cliente": "19013",
                         "desc_cliente": "MERCADO TREVO ROSA LTDA - ME"
+                    },
+                    {
+                        "codigo_cliente": "42603",
+                        "desc_cliente": "MERCADO VERDE PRAIA DO ROSA LTDA"
                     },
                     {
                         "codigo_cliente": "36032",
@@ -38700,6 +38720,10 @@
                         "desc_cliente": "ADEGA PINHEIRO COM DE BEBIDAS LTDA"
                     },
                     {
+                        "codigo_cliente": "44373",
+                        "desc_cliente": "ADEMIR BAZANELLA"
+                    },
+                    {
                         "codigo_cliente": "641",
                         "desc_cliente": "ALMEIDA BASSO & CIA LTDA"
                     },
@@ -38830,6 +38854,10 @@
                     {
                         "codigo_cliente": "392",
                         "desc_cliente": "MINI MERCADO POLESE LTDA - EPP"
+                    },
+                    {
+                        "codigo_cliente": "44486",
+                        "desc_cliente": "MINIMERCADO RIBEIRO E CASANOVA LTDA"
                     },
                     {
                         "codigo_cliente": "748",
@@ -64058,6 +64086,10 @@
                         "desc_cliente": "LUIS HENRIQUE DOS SANTOS"
                     },
                     {
+                        "codigo_cliente": "70903",
+                        "desc_cliente": "LUIS PAULO DE LIMA PINHEIRO"
+                    },
+                    {
                         "codigo_cliente": "65958",
                         "desc_cliente": "LUIS WAGNER"
                     },
@@ -64568,6 +64600,10 @@
                     {
                         "codigo_cliente": "64052",
                         "desc_cliente": "MARILENE GERMAN"
+                    },
+                    {
+                        "codigo_cliente": "70905",
+                        "desc_cliente": "MARILENE NOBRE"
                     },
                     {
                         "codigo_cliente": "51310",
@@ -66146,6 +66182,10 @@
                         "desc_cliente": "ROSANE FATIMA DOS SANTOS RODRIGUES"
                     },
                     {
+                        "codigo_cliente": "70904",
+                        "desc_cliente": "ROSANE MARIA PEREIRA BRUM"
+                    },
+                    {
                         "codigo_cliente": "69875",
                         "desc_cliente": "ROSANGELA ARAUJO DA SILVEIRA"
                     },
@@ -67210,6 +67250,10 @@
                         "desc_cliente": "WILLIAM MACHADO "
                     },
                     {
+                        "codigo_cliente": "70906",
+                        "desc_cliente": "WILLIAM PROENÇA DORNELLES"
+                    },
+                    {
                         "codigo_cliente": "70884",
                         "desc_cliente": "WILLIAN CORDEIRO DE OLIVEIRA"
                     },
@@ -67762,6 +67806,10 @@
                     {
                         "codigo_cliente": "65431",
                         "desc_cliente": "PALOMA CLAUDINO DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "68366",
+                        "desc_cliente": "SABRINA FREIRE"
                     }
                 ],
                 "71 - SENDAS": [

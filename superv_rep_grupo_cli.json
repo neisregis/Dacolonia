@@ -8736,6 +8736,10 @@
                         "desc_cliente": "SUPERMERCADOS SENNA - EIRELI"
                     },
                     {
+                        "codigo_cliente": "5985",
+                        "desc_cliente": "SUPERMERCADO TIBURCIO LTDA"
+                    },
+                    {
                         "codigo_cliente": "10190",
                         "desc_cliente": "SUPERMERCADO ZANZARINI LTDA"
                     },
@@ -38248,6 +38252,10 @@
                         "desc_cliente": "SABORES COM ALIMENTOS E SERVS EIRELI"
                     },
                     {
+                        "codigo_cliente": "34906",
+                        "desc_cliente": "SABORES REFEICOES CORPORATIVAS EIRELI"
+                    },
+                    {
                         "codigo_cliente": "67880",
                         "desc_cliente": "SINGLAIR DALLA LIBERA"
                     },
@@ -57980,6 +57988,10 @@
                         "desc_cliente": "GILMAR DA CUNHA BANDAS LTDA"
                     },
                     {
+                        "codigo_cliente": "60467",
+                        "desc_cliente": "GLOBAL VITA COMUNICACAO LTDA"
+                    },
+                    {
                         "codigo_cliente": "66153",
                         "desc_cliente": "GOMERCINDO MUNIZ DA SILVA FILHO"
                     },
@@ -62487,6 +62499,10 @@
                     },
                     {
                         "codigo_cliente": "33868",
+                        "desc_cliente": "JOAO BATISTA DOS SANTOS"
+                    },
+                    {
+                        "codigo_cliente": "49309",
                         "desc_cliente": "JOAO BATISTA DOS SANTOS"
                     },
                     {
@@ -67805,6 +67821,10 @@
                     }
                 ],
                 "614 - LOJA VIRTUAL": [
+                    {
+                        "codigo_cliente": "70867",
+                        "desc_cliente": "ACACIA GIMENEZ BARRETO"
+                    },
                     {
                         "codigo_cliente": "65013",
                         "desc_cliente": "ADALBERTO MONTI DE MAGALHAES"
@@ -85034,6 +85054,10 @@
                         "desc_cliente": "KOBE BUSSAN CO.,LT"
                     },
                     {
+                        "codigo_cliente": "70520",
+                        "desc_cliente": "LINK BRAZIL FOODS LIMITED"
+                    },
+                    {
                         "codigo_cliente": "60198",
                         "desc_cliente": "LLC ARKMEN"
                     },
@@ -85056,12 +85080,6 @@
                     {
                         "codigo_cliente": "66789",
                         "desc_cliente": "SUMMIT3S ALLIANCE AND DISTRIBUTION LLC"
-                    }
-                ],
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "70520",
-                        "desc_cliente": "LINK BRAZIL FOODS LIMITED"
                     }
                 ]
             }

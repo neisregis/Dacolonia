@@ -19642,6 +19642,10 @@
                         "desc_cliente": "NATURALISSIMA M & S LTDA"
                     },
                     {
+                        "codigo_cliente": "70409",
+                        "desc_cliente": "OTHALA COMERCIO LTDA"
+                    },
+                    {
                         "codigo_cliente": "61297",
                         "desc_cliente": "PANIFICADORA E CONFEITARIA DELLA NONNA LTDA"
                     },
@@ -46324,6 +46328,10 @@
                     {
                         "codigo_cliente": "47994",
                         "desc_cliente": "J. PEREIRA DA SILVA & I. ACOSTA KELLER LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70932",
+                        "desc_cliente": "J. S. BROMBERGER LTDA"
                     },
                     {
                         "codigo_cliente": "37997",

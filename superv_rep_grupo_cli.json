@@ -11038,10 +11038,6 @@
                         "desc_cliente": "T & F COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
-                        "codigo_cliente": "63576",
-                        "desc_cliente": "VMARCHE MERCADO VEGAN LTDA"
-                    },
-                    {
                         "codigo_cliente": "41433",
                         "desc_cliente": "VMARCHE MERCADO VEGANO LTDA"
                     },
@@ -16646,6 +16642,10 @@
                     {
                         "codigo_cliente": "41955",
                         "desc_cliente": "CONVENIENCIA DO REI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70908",
+                        "desc_cliente": "COOPERATIVA AGROINDUSTRIAL ALFA"
                     },
                     {
                         "codigo_cliente": "22982",
@@ -50724,10 +50724,6 @@
                         "desc_cliente": "FONTERRADA ALIMENTOS LTDA"
                     },
                     {
-                        "codigo_cliente": "49217",
-                        "desc_cliente": "GABRIEL RODRIGUES FIVERDA LTDA"
-                    },
-                    {
                         "codigo_cliente": "55139",
                         "desc_cliente": "G.A.RIBEIRO LTDA"
                     },
@@ -52290,10 +52286,6 @@
                         "desc_cliente": "COMERCIAL ZAMPIERI LTDA"
                     },
                     {
-                        "codigo_cliente": "22942",
-                        "desc_cliente": "COMERCIO DE DOCES BIG-PRECO LTDA"
-                    },
-                    {
                         "codigo_cliente": "69743",
                         "desc_cliente": "COMERCIO DE DOCES CASTILHO LTDA"
                     },
@@ -52308,10 +52300,6 @@
                     {
                         "codigo_cliente": "22944",
                         "desc_cliente": "DISTRIBUIDORA DE DOCES BIG BOM LTDA EPP"
-                    },
-                    {
-                        "codigo_cliente": "38171",
-                        "desc_cliente": "DOCES E BEBIDAS SUPER TREZE LTDA"
                     },
                     {
                         "codigo_cliente": "67523",
@@ -52358,20 +52346,12 @@
                         "desc_cliente": "PARAISO DOS DOCES DISTRIBUIDORA LTDA"
                     },
                     {
-                        "codigo_cliente": "70811",
-                        "desc_cliente": "RUY NORBERTO SACCOMANI"
-                    },
-                    {
                         "codigo_cliente": "69550",
                         "desc_cliente": "SERGIO PINTO SOARES DE OLIVEIRA"
                     },
                     {
                         "codigo_cliente": "69581",
                         "desc_cliente": "SOLFESTA DESCARTAVEIS EM GERAL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "70899",
-                        "desc_cliente": "S.O.S EMBALAGENS LTDA"
                     },
                     {
                         "codigo_cliente": "53844",
@@ -56236,6 +56216,10 @@
                     {
                         "codigo_cliente": "64274",
                         "desc_cliente": "GELA GUELA SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70981",
+                        "desc_cliente": "IRIS DURKS MATTANA EIRELI ME"
                     },
                     {
                         "codigo_cliente": "54907",
@@ -70554,6 +70538,10 @@
                         "desc_cliente": "EDUARDO KIEGER"
                     },
                     {
+                        "codigo_cliente": "70979",
+                        "desc_cliente": "EDUARDO PATRICIO DIEHL DE SOUZA"
+                    },
+                    {
                         "codigo_cliente": "67655",
                         "desc_cliente": "EDUARDO PIQUEIRA VIANNA"
                     },
@@ -71492,6 +71480,10 @@
                     {
                         "codigo_cliente": "65973",
                         "desc_cliente": "GEOVANA PIGINI"
+                    },
+                    {
+                        "codigo_cliente": "70976",
+                        "desc_cliente": "GEOVANI RAFAEL CHIARELLO"
                     },
                     {
                         "codigo_cliente": "67492",

@@ -4179,6 +4179,20 @@
                     }
                 ]
             },
+            "1150": {
+                "1364 - COMERCIAL CARIACICA": [
+                    {
+                        "codigo_cliente": "70865",
+                        "desc_cliente": "COMERCIAL CARIACICA MULTIMODAL LTDA"
+                    }
+                ],
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "67306",
+                        "desc_cliente": "DISTRIBUIDORA IRMAOS FONSECA LTDA\r\n"
+                    }
+                ]
+            },
             "1161": {
                 "1 - GERAL": [
                     {
@@ -4216,18 +4230,6 @@
                     {
                         "codigo_cliente": "67621",
                         "desc_cliente": "SUPERMERCADO PAJEU LTDA"
-                    }
-                ]
-            },
-            "1150": {
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "70865",
-                        "desc_cliente": "COMERCIAL CARIACICA MULTIMODAL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67306",
-                        "desc_cliente": "DISTRIBUIDORA IRMAOS FONSECA LTDA\r\n"
                     }
                 ]
             },
@@ -9674,10 +9676,6 @@
                         "desc_cliente": "ALAN CARLOS FABIANO DE MORAES RIGO"
                     },
                     {
-                        "codigo_cliente": "70846",
-                        "desc_cliente": "ALVORADA SANTA TEREZINHA LTDA"
-                    },
-                    {
                         "codigo_cliente": "57181",
                         "desc_cliente": "ANTONIO ALMIR DE JESUS & FILHOS LTDA"
                     },
@@ -11742,6 +11740,10 @@
                         "desc_cliente": "MINIMERCADO RIO BRANCO LTDA"
                     },
                     {
+                        "codigo_cliente": "44280",
+                        "desc_cliente": "MRP DISTRIBUIDORA LTDA"
+                    },
+                    {
                         "codigo_cliente": "11206",
                         "desc_cliente": "OVERSUP SUPERMERCADOS LTDA"
                     },
@@ -12904,16 +12906,16 @@
                         "desc_cliente": "J.C.LOUREIRO NETO & CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "70921",
+                        "desc_cliente": "JOAO CARLOS KUBASKI"
+                    },
+                    {
                         "codigo_cliente": "28166",
                         "desc_cliente": "JOAO MUSSI KALACHE BACH & CIA.LTDA."
                     },
                     {
                         "codigo_cliente": "36172",
                         "desc_cliente": "JOSE DAIR DA ROCHA & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "70921",
-                        "desc_cliente": "KUBASKI COMERCIO DE FRUTAS E VERDURAS LTDA"
                     },
                     {
                         "codigo_cliente": "38578",
@@ -17737,7 +17739,7 @@
                     },
                     {
                         "codigo_cliente": "70907",
-                        "desc_cliente": "posto z23 ltda"
+                        "desc_cliente": "POSTO Z23 LTDA"
                     },
                     {
                         "codigo_cliente": "64046",
@@ -34460,6 +34462,10 @@
                     {
                         "codigo_cliente": "10136",
                         "desc_cliente": "COMERCIAL LOS VENZKE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "6600",
+                        "desc_cliente": "COMERCIO DE CARNES MACHADO LTDA"
                     },
                     {
                         "codigo_cliente": "731",

@@ -906,10 +906,6 @@
                         "desc_cliente": "NSA SUPERMERCADO LTDA"
                     },
                     {
-                        "codigo_cliente": "65433",
-                        "desc_cliente": "ORGANIZACOES PAIS & FILHOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "36668",
                         "desc_cliente": "REDE SANTO ANTONIO SUPERMERCADO LTDA"
                     },
@@ -965,6 +961,10 @@
                     },
                     {
                         "codigo_cliente": "59090",
+                        "desc_cliente": "ORGANIZACOES PAIS & FILHOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "65433",
                         "desc_cliente": "ORGANIZACOES PAIS & FILHOS LTDA"
                     },
                     {
@@ -4070,6 +4070,10 @@
                     {
                         "codigo_cliente": "65591",
                         "desc_cliente": "LUSMAR DE OLIVEIRA MACHADO"
+                    },
+                    {
+                        "codigo_cliente": "70938",
+                        "desc_cliente": "NADINHOS RESTAURANTE"
                     },
                     {
                         "codigo_cliente": "21163",
@@ -9676,6 +9680,10 @@
                         "desc_cliente": "ALAN CARLOS FABIANO DE MORAES RIGO"
                     },
                     {
+                        "codigo_cliente": "70846",
+                        "desc_cliente": "ALVORADA SANTA TEREZINHA LTDA"
+                    },
+                    {
                         "codigo_cliente": "57181",
                         "desc_cliente": "ANTONIO ALMIR DE JESUS & FILHOS LTDA"
                     },
@@ -11738,10 +11746,6 @@
                     {
                         "codigo_cliente": "45467",
                         "desc_cliente": "MINIMERCADO RIO BRANCO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44280",
-                        "desc_cliente": "MRP DISTRIBUIDORA LTDA"
                     },
                     {
                         "codigo_cliente": "11206",
@@ -15274,6 +15278,10 @@
                     {
                         "codigo_cliente": "63271",
                         "desc_cliente": "COMFIT SABOR NATURAL LTDA."
+                    },
+                    {
+                        "codigo_cliente": "70937",
+                        "desc_cliente": "DEMERSON BARBOSA"
                     },
                     {
                         "codigo_cliente": "1032",
@@ -38894,6 +38902,10 @@
                         "desc_cliente": "MINIMERCADO RIBEIRO E CASANOVA LTDA"
                     },
                     {
+                        "codigo_cliente": "26028",
+                        "desc_cliente": "PAULO ROBERTO PINHEIRO RIBEIRO E CIA LTDA - ME"
+                    },
+                    {
                         "codigo_cliente": "748",
                         "desc_cliente": "PEDRO MACARI E IRMAOS LTDA"
                     },
@@ -39350,6 +39362,10 @@
                     {
                         "codigo_cliente": "38475",
                         "desc_cliente": "P.J.V.A.PASTEIS E CONVENIENCIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "43843",
+                        "desc_cliente": "RC ORGANIZACAO DE FESTA LTDA"
                     },
                     {
                         "codigo_cliente": "58487",
@@ -62700,6 +62716,10 @@
                         "desc_cliente": "JOAO PEDRO SANTOS DA SILVA"
                     },
                     {
+                        "codigo_cliente": "70939",
+                        "desc_cliente": "JOAO TADEU LUIS DA SILVA"
+                    },
+                    {
                         "codigo_cliente": "67284",
                         "desc_cliente": "JOAO VICTOR DA SILVA MARTINS"
                     },
@@ -68024,6 +68044,10 @@
                         "desc_cliente": "ADRIANA SAMPAIO EVANGELISTA"
                     },
                     {
+                        "codigo_cliente": "70934",
+                        "desc_cliente": "ADRIANA SCHAEFER BELLINI"
+                    },
+                    {
                         "codigo_cliente": "70275",
                         "desc_cliente": "ADRIANA SILVA"
                     },
@@ -68416,6 +68440,10 @@
                         "desc_cliente": "ANA CAROLINA BENINCASA POSSI"
                     },
                     {
+                        "codigo_cliente": "70926",
+                        "desc_cliente": "ANA CAROLINADO ROSARIO SPINARDI"
+                    },
+                    {
                         "codigo_cliente": "70823",
                         "desc_cliente": "ANA CAROLINA FLORES WULLNER"
                     },
@@ -68796,6 +68824,10 @@
                         "desc_cliente": "ANNA RAFAELA BECKER"
                     },
                     {
+                        "codigo_cliente": "70928",
+                        "desc_cliente": "ANTERO AROLDO DOS SANTOS"
+                    },
+                    {
                         "codigo_cliente": "64774",
                         "desc_cliente": "ANTONIETA ASSUNCAO BARBATO"
                     },
@@ -69066,6 +69098,10 @@
                     {
                         "codigo_cliente": "65929",
                         "desc_cliente": "BRUNA ROSOLEN"
+                    },
+                    {
+                        "codigo_cliente": "70929",
+                        "desc_cliente": "BRUNA ROSSOL"
                     },
                     {
                         "codigo_cliente": "64941",
@@ -70364,6 +70400,10 @@
                         "desc_cliente": "DONIZETI DE JESUS MONTANHA"
                     },
                     {
+                        "codigo_cliente": "70936",
+                        "desc_cliente": "DOUGLAS C RODRIGUEZ"
+                    },
+                    {
                         "codigo_cliente": "69930",
                         "desc_cliente": "DRIELE DONADON"
                     },
@@ -71092,6 +71132,10 @@
                         "desc_cliente": "FHIAMA DE PADUA ORNELAS VIEIRA"
                     },
                     {
+                        "codigo_cliente": "70927",
+                        "desc_cliente": "FIDEL HELFER"
+                    },
+                    {
                         "codigo_cliente": "56542",
                         "desc_cliente": "FILIPE GONCALVES DA SILVA"
                     },
@@ -71266,6 +71310,10 @@
                     {
                         "codigo_cliente": "63912",
                         "desc_cliente": "GABRIELA DORNELLES BITTENCOURT "
+                    },
+                    {
+                        "codigo_cliente": "70914",
+                        "desc_cliente": "GABRIELA DUTRA VIEIRA"
                     },
                     {
                         "codigo_cliente": "66527",
@@ -71538,6 +71586,10 @@
                     {
                         "codigo_cliente": "49081",
                         "desc_cliente": "GUILHERME DA SILVA NOGUEIRA"
+                    },
+                    {
+                        "codigo_cliente": "70922",
+                        "desc_cliente": "GUILHERME ELY"
                     },
                     {
                         "codigo_cliente": "63738",
@@ -71996,6 +72048,10 @@
                         "desc_cliente": "JANETE MAMEDE"
                     },
                     {
+                        "codigo_cliente": "70918",
+                        "desc_cliente": "JANILSON BORBA"
+                    },
+                    {
                         "codigo_cliente": "70048",
                         "desc_cliente": "JAQUELINE AMORIM SILVA"
                     },
@@ -72254,6 +72310,10 @@
                     {
                         "codigo_cliente": "66561",
                         "desc_cliente": "JOSEANE MARINHO"
+                    },
+                    {
+                        "codigo_cliente": "60300",
+                        "desc_cliente": "JOSE ANTONIO DE ARAUJO"
                     },
                     {
                         "codigo_cliente": "48645",
@@ -72936,6 +72996,10 @@
                         "desc_cliente": "LAURA BRAGA DE PINHO"
                     },
                     {
+                        "codigo_cliente": "70925",
+                        "desc_cliente": "LAURA FINK"
+                    },
+                    {
                         "codigo_cliente": "69483",
                         "desc_cliente": "LAURA LEIKO IDE"
                     },
@@ -72970,6 +73034,10 @@
                     {
                         "codigo_cliente": "61143",
                         "desc_cliente": "LEANDRO DUTRA JUNIOR"
+                    },
+                    {
+                        "codigo_cliente": "63349",
+                        "desc_cliente": "LEANDRO FREITAS SANTOS"
                     },
                     {
                         "codigo_cliente": "65024",
@@ -73216,6 +73284,10 @@
                         "desc_cliente": "LUANA VICENTE MELLO"
                     },
                     {
+                        "codigo_cliente": "70930",
+                        "desc_cliente": "LUANDA DE ALMEIDA ANDRADE"
+                    },
+                    {
                         "codigo_cliente": "66543",
                         "desc_cliente": "LUCAS DOVIGO BIZIAK"
                     },
@@ -73382,6 +73454,10 @@
                     {
                         "codigo_cliente": "66750",
                         "desc_cliente": "LUCILA MOSENA GEMELLI"
+                    },
+                    {
+                        "codigo_cliente": "70923",
+                        "desc_cliente": "LUCINELI SCHMIDT"
                     },
                     {
                         "codigo_cliente": "69702",
@@ -74000,6 +74076,10 @@
                         "desc_cliente": "MARIANA SOARES"
                     },
                     {
+                        "codigo_cliente": "70919",
+                        "desc_cliente": "MARIANA UGHINI XAVIER DA COSTA"
+                    },
+                    {
                         "codigo_cliente": "66904",
                         "desc_cliente": "MARIANA VERRI LOVATTO"
                     },
@@ -74156,6 +74236,10 @@
                         "desc_cliente": "MARINA POLLI"
                     },
                     {
+                        "codigo_cliente": "70931",
+                        "desc_cliente": "MARIO ANTONIO DA CUNHA FILHO"
+                    },
+                    {
                         "codigo_cliente": "61533",
                         "desc_cliente": "MARIO BERTOLUCI"
                     },
@@ -74198,6 +74282,10 @@
                     {
                         "codigo_cliente": "62659",
                         "desc_cliente": "MARITSA RIETH"
+                    },
+                    {
+                        "codigo_cliente": "40451",
+                        "desc_cliente": "MARIZA MARIENSE"
                     },
                     {
                         "codigo_cliente": "69530",
@@ -74492,6 +74580,10 @@
                         "desc_cliente": "MONICA MESQUITA"
                     },
                     {
+                        "codigo_cliente": "70916",
+                        "desc_cliente": "MONICA ZIMMER"
+                    },
+                    {
                         "codigo_cliente": "66673",
                         "desc_cliente": "MONISA SOARES"
                     },
@@ -74560,12 +74652,20 @@
                         "desc_cliente": "NATALIA PASQUALI"
                     },
                     {
+                        "codigo_cliente": "70917",
+                        "desc_cliente": "NATALIA PEREIRA RIZENTAL"
+                    },
+                    {
                         "codigo_cliente": "67839",
                         "desc_cliente": "NATALIA PRATES"
                     },
                     {
                         "codigo_cliente": "69590",
                         "desc_cliente": "NATALIA ROCHA MORAES"
+                    },
+                    {
+                        "codigo_cliente": "70924",
+                        "desc_cliente": "NATALIA SANCO"
                     },
                     {
                         "codigo_cliente": "70213",
@@ -74740,6 +74840,10 @@
                         "desc_cliente": "OSMAR HOLANDO FONSECA"
                     },
                     {
+                        "codigo_cliente": "70935",
+                        "desc_cliente": "OTAVIO BARROS"
+                    },
+                    {
                         "codigo_cliente": "70783",
                         "desc_cliente": "OTAVIO MIGUEL STAHLSCHMIDT CAIERAO"
                     },
@@ -74912,6 +75016,10 @@
                         "desc_cliente": "PAULA RUFFOLO"
                     },
                     {
+                        "codigo_cliente": "70920",
+                        "desc_cliente": "PAULA SCHUMACHER"
+                    },
+                    {
                         "codigo_cliente": "68742",
                         "desc_cliente": "PAULO ABRAO NETO"
                     },
@@ -75054,6 +75162,10 @@
                     {
                         "codigo_cliente": "64975",
                         "desc_cliente": "PRICILA PEREIRA JUCHEM"
+                    },
+                    {
+                        "codigo_cliente": "70915",
+                        "desc_cliente": "PRISCILA BIER"
                     },
                     {
                         "codigo_cliente": "70481",
@@ -77090,6 +77202,10 @@
                     {
                         "codigo_cliente": "64951",
                         "desc_cliente": "WILLIAM OLIVEIRA DOS SANTOS"
+                    },
+                    {
+                        "codigo_cliente": "70933",
+                        "desc_cliente": "WILLIAM VACARI FREITAS"
                     },
                     {
                         "codigo_cliente": "70232",

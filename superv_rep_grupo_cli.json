@@ -11038,6 +11038,10 @@
                         "desc_cliente": "T & F COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "63576",
+                        "desc_cliente": "VMARCHE MERCADO VEGAN LTDA"
+                    },
+                    {
                         "codigo_cliente": "41433",
                         "desc_cliente": "VMARCHE MERCADO VEGANO LTDA"
                     },
@@ -44272,6 +44276,10 @@
                         "desc_cliente": "MERCADO MERGEN LTDA"
                     },
                     {
+                        "codigo_cliente": "60936",
+                        "desc_cliente": "MERCADO PEREIRA NASCIMENTO LTDA"
+                    },
+                    {
                         "codigo_cliente": "60705",
                         "desc_cliente": "MERCADO SEHN & SCHWINN LTDA"
                     },
@@ -47210,10 +47218,6 @@
                     {
                         "codigo_cliente": "59826",
                         "desc_cliente": "MERCADO PAIM E MACHADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "60936",
-                        "desc_cliente": "MERCADO PEREIRA NASCIMENTO LTDA"
                     },
                     {
                         "codigo_cliente": "30397",
@@ -50724,6 +50728,10 @@
                         "desc_cliente": "FONTERRADA ALIMENTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "49217",
+                        "desc_cliente": "GABRIEL RODRIGUES FIVERDA LTDA"
+                    },
+                    {
                         "codigo_cliente": "55139",
                         "desc_cliente": "G.A.RIBEIRO LTDA"
                     },
@@ -52286,6 +52294,10 @@
                         "desc_cliente": "COMERCIAL ZAMPIERI LTDA"
                     },
                     {
+                        "codigo_cliente": "22942",
+                        "desc_cliente": "COMERCIO DE DOCES BIG-PRECO LTDA"
+                    },
+                    {
                         "codigo_cliente": "69743",
                         "desc_cliente": "COMERCIO DE DOCES CASTILHO LTDA"
                     },
@@ -52300,6 +52312,10 @@
                     {
                         "codigo_cliente": "22944",
                         "desc_cliente": "DISTRIBUIDORA DE DOCES BIG BOM LTDA EPP"
+                    },
+                    {
+                        "codigo_cliente": "38171",
+                        "desc_cliente": "DOCES E BEBIDAS SUPER TREZE LTDA"
                     },
                     {
                         "codigo_cliente": "67523",
@@ -52346,12 +52362,20 @@
                         "desc_cliente": "PARAISO DOS DOCES DISTRIBUIDORA LTDA"
                     },
                     {
+                        "codigo_cliente": "70811",
+                        "desc_cliente": "RUY NORBERTO SACCOMANI"
+                    },
+                    {
                         "codigo_cliente": "69550",
                         "desc_cliente": "SERGIO PINTO SOARES DE OLIVEIRA"
                     },
                     {
                         "codigo_cliente": "69581",
                         "desc_cliente": "SOLFESTA DESCARTAVEIS EM GERAL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70899",
+                        "desc_cliente": "S.O.S EMBALAGENS LTDA"
                     },
                     {
                         "codigo_cliente": "53844",
@@ -62590,6 +62614,10 @@
                         "desc_cliente": "JESSICA RODRIGUES DOS SANTOS"
                     },
                     {
+                        "codigo_cliente": "70982",
+                        "desc_cliente": "JESSICA SANTOS DA COSTA"
+                    },
+                    {
                         "codigo_cliente": "50620",
                         "desc_cliente": "JESSICA TAINA PADILHA OLIVEIRA"
                     },
@@ -64008,6 +64036,10 @@
                     {
                         "codigo_cliente": "66697",
                         "desc_cliente": "LUCIANE ALVES DE OLIVEIRA"
+                    },
+                    {
+                        "codigo_cliente": "49477",
+                        "desc_cliente": "LUCIANE ANGELA CATTIVELLI"
                     },
                     {
                         "codigo_cliente": "67199",

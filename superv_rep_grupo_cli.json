@@ -4073,7 +4073,7 @@
                     },
                     {
                         "codigo_cliente": "70938",
-                        "desc_cliente": "NADINHOS RESTAURANTE"
+                        "desc_cliente": "NADINHO'S RESTAURANTE LTDA"
                     },
                     {
                         "codigo_cliente": "21163",
@@ -6810,6 +6810,10 @@
                         "desc_cliente": "ANMAX COMERCIO DE ALIMENTOS EIRELI"
                     },
                     {
+                        "codigo_cliente": "70975",
+                        "desc_cliente": "ANMAX COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "24194",
                         "desc_cliente": "APARECIDO SOARES DE GODOI - ALIMENTICIOS"
                     },
@@ -7124,6 +7128,10 @@
                     {
                         "codigo_cliente": "2070",
                         "desc_cliente": "SUPERMERCADO BELLIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38936",
+                        "desc_cliente": "SUPERMERCADO BOM JESUS LTDA EPP"
                     },
                     {
                         "codigo_cliente": "40396",
@@ -15280,10 +15288,6 @@
                         "desc_cliente": "COMFIT SABOR NATURAL LTDA."
                     },
                     {
-                        "codigo_cliente": "70937",
-                        "desc_cliente": "DEMERSON BARBOSA"
-                    },
-                    {
                         "codigo_cliente": "1032",
                         "desc_cliente": "D. VILLA SUPERMERCADOS LTDA"
                     },
@@ -15408,6 +15412,12 @@
                     {
                         "codigo_cliente": "894",
                         "desc_cliente": "AVANTE SUPERMERCADO LTDA"
+                    }
+                ],
+                "509 - SUPER NOSSO": [
+                    {
+                        "codigo_cliente": "70937",
+                        "desc_cliente": "DEMERSON BARBOSA - SUPERMERCADO LTDA"
                     }
                 ],
                 "629 - RUBI ATAC": [
@@ -16636,10 +16646,6 @@
                     {
                         "codigo_cliente": "41955",
                         "desc_cliente": "CONVENIENCIA DO REI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "70908",
-                        "desc_cliente": "COOPERATIVA AGROINDUSTRIAL ALFA"
                     },
                     {
                         "codigo_cliente": "22982",
@@ -60844,6 +60850,10 @@
                         "desc_cliente": "EDUARDA DE OLIVEIRA MUNDINS"
                     },
                     {
+                        "codigo_cliente": "70978",
+                        "desc_cliente": "EDUARDA DE PAULA ALMEIDA"
+                    },
+                    {
                         "codigo_cliente": "65285",
                         "desc_cliente": "EDUARDA DE SOUZA FERREIRA"
                     },
@@ -63018,6 +63028,10 @@
                     {
                         "codigo_cliente": "57869",
                         "desc_cliente": "JOSE FELIPE BRESCIANI"
+                    },
+                    {
+                        "codigo_cliente": "70977",
+                        "desc_cliente": "JOSE FERNANDO MIGLIAVACCA"
                     },
                     {
                         "codigo_cliente": "68903",
@@ -67794,6 +67808,10 @@
                     {
                         "codigo_cliente": "31763",
                         "desc_cliente": "JONAS RAULINO BITTENCOURT"
+                    },
+                    {
+                        "codigo_cliente": "35007",
+                        "desc_cliente": "JOSE CARLOS MONTOVANE"
                     },
                     {
                         "codigo_cliente": "53113",

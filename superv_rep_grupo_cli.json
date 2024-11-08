@@ -13218,8 +13218,18 @@
                         "desc_cliente": "C. P SCHAPPO COBRANCAS E SERVICOS"
                     },
                     {
+                        "codigo_cliente": "40545",
+                        "desc_cliente": "MERCADO E ACOUGUE BORMANN LTDA"
+                    },
+                    {
                         "codigo_cliente": "16676",
                         "desc_cliente": "RESTAURANTE LIGEIRINHO LTDA"
+                    }
+                ],
+                "214 - COOP.CAMPOS NOVOS": [
+                    {
+                        "codigo_cliente": "63236",
+                        "desc_cliente": "COOPERATIVA REGIONAL AGROPEC. DE CAMPOS NOVOS - COPERCAMPOS"
                     }
                 ],
                 "784 - VENDEDOR/REPRESENTANTE": [
@@ -14256,10 +14266,6 @@
                         "desc_cliente": "MAXIMO ALIMENTOS LTDA"
                     },
                     {
-                        "codigo_cliente": "40545",
-                        "desc_cliente": "MERCADO E ACOUGUE BORMANN LTDA"
-                    },
-                    {
                         "codigo_cliente": "1304",
                         "desc_cliente": "MERCADO E ACOUGUE PLANALTENSE LTDA - ME"
                     },
@@ -14313,10 +14319,6 @@
                     }
                 ],
                 "214 - COOP.CAMPOS NOVOS": [
-                    {
-                        "codigo_cliente": "63236",
-                        "desc_cliente": "COOPERATIVA REGIONAL AGROPEC. DE CAMPOS NOVOS - COPERCAMPOS"
-                    },
                     {
                         "codigo_cliente": "27469",
                         "desc_cliente": "COOPERATIVA REGIONAL AGROPECUARIA DE CAMPOS NOVOS - COP"

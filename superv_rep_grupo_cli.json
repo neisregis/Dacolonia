@@ -36420,6 +36420,14 @@
                         "desc_cliente": "DOTTA SUPERMERCADO LTDA"
                     },
                     {
+                        "codigo_cliente": "70881",
+                        "desc_cliente": "DOTTA SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70882",
+                        "desc_cliente": "DOTTA SUPERMERCADO LTDA"
+                    },
+                    {
                         "codigo_cliente": "61720",
                         "desc_cliente": "E DOS SANTOS PEDROTTI E CIA LTDA"
                     },
@@ -63422,6 +63430,10 @@
                     {
                         "codigo_cliente": "66695",
                         "desc_cliente": "KELLY DE ARAUJO"
+                    },
+                    {
+                        "codigo_cliente": "62476",
+                        "desc_cliente": "KELVIN HOFFMANN"
                     },
                     {
                         "codigo_cliente": "67373",

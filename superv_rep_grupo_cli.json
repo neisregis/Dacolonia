@@ -8286,6 +8286,10 @@
                         "desc_cliente": "L. L. SHIMANOE TUROZZI LTDA"
                     },
                     {
+                        "codigo_cliente": "60610",
+                        "desc_cliente": "L M G GRUBISICH PRODUTOS NATURAIS"
+                    },
+                    {
                         "codigo_cliente": "54965",
                         "desc_cliente": "LOMBARDI SANTOS & CIA LTDA"
                     },
@@ -26298,6 +26302,14 @@
                         "desc_cliente": "CL BRASIL ALIMENTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "69364",
+                        "desc_cliente": "DISTRIBUIDORA DE ALIMENTOS MS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70940",
+                        "desc_cliente": "DISTRIBUIDORA DE ALIMENTOS MS LTDA"
+                    },
+                    {
                         "codigo_cliente": "48851",
                         "desc_cliente": "DOVALE COMERCIAL DE SECOS E MOLHADOS LTDA "
                     },
@@ -38336,10 +38348,6 @@
                         "desc_cliente": "SABORES COM ALIMENTOS E SERVS EIRELI"
                     },
                     {
-                        "codigo_cliente": "34906",
-                        "desc_cliente": "SABORES REFEICOES CORPORATIVAS EIRELI"
-                    },
-                    {
                         "codigo_cliente": "67880",
                         "desc_cliente": "SINGLAIR DALLA LIBERA"
                     },
@@ -42946,14 +42954,6 @@
                     {
                         "codigo_cliente": "70154",
                         "desc_cliente": "MAJESTADE DOS DOCES COMERCIO DE DOCES E CEREAIS LTDA"
-                    }
-                ]
-            },
-            "1187": {
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "63219",
-                        "desc_cliente": "HORTI PRIME BRASIL LTDA."
                     }
                 ]
             },
@@ -75556,6 +75556,10 @@
                     {
                         "codigo_cliente": "65280",
                         "desc_cliente": "REGINA EMILIANO DOS SANTOS"
+                    },
+                    {
+                        "codigo_cliente": "70943",
+                        "desc_cliente": "REGINA GHIZZONI"
                     },
                     {
                         "codigo_cliente": "69696",

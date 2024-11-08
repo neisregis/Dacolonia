@@ -17366,6 +17366,14 @@
                     {
                         "codigo_cliente": "61269",
                         "desc_cliente": "SUPERMERCADO M.A. LTDA"
+                    },
+                    {
+                        "codigo_cliente": "61666",
+                        "desc_cliente": "SUPERMERCADO M.A. LTDA"
+                    },
+                    {
+                        "codigo_cliente": "63724",
+                        "desc_cliente": "SUPERMERCADO M.A. LTDA"
                     }
                 ],
                 "135 - SCHMIT": [
@@ -17396,16 +17404,60 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "48126",
+                        "desc_cliente": "ADEGA UAI TCHE PRODUTOS ALIMENTICIOS E BEBIDAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67251",
+                        "desc_cliente": "ANDRE LUIS VAGHETTI"
+                    },
+                    {
+                        "codigo_cliente": "62586",
+                        "desc_cliente": "AUTO POSTO CANAA LTDA"
+                    },
+                    {
                         "codigo_cliente": "48611",
                         "desc_cliente": "CAIO FERNANDO STALOCH"
+                    },
+                    {
+                        "codigo_cliente": "44524",
+                        "desc_cliente": "CATIA DE MELO"
+                    },
+                    {
+                        "codigo_cliente": "44488",
+                        "desc_cliente": "CELIA REGINA DA SILVA"
                     },
                     {
                         "codigo_cliente": "70235",
                         "desc_cliente": "CINE GRACHER LTDA"
                     },
                     {
+                        "codigo_cliente": "62432",
+                        "desc_cliente": "CLARA VOLTOLINI VARGAS"
+                    },
+                    {
+                        "codigo_cliente": "39968",
+                        "desc_cliente": "COMERCIAL DE ALIMENTOS R.P.J.LTDA"
+                    },
+                    {
+                        "codigo_cliente": "6976",
+                        "desc_cliente": "COMERCIAL PEDROTTI LTDA - ME"
+                    },
+                    {
                         "codigo_cliente": "44632",
                         "desc_cliente": "COMERCIO DE ALIMENTOS E BEBIDAS SPRENGER LTDA"
+                    },
+                    {
+                        "codigo_cliente": "52614",
+                        "desc_cliente": "COMERCIO DE PRODUTOS ALIMENTICIOS MELO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "48268",
+                        "desc_cliente": "COMERCIO VAREJISTA GRAOS MANIAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "58035",
+                        "desc_cliente": "CRISTIANO STALOCH"
                     },
                     {
                         "codigo_cliente": "49703",
@@ -17416,16 +17468,84 @@
                         "desc_cliente": "EMPORIO VERSAILLES BRASIL LTDA"
                     },
                     {
+                        "codigo_cliente": "39963",
+                        "desc_cliente": "FILIPY GATTIS 10135996910"
+                    },
+                    {
+                        "codigo_cliente": "60841",
+                        "desc_cliente": "F&Z SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "39229",
+                        "desc_cliente": "GATTIS COMERCIO ALIMENTICIOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "44509",
                         "desc_cliente": "GULA TIJUCAS COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "56574",
+                        "desc_cliente": "HOTEL E CHURRASCARIA CANSIAN LTDA"
+                    },
+                    {
+                        "codigo_cliente": "41606",
+                        "desc_cliente": "JANETE ANDREA MARCHIORI"
+                    },
+                    {
+                        "codigo_cliente": "54016",
+                        "desc_cliente": "JMC AUTO POSTO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "63818",
+                        "desc_cliente": "JOAO VITTOR DOS SANTOS JUSTINO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "55532",
+                        "desc_cliente": "JOSIANE PATRICIA DAROSCI"
+                    },
+                    {
+                        "codigo_cliente": "35863",
+                        "desc_cliente": "MATIAS FARIA SUPERMERCADO LTDA"
                     },
                     {
                         "codigo_cliente": "43684",
                         "desc_cliente": "MERCADO ALEMAO LTDA"
                     },
                     {
+                        "codigo_cliente": "62859",
+                        "desc_cliente": "MERCADO GULA DO BRASIL COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "54851",
                         "desc_cliente": "MERCADO RUZZA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "55085",
+                        "desc_cliente": "MERCADO TANIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "63753",
+                        "desc_cliente": "MERCADO VILLA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "41604",
+                        "desc_cliente": "MERCEARIA TOMASI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69598",
+                        "desc_cliente": "MINI MERCADO DA BARRA NORTE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "63325",
+                        "desc_cliente": "MINIMERCADO EMPORIO ECONOMICO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44523",
+                        "desc_cliente": "MINIMERCADO MELO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "48776",
+                        "desc_cliente": "MINIMERCADO MINATTI LTDA"
                     },
                     {
                         "codigo_cliente": "15652",
@@ -17436,12 +17556,44 @@
                         "desc_cliente": "MODESTO AUTO POSTO LTDA"
                     },
                     {
+                        "codigo_cliente": "45428",
+                        "desc_cliente": "NAIR MARIA BUNN 02807311911"
+                    },
+                    {
+                        "codigo_cliente": "59647",
+                        "desc_cliente": "POSTO DO LIRIO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "56128",
+                        "desc_cliente": "POSTO M AVIAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "54903",
+                        "desc_cliente": "PRAIA E MAR COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "70632",
                         "desc_cliente": "RESTAURANTE PLANALTO 3 LTDA"
                     },
                     {
                         "codigo_cliente": "16804",
                         "desc_cliente": "REST. E LANCH. RANCHO WENCESLAU LTDA"
+                    },
+                    {
+                        "codigo_cliente": "54754",
+                        "desc_cliente": "R.M. DE LARA OLIVEIRA - MINIMERCADO"
+                    },
+                    {
+                        "codigo_cliente": "44718",
+                        "desc_cliente": "ROBERTO ANDRE CORTE 04037261901"
+                    },
+                    {
+                        "codigo_cliente": "31983",
+                        "desc_cliente": "ROCKES COMERCIO VAREJISTA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "48164",
+                        "desc_cliente": "RODINALDO HOLLUP 07231240941"
                     },
                     {
                         "codigo_cliente": "54861",
@@ -17456,18 +17608,82 @@
                         "desc_cliente": "SOLVING SOLUCOES LTDA"
                     },
                     {
+                        "codigo_cliente": "65771",
+                        "desc_cliente": "SOMMAS COMBUSTIVEIS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "63734",
+                        "desc_cliente": "SUPERMERCADO BITTENCOURT COM. VAREJISTA DE MERCADORIAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "43987",
+                        "desc_cliente": "SUPERMERCADO BOOZ LTDA"
+                    },
+                    {
                         "codigo_cliente": "54053",
                         "desc_cliente": "SUPERMERCADO COSTA ESMERALDA LTDA"
                     },
                     {
+                        "codigo_cliente": "62858",
+                        "desc_cliente": "SUPERMERCADO DAL MAGO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "48706",
+                        "desc_cliente": "SUPERMERCADO MASTER EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "39969",
+                        "desc_cliente": "SUPERMERCADO MONTIBELLER LTDA"
+                    },
+                    {
+                        "codigo_cliente": "63018",
+                        "desc_cliente": "SUPERMERCADO MUNHOZ LTDA"
+                    },
+                    {
+                        "codigo_cliente": "25949",
+                        "desc_cliente": "SUPERMERCADO S & V LTDA - EPP"
+                    },
+                    {
                         "codigo_cliente": "49150",
                         "desc_cliente": "SUPERMERCADO ZIMBROS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66187",
+                        "desc_cliente": "TREVISO COMBUSTÍVEIS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44487",
+                        "desc_cliente": "VERDUREIRA SABOR DA TERRA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "63822",
+                        "desc_cliente": "VIVENDA EXPRESS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "63256",
+                        "desc_cliente": "YGEIA COMERCIO DE ALIMENTOS LTDA"
                     }
                 ],
                 "363 - VERATONI": [
                     {
                         "codigo_cliente": "29035",
                         "desc_cliente": "G.S SUPERMERCADO LTDA"
+                    }
+                ],
+                "403 - DIVINA TERRA": [
+                    {
+                        "codigo_cliente": "62828",
+                        "desc_cliente": "GRV COMERCIO DE SUPLEMENTOS E PRODUTOS NATURAIS LTDA"
+                    }
+                ],
+                "551 - REDE FIFO": [
+                    {
+                        "codigo_cliente": "41192",
+                        "desc_cliente": "REDE FIFO VIVIANE SCHNEIDER LTDA"
+                    },
+                    {
+                        "codigo_cliente": "41193",
+                        "desc_cliente": "REDE FIFO VIVIANE SCHNEIDER LTDA"
                     }
                 ],
                 "606 - GIRASSOL": [
@@ -19599,232 +19815,6 @@
                     }
                 ]
             },
-            "1116": {
-                "1186 - OFERTÃO": [
-                    {
-                        "codigo_cliente": "61666",
-                        "desc_cliente": "SUPERMERCADO M.A. LTDA"
-                    },
-                    {
-                        "codigo_cliente": "63724",
-                        "desc_cliente": "SUPERMERCADO M.A. LTDA"
-                    }
-                ],
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "48126",
-                        "desc_cliente": "ADEGA UAI TCHE PRODUTOS ALIMENTICIOS E BEBIDAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67251",
-                        "desc_cliente": "ANDRE LUIS VAGHETTI"
-                    },
-                    {
-                        "codigo_cliente": "62586",
-                        "desc_cliente": "AUTO POSTO CANAA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44524",
-                        "desc_cliente": "CATIA DE MELO"
-                    },
-                    {
-                        "codigo_cliente": "44488",
-                        "desc_cliente": "CELIA REGINA DA SILVA"
-                    },
-                    {
-                        "codigo_cliente": "62432",
-                        "desc_cliente": "CLARA VOLTOLINI VARGAS"
-                    },
-                    {
-                        "codigo_cliente": "39968",
-                        "desc_cliente": "COMERCIAL DE ALIMENTOS R.P.J.LTDA"
-                    },
-                    {
-                        "codigo_cliente": "6976",
-                        "desc_cliente": "COMERCIAL PEDROTTI LTDA - ME"
-                    },
-                    {
-                        "codigo_cliente": "52614",
-                        "desc_cliente": "COMERCIO DE PRODUTOS ALIMENTICIOS MELO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "48268",
-                        "desc_cliente": "COMERCIO VAREJISTA GRAOS MANIAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "58035",
-                        "desc_cliente": "CRISTIANO STALOCH"
-                    },
-                    {
-                        "codigo_cliente": "39963",
-                        "desc_cliente": "FILIPY GATTIS 10135996910"
-                    },
-                    {
-                        "codigo_cliente": "60841",
-                        "desc_cliente": "F&Z SUPERMERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "39229",
-                        "desc_cliente": "GATTIS COMERCIO ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "56574",
-                        "desc_cliente": "HOTEL E CHURRASCARIA CANSIAN LTDA"
-                    },
-                    {
-                        "codigo_cliente": "41606",
-                        "desc_cliente": "JANETE ANDREA MARCHIORI"
-                    },
-                    {
-                        "codigo_cliente": "54016",
-                        "desc_cliente": "JMC AUTO POSTO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "63818",
-                        "desc_cliente": "JOAO VITTOR DOS SANTOS JUSTINO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "55532",
-                        "desc_cliente": "JOSIANE PATRICIA DAROSCI"
-                    },
-                    {
-                        "codigo_cliente": "35863",
-                        "desc_cliente": "MATIAS FARIA SUPERMERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "62859",
-                        "desc_cliente": "MERCADO GULA DO BRASIL COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "55085",
-                        "desc_cliente": "MERCADO TANIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "63753",
-                        "desc_cliente": "MERCADO VILLA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "41604",
-                        "desc_cliente": "MERCEARIA TOMASI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69598",
-                        "desc_cliente": "MINI MERCADO DA BARRA NORTE LTDA"
-                    },
-                    {
-                        "codigo_cliente": "63325",
-                        "desc_cliente": "MINIMERCADO EMPORIO ECONOMICO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44523",
-                        "desc_cliente": "MINIMERCADO MELO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "48776",
-                        "desc_cliente": "MINIMERCADO MINATTI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "45428",
-                        "desc_cliente": "NAIR MARIA BUNN 02807311911"
-                    },
-                    {
-                        "codigo_cliente": "59647",
-                        "desc_cliente": "POSTO DO LIRIO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "56128",
-                        "desc_cliente": "POSTO M AVIAO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "54903",
-                        "desc_cliente": "PRAIA E MAR COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "54754",
-                        "desc_cliente": "R.M. DE LARA OLIVEIRA - MINIMERCADO"
-                    },
-                    {
-                        "codigo_cliente": "44718",
-                        "desc_cliente": "ROBERTO ANDRE CORTE 04037261901"
-                    },
-                    {
-                        "codigo_cliente": "31983",
-                        "desc_cliente": "ROCKES COMERCIO VAREJISTA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "48164",
-                        "desc_cliente": "RODINALDO HOLLUP 07231240941"
-                    },
-                    {
-                        "codigo_cliente": "65771",
-                        "desc_cliente": "SOMMAS COMBUSTIVEIS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "63734",
-                        "desc_cliente": "SUPERMERCADO BITTENCOURT COM. VAREJISTA DE MERCADORIAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "43987",
-                        "desc_cliente": "SUPERMERCADO BOOZ LTDA"
-                    },
-                    {
-                        "codigo_cliente": "62858",
-                        "desc_cliente": "SUPERMERCADO DAL MAGO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "48706",
-                        "desc_cliente": "SUPERMERCADO MASTER EIRELI"
-                    },
-                    {
-                        "codigo_cliente": "39969",
-                        "desc_cliente": "SUPERMERCADO MONTIBELLER LTDA"
-                    },
-                    {
-                        "codigo_cliente": "63018",
-                        "desc_cliente": "SUPERMERCADO MUNHOZ LTDA"
-                    },
-                    {
-                        "codigo_cliente": "25949",
-                        "desc_cliente": "SUPERMERCADO S & V LTDA - EPP"
-                    },
-                    {
-                        "codigo_cliente": "66187",
-                        "desc_cliente": "TREVISO COMBUSTÍVEIS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44487",
-                        "desc_cliente": "VERDUREIRA SABOR DA TERRA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "63822",
-                        "desc_cliente": "VIVENDA EXPRESS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "63256",
-                        "desc_cliente": "YGEIA COMERCIO DE ALIMENTOS LTDA"
-                    }
-                ],
-                "403 - DIVINA TERRA": [
-                    {
-                        "codigo_cliente": "62828",
-                        "desc_cliente": "GRV COMERCIO DE SUPLEMENTOS E PRODUTOS NATURAIS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "32373",
-                        "desc_cliente": "TATSCH E LEITE ALIMENTOS E SUPLEMENTOS LTDA - ME"
-                    }
-                ],
-                "551 - REDE FIFO": [
-                    {
-                        "codigo_cliente": "41192",
-                        "desc_cliente": "REDE FIFO VIVIANE SCHNEIDER LTDA"
-                    },
-                    {
-                        "codigo_cliente": "41193",
-                        "desc_cliente": "REDE FIFO VIVIANE SCHNEIDER LTDA"
-                    }
-                ]
-            },
             "1186": {
                 "1233 - VILI GULA - SC": [
                     {
@@ -20228,6 +20218,14 @@
                     {
                         "codigo_cliente": "30732",
                         "desc_cliente": "GTOP DISTRIBUICAO LTDA"
+                    }
+                ]
+            },
+            "1116": {
+                "403 - DIVINA TERRA": [
+                    {
+                        "codigo_cliente": "32373",
+                        "desc_cliente": "TATSCH E LEITE ALIMENTOS E SUPLEMENTOS LTDA - ME"
                     }
                 ]
             },
@@ -34640,6 +34638,12 @@
                         "desc_cliente": "CENTERMASTERSUL DISTRIBUIDORA DE ALIMENTOS LTDA"
                     }
                 ],
+                "106 - TRISKLE": [
+                    {
+                        "codigo_cliente": "18875",
+                        "desc_cliente": "EGL EMPREEND. E ALIMENTOS LTDA"
+                    }
+                ],
                 "113 - C&C EMP": [
                     {
                         "codigo_cliente": "65544",
@@ -41889,7 +41893,7 @@
                     }
                 ]
             },
-            "1110": {
+            "1205": {
                 "1096 - SUPERKIBARATO ATACAREJO": [
                     {
                         "codigo_cliente": "41349",
@@ -41908,12 +41912,32 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "63471",
+                        "desc_cliente": "12.311.362 VALDIR GONCALVES DO NASCIMENTO"
+                    },
+                    {
                         "codigo_cliente": "62915",
                         "desc_cliente": "52.641.069 LIDIANE FERREIRA GOUVEA"
                     },
                     {
                         "codigo_cliente": "65596",
                         "desc_cliente": "55.000.938 ALEXANDRO DA SILVA RODRIGUES DOS SANTOS"
+                    },
+                    {
+                        "codigo_cliente": "40644",
+                        "desc_cliente": "AMIGAOZAO MERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "37474",
+                        "desc_cliente": "AMM X COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "43110",
+                        "desc_cliente": "AMSTERDAM MARKETS PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "40940",
+                        "desc_cliente": "BAR E MERC PORTO ALEGRE DE CAXIAS LTDA"
                     },
                     {
                         "codigo_cliente": "48304",
@@ -41936,6 +41960,10 @@
                         "desc_cliente": "CEREAIS E MERCEARIA ESTRELA DO IPE LTDA"
                     },
                     {
+                        "codigo_cliente": "57094",
+                        "desc_cliente": "COMERCIAL MILANO BRASIL LTDA"
+                    },
+                    {
                         "codigo_cliente": "4473",
                         "desc_cliente": "CRISTINA DA S R NOBRE MERCADO"
                     },
@@ -41944,8 +41972,28 @@
                         "desc_cliente": "EL SHADAY CEREAIS E MERCEARIA 2018 LTDA"
                     },
                     {
+                        "codigo_cliente": "69408",
+                        "desc_cliente": "EMPORIO DOS VINHOS E QUEIJOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "63396",
+                        "desc_cliente": "FAMDE COMERCIO E ATACADO ALIMENTICIO LTDA"
+                    },
+                    {
                         "codigo_cliente": "63930",
                         "desc_cliente": "FAZENDA COISAS DE MINAS COMERCIO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "54551",
+                        "desc_cliente": "FRUITWAY HORTIFRUTI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "63219",
+                        "desc_cliente": "HORTI PRIME BRASIL LTDA."
+                    },
+                    {
+                        "codigo_cliente": "43490",
+                        "desc_cliente": "LORD RODRIGO COMERCIO DE COMBUSTIVEIS LTDA"
                     },
                     {
                         "codigo_cliente": "46471",
@@ -41968,6 +42016,10 @@
                         "desc_cliente": "MERCADO RIBEIRO DE LIMA LTDA"
                     },
                     {
+                        "codigo_cliente": "51848",
+                        "desc_cliente": "MERCADO UNIDOS DO BRASIL LTDA"
+                    },
+                    {
                         "codigo_cliente": "56592",
                         "desc_cliente": "MERCEARIA 15 DE JANEIRO LTDA"
                     },
@@ -41976,8 +42028,16 @@
                         "desc_cliente": "MERCEARIA 15 DE JANEIRO LTDA"
                     },
                     {
+                        "codigo_cliente": "54882",
+                        "desc_cliente": "MERCEARIA BUENA VISTA LTDA"
+                    },
+                    {
                         "codigo_cliente": "2374",
                         "desc_cliente": "MERCEARIA MONTE ALEGRE DO MARAPICU LTDA"
+                    },
+                    {
+                        "codigo_cliente": "54881",
+                        "desc_cliente": "MERCEARIA NOVA VIDA DE DUQUE DE CAXIAS LTDA"
                     },
                     {
                         "codigo_cliente": "47248",
@@ -41988,8 +42048,16 @@
                         "desc_cliente": "MINI MERCADO MAIS PRECO LTDA"
                     },
                     {
+                        "codigo_cliente": "31978",
+                        "desc_cliente": "MINI MERCADO POLESI LTDA"
+                    },
+                    {
                         "codigo_cliente": "21770",
                         "desc_cliente": "NOVA BJ COMERCIO DE HORTIFRUTIGRANJEIROS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "64999",
+                        "desc_cliente": "NYC FRUT MINIMERCADO & HORTIFRUTI LTDA"
                     },
                     {
                         "codigo_cliente": "46946",
@@ -42008,8 +42076,16 @@
                         "desc_cliente": "REI DO NORTE PRODUTOS ALIMENTICIOS EIRELI "
                     },
                     {
+                        "codigo_cliente": "46060",
+                        "desc_cliente": "RN PRODUTOS NORDESTINO "
+                    },
+                    {
                         "codigo_cliente": "8259",
                         "desc_cliente": "RS MERCADO VAREJISTA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "47814",
+                        "desc_cliente": "SUPERDOCE COMERCIAL LTDA"
                     },
                     {
                         "codigo_cliente": "46774",
@@ -42046,7 +42122,107 @@
                         "desc_cliente": "SERVI SUPERMERCADOS EIRELI"
                     }
                 ],
+                "332 - ALTERNATIVO": [
+                    {
+                        "codigo_cliente": "37479",
+                        "desc_cliente": "AST VOVO LEDA COMERCIO DE ALIMENTOS EIRELI"
+                    }
+                ],
+                "391 - REDE ECONOMIA RJ": [
+                    {
+                        "codigo_cliente": "35680",
+                        "desc_cliente": "CESTA DE ALIMENTOS  BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "27635",
+                        "desc_cliente": "CESTA DE ALIMENTOS BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "27637",
+                        "desc_cliente": "CESTA DE ALIMENTOS BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "27638",
+                        "desc_cliente": "CESTA DE ALIMENTOS BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "33963",
+                        "desc_cliente": "CESTA DE ALIMENTOS BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "37018",
+                        "desc_cliente": "CESTA DE ALIMENTOS BRASIL LTDA"
+                    }
+                ],
                 "522 - RIO SUL": [
+                    {
+                        "codigo_cliente": "65252",
+                        "desc_cliente": "MATA ATLANTICA MERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "65387",
+                        "desc_cliente": "MERCADO AVENIDA SP LTDA"
+                    },
+                    {
+                        "codigo_cliente": "48536",
+                        "desc_cliente": "MERCADO RIO SUL DA FIGUEIRA EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "37386",
+                        "desc_cliente": "MERCADO RIO SUL DA VILA OPERARIA LTDA."
+                    },
+                    {
+                        "codigo_cliente": "61912",
+                        "desc_cliente": "MERCADO RIO SUL DA VILA OPERÁRIA LTDA."
+                    },
+                    {
+                        "codigo_cliente": "35060",
+                        "desc_cliente": "MERCADO RIO SUL DE CAMPOS ELISEOS EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "63269",
+                        "desc_cliente": "MERCADO RIO SUL DE FRAGOSO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "36674",
+                        "desc_cliente": "MERCADO RIO SUL DE ITABORAI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "65251",
+                        "desc_cliente": "MERCADO RIO SUL DE MAUA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "63259",
+                        "desc_cliente": "MERCADO RIO SUL DE PIABETA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "65250",
+                        "desc_cliente": "MERCADO RIO SUL DO IMPERADOR LTDA"
+                    },
+                    {
+                        "codigo_cliente": "65253",
+                        "desc_cliente": "MERCADO RIO SUL JARDIM ANHANGA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "36641",
+                        "desc_cliente": "MERCADO RIO SUL PARADA MODELO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "61910",
+                        "desc_cliente": "MERCADO RIO SUL PARQUE ELDORADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "32027",
+                        "desc_cliente": "RIO NORTE SUPERMERCADO EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "40215",
+                        "desc_cliente": "RIO SUL SUPERMERCADO EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "36221",
+                        "desc_cliente": "SUPERMERCADO RIO SUL DA VILA SAO LUIS LTDA"
+                    },
                     {
                         "codigo_cliente": "58913",
                         "desc_cliente": "SUPERMERCADO RIO SUL DE NILOPOLIS LTDA"
@@ -42068,6 +42244,16 @@
                         "desc_cliente": "SUPERMERCADOS RIO SUL DE PRIMAVERA LTDA"
                     }
                 ],
+                "586 - FAVO DE MEL": [
+                    {
+                        "codigo_cliente": "48125",
+                        "desc_cliente": "FAVO DE MEL PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "53176",
+                        "desc_cliente": "FAVO DE MEL PRODUTOS ALIMENTICIOS LTDA"
+                    }
+                ],
                 "68 - CASAS GUANABARA": [
                     {
                         "codigo_cliente": "22350",
@@ -42075,6 +42261,10 @@
                     },
                     {
                         "codigo_cliente": "22354",
+                        "desc_cliente": "CASAS GUANABARA COMESTIVEIS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "22356",
                         "desc_cliente": "CASAS GUANABARA COMESTIVEIS LTDA"
                     }
                 ],
@@ -42721,204 +42911,6 @@
                     }
                 ]
             },
-            "1187": {
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "63471",
-                        "desc_cliente": "12.311.362 VALDIR GONCALVES DO NASCIMENTO"
-                    },
-                    {
-                        "codigo_cliente": "40644",
-                        "desc_cliente": "AMIGAOZAO MERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "37474",
-                        "desc_cliente": "AMM X COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "43110",
-                        "desc_cliente": "AMSTERDAM MARKETS PRODUTOS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "40940",
-                        "desc_cliente": "BAR E MERC PORTO ALEGRE DE CAXIAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "57094",
-                        "desc_cliente": "COMERCIAL MILANO BRASIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69408",
-                        "desc_cliente": "EMPORIO DOS VINHOS E QUEIJOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "63396",
-                        "desc_cliente": "FAMDE COMERCIO E ATACADO ALIMENTICIO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "54551",
-                        "desc_cliente": "FRUITWAY HORTIFRUTI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "63219",
-                        "desc_cliente": "HORTI PRIME BRASIL LTDA."
-                    },
-                    {
-                        "codigo_cliente": "43490",
-                        "desc_cliente": "LORD RODRIGO COMERCIO DE COMBUSTIVEIS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "51848",
-                        "desc_cliente": "MERCADO UNIDOS DO BRASIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "54882",
-                        "desc_cliente": "MERCEARIA BUENA VISTA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "54881",
-                        "desc_cliente": "MERCEARIA NOVA VIDA DE DUQUE DE CAXIAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "31978",
-                        "desc_cliente": "MINI MERCADO POLESI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "64999",
-                        "desc_cliente": "NYC FRUT MINIMERCADO & HORTIFRUTI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "46060",
-                        "desc_cliente": "RN PRODUTOS NORDESTINO "
-                    },
-                    {
-                        "codigo_cliente": "47814",
-                        "desc_cliente": "SUPERDOCE COMERCIAL LTDA"
-                    }
-                ],
-                "332 - ALTERNATIVO": [
-                    {
-                        "codigo_cliente": "37479",
-                        "desc_cliente": "AST VOVO LEDA COMERCIO DE ALIMENTOS EIRELI"
-                    }
-                ],
-                "391 - REDE ECONOMIA RJ": [
-                    {
-                        "codigo_cliente": "35680",
-                        "desc_cliente": "CESTA DE ALIMENTOS  BRASIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "27635",
-                        "desc_cliente": "CESTA DE ALIMENTOS BRASIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "27637",
-                        "desc_cliente": "CESTA DE ALIMENTOS BRASIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "27638",
-                        "desc_cliente": "CESTA DE ALIMENTOS BRASIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "33963",
-                        "desc_cliente": "CESTA DE ALIMENTOS BRASIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "37018",
-                        "desc_cliente": "CESTA DE ALIMENTOS BRASIL LTDA"
-                    }
-                ],
-                "522 - RIO SUL": [
-                    {
-                        "codigo_cliente": "65252",
-                        "desc_cliente": "MATA ATLANTICA MERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "65387",
-                        "desc_cliente": "MERCADO AVENIDA SP LTDA"
-                    },
-                    {
-                        "codigo_cliente": "48536",
-                        "desc_cliente": "MERCADO RIO SUL DA FIGUEIRA EIRELI"
-                    },
-                    {
-                        "codigo_cliente": "37386",
-                        "desc_cliente": "MERCADO RIO SUL DA VILA OPERARIA LTDA."
-                    },
-                    {
-                        "codigo_cliente": "61912",
-                        "desc_cliente": "MERCADO RIO SUL DA VILA OPERÁRIA LTDA."
-                    },
-                    {
-                        "codigo_cliente": "35060",
-                        "desc_cliente": "MERCADO RIO SUL DE CAMPOS ELISEOS EIRELI"
-                    },
-                    {
-                        "codigo_cliente": "63269",
-                        "desc_cliente": "MERCADO RIO SUL DE FRAGOSO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "36674",
-                        "desc_cliente": "MERCADO RIO SUL DE ITABORAI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "65251",
-                        "desc_cliente": "MERCADO RIO SUL DE MAUA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "63259",
-                        "desc_cliente": "MERCADO RIO SUL DE PIABETA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "65250",
-                        "desc_cliente": "MERCADO RIO SUL DO IMPERADOR LTDA"
-                    },
-                    {
-                        "codigo_cliente": "65253",
-                        "desc_cliente": "MERCADO RIO SUL JARDIM ANHANGA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "36641",
-                        "desc_cliente": "MERCADO RIO SUL PARADA MODELO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "61910",
-                        "desc_cliente": "MERCADO RIO SUL PARQUE ELDORADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "32027",
-                        "desc_cliente": "RIO NORTE SUPERMERCADO EIRELI"
-                    },
-                    {
-                        "codigo_cliente": "40215",
-                        "desc_cliente": "RIO SUL SUPERMERCADO EIRELI"
-                    },
-                    {
-                        "codigo_cliente": "36221",
-                        "desc_cliente": "SUPERMERCADO RIO SUL DA VILA SAO LUIS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "39499",
-                        "desc_cliente": "SUPERMERCADOS RIO SUL DE PRIMAVERA LTDA"
-                    }
-                ],
-                "586 - FAVO DE MEL": [
-                    {
-                        "codigo_cliente": "48125",
-                        "desc_cliente": "FAVO DE MEL PRODUTOS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "53176",
-                        "desc_cliente": "FAVO DE MEL PRODUTOS ALIMENTICIOS LTDA"
-                    }
-                ],
-                "68 - CASAS GUANABARA": [
-                    {
-                        "codigo_cliente": "22356",
-                        "desc_cliente": "CASAS GUANABARA COMESTIVEIS LTDA"
-                    }
-                ]
-            },
             "1184": {
                 "1 - GERAL": [
                     {
@@ -42931,11 +42923,27 @@
                     }
                 ]
             },
+            "1187": {
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "63219",
+                        "desc_cliente": "HORTI PRIME BRASIL LTDA."
+                    }
+                ]
+            },
             "937": {
                 "1 - GERAL": [
                     {
                         "codigo_cliente": "39204",
                         "desc_cliente": "UBIMAR MINI MERCADO EIRELI"
+                    }
+                ]
+            },
+            "1110": {
+                "522 - RIO SUL": [
+                    {
+                        "codigo_cliente": "39499",
+                        "desc_cliente": "SUPERMERCADOS RIO SUL DE PRIMAVERA LTDA"
                     }
                 ]
             },
@@ -54558,6 +54566,10 @@
                         "desc_cliente": "J A LIMA & CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "70969",
+                        "desc_cliente": "JEFFERSON LUIS DE SOUZA RODRIGUES"
+                    },
+                    {
                         "codigo_cliente": "68424",
                         "desc_cliente": "JOSE AMIR AYRES BAHU"
                     },
@@ -61548,6 +61560,10 @@
                         "desc_cliente": "FRANCIELE SILVA GARCIA"
                     },
                     {
+                        "codigo_cliente": "70945",
+                        "desc_cliente": "FRANCISCO CHAVES CECHET"
+                    },
+                    {
                         "codigo_cliente": "68909",
                         "desc_cliente": "FRANCISCO FERREIRA"
                     },
@@ -61930,6 +61946,10 @@
                     {
                         "codigo_cliente": "55266",
                         "desc_cliente": "GUILHERME MARCELINO RIBEIRO"
+                    },
+                    {
+                        "codigo_cliente": "70949",
+                        "desc_cliente": "GUILHERME ROEHE"
                     },
                     {
                         "codigo_cliente": "69131",
@@ -62584,10 +62604,6 @@
                         "desc_cliente": "JIACOMO BEUXBONORINO"
                     },
                     {
-                        "codigo_cliente": "62708",
-                        "desc_cliente": "JILIANO NOGUEIRA"
-                    },
-                    {
                         "codigo_cliente": "68054",
                         "desc_cliente": "JOAO ABEL DA SILVA BENKE"
                     },
@@ -63166,6 +63182,10 @@
                     {
                         "codigo_cliente": "61781",
                         "desc_cliente": "JULIANO GEIS"
+                    },
+                    {
+                        "codigo_cliente": "62708",
+                        "desc_cliente": "JULIANO NOGUEIRA"
                     },
                     {
                         "codigo_cliente": "67171",
@@ -66148,6 +66168,10 @@
                         "desc_cliente": "ROGER GODINHO BENDER "
                     },
                     {
+                        "codigo_cliente": "70972",
+                        "desc_cliente": "ROGERIO DOS SANTOS NUNES"
+                    },
+                    {
                         "codigo_cliente": "67906",
                         "desc_cliente": "ROGERIO FERREIRA BANDAS"
                     },
@@ -68740,6 +68764,10 @@
                         "desc_cliente": "ANDRE MONTEIRO SILVA"
                     },
                     {
+                        "codigo_cliente": "70942",
+                        "desc_cliente": "ANDRE SILVA JACUNIAK"
+                    },
+                    {
                         "codigo_cliente": "60593",
                         "desc_cliente": "ANDRESSA LEITE DA SILVA"
                     },
@@ -69282,6 +69310,10 @@
                     {
                         "codigo_cliente": "70600",
                         "desc_cliente": "CARINE WAMBOMMEL"
+                    },
+                    {
+                        "codigo_cliente": "70946",
+                        "desc_cliente": "CARIN GERBER KUPSKE"
                     },
                     {
                         "codigo_cliente": "53316",
@@ -70572,6 +70604,10 @@
                         "desc_cliente": "ELIANE MENEGASSO"
                     },
                     {
+                        "codigo_cliente": "70948",
+                        "desc_cliente": "ELIANE OGATA"
+                    },
+                    {
                         "codigo_cliente": "67257",
                         "desc_cliente": "ELIANE RODACKI"
                     },
@@ -71468,6 +71504,10 @@
                         "desc_cliente": "GIOVANA TAVARES BARWALDT"
                     },
                     {
+                        "codigo_cliente": "70944",
+                        "desc_cliente": "GIOVANI BERTOLAZI BRAZIL"
+                    },
+                    {
                         "codigo_cliente": "70542",
                         "desc_cliente": "GIOVANI RIBEIRO DA SILVA"
                     },
@@ -71710,6 +71750,10 @@
                     {
                         "codigo_cliente": "69949",
                         "desc_cliente": "HELIO LUSSE ALMEIDA MISSURA"
+                    },
+                    {
+                        "codigo_cliente": "70952",
+                        "desc_cliente": "HELIO MIRANDA"
                     },
                     {
                         "codigo_cliente": "67164",
@@ -72848,6 +72892,10 @@
                         "desc_cliente": "KELLE M F F ANGELO"
                     },
                     {
+                        "codigo_cliente": "70947",
+                        "desc_cliente": "KELLI DAIANA KLEIN"
+                    },
+                    {
                         "codigo_cliente": "65787",
                         "desc_cliente": "KELLY ANDRIS LOPES"
                     },
@@ -73484,6 +73532,10 @@
                         "desc_cliente": "LUISA MASSI CORREA"
                     },
                     {
+                        "codigo_cliente": "70950",
+                        "desc_cliente": "LUISA MONTEIRO DE ALMEIDA"
+                    },
+                    {
                         "codigo_cliente": "69192",
                         "desc_cliente": "LUIS ANTONIO DOS SANTOS"
                     },
@@ -73886,6 +73938,10 @@
                     {
                         "codigo_cliente": "70017",
                         "desc_cliente": "MARCOS YUDY CAVAGUCHI"
+                    },
+                    {
+                        "codigo_cliente": "70970",
+                        "desc_cliente": "MARCO TULIO DA FONSECA MATEUS"
                     },
                     {
                         "codigo_cliente": "48505",
@@ -74774,6 +74830,10 @@
                     {
                         "codigo_cliente": "65090",
                         "desc_cliente": "NICOLA COLUCCI"
+                    },
+                    {
+                        "codigo_cliente": "70951",
+                        "desc_cliente": "NICOLE GOULART SAVIATTO"
                     },
                     {
                         "codigo_cliente": "69653",
@@ -75814,6 +75874,10 @@
                     {
                         "codigo_cliente": "67662",
                         "desc_cliente": "RODRIGO FERNANDO GERARDI"
+                    },
+                    {
+                        "codigo_cliente": "70971",
+                        "desc_cliente": "RODRIGO MANOEL RIBEIRO"
                     },
                     {
                         "codigo_cliente": "58925",

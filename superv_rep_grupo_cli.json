@@ -13900,6 +13900,10 @@
                         "desc_cliente": "MAIKO VINICIUS DALLAGNOL STOEBERL"
                     },
                     {
+                        "codigo_cliente": "8577",
+                        "desc_cliente": "MARCELO HUEBL"
+                    },
+                    {
                         "codigo_cliente": "8764",
                         "desc_cliente": "MERCADO DANANY LTDA ME"
                     },
@@ -15004,6 +15008,10 @@
                     {
                         "codigo_cliente": "29361",
                         "desc_cliente": "POSTO DE COMBUSTIVEL BONTORIN LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70805",
+                        "desc_cliente": "POSTO MB CESCA LTDA"
                     },
                     {
                         "codigo_cliente": "4643",
@@ -19582,6 +19590,10 @@
                     {
                         "codigo_cliente": "18404",
                         "desc_cliente": "IOLANDA GUSAVA - ME"
+                    },
+                    {
+                        "codigo_cliente": "28907",
+                        "desc_cliente": "JAIME HOSTINS - EPP"
                     },
                     {
                         "codigo_cliente": "66290",
@@ -30650,6 +30662,10 @@
                         "desc_cliente": "MERCADO A PARADA DO MOTORISTA LTDA"
                     },
                     {
+                        "codigo_cliente": "25084",
+                        "desc_cliente": "MERCADO BEM BOM"
+                    },
+                    {
                         "codigo_cliente": "37928",
                         "desc_cliente": "MERCADO BUSS LTDA"
                     },
@@ -30806,6 +30822,10 @@
                         "desc_cliente": "NEW TONER SOLUTION LTDA"
                     },
                     {
+                        "codigo_cliente": "70844",
+                        "desc_cliente": "NICOLINI GELATERIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "56587",
                         "desc_cliente": "NINA PRESENTES LTDA"
                     },
@@ -30854,6 +30874,14 @@
                         "desc_cliente": "RAITTZ COMERCIO DE ALIMENTOS EIRELI"
                     },
                     {
+                        "codigo_cliente": "69790",
+                        "desc_cliente": "RAITTZ COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "29495",
+                        "desc_cliente": "RAITZ COMERCIO DE BEBIDAS LTDA"
+                    },
+                    {
                         "codigo_cliente": "39497",
                         "desc_cliente": "REIS PEREIRA COMERCIO DE ALIMENTOS LTDA"
                     },
@@ -30892,6 +30920,10 @@
                     {
                         "codigo_cliente": "15947",
                         "desc_cliente": "S.L.G COMERCIO DE GENEROS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "32260",
+                        "desc_cliente": "SORVETERIA NAPOLI LTDA"
                     },
                     {
                         "codigo_cliente": "68420",

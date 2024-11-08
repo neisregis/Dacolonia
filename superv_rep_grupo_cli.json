@@ -16518,6 +16518,10 @@
                         "desc_cliente": "ARMAZEM NOVA PALMA LTDA"
                     },
                     {
+                        "codigo_cliente": "70974",
+                        "desc_cliente": "AUTO POSTO NOSSA SENHORA DE LOURDES LTDA"
+                    },
+                    {
                         "codigo_cliente": "15720",
                         "desc_cliente": "AVELINO FERRARI - ME"
                     },
@@ -84156,6 +84160,10 @@
                     {
                         "codigo_cliente": "69468",
                         "desc_cliente": "CARVALHO & BITTENCOURT LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70789",
+                        "desc_cliente": "R. DA S. FERREIRA - DROGARIA"
                     }
                 ]
             },

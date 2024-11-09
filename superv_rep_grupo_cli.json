@@ -67906,6 +67906,10 @@
                         "desc_cliente": "RONALDO SILVA"
                     },
                     {
+                        "codigo_cliente": "31106",
+                        "desc_cliente": "ROZAURA NARDI"
+                    },
+                    {
                         "codigo_cliente": "34414",
                         "desc_cliente": "SANDRA MARTINS"
                     },
@@ -68032,6 +68036,18 @@
                     {
                         "codigo_cliente": "56785",
                         "desc_cliente": "AMARILDO DEVENZZE "
+                    },
+                    {
+                        "codigo_cliente": "70988",
+                        "desc_cliente": "ARLINDO DA SILVA PEREIRA"
+                    },
+                    {
+                        "codigo_cliente": "70989",
+                        "desc_cliente": "NELSI CARDOSO BRUNO"
+                    },
+                    {
+                        "codigo_cliente": "70987",
+                        "desc_cliente": "SANDRO TIAGO GRUDKA"
                     },
                     {
                         "codigo_cliente": "70986",

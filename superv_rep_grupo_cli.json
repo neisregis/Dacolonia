@@ -44966,10 +44966,6 @@
                         "desc_cliente": "ELVIO EINLOFT"
                     },
                     {
-                        "codigo_cliente": "22709",
-                        "desc_cliente": "EVETE A STEYDING - ME"
-                    },
-                    {
                         "codigo_cliente": "44652",
                         "desc_cliente": "FABIANA DA SILVEIRA POLLETTI 04445083097"
                     },
@@ -53594,10 +53590,6 @@
                         "desc_cliente": "VALERIO DOLEYS ALPI"
                     },
                     {
-                        "codigo_cliente": "70841",
-                        "desc_cliente": "VIVIANE ROSA BORGES"
-                    },
-                    {
                         "codigo_cliente": "35010",
                         "desc_cliente": "V N PIVETTA"
                     },
@@ -59748,6 +59740,10 @@
                     {
                         "codigo_cliente": "68575",
                         "desc_cliente": "CARINA GRASEL"
+                    },
+                    {
+                        "codigo_cliente": "50372",
+                        "desc_cliente": "CARLA CONCEIÇAO OLIVEIRA ROSA DOS SANTOS"
                     },
                     {
                         "codigo_cliente": "66618",
@@ -68028,6 +68024,10 @@
                     {
                         "codigo_cliente": "56785",
                         "desc_cliente": "AMARILDO DEVENZZE "
+                    },
+                    {
+                        "codigo_cliente": "70986",
+                        "desc_cliente": "VILLIAN GEBESK"
                     }
                 ]
             },

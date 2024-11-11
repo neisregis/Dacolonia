@@ -34674,12 +34674,6 @@
                         "desc_cliente": "CENTERMASTERSUL DISTRIBUIDORA DE ALIMENTOS LTDA"
                     }
                 ],
-                "106 - TRISKLE": [
-                    {
-                        "codigo_cliente": "18875",
-                        "desc_cliente": "EGL EMPREEND. E ALIMENTOS LTDA"
-                    }
-                ],
                 "113 - C&C EMP": [
                     {
                         "codigo_cliente": "65544",
@@ -36455,14 +36449,6 @@
                     },
                     {
                         "codigo_cliente": "61710",
-                        "desc_cliente": "DOTTA SUPERMERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "70881",
-                        "desc_cliente": "DOTTA SUPERMERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "70882",
                         "desc_cliente": "DOTTA SUPERMERCADO LTDA"
                     },
                     {
@@ -38952,10 +38938,6 @@
                         "desc_cliente": "MINIMERCADO RIBEIRO E CASANOVA LTDA"
                     },
                     {
-                        "codigo_cliente": "26028",
-                        "desc_cliente": "PAULO ROBERTO PINHEIRO RIBEIRO E CIA LTDA - ME"
-                    },
-                    {
                         "codigo_cliente": "748",
                         "desc_cliente": "PEDRO MACARI E IRMAOS LTDA"
                     },
@@ -40066,6 +40048,10 @@
                     {
                         "codigo_cliente": "46357",
                         "desc_cliente": "CONFEITARIA LIDOMAR LTDA"
+                    },
+                    {
+                        "codigo_cliente": "12868",
+                        "desc_cliente": "CONFEITARIA MAJESTOSA DO JARDIM GUANABARA LTDA"
                     },
                     {
                         "codigo_cliente": "52874",
@@ -42362,10 +42348,6 @@
                     {
                         "codigo_cliente": "61939",
                         "desc_cliente": "CONFEITARIA E PANIFICACAO CASA VELHA DE BONSUCESSO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "12868",
-                        "desc_cliente": "CONFEITARIA MAJ DO J. GUANABARA LTDA"
                     },
                     {
                         "codigo_cliente": "23060",
@@ -46252,10 +46234,6 @@
                     {
                         "codigo_cliente": "39851",
                         "desc_cliente": "FILIPE BECHER PEREIRA 03114897029"
-                    },
-                    {
-                        "codigo_cliente": "43101",
-                        "desc_cliente": "FRANCIELE DOS SANTOS MACHADO"
                     },
                     {
                         "codigo_cliente": "68701",
@@ -59262,6 +59240,10 @@
                         "desc_cliente": "ANDERSON MACHADO RAMOS"
                     },
                     {
+                        "codigo_cliente": "51172",
+                        "desc_cliente": "ANDERSON SANTOS DE SÁ"
+                    },
+                    {
                         "codigo_cliente": "50355",
                         "desc_cliente": "ANDERSON WILLIAN COSTA DA SILVA"
                     },
@@ -64482,6 +64464,10 @@
                         "desc_cliente": "MARCELO DOS SANTOS ALBORNOZ"
                     },
                     {
+                        "codigo_cliente": "61711",
+                        "desc_cliente": "MARCELO DOS SANTOS DA SILVA"
+                    },
+                    {
                         "codigo_cliente": "50274",
                         "desc_cliente": "MARCELO DOS SANTOS DUARTE"
                     },
@@ -68094,8 +68080,16 @@
                         "desc_cliente": "DEVERSON PAZ"
                     },
                     {
+                        "codigo_cliente": "71022",
+                        "desc_cliente": "GEAN CARDOSO"
+                    },
+                    {
                         "codigo_cliente": "70990",
                         "desc_cliente": "HIAGO FERRUGEM CARDOSO"
+                    },
+                    {
+                        "codigo_cliente": "71017",
+                        "desc_cliente": "JULIO CESAR SILVA DOS SANTOS"
                     },
                     {
                         "codigo_cliente": "70993",

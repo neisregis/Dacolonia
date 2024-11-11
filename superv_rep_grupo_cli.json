@@ -12157,6 +12157,12 @@
                         "codigo_cliente": "61907",
                         "desc_cliente": "JUMBO COMERCIO DE UTILIDADES LTDA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71038",
+                        "desc_cliente": "CONDOR SUPER CENTER LTDA"
+                    }
                 ]
             },
             "1127": {
@@ -12238,6 +12244,10 @@
                     {
                         "codigo_cliente": "48615",
                         "desc_cliente": "AUTO POSTO VERDETTO COMERCIO DE COMBUSTIVEIS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "18498",
+                        "desc_cliente": "BONTORIN & CIA LTDA"
                     },
                     {
                         "codigo_cliente": "58259",
@@ -37880,6 +37890,10 @@
                         "desc_cliente": "OLIVAS RESTS EMPRESARIAIS LTDA"
                     },
                     {
+                        "codigo_cliente": "70941",
+                        "desc_cliente": "OLIVAS RESTS EMPRESARIAIS LTDA"
+                    },
+                    {
                         "codigo_cliente": "40564",
                         "desc_cliente": "ORA FITT COM DE ALIMENTOS EIRELI"
                     },
@@ -48210,6 +48224,10 @@
                     {
                         "codigo_cliente": "54597",
                         "desc_cliente": "MASTER FRIOS COMERCIAL DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "62603",
+                        "desc_cliente": "MBR ATACADISTA DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "45068",

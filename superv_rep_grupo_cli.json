@@ -32715,6 +32715,12 @@
                         "codigo_cliente": "46323",
                         "desc_cliente": "CASA DELIZA LTDA."
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71025",
+                        "desc_cliente": "MARIA APARECIDA MENDONCA FARIA ME"
+                    }
                 ]
             },
             "799": {
@@ -53764,6 +53770,10 @@
                         "desc_cliente": "FELIPE GERMANO DA ROCHA"
                     },
                     {
+                        "codigo_cliente": "63502",
+                        "desc_cliente": "FPM COMERCIO VAREJISTA DE BEBIDAS LTDA"
+                    },
+                    {
                         "codigo_cliente": "53869",
                         "desc_cliente": "ILSE T. BECKER"
                     },
@@ -60852,6 +60862,10 @@
                     {
                         "codigo_cliente": "50097",
                         "desc_cliente": "EDIMAR BARCELOS SILVA"
+                    },
+                    {
+                        "codigo_cliente": "22857",
+                        "desc_cliente": "EDIMILSON RIBEIRO DA SILVA"
                     },
                     {
                         "codigo_cliente": "59941",
@@ -68094,6 +68108,14 @@
                         "desc_cliente": "AMARILDO DEVENZZE "
                     },
                     {
+                        "codigo_cliente": "71030",
+                        "desc_cliente": "ANA ANGELICA WILSKE"
+                    },
+                    {
+                        "codigo_cliente": "71033",
+                        "desc_cliente": "ANDREIA DA SILVA"
+                    },
+                    {
                         "codigo_cliente": "70988",
                         "desc_cliente": "ARLINDO DA SILVA PEREIRA"
                     },
@@ -68126,6 +68148,14 @@
                         "desc_cliente": "JULIO CESAR SILVA DOS SANTOS"
                     },
                     {
+                        "codigo_cliente": "71028",
+                        "desc_cliente": "KELLY DA SILVA DAVILA"
+                    },
+                    {
+                        "codigo_cliente": "71031",
+                        "desc_cliente": "LUCELIA VASCONCELOS DA SILVA"
+                    },
+                    {
                         "codigo_cliente": "70993",
                         "desc_cliente": "LUCILA STEREIT"
                     },
@@ -68138,12 +68168,20 @@
                         "desc_cliente": "NELSI CARDOSO BRUNO"
                     },
                     {
+                        "codigo_cliente": "71034",
+                        "desc_cliente": "PRISCILA HILARIO"
+                    },
+                    {
                         "codigo_cliente": "70995",
                         "desc_cliente": "ROGERIO CARDOSO"
                     },
                     {
                         "codigo_cliente": "70987",
                         "desc_cliente": "SANDRO TIAGO GRUDKA"
+                    },
+                    {
+                        "codigo_cliente": "71029",
+                        "desc_cliente": "SERGIO AUGUSTO SALAU WILLIERS"
                     },
                     {
                         "codigo_cliente": "71002",

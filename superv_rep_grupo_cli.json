@@ -19118,6 +19118,10 @@
                         "desc_cliente": "KOCH HIPERMERCADO S/A"
                     },
                     {
+                        "codigo_cliente": "70998",
+                        "desc_cliente": "KOCH HIPERMERCADO S/A"
+                    },
+                    {
                         "codigo_cliente": "33947",
                         "desc_cliente": "KOCH HIPERMERCADOS S/A"
                     },
@@ -19424,12 +19428,6 @@
                     {
                         "codigo_cliente": "18667",
                         "desc_cliente": "ZELLA DE SOUZA & CIA LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "70998",
-                        "desc_cliente": "KOCH HIPERMERCADO S/A."
                     }
                 ]
             },
@@ -28336,6 +28334,10 @@
                     {
                         "codigo_cliente": "68334",
                         "desc_cliente": "L.A. DA SILVA ATACADISTA"
+                    },
+                    {
+                        "codigo_cliente": "71003",
+                        "desc_cliente": "N. BEVILACQUA JUNIOR LTDA"
                     }
                 ],
                 "613 - N BEVILACQUA": [
@@ -28358,12 +28360,6 @@
                     {
                         "codigo_cliente": "55683",
                         "desc_cliente": "N. BEVILACQUA JUNIOR EIRELI"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71003",
-                        "desc_cliente": "N BEVILACQUA JUNIOR LTDA"
                     }
                 ]
             },
@@ -77898,10 +77894,6 @@
                         "desc_cliente": "J. P. DE LIMA LTDA"
                     },
                     {
-                        "codigo_cliente": "62017",
-                        "desc_cliente": "J. R. DE MOURA LTDA"
-                    },
-                    {
                         "codigo_cliente": "39124",
                         "desc_cliente": "JR DE MOURA MINIMERCADO EIRELI"
                     },
@@ -78012,6 +78004,10 @@
                     {
                         "codigo_cliente": "41098",
                         "desc_cliente": "MERCADO MERCAMAX LTDA"
+                    },
+                    {
+                        "codigo_cliente": "62017",
+                        "desc_cliente": "MERCADO MOURA LTDA"
                     },
                     {
                         "codigo_cliente": "37777",

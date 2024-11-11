@@ -28359,6 +28359,12 @@
                         "codigo_cliente": "55683",
                         "desc_cliente": "N. BEVILACQUA JUNIOR EIRELI"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71003",
+                        "desc_cliente": "N BEVILACQUA JUNIOR LTDA"
+                    }
                 ]
             },
             "1196": {
@@ -28900,6 +28906,10 @@
                     {
                         "codigo_cliente": "56353",
                         "desc_cliente": "SAMIRA MACIEL BROCCA 00606296069"
+                    },
+                    {
+                        "codigo_cliente": "59684",
+                        "desc_cliente": "SANDRO COSTA SOCIEDADE LIMITADA UNIPESSOAL"
                     },
                     {
                         "codigo_cliente": "31195",
@@ -31262,10 +31272,6 @@
                     {
                         "codigo_cliente": "19153",
                         "desc_cliente": "MERCEARIA CARAVAGGIO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "59684",
-                        "desc_cliente": "SANDRO COSTA SOCIEDADE LIMITADA UNIPESSOAL"
                     },
                     {
                         "codigo_cliente": "26256",
@@ -46588,6 +46594,10 @@
                         "desc_cliente": "S. SECCO PIZZARIA"
                     },
                     {
+                        "codigo_cliente": "38060",
+                        "desc_cliente": "STOP MERCADO E CONVENIENCIAS LTDA"
+                    },
+                    {
                         "codigo_cliente": "18181",
                         "desc_cliente": "TALTIBIO PACHECO FIALHO"
                     },
@@ -47910,6 +47920,10 @@
                     {
                         "codigo_cliente": "69100",
                         "desc_cliente": "DA TERRA ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69766",
+                        "desc_cliente": "DIVINA COMERCIO DE ARTIGOS PARA FESTAS LTDA"
                     },
                     {
                         "codigo_cliente": "65483",
@@ -68104,6 +68118,10 @@
                         "desc_cliente": "SANDRO TIAGO GRUDKA"
                     },
                     {
+                        "codigo_cliente": "71002",
+                        "desc_cliente": "TATIANE BRIGONI"
+                    },
+                    {
                         "codigo_cliente": "70986",
                         "desc_cliente": "VILLIAN GEBESK"
                     }
@@ -68634,6 +68652,10 @@
                     {
                         "codigo_cliente": "65469",
                         "desc_cliente": "ANA CLAUDIA MASCIETTO RUZZA BUCK"
+                    },
+                    {
+                        "codigo_cliente": "71001",
+                        "desc_cliente": "ANA CLAUDIA MROZ"
                     },
                     {
                         "codigo_cliente": "69523",

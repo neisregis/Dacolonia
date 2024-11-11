@@ -2803,6 +2803,12 @@
                         "codigo_cliente": "54940",
                         "desc_cliente": "QUITANDA COMERCIO DE ALIMENTOS LTDA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "70999",
+                        "desc_cliente": "G&M COMERCIO DE ALIMENTOS LTDA"
+                    }
                 ]
             },
             "1091": {
@@ -36307,7 +36313,7 @@
                 "null": [
                     {
                         "codigo_cliente": "70996",
-                        "desc_cliente": "LUANA VIVIANE LINHARES DE OLIVEIRA"
+                        "desc_cliente": "46.477.382 LUANA VIVIANE LINHARES DE OLIVEIRA"
                     }
                 ]
             },

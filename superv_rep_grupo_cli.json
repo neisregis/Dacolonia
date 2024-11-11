@@ -26300,11 +26300,7 @@
                         "desc_cliente": "D C RIBEIRO MUNDIAL SUPERMERCADOS"
                     }
                 ],
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "65100",
-                        "desc_cliente": "CL BRASIL ALIMENTOS LTDA"
-                    },
+                "1365 - SUPER MS ATACADO E VAREJO ": [
                     {
                         "codigo_cliente": "69364",
                         "desc_cliente": "DISTRIBUIDORA DE ALIMENTOS MS LTDA"
@@ -26312,6 +26308,12 @@
                     {
                         "codigo_cliente": "70940",
                         "desc_cliente": "DISTRIBUIDORA DE ALIMENTOS MS LTDA"
+                    }
+                ],
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "65100",
+                        "desc_cliente": "CL BRASIL ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "48851",
@@ -36309,6 +36311,12 @@
                         "codigo_cliente": "406",
                         "desc_cliente": "SUPERMERCADO CODEBAL LTDA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "70996",
+                        "desc_cliente": "LUANA VIVIANE LINHARES DE OLIVEIRA"
+                    }
                 ]
             },
             "1180": {
@@ -44296,6 +44304,10 @@
                         "desc_cliente": "MERCADO VERSALE LTDA"
                     },
                     {
+                        "codigo_cliente": "70994",
+                        "desc_cliente": "MERCADO WEBER ARROIO MEIO LTDA"
+                    },
+                    {
                         "codigo_cliente": "29259",
                         "desc_cliente": "MS COMERCIO E PALESTRAS LTDA"
                     },
@@ -44688,12 +44700,6 @@
                     {
                         "codigo_cliente": "6254",
                         "desc_cliente": "VENDRAMINI & FILHO LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "70994",
-                        "desc_cliente": "MERCADO WEBER ARROIO DO MEIO LTDA"
                     }
                 ]
             },
@@ -56269,7 +56275,7 @@
                     },
                     {
                         "codigo_cliente": "70981",
-                        "desc_cliente": "IRIS DURKS MATTANA EIRELI ME"
+                        "desc_cliente": "IRIS DURKS MATTANA LTDA"
                     },
                     {
                         "codigo_cliente": "54907",
@@ -68082,6 +68088,10 @@
                     {
                         "codigo_cliente": "70989",
                         "desc_cliente": "NELSI CARDOSO BRUNO"
+                    },
+                    {
+                        "codigo_cliente": "70995",
+                        "desc_cliente": "ROGERIO CARDOSO"
                     },
                     {
                         "codigo_cliente": "70987",

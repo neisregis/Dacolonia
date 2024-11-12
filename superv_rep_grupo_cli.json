@@ -1218,6 +1218,10 @@
                         "desc_cliente": "COMERCIAL SURPRESA LTDA"
                     },
                     {
+                        "codigo_cliente": "57817",
+                        "desc_cliente": "COMERCIAL W.A. LTDA"
+                    },
+                    {
                         "codigo_cliente": "37225",
                         "desc_cliente": "COMERCIO VAREJISTA GLOBO EIRELI"
                     },
@@ -1570,6 +1574,12 @@
                     {
                         "codigo_cliente": "54581",
                         "desc_cliente": "QUEIROZ E CASTRO LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71107",
+                        "desc_cliente": "MERCEARIA ALVES E TEIXEIRA LTDA"
                     }
                 ]
             },
@@ -12608,6 +12618,10 @@
                         "desc_cliente": "SAMUEL COSTA ROSA E CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "59836",
+                        "desc_cliente": "SANDRIOLI AUTO SERVICO DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "58688",
                         "desc_cliente": "SCAPINI COMERCIO DE ALIMENTOS LTDA"
                     },
@@ -22446,6 +22460,10 @@
                     {
                         "codigo_cliente": "33780",
                         "desc_cliente": "IRELIO DE OLIVEIRA KNOFF"
+                    },
+                    {
+                        "codigo_cliente": "33612",
+                        "desc_cliente": "JOAO DA S DE OLIVEIRA"
                     },
                     {
                         "codigo_cliente": "47858",

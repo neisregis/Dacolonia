@@ -1,3 +1,4 @@
+<script>
 document.addEventListener('DOMContentLoaded', function() {
     // Verifica se a API do Telegram WebApp está disponível
     if (window.Telegram && window.Telegram.WebApp) {
@@ -83,7 +84,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    // Faz a requisição e filtra os clientes pelo código do representante ou supervisor
+    // Faz a requisição e filtra os clientes pelo código do representante, supervisor, ou carrega todos os dados
     fetch(url)
     .then(response => response.json())
     .then(data => {
@@ -134,7 +135,26 @@ document.addEventListener('DOMContentLoaded', function() {
                 document.getElementById('listaClientes').innerHTML = 'Nenhum cliente encontrado para este representante.';
             }
         } else {
-            document.getElementById('listaClientes').innerHTML = 'Nenhum código de supervisor ou representante fornecido.';
+            // Caso nenhum código seja fornecido, carrega todos os dados
+            let clientesPorGrupo = {};
+
+            Object.keys(data).forEach(sup => {
+                const representantes = data[sup]['representantes'];
+                Object.values(representantes).forEach(grupos => {
+                    Object.keys(grupos).forEach(grupo => {
+                        if (!clientesPorGrupo[grupo]) {
+                            clientesPorGrupo[grupo] = [];
+                        }
+                        // Concatena e ordena os clientes do grupo em ordem alfabética
+                        clientesPorGrupo[grupo] = clientesPorGrupo[grupo]
+                            .concat(grupos[grupo])
+                            .sort((a, b) => a.desc_cliente.localeCompare(b.desc_cliente));
+                    });
+                });
+            });
+
+            // Exibe todos os clientes na página
+            exibirClientes(clientesPorGrupo);
         }
     })
     .catch(error => console.error('Erro ao buscar os dados:', error));
@@ -175,3 +195,4 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 });
+</script>

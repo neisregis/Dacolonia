@@ -34096,6 +34096,10 @@
                         "desc_cliente": "ARMAZEM DA MONTANHA LTDA"
                     },
                     {
+                        "codigo_cliente": "44832",
+                        "desc_cliente": "ATACA DOCES, BEBIDAS E ARTIGOS DE FESTAS LTDA"
+                    },
+                    {
                         "codigo_cliente": "65357",
                         "desc_cliente": "ATACA DOCES, BEBIDAS E ARTIGOS DE FESTAS LTDA"
                     },
@@ -44452,6 +44456,10 @@
                         "desc_cliente": "POSTO SHOPPING CAR COMBUSTIVEIS LTDA"
                     },
                     {
+                        "codigo_cliente": "71039",
+                        "desc_cliente": "POSTO SINGULAR CACHOEIRA DO SUL LTDA"
+                    },
+                    {
                         "codigo_cliente": "60547",
                         "desc_cliente": "PRASS SUPER E ATACADO LTDA"
                     },
@@ -44816,6 +44824,12 @@
                     {
                         "codigo_cliente": "6254",
                         "desc_cliente": "VENDRAMINI & FILHO LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71087",
+                        "desc_cliente": "LUIS CLAUDIOMIR DE AVILA & CIA LTDA"
                     }
                 ]
             },

@@ -23966,6 +23966,10 @@
                         "desc_cliente": "DISTRIBUIDORA DE ALIMENTOS ACORIANA LTDA"
                     },
                     {
+                        "codigo_cliente": "21239",
+                        "desc_cliente": "DISTRIBUIDORA DE CEREAIS CITTON LTDA"
+                    },
+                    {
                         "codigo_cliente": "29336",
                         "desc_cliente": "DN SUPERMERCADO LTDA"
                     },
@@ -37989,6 +37993,10 @@
                     },
                     {
                         "codigo_cliente": "56796",
+                        "desc_cliente": "OLIVAS RESTS EMPRESARIAIS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70941",
                         "desc_cliente": "OLIVAS RESTS EMPRESARIAIS LTDA"
                     },
                     {

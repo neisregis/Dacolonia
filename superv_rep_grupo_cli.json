@@ -8292,6 +8292,10 @@
                         "desc_cliente": "L. L. SHIMANOE TUROZZI LTDA"
                     },
                     {
+                        "codigo_cliente": "60610",
+                        "desc_cliente": "L M G GRUBISICH PRODUTOS NATURAIS"
+                    },
+                    {
                         "codigo_cliente": "54965",
                         "desc_cliente": "LOMBARDI SANTOS & CIA LTDA"
                     },
@@ -29102,6 +29106,10 @@
                         "desc_cliente": "COMERCIAL JUNCKES LTDA"
                     },
                     {
+                        "codigo_cliente": "71041",
+                        "desc_cliente": "COMERCIAL KS LTDA"
+                    },
+                    {
                         "codigo_cliente": "37078",
                         "desc_cliente": "DE COL COMERCIO DE PRODUTOS EIRELI"
                     },
@@ -29426,12 +29434,6 @@
                     {
                         "codigo_cliente": "30813",
                         "desc_cliente": "FILIPE FLAUMIRO OSORIO REPRESENTACOES COMERCIAIS"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71041",
-                        "desc_cliente": "COMERCIAL KS EIRELI"
                     }
                 ]
             },
@@ -34052,10 +34054,6 @@
                     {
                         "codigo_cliente": "12826",
                         "desc_cliente": "ARMAZEM DA MONTANHA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44832",
-                        "desc_cliente": "ATACA DOCES, BEBIDAS E ARTIGOS DE FESTAS LTDA"
                     },
                     {
                         "codigo_cliente": "65357",
@@ -49585,10 +49583,6 @@
                 "1081 - SUPER CURY QUEIROZ - SP": [
                     {
                         "codigo_cliente": "58862",
-                        "desc_cliente": "SUPERMERCADO CURY QUEIROZ LTDA"
-                    },
-                    {
-                        "codigo_cliente": "58863",
                         "desc_cliente": "SUPERMERCADO CURY QUEIROZ LTDA"
                     },
                     {
@@ -68196,6 +68190,14 @@
                         "desc_cliente": "DEVERSON PAZ"
                     },
                     {
+                        "codigo_cliente": "71061",
+                        "desc_cliente": "EDIMAR GRUDKA"
+                    },
+                    {
+                        "codigo_cliente": "71058",
+                        "desc_cliente": "FRUTAMIX CONVENIENCIA GRUDKA LTDA."
+                    },
+                    {
                         "codigo_cliente": "71022",
                         "desc_cliente": "GEAN CARDOSO"
                     },
@@ -68230,6 +68232,10 @@
                     {
                         "codigo_cliente": "71034",
                         "desc_cliente": "PRISCILA HILARIO"
+                    },
+                    {
+                        "codigo_cliente": "71074",
+                        "desc_cliente": "RANIERI ROSA"
                     },
                     {
                         "codigo_cliente": "70995",
@@ -81916,6 +81922,10 @@
                     {
                         "codigo_cliente": "56297",
                         "desc_cliente": "GOMES E GOMES SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44345",
+                        "desc_cliente": "HOLDEFER SUPERMERCADO LTDA"
                     },
                     {
                         "codigo_cliente": "37186",

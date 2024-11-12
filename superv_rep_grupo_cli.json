@@ -1238,6 +1238,10 @@
                         "desc_cliente": "CRISTO REI LTDA"
                     },
                     {
+                        "codigo_cliente": "71051",
+                        "desc_cliente": "EMPORIO JOAB LTDA"
+                    },
+                    {
                         "codigo_cliente": "27561",
                         "desc_cliente": "EMPREENDIMENTOS SOUZA LTDA"
                     },
@@ -1348,6 +1352,10 @@
                     {
                         "codigo_cliente": "22185",
                         "desc_cliente": "SUPERMERCADO QUEBA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71043",
+                        "desc_cliente": "SUPERMERCADO SALIBA MOREIRA LTDA"
                     },
                     {
                         "codigo_cliente": "40417",
@@ -1562,16 +1570,6 @@
                     {
                         "codigo_cliente": "54581",
                         "desc_cliente": "QUEIROZ E CASTRO LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71051",
-                        "desc_cliente": "EMPORIO JOAB LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71043",
-                        "desc_cliente": "SUPERMERCADO SALIBA MOREIRA LTDA"
                     }
                 ]
             },
@@ -7656,6 +7654,10 @@
                         "desc_cliente": "N R NOCHI PRODUTOS NATURAIS LTDA"
                     },
                     {
+                        "codigo_cliente": "44602",
+                        "desc_cliente": "O. CATANIO & CIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "40422",
                         "desc_cliente": "ONOFRE PIZZANI & CIA LTDA"
                     },
@@ -8662,10 +8664,6 @@
                     {
                         "codigo_cliente": "52660",
                         "desc_cliente": "N RONQUI & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44602",
-                        "desc_cliente": "O. CATANIO & CIA LTDA"
                     },
                     {
                         "codigo_cliente": "64291",
@@ -17480,6 +17478,34 @@
                         "desc_cliente": "CINE GRACHER LTDA"
                     },
                     {
+                        "codigo_cliente": "71042",
+                        "desc_cliente": "CINE GRACHER LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71044",
+                        "desc_cliente": "CINE GRACHER LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71045",
+                        "desc_cliente": "CINE GRACHER LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71046",
+                        "desc_cliente": "CINE GRACHER LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71048",
+                        "desc_cliente": "CINE GRACHER LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71049",
+                        "desc_cliente": "CINE GRACHER LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71050",
+                        "desc_cliente": "CINE GRACHER LTDA"
+                    },
+                    {
                         "codigo_cliente": "62432",
                         "desc_cliente": "CLARA VOLTOLINI VARGAS"
                     },
@@ -17756,6 +17782,16 @@
                     {
                         "codigo_cliente": "44663",
                         "desc_cliente": "CRISTIANO STALOCH"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71079",
+                        "desc_cliente": "CINE GRACHER LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71080",
+                        "desc_cliente": "CINE GRACHER LTDA"
                     }
                 ]
             },
@@ -32620,6 +32656,10 @@
                         "desc_cliente": "LAGOINHA DISTRIBUIDORA DE ALIMENTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "71025",
+                        "desc_cliente": "MARIA APARECIDA DE MENDONCA FARIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "53446",
                         "desc_cliente": "MERCADINHO FK LTDA"
                     },
@@ -32754,12 +32794,6 @@
                     {
                         "codigo_cliente": "46323",
                         "desc_cliente": "CASA DELIZA LTDA."
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71025",
-                        "desc_cliente": "MARIA APARECIDA MENDONCA FARIA ME"
                     }
                 ]
             },
@@ -33564,6 +33598,10 @@
                         "desc_cliente": "M & S SUPERMERCADO LTDA"
                     },
                     {
+                        "codigo_cliente": "71027",
+                        "desc_cliente": "NAKA PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "60239",
                         "desc_cliente": "PAI & FILHO COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
                     },
@@ -33676,12 +33714,6 @@
                     {
                         "codigo_cliente": "46562",
                         "desc_cliente": "COMERCIAL PEREIRA DA SILVA LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71027",
-                        "desc_cliente": "NAKA PRODUTOS ALIMENTÍCIOS LTDA"
                     }
                 ]
             },
@@ -41340,6 +41372,10 @@
                         "desc_cliente": "MERCADO E MERCEARIA PADRAO LTDA"
                     },
                     {
+                        "codigo_cliente": "48780",
+                        "desc_cliente": "MERCADO FAMILIA NOVA GERACAO LTDA"
+                    },
+                    {
                         "codigo_cliente": "54150",
                         "desc_cliente": "MERCADO IRAJA COMERCIO DE ALIMENTOS LTDA"
                     },
@@ -44184,6 +44220,10 @@
                         "desc_cliente": "DIPEL PAPELR E MATS DE ESCRITORIO LTDA"
                     },
                     {
+                        "codigo_cliente": "71040",
+                        "desc_cliente": "DISTRIBUIDORA DIAN LTDA"
+                    },
+                    {
                         "codigo_cliente": "11548",
                         "desc_cliente": "DOLGENER ALIMENTOS LTDA"
                     },
@@ -44752,12 +44792,6 @@
                     {
                         "codigo_cliente": "6254",
                         "desc_cliente": "VENDRAMINI & FILHO LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71040",
-                        "desc_cliente": "LUIS  CLAUDIOMAR DE  AVILA &  CIA LTDA"
                     }
                 ]
             },
@@ -49583,6 +49617,10 @@
                 "1081 - SUPER CURY QUEIROZ - SP": [
                     {
                         "codigo_cliente": "58862",
+                        "desc_cliente": "SUPERMERCADO CURY QUEIROZ LTDA"
+                    },
+                    {
+                        "codigo_cliente": "58863",
                         "desc_cliente": "SUPERMERCADO CURY QUEIROZ LTDA"
                     },
                     {
@@ -54938,6 +54976,12 @@
                     {
                         "codigo_cliente": "15064",
                         "desc_cliente": "ULISSES BRUNO PAZINI & CIA LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71078",
+                        "desc_cliente": "MATHEUS LIMA OLIVEIRA"
                     }
                 ]
             },
@@ -68178,6 +68222,10 @@
                         "desc_cliente": "BRUNO FERREIRA RITTER"
                     },
                     {
+                        "codigo_cliente": "71084",
+                        "desc_cliente": "CLOVIS HUMBERTO GONÇALVES"
+                    },
+                    {
                         "codigo_cliente": "70992",
                         "desc_cliente": "CRISTIANO DA SILVA BOEIRA"
                     },
@@ -68428,6 +68476,10 @@
                     {
                         "codigo_cliente": "68077",
                         "desc_cliente": "ALESSANDRA CELLA DE COSTA WOUTERS"
+                    },
+                    {
+                        "codigo_cliente": "71057",
+                        "desc_cliente": "ALESSANDRA DE LIMA COSTA"
                     },
                     {
                         "codigo_cliente": "53860",
@@ -70090,6 +70142,10 @@
                         "desc_cliente": "CLAUDIA GUIDARINI"
                     },
                     {
+                        "codigo_cliente": "71066",
+                        "desc_cliente": "CLAUDIA MARIA GUISANTES ZANETTI MAROCHI"
+                    },
+                    {
                         "codigo_cliente": "57378",
                         "desc_cliente": "CLAUDIA MARISA SHLOSSER"
                     },
@@ -70260,6 +70316,10 @@
                     {
                         "codigo_cliente": "41359",
                         "desc_cliente": "CRISTINA LENZ MENTGES"
+                    },
+                    {
+                        "codigo_cliente": "71063",
+                        "desc_cliente": "CRISTINA LOPES DA SILVA"
                     },
                     {
                         "codigo_cliente": "64463",
@@ -71410,6 +71470,10 @@
                         "desc_cliente": "FERNANDA MACHADO VIEITEZ REIS"
                     },
                     {
+                        "codigo_cliente": "71052",
+                        "desc_cliente": "FERNANDA MICHEL DA ROSA"
+                    },
+                    {
                         "codigo_cliente": "69340",
                         "desc_cliente": "FERNANDA PAIVA HOSOUME"
                     },
@@ -71596,6 +71660,10 @@
                     {
                         "codigo_cliente": "64958",
                         "desc_cliente": "FRANCISCO HIRAKAZU KAMEYAMA"
+                    },
+                    {
+                        "codigo_cliente": "71053",
+                        "desc_cliente": "FRANCYELLE FERREIRA DA SILVA"
                     },
                     {
                         "codigo_cliente": "69064",
@@ -72498,6 +72566,10 @@
                         "desc_cliente": "JEFERSON SOARES DE OLIVEIRA"
                     },
                     {
+                        "codigo_cliente": "71054",
+                        "desc_cliente": "JEFFERSON FERREIRA BRANDAO"
+                    },
+                    {
                         "codigo_cliente": "66039",
                         "desc_cliente": "JEFFERSON FONSECA KRAETZIG"
                     },
@@ -73036,6 +73108,10 @@
                     {
                         "codigo_cliente": "61477",
                         "desc_cliente": "JULIA ROSA"
+                    },
+                    {
+                        "codigo_cliente": "71060",
+                        "desc_cliente": "JULIA SALMORIA DAVID"
                     },
                     {
                         "codigo_cliente": "67353",
@@ -73750,6 +73826,10 @@
                         "desc_cliente": "LUCIANA GASPARI MADUREIRA BALTAZAR DA SILVEIRA"
                     },
                     {
+                        "codigo_cliente": "71070",
+                        "desc_cliente": "LUCIANA GASPERIN"
+                    },
+                    {
                         "codigo_cliente": "59717",
                         "desc_cliente": "LUCIANA GROU RECHER"
                     },
@@ -73824,6 +73904,10 @@
                     {
                         "codigo_cliente": "64721",
                         "desc_cliente": "LUCIDE CHECON"
+                    },
+                    {
+                        "codigo_cliente": "71068",
+                        "desc_cliente": "LUCIENE ANTONIO"
                     },
                     {
                         "codigo_cliente": "66840",
@@ -73980,6 +74064,10 @@
                     {
                         "codigo_cliente": "41967",
                         "desc_cliente": "LUIZ SERGIO GUIMARAES"
+                    },
+                    {
+                        "codigo_cliente": "71055",
+                        "desc_cliente": "LUIZ VENTURA"
                     },
                     {
                         "codigo_cliente": "67660",
@@ -74270,6 +74358,10 @@
                         "desc_cliente": "MARCOS ROBERTO FURLAN"
                     },
                     {
+                        "codigo_cliente": "44673",
+                        "desc_cliente": "MARCOS RODRIGO PADILHA"
+                    },
+                    {
                         "codigo_cliente": "65456",
                         "desc_cliente": "MARCOS VINICIUS GOMES"
                     },
@@ -74488,6 +74580,10 @@
                     {
                         "codigo_cliente": "68405",
                         "desc_cliente": "MARIANE HARTMANN CRESPI"
+                    },
+                    {
+                        "codigo_cliente": "71059",
+                        "desc_cliente": "MARIANE ROMAN"
                     },
                     {
                         "codigo_cliente": "68560",
@@ -74756,6 +74852,10 @@
                     {
                         "codigo_cliente": "55176",
                         "desc_cliente": "MATHEUS OLIVEIRA CASTRO"
+                    },
+                    {
+                        "codigo_cliente": "71062",
+                        "desc_cliente": "MATHEUS OMAIRI REINHEIMER"
                     },
                     {
                         "codigo_cliente": "65632",
@@ -75626,6 +75726,10 @@
                         "desc_cliente": "RAFAELA APARECIDA SILVA"
                     },
                     {
+                        "codigo_cliente": "71056",
+                        "desc_cliente": "RAFAELA BERTUZZO"
+                    },
+                    {
                         "codigo_cliente": "56821",
                         "desc_cliente": "RAFAEL AFONSO CICHELERO"
                     },
@@ -76472,6 +76576,10 @@
                     {
                         "codigo_cliente": "65928",
                         "desc_cliente": "SABRINA MARIA"
+                    },
+                    {
+                        "codigo_cliente": "71065",
+                        "desc_cliente": "SABRINA MOUTRAN B M THOME"
                     },
                     {
                         "codigo_cliente": "66274",

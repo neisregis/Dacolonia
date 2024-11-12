@@ -85,83 +85,88 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Faz a requisição e filtra os clientes pelo código do representante, supervisor, ou carrega todos os dados
     fetch(url)
-    .then(response => {
-        if (!response.ok) {
-            throw new Error('Erro ao buscar o JSON');
-        }
-        return response.json();
-    })
-    .then(data => {
-        console.log(data); // Verifica o conteúdo do JSON no console
+		.then(response => {
+			if (!response.ok) {
+				throw new Error('Erro ao buscar o JSON');
+			}
+			return response.json();
+		})
+		.then(data => {
+			console.log(data); // Verifica o conteúdo do JSON no console
 
-        if (supCode) {
-            // Filtragem pelo código do supervisor
-            if (data[supCode]) {
-                const representantes = data[supCode]['representantes'];
-                let clientesPorGrupo = {};
+			if (supCode) {
+				// Filtragem pelo código do supervisor
+				if (data[supCode]) {
+					const representantes = data[supCode]['representantes'];
+					let clientesPorGrupo = {};
 
-                Object.values(representantes).forEach(grupos => {
-                    Object.keys(grupos).forEach(grupo => {
-                        if (!clientesPorGrupo[grupo]) {
-                            clientesPorGrupo[grupo] = [];
-                        }
-                        // Concatena e ordena os clientes do grupo em ordem alfabética
-                        clientesPorGrupo[grupo] = clientesPorGrupo[grupo]
-                            .concat(grupos[grupo])
-                            .sort((a, b) => a.desc_cliente.localeCompare(b.desc_cliente));
-                    });
-                });
+					Object.values(representantes).forEach(grupos => {
+						Object.keys(grupos).forEach(grupo => {
+							if (!clientesPorGrupo[grupo]) {
+								clientesPorGrupo[grupo] = [];
+							}
+							// Concatena e ordena os clientes do grupo em ordem alfabética
+							clientesPorGrupo[grupo] = clientesPorGrupo[grupo]
+								.concat(grupos[grupo])
+								.filter(cliente => cliente && cliente.desc_cliente) // Filtra clientes não nulos
+								.sort((a, b) => a.desc_cliente.localeCompare(b.desc_cliente));
+						});
+					});
 
-                // Exibe os clientes na página
-                exibirClientes(clientesPorGrupo);
-            } else {
-                document.getElementById('listaClientes').innerHTML = 'Nenhum cliente encontrado para este supervisor.';
-            }
-        } else if (repCode) {
-            // Filtragem pelo código do representante
-            let encontrado = false;
-            Object.keys(data).forEach(sup => {
-                const representantes = data[sup]['representantes'];
-                if (representantes[repCode]) {
-                    encontrado = true;
-                    const clientesPorGrupo = representantes[repCode];
+					// Exibe os clientes na página
+					exibirClientes(clientesPorGrupo);
+				} else {
+					document.getElementById('listaClientes').innerHTML = 'Nenhum cliente encontrado para este supervisor.';
+				}
+			} else if (repCode) {
+				// Filtragem pelo código do representante
+				let encontrado = false;
+				Object.keys(data).forEach(sup => {
+					const representantes = data[sup]['representantes'];
+					if (representantes[repCode]) {
+						encontrado = true;
+						const clientesPorGrupo = representantes[repCode];
 
-                    // Ordena os clientes de cada grupo do representante
-                    Object.keys(clientesPorGrupo).forEach(grupo => {
-                        clientesPorGrupo[grupo] = clientesPorGrupo[grupo].sort((a, b) => a.desc_cliente.localeCompare(b.desc_cliente));
-                    });
+						// Ordena os clientes de cada grupo do representante
+						Object.keys(clientesPorGrupo).forEach(grupo => {
+							clientesPorGrupo[grupo] = clientesPorGrupo[grupo]
+								.filter(cliente => cliente && cliente.desc_cliente) // Filtra clientes não nulos
+								.sort((a, b) => a.desc_cliente.localeCompare(b.desc_cliente));
+						});
 
-                    exibirClientes(clientesPorGrupo);
-                }
-            });
+						exibirClientes(clientesPorGrupo);
+					}
+				});
 
-            if (!encontrado) {
-                document.getElementById('listaClientes').innerHTML = 'Nenhum cliente encontrado para este representante.';
-            }
-        } else {
-            // Caso nenhum código seja fornecido, carrega todos os dados
-            let clientesPorGrupo = {};
+				if (!encontrado) {
+					document.getElementById('listaClientes').innerHTML = 'Nenhum cliente encontrado para este representante.';
+				}
+			} else {
+				// Caso nenhum código seja fornecido, carrega todos os dados
+				let clientesPorGrupo = {};
 
-            Object.keys(data).forEach(sup => {
-                const representantes = data[sup]['representantes'];
-                Object.values(representantes).forEach(grupos => {
-                    Object.keys(grupos).forEach(grupo => {
-                        if (!clientesPorGrupo[grupo]) {
-                            clientesPorGrupo[grupo] = [];
-                        }
-                        // Concatena e ordena os clientes do grupo em ordem alfabética
-                        clientesPorGrupo[grupo] = clientesPorGrupo[grupo]
-                            .concat(grupos[grupo])
-                            .sort((a, b) => a.desc_cliente.localeCompare(b.desc_cliente));
-                    });
-                });
-            });
+				Object.keys(data).forEach(sup => {
+					const representantes = data[sup]['representantes'];
+					Object.values(representantes).forEach(grupos => {
+						Object.keys(grupos).forEach(grupo => {
+							if (!clientesPorGrupo[grupo]) {
+								clientesPorGrupo[grupo] = [];
+							}
+							// Concatena e ordena os clientes do grupo em ordem alfabética
+							clientesPorGrupo[grupo] = clientesPorGrupo[grupo]
+								.concat(grupos[grupo])
+								.filter(cliente => cliente && cliente.desc_cliente) // Filtra clientes não nulos
+								.sort((a, b) => a.desc_cliente.localeCompare(b.desc_cliente));
+						});
+					});
+				});
 
-            // Exibe todos os clientes na página
-            exibirClientes(clientesPorGrupo);
-        }
-    })
-    .catch(error => console.error('Erro ao buscar os dados:', error));
+				// Exibe todos os clientes na página
+				exibirClientes(clientesPorGrupo);
+			}
+		})
+		.catch(error => console.error('Erro ao buscar os dados:', error));
+
 
     // Função para enviar dados para o Telegram e fechar o WebApp
     document.getElementById('enviarBtn').addEventListener('click', function() {

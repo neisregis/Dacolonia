@@ -17510,6 +17510,14 @@
                         "desc_cliente": "CINE GRACHER LTDA"
                     },
                     {
+                        "codigo_cliente": "71079",
+                        "desc_cliente": "CINE GRACHER LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71080",
+                        "desc_cliente": "CINE GRACHER LTDA"
+                    },
+                    {
                         "codigo_cliente": "62432",
                         "desc_cliente": "CLARA VOLTOLINI VARGAS"
                     },
@@ -17786,16 +17794,6 @@
                     {
                         "codigo_cliente": "44663",
                         "desc_cliente": "CRISTIANO STALOCH"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71079",
-                        "desc_cliente": "CINE GRACHER LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71080",
-                        "desc_cliente": "CINE GRACHER LTDA"
                     }
                 ]
             },
@@ -20273,6 +20271,12 @@
                         "codigo_cliente": "31054",
                         "desc_cliente": "CLAUDINEI LUIZ TASCA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71097",
+                        "desc_cliente": "ALINE APARECIDA SCABENI  ME"
+                    }
                 ]
             },
             "749": {
@@ -21232,6 +21236,10 @@
                         "desc_cliente": "CANTINA VO RENATO LTDA"
                     },
                     {
+                        "codigo_cliente": "71069",
+                        "desc_cliente": "CANTITO ACOUGUE E PADARIA SAO LUIZ LTDA"
+                    },
+                    {
                         "codigo_cliente": "43225",
                         "desc_cliente": "CAREME CAFE E PATISSERIE LTDA ME"
                     },
@@ -22021,12 +22029,6 @@
                         "codigo_cliente": "8632",
                         "desc_cliente": "DORNELLES E CIA LTDA"
                     }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71069",
-                        "desc_cliente": "CANTITO ACOUGUE E PADARIA SAO LUIZ LTDA"
-                    }
                 ]
             },
             "294": {
@@ -22726,6 +22728,12 @@
                     {
                         "codigo_cliente": "47763",
                         "desc_cliente": "COML ZAFFARI LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71098",
+                        "desc_cliente": "COMERCIAL ZAFFARI LTDA"
                     }
                 ]
             },
@@ -28198,6 +28206,10 @@
                         "desc_cliente": "COMERCIAL GLC1 DE GENEROS ALIMENTICIOS EIRELI"
                     },
                     {
+                        "codigo_cliente": "70780",
+                        "desc_cliente": "COMERCIAL SECOS E MOLHADO ELSHADAY LTDA"
+                    },
+                    {
                         "codigo_cliente": "53575",
                         "desc_cliente": "DIAMANTE COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
                     },
@@ -28248,6 +28260,10 @@
                     {
                         "codigo_cliente": "64563",
                         "desc_cliente": "MS CASTILHO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70311",
+                        "desc_cliente": "MX COMERCIO ATACADISTA LTDA"
                     },
                     {
                         "codigo_cliente": "61636",
@@ -42360,6 +42376,10 @@
                         "desc_cliente": "FAZENDA COISAS DE MINAS COMERCIO LTDA"
                     },
                     {
+                        "codigo_cliente": "38341",
+                        "desc_cliente": "F P CORDEIRO ACOUGUE LTDA"
+                    },
+                    {
                         "codigo_cliente": "54551",
                         "desc_cliente": "FRUITWAY HORTIFRUTI LTDA"
                     },
@@ -44374,6 +44394,10 @@
                         "desc_cliente": "LUIS CLAUDIOMIR DE AVILA & CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "71087",
+                        "desc_cliente": "LUIS CLAUDIOMIR DE AVILA & CIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "28952",
                         "desc_cliente": "LUIS CLAUDIOMIR DE AVILA & CIA LTDA - EPP"
                     },
@@ -44830,12 +44854,6 @@
                     {
                         "codigo_cliente": "6254",
                         "desc_cliente": "VENDRAMINI & FILHO LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71087",
-                        "desc_cliente": "LUIS CLAUDIOMIR DE AVILA & CIA LTDA"
                     }
                 ]
             },
@@ -52636,6 +52654,10 @@
                     {
                         "codigo_cliente": "70985",
                         "desc_cliente": "BRASILEIRAO ATACADO COM. DE PROD. ALIMENT. SOCIEDADE ANONIMA"
+                    },
+                    {
+                        "codigo_cliente": "71096",
+                        "desc_cliente": "EMBALAGENS MOGIANA COMERCIAL LTDA"
                     }
                 ]
             },
@@ -54890,6 +54912,10 @@
                         "desc_cliente": "MARTA IONE GONCALVES OLIVEIRA 75854627000"
                     },
                     {
+                        "codigo_cliente": "71078",
+                        "desc_cliente": "MATHEUS LIMA OLIVEIRA"
+                    },
+                    {
                         "codigo_cliente": "69135",
                         "desc_cliente": "MAURO MOTTA COM DE ALIMENTOS LTDA"
                     },
@@ -55024,12 +55050,6 @@
                     {
                         "codigo_cliente": "15064",
                         "desc_cliente": "ULISSES BRUNO PAZINI & CIA LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71078",
-                        "desc_cliente": "MATHEUS LIMA OLIVEIRA"
                     }
                 ]
             },
@@ -57974,6 +57994,10 @@
                         "desc_cliente": "CARREFOUR COMERCIO E INDUSTRIA LTDA"
                     },
                     {
+                        "codigo_cliente": "35311",
+                        "desc_cliente": "CARREFOUR COMERCIO E INDUSTRIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "41666",
                         "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
                     }
@@ -59460,6 +59484,10 @@
                     {
                         "codigo_cliente": "65235",
                         "desc_cliente": "ANDRE DUTRA DE OLIVEIRA"
+                    },
+                    {
+                        "codigo_cliente": "50714",
+                        "desc_cliente": " ANDRE GEORGI DA SILVA"
                     },
                     {
                         "codigo_cliente": "63604",
@@ -68296,6 +68324,10 @@
                     {
                         "codigo_cliente": "71022",
                         "desc_cliente": "GEAN CARDOSO"
+                    },
+                    {
+                        "codigo_cliente": "71102",
+                        "desc_cliente": "HELLEN VARGAS"
                     },
                     {
                         "codigo_cliente": "70990",

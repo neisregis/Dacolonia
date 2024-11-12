@@ -8292,10 +8292,6 @@
                         "desc_cliente": "L. L. SHIMANOE TUROZZI LTDA"
                     },
                     {
-                        "codigo_cliente": "60610",
-                        "desc_cliente": "L M G GRUBISICH PRODUTOS NATURAIS"
-                    },
-                    {
                         "codigo_cliente": "54965",
                         "desc_cliente": "LOMBARDI SANTOS & CIA LTDA"
                     },
@@ -12042,6 +12038,10 @@
                         "desc_cliente": "CONDOR SUPER CENTER LTDA"
                     },
                     {
+                        "codigo_cliente": "71038",
+                        "desc_cliente": "CONDOR SUPER CENTER LTDA"
+                    },
+                    {
                         "codigo_cliente": "3988",
                         "desc_cliente": "CONDOR SUPER CENTER LTDA - FILIAL 03"
                     },
@@ -12170,12 +12170,6 @@
                     {
                         "codigo_cliente": "61907",
                         "desc_cliente": "JUMBO COMERCIO DE UTILIDADES LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71038",
-                        "desc_cliente": "CONDOR SUPER CENTER LTDA"
                     }
                 ]
             },
@@ -14386,6 +14380,10 @@
                     {
                         "codigo_cliente": "66808",
                         "desc_cliente": "SUPERVIZA SUPERMERCADOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71026",
+                        "desc_cliente": "SUPERVIZA SUPERMERCADOS LTDA"
                     }
                 ],
                 "388 - ATACADO ECONOMICO": [
@@ -14432,12 +14430,6 @@
                     {
                         "codigo_cliente": "8032",
                         "desc_cliente": "IMPERIAL SUPERMERCADOS LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71026",
-                        "desc_cliente": "SUPERVIZA SUPERMERCADOS LTDA"
                     }
                 ]
             },
@@ -23904,6 +23896,10 @@
                     {
                         "codigo_cliente": "25540",
                         "desc_cliente": "DISTRIBUIDORA DE ALIMENTOS ACORIANA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "21239",
+                        "desc_cliente": "DISTRIBUIDORA DE CEREAIS CITTON LTDA"
                     },
                     {
                         "codigo_cliente": "29336",
@@ -49589,6 +49585,14 @@
                 "1081 - SUPER CURY QUEIROZ - SP": [
                     {
                         "codigo_cliente": "58862",
+                        "desc_cliente": "SUPERMERCADO CURY QUEIROZ LTDA"
+                    },
+                    {
+                        "codigo_cliente": "58863",
+                        "desc_cliente": "SUPERMERCADO CURY QUEIROZ LTDA"
+                    },
+                    {
+                        "codigo_cliente": "58864",
                         "desc_cliente": "SUPERMERCADO CURY QUEIROZ LTDA"
                     }
                 ],
@@ -81912,10 +81916,6 @@
                     {
                         "codigo_cliente": "56297",
                         "desc_cliente": "GOMES E GOMES SUPERMERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44345",
-                        "desc_cliente": "HOLDEFER SUPERMERCADO LTDA"
                     },
                     {
                         "codigo_cliente": "37186",

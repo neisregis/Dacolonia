@@ -7226,6 +7226,10 @@
                         "desc_cliente": "VILLELA & FERREIRA LTDA"
                     },
                     {
+                        "codigo_cliente": "21702",
+                        "desc_cliente": "VILMAR DE SOUZA DIAS"
+                    },
+                    {
                         "codigo_cliente": "2363",
                         "desc_cliente": "VIZIOLI & ALBUQUERQUE LTDA"
                     },
@@ -28654,6 +28658,10 @@
                         "desc_cliente": "DANIEL VIEIRA"
                     },
                     {
+                        "codigo_cliente": "26051",
+                        "desc_cliente": "DIESSICA TAIRINE DOS REIS - ME"
+                    },
+                    {
                         "codigo_cliente": "67543",
                         "desc_cliente": "DUNIS CAFETERIA LTDA"
                     },
@@ -38982,6 +38990,10 @@
                         "desc_cliente": "JS COMERCIO DE COMBUSTIVEIS LTDA."
                     },
                     {
+                        "codigo_cliente": "70723",
+                        "desc_cliente": "JULIANA ARACI MARQUES DEMARE"
+                    },
+                    {
                         "codigo_cliente": "59036",
                         "desc_cliente": "JULICE DA SILVA MACHADO SOARES 90013131087"
                     },
@@ -41703,7 +41715,7 @@
                     }
                 ]
             },
-            "1025": {
+            "1185": {
                 "1087 - POUP MARKET": [
                     {
                         "codigo_cliente": "52363",
@@ -41722,6 +41734,32 @@
                     {
                         "codigo_cliente": "28448",
                         "desc_cliente": "MERCADO BELOT LTDA"
+                    }
+                ],
+                "1197 - BARRA FESTA": [
+                    {
+                        "codigo_cliente": "64085",
+                        "desc_cliente": "L P MOREIRA MERCEARIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "64087",
+                        "desc_cliente": "L P MOREIRA MERCEARIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67170",
+                        "desc_cliente": "L P MOREIRA MERCEARIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "64084",
+                        "desc_cliente": "P M DIAS MERCEARIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "64086",
+                        "desc_cliente": "P M DIAS MERCEARIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67437",
+                        "desc_cliente": "P M DIAS MERCEARIA LTDA"
                     }
                 ],
                 "1259 - LISAMAR - RJ": [
@@ -41782,10 +41820,6 @@
                     {
                         "codigo_cliente": "67491",
                         "desc_cliente": "MULTI PARATY MERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "70631",
-                        "desc_cliente": "MULTI PARATY MERCADO LTDA"
                     }
                 ],
                 "1 - GERAL": [
@@ -41810,12 +41844,36 @@
                         "desc_cliente": "ALMEIDA LUCAS MINI MERCADO LTDA"
                     },
                     {
+                        "codigo_cliente": "40525",
+                        "desc_cliente": "ARMAZÉM DO ZÉ LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70026",
+                        "desc_cliente": "ASSIS BUARQUE BAR E MERCEARIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "64414",
+                        "desc_cliente": "BALBINO E SILVA MERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "45086",
+                        "desc_cliente": "BAR E RESTAURANTE AUTO GIRO EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "28479",
+                        "desc_cliente": "BAR E RESTAURANTE H P LTDA"
+                    },
+                    {
                         "codigo_cliente": "63437",
                         "desc_cliente": "BAR E RESTAURANTE POINT DA DIRETORIA LTDA"
                     },
                     {
                         "codigo_cliente": "52296",
                         "desc_cliente": "BARRETO NOGUEIRA SERVICO DE VIGILANCIA EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "66983",
+                        "desc_cliente": "BELAVILA PADARIA E CONFEITARIA LTDA"
                     },
                     {
                         "codigo_cliente": "60866",
@@ -41834,20 +41892,76 @@
                         "desc_cliente": "CASA DA FORTUNA LTDA"
                     },
                     {
+                        "codigo_cliente": "27915",
+                        "desc_cliente": "CEREAIS FLORIANO LTDA - EPP"
+                    },
+                    {
+                        "codigo_cliente": "41598",
+                        "desc_cliente": "CEREAIS NOVA LIBERDADE DE RESENDE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "25833",
+                        "desc_cliente": "COMERCIAL R D DE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70259",
+                        "desc_cliente": "COMERCIAL SURUBI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "45539",
+                        "desc_cliente": "DIAS E DIAS FILHO COMERCIO DE ALIMENTOS LTDAME"
+                    },
+                    {
+                        "codigo_cliente": "28945",
+                        "desc_cliente": "DUETO ARMAZEM LTDA"
+                    },
+                    {
+                        "codigo_cliente": "25946",
+                        "desc_cliente": "E F HAGEL MERCEARIA ME"
+                    },
+                    {
                         "codigo_cliente": "53525",
                         "desc_cliente": "EMPORIO DA FAZENDA HORTIFRUTIGRANJEIROS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "27674",
+                        "desc_cliente": "EMPÓRIO ESTRELA DO SÃO LUIZ"
                     },
                     {
                         "codigo_cliente": "65101",
                         "desc_cliente": "ESTACAO DA PRAIA MINIMERCADO E PADARIA LTDA"
                     },
                     {
+                        "codigo_cliente": "54877",
+                        "desc_cliente": "EXPRESSO DO BISCOITO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70596",
+                        "desc_cliente": "FALASO MERCADO LTDA"
+                    },
+                    {
                         "codigo_cliente": "53619",
                         "desc_cliente": "F J R COMERCIO DE CEREAIS LTDA"
                     },
                     {
+                        "codigo_cliente": "70260",
+                        "desc_cliente": "G. DOS SANTOS LAURINDO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "46113",
+                        "desc_cliente": "G NORONHA PAPINI EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "26830",
+                        "desc_cliente": "GULI PIONEIRO COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "28072",
                         "desc_cliente": "HENARDI LANCHONETE EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "8692",
+                        "desc_cliente": "IRMÃ£OS FLORENTINO CEREAIS LTDA"
                     },
                     {
                         "codigo_cliente": "69712",
@@ -41862,8 +41976,20 @@
                         "desc_cliente": "KEZIA DO ESPIRITO SANTO GENUEL"
                     },
                     {
+                        "codigo_cliente": "25700",
+                        "desc_cliente": "L.A. MARASSI MERCEARIA LTDA - EPP"
+                    },
+                    {
+                        "codigo_cliente": "28758",
+                        "desc_cliente": "LANCHONETE, RESTAURANTE E POUSADA CATAVENTO - ME"
+                    },
+                    {
                         "codigo_cliente": "49224",
                         "desc_cliente": "LAR DOCE VIDA J C LTDA"
+                    },
+                    {
+                        "codigo_cliente": "27882",
+                        "desc_cliente": "L.G.C. COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
                     },
                     {
                         "codigo_cliente": "43145",
@@ -41886,6 +42012,10 @@
                         "desc_cliente": "MERCADO DO BAIRRO RJ LTDA"
                     },
                     {
+                        "codigo_cliente": "52433",
+                        "desc_cliente": "MERCADO DONA BALBINA LTDA"
+                    },
+                    {
                         "codigo_cliente": "54202",
                         "desc_cliente": "MERCADO E HORTIFRUTI PAGUE MENOS LEVE MAIS LTDA"
                     },
@@ -41906,8 +42036,16 @@
                         "desc_cliente": "MERCADO PANAINO LTDA"
                     },
                     {
+                        "codigo_cliente": "31857",
+                        "desc_cliente": "MERCADO PORTO REAL LTDA - EPP"
+                    },
+                    {
                         "codigo_cliente": "48276",
                         "desc_cliente": "MERCADO SERRA MAR DE BARRA GRANDE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70575",
+                        "desc_cliente": "MERCADO SHEKINAH VR LTDA"
                     },
                     {
                         "codigo_cliente": "59645",
@@ -41942,8 +42080,28 @@
                         "desc_cliente": "PAMELLA M S DE SOUZA COMERCIO DE ALIMENTOS ME"
                     },
                     {
+                        "codigo_cliente": "65215",
+                        "desc_cliente": "PAME SUPERMERCADO E FRIOS LTDA ME"
+                    },
+                    {
+                        "codigo_cliente": "49079",
+                        "desc_cliente": "PAMPAS GOURMET LTDA"
+                    },
+                    {
+                        "codigo_cliente": "40866",
+                        "desc_cliente": "PINHEIRAL CEREAIS LTDA"
+                    },
+                    {
                         "codigo_cliente": "32800",
                         "desc_cliente": "QUEIJARIA BOM JARDIM EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "29040",
+                        "desc_cliente": "R A DE PAULA ANDRADE COMERCIO DE LATICINIOS LTDA - ME"
+                    },
+                    {
+                        "codigo_cliente": "69792",
+                        "desc_cliente": "RESTAURANTE CHEIRO DO CAMPO LTDA"
                     },
                     {
                         "codigo_cliente": "52173",
@@ -41952,6 +42110,10 @@
                     {
                         "codigo_cliente": "65586",
                         "desc_cliente": "ROTA 101 PIZZARIA POLO GASTRONOMICO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "60154",
+                        "desc_cliente": "R P PAGNUSAT"
                     },
                     {
                         "codigo_cliente": "52882",
@@ -41966,12 +42128,20 @@
                         "desc_cliente": "SUPERMERCADO COSTA VERDE LTDA"
                     },
                     {
+                        "codigo_cliente": "28777",
+                        "desc_cliente": "SUPERMERCADO DOIS IRMAOS DIPENEDO EIRELI"
+                    },
+                    {
                         "codigo_cliente": "64895",
                         "desc_cliente": "SUPERMERCADO JOIA DO FRADE SOCIEDADE UNIPESSOAL LTDA"
                     },
                     {
                         "codigo_cliente": "28171",
                         "desc_cliente": "SUPERMERCADO LUCAS FORTE LTDA ME - ME"
+                    },
+                    {
+                        "codigo_cliente": "61812",
+                        "desc_cliente": "SUPERMERCADO PEROLA DA BOA SORTE LTDA"
                     },
                     {
                         "codigo_cliente": "45321",
@@ -41982,12 +42152,44 @@
                         "desc_cliente": "SUPERMERCADOS SEROPEDICA LTDA"
                     },
                     {
+                        "codigo_cliente": "27322",
+                        "desc_cliente": "SUPERMERKATO COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "54002",
                         "desc_cliente": "THOMAZ COMERCIO DE ANGRA LTDA ME"
                     },
                     {
+                        "codigo_cliente": "62359",
+                        "desc_cliente": "T M LEMOS"
+                    },
+                    {
                         "codigo_cliente": "68926",
                         "desc_cliente": "W ARAUJO MINI-MERCADO"
+                    }
+                ],
+                "352 - CASA DO ARROZ": [
+                    {
+                        "codigo_cliente": "28274",
+                        "desc_cliente": "H S COUTINHO INDUSTRIA E COMERCIO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "28628",
+                        "desc_cliente": "H S COUTINHO INDUSTRIA E COMERCIO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "29697",
+                        "desc_cliente": "H S COUTINHO INDUSTRIA E COMERCIO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "48932",
+                        "desc_cliente": "H S COUTINHO INDUTRIA E COMERCIO LTDA"
+                    }
+                ],
+                "403 - DIVINA TERRA": [
+                    {
+                        "codigo_cliente": "36873",
+                        "desc_cliente": "PRY COMERCIO DE PRODUTOS NATURAIS LTDA"
                     }
                 ],
                 "522 - RIO SUL": [
@@ -42028,6 +42230,22 @@
                     {
                         "codigo_cliente": "54795",
                         "desc_cliente": "SUPERMERCADO VICALI PARATY LTDA."
+                    }
+                ],
+                "876 - LANDIM": [
+                    {
+                        "codigo_cliente": "31667",
+                        "desc_cliente": "VALDINEIA LANDIM DE CARVALHO SILVA ME"
+                    },
+                    {
+                        "codigo_cliente": "49254",
+                        "desc_cliente": "VILA RURAL DELICATESSEN LTDA"
+                    }
+                ],
+                "932 - GUERREIRO": [
+                    {
+                        "codigo_cliente": "53333",
+                        "desc_cliente": "SUPER GUERREIRO LTDA"
                     }
                 ],
                 "991 - JM - MERCADINHO PAG MENOS": [
@@ -42713,217 +42931,27 @@
                     }
                 ]
             },
-            "1185": {
-                "1197 - BARRA FESTA": [
+            "1025": {
+                "1359 - MULTI ANGRA": [
                     {
-                        "codigo_cliente": "64085",
-                        "desc_cliente": "L P MOREIRA MERCEARIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "64087",
-                        "desc_cliente": "L P MOREIRA MERCEARIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67170",
-                        "desc_cliente": "L P MOREIRA MERCEARIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "64084",
-                        "desc_cliente": "P M DIAS MERCEARIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "64086",
-                        "desc_cliente": "P M DIAS MERCEARIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67437",
-                        "desc_cliente": "P M DIAS MERCEARIA LTDA"
+                        "codigo_cliente": "70631",
+                        "desc_cliente": "MULTI PARATY MERCADO LTDA"
                     }
                 ],
                 "1 - GERAL": [
                     {
-                        "codigo_cliente": "40525",
-                        "desc_cliente": "ARMAZÉM DO ZÉ LTDA"
+                        "codigo_cliente": "66197",
+                        "desc_cliente": "MERCADO DO BAIRRO RJ LTDA"
                     },
                     {
-                        "codigo_cliente": "70026",
-                        "desc_cliente": "ASSIS BUARQUE BAR E MERCEARIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "64414",
-                        "desc_cliente": "BALBINO E SILVA MERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "45086",
-                        "desc_cliente": "BAR E RESTAURANTE AUTO GIRO EIRELI"
-                    },
-                    {
-                        "codigo_cliente": "28479",
-                        "desc_cliente": "BAR E RESTAURANTE H P LTDA"
-                    },
-                    {
-                        "codigo_cliente": "66983",
-                        "desc_cliente": "BELAVILA PADARIA E CONFEITARIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "27915",
-                        "desc_cliente": "CEREAIS FLORIANO LTDA - EPP"
-                    },
-                    {
-                        "codigo_cliente": "41598",
-                        "desc_cliente": "CEREAIS NOVA LIBERDADE DE RESENDE LTDA"
-                    },
-                    {
-                        "codigo_cliente": "25833",
-                        "desc_cliente": "COMERCIAL R D DE PRODUTOS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "70259",
-                        "desc_cliente": "COMERCIAL SURUBI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "45539",
-                        "desc_cliente": "DIAS E DIAS FILHO COMERCIO DE ALIMENTOS LTDAME"
-                    },
-                    {
-                        "codigo_cliente": "28945",
-                        "desc_cliente": "DUETO ARMAZEM LTDA"
-                    },
-                    {
-                        "codigo_cliente": "25946",
-                        "desc_cliente": "E F HAGEL MERCEARIA ME"
-                    },
-                    {
-                        "codigo_cliente": "27674",
-                        "desc_cliente": "EMPÓRIO ESTRELA DO SÃO LUIZ"
-                    },
-                    {
-                        "codigo_cliente": "54877",
-                        "desc_cliente": "EXPRESSO DO BISCOITO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "70596",
-                        "desc_cliente": "FALASO MERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "70260",
-                        "desc_cliente": "G. DOS SANTOS LAURINDO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "46113",
-                        "desc_cliente": "G NORONHA PAPINI EIRELI"
-                    },
-                    {
-                        "codigo_cliente": "26830",
-                        "desc_cliente": "GULI PIONEIRO COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "8692",
-                        "desc_cliente": "IRMÃ£OS FLORENTINO CEREAIS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "25700",
-                        "desc_cliente": "L.A. MARASSI MERCEARIA LTDA - EPP"
-                    },
-                    {
-                        "codigo_cliente": "28758",
-                        "desc_cliente": "LANCHONETE, RESTAURANTE E POUSADA CATAVENTO - ME"
-                    },
-                    {
-                        "codigo_cliente": "27882",
-                        "desc_cliente": "L.G.C. COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "52433",
-                        "desc_cliente": "MERCADO DONA BALBINA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "31857",
-                        "desc_cliente": "MERCADO PORTO REAL LTDA - EPP"
-                    },
-                    {
-                        "codigo_cliente": "70575",
-                        "desc_cliente": "MERCADO SHEKINAH VR LTDA"
-                    },
-                    {
-                        "codigo_cliente": "65215",
-                        "desc_cliente": "PAME SUPERMERCADO E FRIOS LTDA ME"
-                    },
-                    {
-                        "codigo_cliente": "49079",
-                        "desc_cliente": "PAMPAS GOURMET LTDA"
-                    },
-                    {
-                        "codigo_cliente": "40866",
-                        "desc_cliente": "PINHEIRAL CEREAIS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "29040",
-                        "desc_cliente": "R A DE PAULA ANDRADE COMERCIO DE LATICINIOS LTDA - ME"
-                    },
-                    {
-                        "codigo_cliente": "69792",
-                        "desc_cliente": "RESTAURANTE CHEIRO DO CAMPO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "60154",
-                        "desc_cliente": "R P PAGNUSAT"
-                    },
-                    {
-                        "codigo_cliente": "28777",
-                        "desc_cliente": "SUPERMERCADO DOIS IRMAOS DIPENEDO EIRELI"
-                    },
-                    {
-                        "codigo_cliente": "61812",
-                        "desc_cliente": "SUPERMERCADO PEROLA DA BOA SORTE LTDA"
-                    },
-                    {
-                        "codigo_cliente": "27322",
-                        "desc_cliente": "SUPERMERKATO COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "62359",
-                        "desc_cliente": "T M LEMOS"
+                        "codigo_cliente": "28171",
+                        "desc_cliente": "SUPERMERCADO LUCAS FORTE LTDA ME - ME"
                     }
                 ],
-                "352 - CASA DO ARROZ": [
+                "849 - COML ITINGA": [
                     {
-                        "codigo_cliente": "28274",
-                        "desc_cliente": "H S COUTINHO INDUSTRIA E COMERCIO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "28628",
-                        "desc_cliente": "H S COUTINHO INDUSTRIA E COMERCIO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "29697",
-                        "desc_cliente": "H S COUTINHO INDUSTRIA E COMERCIO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "48932",
-                        "desc_cliente": "H S COUTINHO INDUTRIA E COMERCIO LTDA"
-                    }
-                ],
-                "403 - DIVINA TERRA": [
-                    {
-                        "codigo_cliente": "36873",
-                        "desc_cliente": "PRY COMERCIO DE PRODUTOS NATURAIS LTDA"
-                    }
-                ],
-                "876 - LANDIM": [
-                    {
-                        "codigo_cliente": "31667",
-                        "desc_cliente": "VALDINEIA LANDIM DE CARVALHO SILVA ME"
-                    },
-                    {
-                        "codigo_cliente": "49254",
-                        "desc_cliente": "VILA RURAL DELICATESSEN LTDA"
-                    }
-                ],
-                "932 - GUERREIRO": [
-                    {
-                        "codigo_cliente": "53333",
-                        "desc_cliente": "SUPER GUERREIRO LTDA"
+                        "codigo_cliente": "40232",
+                        "desc_cliente": "COMERCIAL ITINGA DE ALIMENTOS LTDA"
                     }
                 ]
             },
@@ -44218,10 +44246,6 @@
                     {
                         "codigo_cliente": "45793",
                         "desc_cliente": "DIPEL PAPELR E MATS DE ESCRITORIO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71040",
-                        "desc_cliente": "DISTRIBUIDORA DIAN LTDA"
                     },
                     {
                         "codigo_cliente": "11548",
@@ -59506,6 +59530,10 @@
                         "desc_cliente": "ANDRIELE LIMA CAVALHEIRO"
                     },
                     {
+                        "codigo_cliente": "70819",
+                        "desc_cliente": "ANDRIELI SOUZA MACHADO"
+                    },
+                    {
                         "codigo_cliente": "51377",
                         "desc_cliente": "ANE DOS SANTOS RINCO"
                     },
@@ -63352,10 +63380,6 @@
                     {
                         "codigo_cliente": "66769",
                         "desc_cliente": "JULIA EDUARDA LUCAS AZEVEDO"
-                    },
-                    {
-                        "codigo_cliente": "70723",
-                        "desc_cliente": "JULIANA ARACI MARQUES DEMARE"
                     },
                     {
                         "codigo_cliente": "58501",
@@ -71646,6 +71670,10 @@
                         "desc_cliente": "FRANCIELLE CHIARATTI"
                     },
                     {
+                        "codigo_cliente": "71085",
+                        "desc_cliente": "FRANCIELY ARAUJO"
+                    },
+                    {
                         "codigo_cliente": "67207",
                         "desc_cliente": "FRANCIELY BUENO FAGUNDES DE SOUZA"
                     },
@@ -74354,6 +74382,10 @@
                         "desc_cliente": "MARCOS  PAULO THOME"
                     },
                     {
+                        "codigo_cliente": "71073",
+                        "desc_cliente": "MARCOS PEREIRA DE BARROS"
+                    },
+                    {
                         "codigo_cliente": "70873",
                         "desc_cliente": "MARCOS ROBERTO FURLAN"
                     },
@@ -74904,6 +74936,10 @@
                     {
                         "codigo_cliente": "62600",
                         "desc_cliente": "MAURO MAGNO VIANA"
+                    },
+                    {
+                        "codigo_cliente": "71071",
+                        "desc_cliente": "MAURO MARTINI BUSANELLO"
                     },
                     {
                         "codigo_cliente": "70749",
@@ -76820,6 +76856,10 @@
                     {
                         "codigo_cliente": "57022",
                         "desc_cliente": "SILVIO CESAR BINI"
+                    },
+                    {
+                        "codigo_cliente": "71072",
+                        "desc_cliente": "SILVIO DOS SANTOS MUCCILLO"
                     },
                     {
                         "codigo_cliente": "63102",

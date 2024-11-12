@@ -13840,6 +13840,10 @@
                         "desc_cliente": "AF VARIEDADES LTDA"
                     },
                     {
+                        "codigo_cliente": "43040",
+                        "desc_cliente": "ALISON SAMUEL MARTINS EIRELI"
+                    },
+                    {
                         "codigo_cliente": "24031",
                         "desc_cliente": "ANDRIELI GONCALVES"
                     },
@@ -17452,31 +17456,7 @@
                         "desc_cliente": "SUPERMERCADOS IRMAOS UNIDOS LTDA."
                     }
                 ],
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "48126",
-                        "desc_cliente": "ADEGA UAI TCHE PRODUTOS ALIMENTICIOS E BEBIDAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67251",
-                        "desc_cliente": "ANDRE LUIS VAGHETTI"
-                    },
-                    {
-                        "codigo_cliente": "62586",
-                        "desc_cliente": "AUTO POSTO CANAA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "48611",
-                        "desc_cliente": "CAIO FERNANDO STALOCH"
-                    },
-                    {
-                        "codigo_cliente": "44524",
-                        "desc_cliente": "CATIA DE MELO"
-                    },
-                    {
-                        "codigo_cliente": "44488",
-                        "desc_cliente": "CELIA REGINA DA SILVA"
-                    },
+                "1367 - CINE GRACHER": [
                     {
                         "codigo_cliente": "70235",
                         "desc_cliente": "CINE GRACHER LTDA"
@@ -17516,6 +17496,32 @@
                     {
                         "codigo_cliente": "71080",
                         "desc_cliente": "CINE GRACHER LTDA"
+                    }
+                ],
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "48126",
+                        "desc_cliente": "ADEGA UAI TCHE PRODUTOS ALIMENTICIOS E BEBIDAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67251",
+                        "desc_cliente": "ANDRE LUIS VAGHETTI"
+                    },
+                    {
+                        "codigo_cliente": "62586",
+                        "desc_cliente": "AUTO POSTO CANAA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "48611",
+                        "desc_cliente": "CAIO FERNANDO STALOCH"
+                    },
+                    {
+                        "codigo_cliente": "44524",
+                        "desc_cliente": "CATIA DE MELO"
+                    },
+                    {
+                        "codigo_cliente": "44488",
+                        "desc_cliente": "CELIA REGINA DA SILVA"
                     },
                     {
                         "codigo_cliente": "62432",
@@ -23958,10 +23964,6 @@
                     {
                         "codigo_cliente": "25540",
                         "desc_cliente": "DISTRIBUIDORA DE ALIMENTOS ACORIANA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "21239",
-                        "desc_cliente": "DISTRIBUIDORA DE CEREAIS CITTON LTDA"
                     },
                     {
                         "codigo_cliente": "29336",
@@ -37990,10 +37992,6 @@
                         "desc_cliente": "OLIVAS RESTS EMPRESARIAIS LTDA"
                     },
                     {
-                        "codigo_cliente": "70941",
-                        "desc_cliente": "OLIVAS RESTS EMPRESARIAIS LTDA"
-                    },
-                    {
                         "codigo_cliente": "40564",
                         "desc_cliente": "ORA FITT COM DE ALIMENTOS EIRELI"
                     },
@@ -38954,6 +38952,10 @@
                     {
                         "codigo_cliente": "641",
                         "desc_cliente": "ALMEIDA BASSO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "18933",
+                        "desc_cliente": "ARMAZEM E FRUTEIRA ROSSETTI LTDA"
                     },
                     {
                         "codigo_cliente": "19155",
@@ -68286,6 +68288,10 @@
                         "desc_cliente": "AMARILDO DEVENZZE "
                     },
                     {
+                        "codigo_cliente": "71104",
+                        "desc_cliente": "AMYR ALAYYAN"
+                    },
+                    {
                         "codigo_cliente": "71030",
                         "desc_cliente": "ANA ANGELICA WILSKE"
                     },
@@ -68336,6 +68342,10 @@
                     {
                         "codigo_cliente": "70990",
                         "desc_cliente": "HIAGO FERRUGEM CARDOSO"
+                    },
+                    {
+                        "codigo_cliente": "71105",
+                        "desc_cliente": "HUMBERTO KOTANI"
                     },
                     {
                         "codigo_cliente": "71017",

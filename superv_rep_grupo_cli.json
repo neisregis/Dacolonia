@@ -22021,6 +22021,12 @@
                         "codigo_cliente": "8632",
                         "desc_cliente": "DORNELLES E CIA LTDA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71069",
+                        "desc_cliente": "CANTITO ACOUGUE E PADARIA SAO LUIZ LTDA"
+                    }
                 ]
             },
             "294": {
@@ -37156,6 +37162,10 @@
                         "desc_cliente": "KATIANE SELKE BAZAR E UTILIDADES LTDA"
                     },
                     {
+                        "codigo_cliente": "52814",
+                        "desc_cliente": "LA PANE CAFETERIA CONFEITARIA E PADARIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "56529",
                         "desc_cliente": "L C OLIVEIRA & CIA LTDA"
                     },
@@ -42348,10 +42358,6 @@
                     {
                         "codigo_cliente": "63930",
                         "desc_cliente": "FAZENDA COISAS DE MINAS COMERCIO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38341",
-                        "desc_cliente": "F P CORDEIRO ACOUGUE LTDA"
                     },
                     {
                         "codigo_cliente": "54551",
@@ -54682,6 +54688,10 @@
                     {
                         "codigo_cliente": "54153",
                         "desc_cliente": "ELIANO OSORIO BARRETO 73521442004"
+                    },
+                    {
+                        "codigo_cliente": "53961",
+                        "desc_cliente": "ELIETE ANA CASSOL 52259030025"
                     },
                     {
                         "codigo_cliente": "33519",

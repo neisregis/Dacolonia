@@ -1242,6 +1242,10 @@
                         "desc_cliente": "CRISTO REI LTDA"
                     },
                     {
+                        "codigo_cliente": "68751",
+                        "desc_cliente": "DEPOSITO DE CLORO E AGUA SANITARIA QUEIROZ LTDA"
+                    },
+                    {
                         "codigo_cliente": "71051",
                         "desc_cliente": "EMPORIO JOAB LTDA"
                     },
@@ -1284,6 +1288,10 @@
                     {
                         "codigo_cliente": "21786",
                         "desc_cliente": "JOSE ARAUJO SUPERMERCADOS E CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "68760",
+                        "desc_cliente": "LENIRA GOMES DE FREITAS"
                     },
                     {
                         "codigo_cliente": "46933",
@@ -28272,6 +28280,10 @@
                         "desc_cliente": "EMPORIO ADORE NATURE LTDA"
                     },
                     {
+                        "codigo_cliente": "55370",
+                        "desc_cliente": "EMPORIO COSTA COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "67609",
                         "desc_cliente": "EMPORIO DAS POLPAS ALIMENTOS LTDA"
                     },
@@ -51596,6 +51608,12 @@
                     {
                         "codigo_cliente": "41803",
                         "desc_cliente": "A.P. COSTA EMPORIO"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71108",
+                        "desc_cliente": "DH COMERCIAL CARAGUA LTDA - EPP"
                     }
                 ]
             },

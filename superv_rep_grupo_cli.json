@@ -1286,6 +1286,10 @@
                         "desc_cliente": "IRMAOS KEHDI COMERCIO IMPORTACAO LTDA"
                     },
                     {
+                        "codigo_cliente": "68758",
+                        "desc_cliente": "J. BLANK SUPERMERCADO LTDA"
+                    },
+                    {
                         "codigo_cliente": "21786",
                         "desc_cliente": "JOSE ARAUJO SUPERMERCADOS E CIA LTDA"
                     },
@@ -1375,6 +1379,10 @@
                     },
                     {
                         "codigo_cliente": "71043",
+                        "desc_cliente": "SUPERMERCADO SALIBA MOREIRA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71106",
                         "desc_cliente": "SUPERMERCADO SALIBA MOREIRA LTDA"
                     },
                     {
@@ -20056,6 +20064,10 @@
                     {
                         "codigo_cliente": "57172",
                         "desc_cliente": "COMERCIO DE FRUTAS E VERDURAS ARIETE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70158",
+                        "desc_cliente": "COMERCIO DE GENEROS ALIMENTICIOS MALDANER LTDA"
                     },
                     {
                         "codigo_cliente": "22490",
@@ -39132,6 +39144,10 @@
                     {
                         "codigo_cliente": "44486",
                         "desc_cliente": "MINIMERCADO RIBEIRO E CASANOVA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "15376",
+                        "desc_cliente": "PAULO ROBERTO PINHEIRO RIBEIRO"
                     },
                     {
                         "codigo_cliente": "748",
@@ -68432,6 +68448,10 @@
                         "desc_cliente": "ROBISON AUGUSTO DA SILVA"
                     },
                     {
+                        "codigo_cliente": "71123",
+                        "desc_cliente": "ROBSON SANTOS"
+                    },
+                    {
                         "codigo_cliente": "70995",
                         "desc_cliente": "ROGERIO CARDOSO"
                     },
@@ -71174,6 +71194,10 @@
                     {
                         "codigo_cliente": "68852",
                         "desc_cliente": "ELISEU CENTRON CARVALHO"
+                    },
+                    {
+                        "codigo_cliente": "71120",
+                        "desc_cliente": "ELIZABETE NEVES MACHADO D'INGIULLO"
                     },
                     {
                         "codigo_cliente": "65966",

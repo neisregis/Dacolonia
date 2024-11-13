@@ -8250,6 +8250,10 @@
                         "desc_cliente": "BONANZA COMERCIO DE GENEROS ALIMENTICIOS LTDA"
                     },
                     {
+                        "codigo_cliente": "61431",
+                        "desc_cliente": "CASAROTTI ORLANDI PRODUTOS NATURAIS LTDA"
+                    },
+                    {
                         "codigo_cliente": "42344",
                         "desc_cliente": "CHAVES ATACAREJO COMERCIO DE BEBIDAS E ALIMENTOS LTDA"
                     },
@@ -9846,6 +9850,10 @@
                     {
                         "codigo_cliente": "36812",
                         "desc_cliente": "JOSE AMARILDO DA ROCHA & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "37515",
+                        "desc_cliente": "JR COMERCIO DE ALIMENTOS EIRELI"
                     },
                     {
                         "codigo_cliente": "24153",
@@ -12638,6 +12646,10 @@
                     {
                         "codigo_cliente": "35826",
                         "desc_cliente": "RICARDO JOSE FERREIRA PINTO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "47350",
+                        "desc_cliente": "ROSANI APARECIDA SANTOS DE LIMA MERCADO DA CARNE LTDA"
                     },
                     {
                         "codigo_cliente": "45561",
@@ -43370,11 +43382,27 @@
                         "desc_cliente": "ATACADAO S.A."
                     },
                     {
+                        "codigo_cliente": "20043",
+                        "desc_cliente": "WMB SUPERMERCADOS DO BRASIL LTDA."
+                    },
+                    {
+                        "codigo_cliente": "43385",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
+                    },
+                    {
                         "codigo_cliente": "68086",
                         "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
                     },
                     {
                         "codigo_cliente": "69122",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
+                    },
+                    {
+                        "codigo_cliente": "69616",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
+                    },
+                    {
+                        "codigo_cliente": "69617",
                         "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
                     }
                 ]
@@ -48172,6 +48200,14 @@
                     {
                         "codigo_cliente": "67677",
                         "desc_cliente": "BOUTIQUE DE FRIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69261",
+                        "desc_cliente": "CASA BRASILIA UTILIDADES DO LAR LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69263",
+                        "desc_cliente": "CASA BRASILIA UTILIDADES DO LAR LTDA"
                     },
                     {
                         "codigo_cliente": "64574",
@@ -79670,6 +79706,10 @@
                         "desc_cliente": "BERNARDETE CUCHI MEZZOMO & CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "71128",
+                        "desc_cliente": "BRUNA SALVINI GALON"
+                    },
+                    {
                         "codigo_cliente": "17087",
                         "desc_cliente": "BRUNO CONTINI"
                     },
@@ -80916,6 +80956,12 @@
                     {
                         "codigo_cliente": "66589",
                         "desc_cliente": "ALIPASSO DISTRIBUIDORA LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71150",
+                        "desc_cliente": "VKS COMERCIO DE PROD.ALIM.LTDA"
                     }
                 ]
             },
@@ -86356,30 +86402,6 @@
                     {
                         "codigo_cliente": "40355",
                         "desc_cliente": "VITOR HUGO ROCHA VIEIRA DA COSTA"
-                    }
-                ]
-            }
-        }
-    },
-    "280": {
-        "representantes": {
-            "634": {
-                "88 - ATACADAO": [
-                    {
-                        "codigo_cliente": "20043",
-                        "desc_cliente": "WMB SUPERMERCADOS DO BRASIL LTDA."
-                    },
-                    {
-                        "codigo_cliente": "43385",
-                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69616",
-                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
-                    },
-                    {
-                        "codigo_cliente": "69617",
-                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
                     }
                 ]
             }

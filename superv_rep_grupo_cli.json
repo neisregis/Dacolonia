@@ -29185,6 +29185,12 @@
                         "codigo_cliente": "19066",
                         "desc_cliente": "CASTAGNETTI & CIA LTDA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71141",
+                        "desc_cliente": "PANIFICADORA E CONFEITARIA KEKA LTDA"
+                    }
                 ]
             },
             "724": {
@@ -30832,6 +30838,10 @@
                     {
                         "codigo_cliente": "60109",
                         "desc_cliente": "LISBOA & LISBOA LANCHONETE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "40456",
+                        "desc_cliente": "LOFFI & LOFFI LTDA"
                     },
                     {
                         "codigo_cliente": "22771",

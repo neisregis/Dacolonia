@@ -51210,6 +51210,10 @@
                         "desc_cliente": "MERCADINHO DO SEU HELIO LTDA"
                     },
                     {
+                        "codigo_cliente": "38054",
+                        "desc_cliente": "MERCADINHO GOMANCILHA LTDA"
+                    },
+                    {
                         "codigo_cliente": "46947",
                         "desc_cliente": "MERCADINHO LUIGI LTDA"
                     },
@@ -53034,6 +53038,10 @@
                     {
                         "codigo_cliente": "41512",
                         "desc_cliente": "MANO'S COM DE DOCES LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38071",
+                        "desc_cliente": "MEGA-DOCES DISTRIBUIDORA DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "69305",
@@ -83412,6 +83420,10 @@
                     {
                         "codigo_cliente": "228",
                         "desc_cliente": "R. J. GAZOLLA EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "34492",
+                        "desc_cliente": "ROSEMARY FERNANDES 93744307972"
                     },
                     {
                         "codigo_cliente": "67100",

@@ -33528,6 +33528,10 @@
                         "desc_cliente": "EMBALAGEM FACIL SUPRIMENTOS EIRELI"
                     },
                     {
+                        "codigo_cliente": "71126",
+                        "desc_cliente": "ENIMA SUPERMERCADO LTDA"
+                    },
+                    {
                         "codigo_cliente": "54038",
                         "desc_cliente": "ESTORIL SOL FESTAS E DOCES LTDA"
                     },
@@ -68404,6 +68408,10 @@
                         "desc_cliente": "ADAO BUENO"
                     },
                     {
+                        "codigo_cliente": "71140",
+                        "desc_cliente": "ALEXANDRE SOUZA BARCELOS"
+                    },
+                    {
                         "codigo_cliente": "56785",
                         "desc_cliente": "AMARILDO DEVENZZE "
                     },
@@ -74790,6 +74798,10 @@
                     {
                         "codigo_cliente": "69829",
                         "desc_cliente": "MARIA FERNANDA DORNELLES FERREIRA"
+                    },
+                    {
+                        "codigo_cliente": "71125",
+                        "desc_cliente": "MARIA GABRIELA GADELHA"
                     },
                     {
                         "codigo_cliente": "48094",

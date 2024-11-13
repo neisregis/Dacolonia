@@ -7662,6 +7662,10 @@
                         "desc_cliente": "MERCADO DA GENTE EIRELI - ME"
                     },
                     {
+                        "codigo_cliente": "52212",
+                        "desc_cliente": "MERCADO SUPER FACIL LTDA"
+                    },
+                    {
                         "codigo_cliente": "33240",
                         "desc_cliente": "M F FREITAS DOCES E FESTAS"
                     },
@@ -8668,10 +8672,6 @@
                     {
                         "codigo_cliente": "48274",
                         "desc_cliente": "MERCADO FABRIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "52212",
-                        "desc_cliente": "MERCADO SUPER FACIL LTDA"
                     },
                     {
                         "codigo_cliente": "64665",
@@ -14476,6 +14476,12 @@
                     {
                         "codigo_cliente": "8032",
                         "desc_cliente": "IMPERIAL SUPERMERCADOS LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71135",
+                        "desc_cliente": "IRMAOS ZAT LTDA"
                     }
                 ]
             },
@@ -22490,10 +22496,6 @@
                         "desc_cliente": "IRELIO DE OLIVEIRA KNOFF"
                     },
                     {
-                        "codigo_cliente": "33612",
-                        "desc_cliente": "JOAO DA S DE OLIVEIRA"
-                    },
-                    {
                         "codigo_cliente": "47858",
                         "desc_cliente": "M3 COM DE ALIMENTOS LTDA"
                     },
@@ -23746,10 +23748,6 @@
                         "desc_cliente": "GILMAR KLEIN"
                     },
                     {
-                        "codigo_cliente": "71109",
-                        "desc_cliente": "GRITTI MINIMERCADO LTDA"
-                    },
-                    {
                         "codigo_cliente": "58115",
                         "desc_cliente": "HR CAFE GRAMADO LTDA"
                     },
@@ -24332,6 +24330,12 @@
                     {
                         "codigo_cliente": "5359",
                         "desc_cliente": "MERCADO REICHERT LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71137",
+                        "desc_cliente": "JEAN PIERRE DE BORBA CORREA"
                     }
                 ]
             },
@@ -27712,6 +27716,10 @@
                 ],
                 "673 - SUPER TRIUNFO GO": [
                     {
+                        "codigo_cliente": "71131",
+                        "desc_cliente": "REDE SUPER TRIUNFO LTDA"
+                    },
+                    {
                         "codigo_cliente": "18778",
                         "desc_cliente": "SUPER TRIUNFO EIRELI ME"
                     }
@@ -27858,12 +27866,6 @@
                     {
                         "codigo_cliente": "55101",
                         "desc_cliente": "BARAO ESPECIALIDADES & DISTRIBUIDORA DE ALIMENTOS SA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71131",
-                        "desc_cliente": "REDE SUPER TRIUNFU LTDA"
                     }
                 ]
             },
@@ -31530,6 +31532,10 @@
                         "desc_cliente": "49.716.405 HENRIQUE FERNANDO DE ABREU"
                     },
                     {
+                        "codigo_cliente": "71133",
+                        "desc_cliente": "55.863.212 BIANCA CAMILA SCHOULTEN DE LIMA"
+                    },
+                    {
                         "codigo_cliente": "35077",
                         "desc_cliente": "ADOCE ATACADO E VAREJO DE BALAS E DOCES LTDA"
                     },
@@ -32120,12 +32126,6 @@
                     {
                         "codigo_cliente": "51902",
                         "desc_cliente": "MERX COMERCIO DE ALIMENTOS EIRELI"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71133",
-                        "desc_cliente": "BIANCA CAMILA SCHOULTEN DE LIMA"
                     }
                 ]
             },
@@ -57140,6 +57140,10 @@
                         "desc_cliente": "SUPERMERCADO P LIMA LTDA"
                     },
                     {
+                        "codigo_cliente": "60845",
+                        "desc_cliente": "SUZI ELENICE DA SILVA PEREIRA"
+                    },
+                    {
                         "codigo_cliente": "62464",
                         "desc_cliente": "TACIANA DIAS STEINDORFF"
                     },
@@ -68368,6 +68372,10 @@
                 ],
                 "null": [
                     {
+                        "codigo_cliente": "71134",
+                        "desc_cliente": "ADAO BUENO"
+                    },
+                    {
                         "codigo_cliente": "56785",
                         "desc_cliente": "AMARILDO DEVENZZE "
                     },
@@ -68450,6 +68458,10 @@
                     {
                         "codigo_cliente": "70993",
                         "desc_cliente": "LUCILA STEREIT"
+                    },
+                    {
+                        "codigo_cliente": "71136",
+                        "desc_cliente": "MAICO DA SILVA DOS SANTOS"
                     },
                     {
                         "codigo_cliente": "71023",

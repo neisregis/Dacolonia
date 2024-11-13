@@ -1246,10 +1246,6 @@
                         "desc_cliente": "DEPOSITO DE CLORO E AGUA SANITARIA QUEIROZ LTDA"
                     },
                     {
-                        "codigo_cliente": "71051",
-                        "desc_cliente": "EMPORIO JOAB LTDA"
-                    },
-                    {
                         "codigo_cliente": "27561",
                         "desc_cliente": "EMPREENDIMENTOS SOUZA LTDA"
                     },
@@ -1290,12 +1286,20 @@
                         "desc_cliente": "JOSE ARAUJO SUPERMERCADOS E CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "71110",
+                        "desc_cliente": "KINKAS COMERCIO VAREJISTA LTDA"
+                    },
+                    {
                         "codigo_cliente": "68760",
                         "desc_cliente": "LENIRA GOMES DE FREITAS"
                     },
                     {
                         "codigo_cliente": "46933",
                         "desc_cliente": "MERCADO TABAJARA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71107",
+                        "desc_cliente": "MERCEARIA ALVES & TEIXEIRA LTDA"
                     },
                     {
                         "codigo_cliente": "22002",
@@ -1364,10 +1368,6 @@
                     {
                         "codigo_cliente": "22185",
                         "desc_cliente": "SUPERMERCADO QUEBA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71043",
-                        "desc_cliente": "SUPERMERCADO SALIBA MOREIRA LTDA"
                     },
                     {
                         "codigo_cliente": "40417",
@@ -1582,16 +1582,6 @@
                     {
                         "codigo_cliente": "54581",
                         "desc_cliente": "QUEIROZ E CASTRO LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71110",
-                        "desc_cliente": "KINKAS COMERCIO VAREJSTA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71107",
-                        "desc_cliente": "MERCEARIA ALVES E TEIXEIRA LTDA"
                     }
                 ]
             },
@@ -20192,6 +20182,10 @@
                         "desc_cliente": "MERCADO SILVEIRA LTDA"
                     },
                     {
+                        "codigo_cliente": "71097",
+                        "desc_cliente": "MERCEARIA E ACOUGUE SCABENI ROSA LTDA"
+                    },
+                    {
                         "codigo_cliente": "70245",
                         "desc_cliente": "MICHELI CRISTINA LOPES DE ALMEIDA BARBOSA"
                     },
@@ -20306,12 +20300,6 @@
                     {
                         "codigo_cliente": "31054",
                         "desc_cliente": "CLAUDINEI LUIZ TASCA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71097",
-                        "desc_cliente": "ALINE APARECIDA SCABENI  ME"
                     }
                 ]
             },
@@ -22754,6 +22742,10 @@
                         "desc_cliente": "COMERCIAL ZAFFARI LTDA"
                     },
                     {
+                        "codigo_cliente": "71098",
+                        "desc_cliente": "COMERCIAL ZAFFARI LTDA"
+                    },
+                    {
                         "codigo_cliente": "20285",
                         "desc_cliente": "COML ZAFFARI LTDA"
                     },
@@ -22768,12 +22760,6 @@
                     {
                         "codigo_cliente": "47763",
                         "desc_cliente": "COML ZAFFARI LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71098",
-                        "desc_cliente": "COMERCIAL ZAFFARI LTDA"
                     }
                 ]
             },
@@ -23732,6 +23718,10 @@
                         "desc_cliente": "GILMAR KLEIN"
                     },
                     {
+                        "codigo_cliente": "71109",
+                        "desc_cliente": "GRITTI MINIMERCADO LTDA"
+                    },
+                    {
                         "codigo_cliente": "58115",
                         "desc_cliente": "HR CAFE GRAMADO LTDA"
                     },
@@ -23868,12 +23858,6 @@
                     {
                         "codigo_cliente": "65422",
                         "desc_cliente": "IRMAOS ANDREAZZA LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71109",
-                        "desc_cliente": "GRITTI MINI MERCADO"
                     }
                 ]
             },
@@ -41468,10 +41452,6 @@
                         "desc_cliente": "MERCADO E MERCEARIA PADRAO LTDA"
                     },
                     {
-                        "codigo_cliente": "48780",
-                        "desc_cliente": "MERCADO FAMILIA NOVA GERACAO LTDA"
-                    },
-                    {
                         "codigo_cliente": "54150",
                         "desc_cliente": "MERCADO IRAJA COMERCIO DE ALIMENTOS LTDA"
                     },
@@ -44180,6 +44160,20 @@
                         "desc_cliente": "PASSARELA CENTER LTDA."
                     }
                 ],
+                "1368 - AVILA SUPERMERCADOS": [
+                    {
+                        "codigo_cliente": "34096",
+                        "desc_cliente": "LUIS CLAUDIOMIR DE AVILA & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71087",
+                        "desc_cliente": "LUIS CLAUDIOMIR DE AVILA & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "28952",
+                        "desc_cliente": "LUIS CLAUDIOMIR DE AVILA & CIA LTDA - EPP"
+                    }
+                ],
                 "141 - SIND.TRAB.RURAIS": [
                     {
                         "codigo_cliente": "20312",
@@ -44442,18 +44436,6 @@
                     {
                         "codigo_cliente": "8718",
                         "desc_cliente": "LOPEZ & BORBA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "34096",
-                        "desc_cliente": "LUIS CLAUDIOMIR DE AVILA & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71087",
-                        "desc_cliente": "LUIS CLAUDIOMIR DE AVILA & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "28952",
-                        "desc_cliente": "LUIS CLAUDIOMIR DE AVILA & CIA LTDA - EPP"
                     },
                     {
                         "codigo_cliente": "26637",
@@ -50904,6 +50886,10 @@
                         "desc_cliente": "DELICIAS DA TIA VA LTDA"
                     },
                     {
+                        "codigo_cliente": "71108",
+                        "desc_cliente": "DH COMERCIAL CARAGUA LTDA"
+                    },
+                    {
                         "codigo_cliente": "61553",
                         "desc_cliente": "D'JOTA COMERCIO DE HORTIFRUTIGRANJEIRO LTDA"
                     },
@@ -51608,12 +51594,6 @@
                     {
                         "codigo_cliente": "41803",
                         "desc_cliente": "A.P. COSTA EMPORIO"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71108",
-                        "desc_cliente": "DH COMERCIAL CARAGUA LTDA - EPP"
                     }
                 ]
             },
@@ -52572,6 +52552,10 @@
                         "desc_cliente": "DOCES E BEBIDAS SUPER TREZE LTDA"
                     },
                     {
+                        "codigo_cliente": "71096",
+                        "desc_cliente": "EMBALAGENS MOGIANA COMERCIAL LTDA"
+                    },
+                    {
                         "codigo_cliente": "67523",
                         "desc_cliente": "ENZOLE IMPERIO DOCES DISTRIBUIDORA LTDA"
                     },
@@ -52714,10 +52698,6 @@
                     {
                         "codigo_cliente": "70985",
                         "desc_cliente": "BRASILEIRAO ATACADO COM. DE PROD. ALIMENT. SOCIEDADE ANONIMA"
-                    },
-                    {
-                        "codigo_cliente": "71096",
-                        "desc_cliente": "EMBALAGENS MOGIANA COMERCIAL LTDA"
                     }
                 ]
             },
@@ -68432,6 +68412,10 @@
                     {
                         "codigo_cliente": "71074",
                         "desc_cliente": "RANIERI ROSA"
+                    },
+                    {
+                        "codigo_cliente": "71113",
+                        "desc_cliente": "ROBISON AUGUSTO DA SILVA"
                     },
                     {
                         "codigo_cliente": "70995",

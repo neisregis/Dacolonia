@@ -28236,6 +28236,10 @@
                         "desc_cliente": "MERCANTIL DE ALIMENTOS MA LTDA"
                     },
                     {
+                        "codigo_cliente": "70311",
+                        "desc_cliente": "MX COMERCIO ATACADISTA LTDA"
+                    },
+                    {
                         "codigo_cliente": "60939",
                         "desc_cliente": "SUPER MAX GO LTDA"
                     },
@@ -28358,10 +28362,6 @@
                     {
                         "codigo_cliente": "64563",
                         "desc_cliente": "MS CASTILHO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "70311",
-                        "desc_cliente": "MX COMERCIO ATACADISTA LTDA"
                     },
                     {
                         "codigo_cliente": "61636",
@@ -51727,6 +51727,12 @@
                         "codigo_cliente": "41803",
                         "desc_cliente": "A.P. COSTA EMPORIO"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71157",
+                        "desc_cliente": "atacadao natural comercio e importacao de produtos alimenticios ltda"
+                    }
                 ]
             },
             "962": {
@@ -69930,6 +69936,10 @@
                         "desc_cliente": "CAMILA ZANIN CARNEIRO"
                     },
                     {
+                        "codigo_cliente": "71077",
+                        "desc_cliente": "CAMILE LETICIA FORTES DA ROSA"
+                    },
+                    {
                         "codigo_cliente": "67934",
                         "desc_cliente": "CAMILLA BUZOGANY"
                     },
@@ -70280,6 +70290,10 @@
                     {
                         "codigo_cliente": "69278",
                         "desc_cliente": "CATHERINE SANCHES PELLEGRINO ALVES DO CARMO"
+                    },
+                    {
+                        "codigo_cliente": "71076",
+                        "desc_cliente": "CATIA BORDIGNON"
                     },
                     {
                         "codigo_cliente": "67814",
@@ -71436,6 +71450,10 @@
                     {
                         "codigo_cliente": "70035",
                         "desc_cliente": "ENI TEREZINHA DORNELES DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "71083",
+                        "desc_cliente": "ENY MARIA VIEIRA"
                     },
                     {
                         "codigo_cliente": "69287",
@@ -74106,6 +74124,10 @@
                         "desc_cliente": "LUCAS DOVIGO BIZIAK"
                     },
                     {
+                        "codigo_cliente": "71082",
+                        "desc_cliente": "LUCAS FLACH BALDASSO"
+                    },
+                    {
                         "codigo_cliente": "48198",
                         "desc_cliente": "LUCAS LENTZ MONTEIRO BOSON"
                     },
@@ -74328,6 +74350,10 @@
                     {
                         "codigo_cliente": "65674",
                         "desc_cliente": "LUISA PEREIRA DE ABREU"
+                    },
+                    {
+                        "codigo_cliente": "71075",
+                        "desc_cliente": "LUISA PIAZZA SANTIN"
                     },
                     {
                         "codigo_cliente": "66951",
@@ -75136,6 +75162,10 @@
                     {
                         "codigo_cliente": "65679",
                         "desc_cliente": "MARIO ROBERTO NALESSO MARQUES"
+                    },
+                    {
+                        "codigo_cliente": "71081",
+                        "desc_cliente": "MARIO SERGIO DE OLIVEIRA GURGEL"
                     },
                     {
                         "codigo_cliente": "65089",

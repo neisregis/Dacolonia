@@ -14774,6 +14774,10 @@
                         "desc_cliente": "NATAL COMERCIO DE COMBUSTIVEIS LTDA"
                     },
                     {
+                        "codigo_cliente": "38394",
+                        "desc_cliente": "NELSO PAZINATTO & CIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "14398",
                         "desc_cliente": "NOAL & TREVISOL LTDA"
                     },
@@ -16278,10 +16282,6 @@
                     {
                         "codigo_cliente": "22564",
                         "desc_cliente": "NELITA FATIMA BUCHE - ME"
-                    },
-                    {
-                        "codigo_cliente": "38394",
-                        "desc_cliente": "NELSO PAZINATTO & CIA LTDA"
                     },
                     {
                         "codigo_cliente": "1302",
@@ -30124,6 +30124,12 @@
                     {
                         "codigo_cliente": "11370",
                         "desc_cliente": "V. BASSO & CIA LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71163",
+                        "desc_cliente": "VIECELI SALVETTI E CIA LTDA"
                     }
                 ]
             },

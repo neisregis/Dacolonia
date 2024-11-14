@@ -19272,6 +19272,10 @@
                         "desc_cliente": "KOCH HIPERMERCADO S/A"
                     },
                     {
+                        "codigo_cliente": "70998",
+                        "desc_cliente": "KOCH HIPERMERCADO S/A"
+                    },
+                    {
                         "codigo_cliente": "33947",
                         "desc_cliente": "KOCH HIPERMERCADOS S/A"
                     },
@@ -20502,6 +20506,10 @@
                     {
                         "codigo_cliente": "67608",
                         "desc_cliente": "52.991.762 JOAO PAULO BRAVO DE LIMA"
+                    },
+                    {
+                        "codigo_cliente": "70771",
+                        "desc_cliente": "56.986.009 GLAUCIA DA ROSA"
                     },
                     {
                         "codigo_cliente": "44200",
@@ -28784,6 +28792,10 @@
                         "desc_cliente": "DANIEL VIEIRA"
                     },
                     {
+                        "codigo_cliente": "26051",
+                        "desc_cliente": "DIESSICA TAIRINE DOS REIS"
+                    },
+                    {
                         "codigo_cliente": "67543",
                         "desc_cliente": "DUNIS CAFETERIA LTDA"
                     },
@@ -29074,6 +29086,10 @@
                     {
                         "codigo_cliente": "48278",
                         "desc_cliente": "N R SERVICOS DE ALIMENTACAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71141",
+                        "desc_cliente": "PANIFICADORA E CONFEITARIA KEKA LTDA"
                     },
                     {
                         "codigo_cliente": "19926",
@@ -35790,12 +35806,12 @@
                         "desc_cliente": "CENTRO DE QUIMIOTERAPIA ONCOCLINICAS S/A"
                     },
                     {
-                        "codigo_cliente": "18916",
-                        "desc_cliente": "COMERCIAL DE ALIMENTOS ROXO LTDA"
-                    },
-                    {
                         "codigo_cliente": "30363",
                         "desc_cliente": "COMERCIAL DE ALIMENTOS SCHOCH E SIMAO LTDA - ME"
+                    },
+                    {
+                        "codigo_cliente": "18916",
+                        "desc_cliente": "COML DE ALIMENTOS ROXO LTDA"
                     },
                     {
                         "codigo_cliente": "61294",
@@ -54898,10 +54914,6 @@
                         "desc_cliente": "ELIANO OSORIO BARRETO 73521442004"
                     },
                     {
-                        "codigo_cliente": "53961",
-                        "desc_cliente": "ELIETE ANA CASSOL 52259030025"
-                    },
-                    {
                         "codigo_cliente": "33519",
                         "desc_cliente": "ELISANGELA Z BORGES"
                     },
@@ -55096,10 +55108,6 @@
                     {
                         "codigo_cliente": "68398",
                         "desc_cliente": "MARTA IONE GONCALVES OLIVEIRA 75854627000"
-                    },
-                    {
-                        "codigo_cliente": "71078",
-                        "desc_cliente": "MATHEUS LIMA OLIVEIRA"
                     },
                     {
                         "codigo_cliente": "69135",
@@ -57365,6 +57373,10 @@
                     },
                     {
                         "codigo_cliente": "66344",
+                        "desc_cliente": "UFFA REDE DE LOJAS DE PROXIMIDADE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70984",
                         "desc_cliente": "UFFA REDE DE LOJAS DE PROXIMIDADE LTDA"
                     }
                 ]

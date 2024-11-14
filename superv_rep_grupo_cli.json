@@ -15518,6 +15518,12 @@
                         "desc_cliente": "AVANTE SUPERMERCADO LTDA"
                     }
                 ],
+                "509 - SUPER NOSSO": [
+                    {
+                        "codigo_cliente": "70937",
+                        "desc_cliente": "DEMERSON BARBOSA - SUPERMERCADO LTDA"
+                    }
+                ],
                 "629 - RUBI ATAC": [
                     {
                         "codigo_cliente": "34615",
@@ -16622,6 +16628,10 @@
                         "desc_cliente": "ARMAZEM NOVA PALMA LTDA"
                     },
                     {
+                        "codigo_cliente": "70974",
+                        "desc_cliente": "AUTO POSTO NOSSA SENHORA DE LOURDES LTDA"
+                    },
+                    {
                         "codigo_cliente": "15720",
                         "desc_cliente": "AVELINO FERRARI - ME"
                     },
@@ -17520,11 +17530,19 @@
                         "desc_cliente": "CINE GRACHER LTDA"
                     },
                     {
+                        "codigo_cliente": "71044",
+                        "desc_cliente": "CINE GRACHER LTDA"
+                    },
+                    {
                         "codigo_cliente": "71045",
                         "desc_cliente": "CINE GRACHER LTDA"
                     },
                     {
                         "codigo_cliente": "71046",
+                        "desc_cliente": "CINE GRACHER LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71048",
                         "desc_cliente": "CINE GRACHER LTDA"
                     },
                     {
@@ -22671,6 +22689,12 @@
                         "codigo_cliente": "35137",
                         "desc_cliente": "SUPER COMPANY ATACADO E VAREJO DE PROD ALIMENT LTDA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71188",
+                        "desc_cliente": "DOCE ASTRAL CONFEITARIA LTDA"
+                    }
                 ]
             },
             "907": {
@@ -26502,6 +26526,10 @@
                     {
                         "codigo_cliente": "44936",
                         "desc_cliente": "FERNANDO DE MORAIS AZEVEDO EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "38858",
+                        "desc_cliente": "FERREIRA COMERCIO DE ALIMENTOS LTDA - EPP"
                     },
                     {
                         "codigo_cliente": "48211",
@@ -45771,7 +45799,7 @@
                     }
                 ]
             },
-            "1020": {
+            "1206": {
                 "1266 - MERCADO ELENICE": [
                     {
                         "codigo_cliente": "39885",
@@ -52958,10 +52986,6 @@
                         "desc_cliente": "BOTURUSSU 219 DISTRIBUIDORA  LTDA."
                     },
                     {
-                        "codigo_cliente": "22943",
-                        "desc_cliente": "COM DE DOCES BOM PRECO DE S AMARO LT EPP"
-                    },
-                    {
                         "codigo_cliente": "47160",
                         "desc_cliente": "COMERCIAL ZAMPIERI LTDA"
                     },
@@ -52982,16 +53006,8 @@
                         "desc_cliente": "DINSA DISTRIBUIDORA NOSSA SENHORA ACHIROPITA LTDA"
                     },
                     {
-                        "codigo_cliente": "22944",
-                        "desc_cliente": "DISTRIBUIDORA DE DOCES BIG BOM LTDA EPP"
-                    },
-                    {
                         "codigo_cliente": "38171",
                         "desc_cliente": "DOCES E BEBIDAS SUPER TREZE LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71096",
-                        "desc_cliente": "EMBALAGENS MOGIANA COMERCIAL LTDA"
                     },
                     {
                         "codigo_cliente": "67523",
@@ -53134,12 +53150,6 @@
                     {
                         "codigo_cliente": "66445",
                         "desc_cliente": "SUPER DOCES MARINGA LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "70985",
-                        "desc_cliente": "BRASILEIRAO ATACADO COM. DE PROD. ALIMENT. SOCIEDADE ANONIMA"
                     }
                 ]
             },
@@ -68520,6 +68530,10 @@
                         "desc_cliente": "EDIMAR GRUDKA"
                     },
                     {
+                        "codigo_cliente": "71182",
+                        "desc_cliente": "FIAMA MARQUES DA SILVA"
+                    },
+                    {
                         "codigo_cliente": "71058",
                         "desc_cliente": "FRUTAMIX CONVENIENCIA GRUDKA LTDA."
                     },
@@ -68566,6 +68580,10 @@
                     {
                         "codigo_cliente": "71169",
                         "desc_cliente": "MAICON MACALLI"
+                    },
+                    {
+                        "codigo_cliente": "71190",
+                        "desc_cliente": "MARCELO LOPES DOS SANTOS"
                     },
                     {
                         "codigo_cliente": "70989",
@@ -79762,6 +79780,10 @@
                         "desc_cliente": "38.232.067 TAMARA FERNANDA HOFFMANN"
                     },
                     {
+                        "codigo_cliente": "38839",
+                        "desc_cliente": "40.503.980 EGIDIO COLOGNESE GEHLEN"
+                    },
+                    {
                         "codigo_cliente": "55509",
                         "desc_cliente": "50.265.096 GISELLE NADIA WEBER"
                     },
@@ -79936,10 +79958,6 @@
                     {
                         "codigo_cliente": "30765",
                         "desc_cliente": "DINO CESAR PONTEL"
-                    },
-                    {
-                        "codigo_cliente": "38839",
-                        "desc_cliente": "EGIDIO COLOGNESE GEHLEN 48791172004"
                     },
                     {
                         "codigo_cliente": "29334",

@@ -14080,10 +14080,6 @@
                         "desc_cliente": "SUPERMERCADO NOVA ESPERANCA LTDA"
                     },
                     {
-                        "codigo_cliente": "70069",
-                        "desc_cliente": "SUPER SANTOS ATACAREJO LTDA"
-                    },
-                    {
                         "codigo_cliente": "57499",
                         "desc_cliente": "VILA CELEIRO E EMBALAGENS LTDA"
                     }
@@ -15522,12 +15518,6 @@
                         "desc_cliente": "AVANTE SUPERMERCADO LTDA"
                     }
                 ],
-                "509 - SUPER NOSSO": [
-                    {
-                        "codigo_cliente": "70937",
-                        "desc_cliente": "DEMERSON BARBOSA - SUPERMERCADO LTDA"
-                    }
-                ],
                 "629 - RUBI ATAC": [
                     {
                         "codigo_cliente": "34615",
@@ -16632,10 +16622,6 @@
                         "desc_cliente": "ARMAZEM NOVA PALMA LTDA"
                     },
                     {
-                        "codigo_cliente": "70974",
-                        "desc_cliente": "AUTO POSTO NOSSA SENHORA DE LOURDES LTDA"
-                    },
-                    {
                         "codigo_cliente": "15720",
                         "desc_cliente": "AVELINO FERRARI - ME"
                     },
@@ -17208,6 +17194,10 @@
                         "desc_cliente": "PASETTO UTILIDADES DOMESTICAS LTDA"
                     },
                     {
+                        "codigo_cliente": "71167",
+                        "desc_cliente": "PE NA TERRA ARMAZEM DE PRODUTOS NATURAIS LTDA"
+                    },
+                    {
                         "codigo_cliente": "41457",
                         "desc_cliente": "PIERI ATACADISTA LTDA"
                     },
@@ -17451,12 +17441,6 @@
                         "codigo_cliente": "45287",
                         "desc_cliente": "EMPORIUM KERO MAIS ATACADISTA LTDA"
                     }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71167",
-                        "desc_cliente": "PE NA TERRA  ARMAZEM  DE  PRODUTOS  NATURAIS LTDA"
-                    }
                 ]
             },
             "1030": {
@@ -17536,19 +17520,11 @@
                         "desc_cliente": "CINE GRACHER LTDA"
                     },
                     {
-                        "codigo_cliente": "71044",
-                        "desc_cliente": "CINE GRACHER LTDA"
-                    },
-                    {
                         "codigo_cliente": "71045",
                         "desc_cliente": "CINE GRACHER LTDA"
                     },
                     {
                         "codigo_cliente": "71046",
-                        "desc_cliente": "CINE GRACHER LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71048",
                         "desc_cliente": "CINE GRACHER LTDA"
                     },
                     {
@@ -30038,6 +30014,10 @@
                     {
                         "codigo_cliente": "32839",
                         "desc_cliente": "VIECELI SALVETTI & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71163",
+                        "desc_cliente": "VIECELI SALVETTI & CIA LTDA"
                     }
                 ],
                 "587 - BAGGIO": [
@@ -30134,12 +30114,6 @@
                     {
                         "codigo_cliente": "11370",
                         "desc_cliente": "V. BASSO & CIA LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71163",
-                        "desc_cliente": "VIECELI SALVETTI E CIA LTDA"
                     }
                 ]
             },
@@ -36612,10 +36586,6 @@
                         "desc_cliente": "50.138.842 LUIS HENRIQUE PORTO"
                     },
                     {
-                        "codigo_cliente": "70178",
-                        "desc_cliente": "50.747.493 VICTOR HUGO PANTOJA COSTA"
-                    },
-                    {
                         "codigo_cliente": "64883",
                         "desc_cliente": "53.066.878 LETICIA ADRIANA LOPES WILDNER"
                     },
@@ -39566,10 +39536,6 @@
                     {
                         "codigo_cliente": "58016",
                         "desc_cliente": "FRUITWAY HORTIFRUTI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "22624",
-                        "desc_cliente": "HOTEL E RESTAURANTE PASSE BEM LTDA"
                     },
                     {
                         "codigo_cliente": "47560",
@@ -43110,10 +43076,6 @@
                     {
                         "codigo_cliente": "66197",
                         "desc_cliente": "MERCADO DO BAIRRO RJ LTDA"
-                    },
-                    {
-                        "codigo_cliente": "28171",
-                        "desc_cliente": "SUPERMERCADO LUCAS FORTE LTDA ME - ME"
                     }
                 ],
                 "849 - COML ITINGA": [
@@ -50788,6 +50750,10 @@
                         "desc_cliente": "ATACADAO DO NATURAL COM. E IMPORTACAO DE PROD. ALIMENTICIOS "
                     },
                     {
+                        "codigo_cliente": "71157",
+                        "desc_cliente": "ATACADAO DO NATURAL COM. E IMPORT. DE PROD ALIMENTICIOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "62480",
                         "desc_cliente": "ATACADAO DO NATURAL COMERCIO E IMPORTACAO DE PRODUTOS ALIMEN"
                     },
@@ -51044,10 +51010,6 @@
                     {
                         "codigo_cliente": "40685",
                         "desc_cliente": "DLVR BIO SAUDAVEL DO BRASIL PRODUTOS ORGANICOS EIRELI"
-                    },
-                    {
-                        "codigo_cliente": "47223",
-                        "desc_cliente": "DOCE LAR DAS COCADAS LTDA"
                     },
                     {
                         "codigo_cliente": "52848",
@@ -51746,12 +51708,6 @@
                     {
                         "codigo_cliente": "41803",
                         "desc_cliente": "A.P. COSTA EMPORIO"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71157",
-                        "desc_cliente": "atacadao natural comercio e importacao de produtos alimenticios ltda"
                     }
                 ]
             },
@@ -84438,14 +84394,6 @@
                     {
                         "codigo_cliente": "55735",
                         "desc_cliente": "GIACOMEL E BERTUOL LTDA"
-                    }
-                ]
-            },
-            "317": {
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "70327",
-                        "desc_cliente": "ROSELI FERREIRA"
                     }
                 ]
             }

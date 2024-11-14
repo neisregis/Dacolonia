@@ -8466,6 +8466,10 @@
                         "desc_cliente": "SUPERMERCADO SHIKI LTDA"
                     },
                     {
+                        "codigo_cliente": "10190",
+                        "desc_cliente": "SUPERMERCADO ZANZARINI LTDA"
+                    },
+                    {
                         "codigo_cliente": "41882",
                         "desc_cliente": "TAY HERBS COMERCIO DE PRODUTOS NATURAIS LTDA"
                     },
@@ -8812,10 +8816,6 @@
                     {
                         "codigo_cliente": "5985",
                         "desc_cliente": "SUPERMERCADO TIBURCIO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "10190",
-                        "desc_cliente": "SUPERMERCADO ZANZARINI LTDA"
                     },
                     {
                         "codigo_cliente": "69554",
@@ -13896,10 +13896,6 @@
                         "desc_cliente": "AF VARIEDADES LTDA"
                     },
                     {
-                        "codigo_cliente": "43040",
-                        "desc_cliente": "ALISON SAMUEL MARTINS EIRELI"
-                    },
-                    {
                         "codigo_cliente": "24031",
                         "desc_cliente": "ANDRIELI GONCALVES"
                     },
@@ -17526,15 +17522,7 @@
                         "desc_cliente": "CINE GRACHER LTDA"
                     },
                     {
-                        "codigo_cliente": "71042",
-                        "desc_cliente": "CINE GRACHER LTDA"
-                    },
-                    {
                         "codigo_cliente": "71044",
-                        "desc_cliente": "CINE GRACHER LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71045",
                         "desc_cliente": "CINE GRACHER LTDA"
                     },
                     {
@@ -17543,10 +17531,6 @@
                     },
                     {
                         "codigo_cliente": "71048",
-                        "desc_cliente": "CINE GRACHER LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71049",
                         "desc_cliente": "CINE GRACHER LTDA"
                     },
                     {
@@ -17712,20 +17696,16 @@
                         "desc_cliente": "MODESTO AUTO POSTO LTDA"
                     },
                     {
-                        "codigo_cliente": "71004",
-                        "desc_cliente": "MOSSINI UTILIDADES COMERCIO VAREJISTA LTDA"
-                    },
-                    {
                         "codigo_cliente": "45428",
                         "desc_cliente": "NAIR MARIA BUNN 02807311911"
                     },
                     {
-                        "codigo_cliente": "71086",
-                        "desc_cliente": "NOVA GERACAO ROYER LTDA"
-                    },
-                    {
                         "codigo_cliente": "59647",
                         "desc_cliente": "POSTO DO LIRIO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "22727",
+                        "desc_cliente": "POSTO MAIOCHI CAMBORIU LTDA"
                     },
                     {
                         "codigo_cliente": "56128",
@@ -19806,10 +19786,6 @@
                         "desc_cliente": "NATURALISSIMA M & S LTDA"
                     },
                     {
-                        "codigo_cliente": "70409",
-                        "desc_cliente": "OTHALA COMERCIO LTDA"
-                    },
-                    {
                         "codigo_cliente": "61297",
                         "desc_cliente": "PANIFICADORA E CONFEITARIA DELLA NONNA LTDA"
                     },
@@ -20102,10 +20078,6 @@
                         "desc_cliente": "COMERCIO DE FRUTAS E VERDURAS ARIETE LTDA"
                     },
                     {
-                        "codigo_cliente": "70158",
-                        "desc_cliente": "COMERCIO DE GENEROS ALIMENTICIOS MALDANER LTDA"
-                    },
-                    {
                         "codigo_cliente": "22490",
                         "desc_cliente": "COMERCIO GENEROS ALIMENTICIOS SCHMIDT LTDA"
                     },
@@ -20236,10 +20208,6 @@
                     {
                         "codigo_cliente": "45344",
                         "desc_cliente": "MERCADO SILVEIRA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71097",
-                        "desc_cliente": "MERCEARIA E ACOUGUE SCABENI ROSA LTDA"
                     },
                     {
                         "codigo_cliente": "70245",
@@ -52986,6 +52954,10 @@
                         "desc_cliente": "BOTURUSSU 219 DISTRIBUIDORA  LTDA."
                     },
                     {
+                        "codigo_cliente": "22943",
+                        "desc_cliente": "COM DE DOCES BOM PRECO DE S AMARO LT EPP"
+                    },
+                    {
                         "codigo_cliente": "47160",
                         "desc_cliente": "COMERCIAL ZAMPIERI LTDA"
                     },
@@ -53006,8 +52978,16 @@
                         "desc_cliente": "DINSA DISTRIBUIDORA NOSSA SENHORA ACHIROPITA LTDA"
                     },
                     {
+                        "codigo_cliente": "22944",
+                        "desc_cliente": "DISTRIBUIDORA DE DOCES BIG BOM LTDA EPP"
+                    },
+                    {
                         "codigo_cliente": "38171",
                         "desc_cliente": "DOCES E BEBIDAS SUPER TREZE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71096",
+                        "desc_cliente": "EMBALAGENS MOGIANA COMERCIAL LTDA"
                     },
                     {
                         "codigo_cliente": "67523",
@@ -53150,6 +53130,12 @@
                     {
                         "codigo_cliente": "66445",
                         "desc_cliente": "SUPER DOCES MARINGA LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "70985",
+                        "desc_cliente": "BRASILEIRAO ATACADO COM. DE PROD. ALIMENT. SOCIEDADE ANONIMA"
                     }
                 ]
             },
@@ -68538,6 +68524,10 @@
                         "desc_cliente": "FRUTAMIX CONVENIENCIA GRUDKA LTDA."
                     },
                     {
+                        "codigo_cliente": "71187",
+                        "desc_cliente": "GABRIELA KERN"
+                    },
+                    {
                         "codigo_cliente": "71022",
                         "desc_cliente": "GEAN CARDOSO"
                     },
@@ -68780,6 +68770,10 @@
                     {
                         "codigo_cliente": "65926",
                         "desc_cliente": "ALBERTO JOSE DE OLIVEIRA ARMANDO"
+                    },
+                    {
+                        "codigo_cliente": "67867",
+                        "desc_cliente": "ALCEMIR ISIDORO"
                     },
                     {
                         "codigo_cliente": "70448",
@@ -74220,10 +74214,6 @@
                     {
                         "codigo_cliente": "65566",
                         "desc_cliente": "LUCAS SANTOS SOUZA"
-                    },
-                    {
-                        "codigo_cliente": "67867",
-                        "desc_cliente": "LUCELIA NERIS"
                     },
                     {
                         "codigo_cliente": "65259",

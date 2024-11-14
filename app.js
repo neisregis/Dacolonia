@@ -7,19 +7,15 @@ document.addEventListener('DOMContentLoaded', function() {
         console.error("Telegram WebApp API não está disponível.");
     }
 
-    // Função para obter parâmetros da URL
     function getParameterByName(name) {
         const url = new URL(window.location.href);
         return url.searchParams.get(name);
     }
 
-    // Obtém o código do representante e supervisor da URL
     const repCode = getParameterByName('repCode');
     const supCode = getParameterByName('supCode');
+    let selecionado = null;
 
-    let selecionado = null; // Armazena o item selecionado (grupo ou cliente)
-
-    // Função para destacar o item selecionado
     function selecionarItem(item) {
         if (selecionado) {
             selecionado.classList.remove('selecionado');
@@ -28,32 +24,28 @@ document.addEventListener('DOMContentLoaded', function() {
         selecionado = item;
     }
 
-    // Caminho para o arquivo JSON
     const url = './superv_rep_grupo_cli.json';
 
-    // Função para exibir clientes com funcionalidade de abrir/fechar grupos
     function exibirClientes(clientesPorGrupo) {
         const lista = document.getElementById('listaClientes');
-        lista.innerHTML = ''; // Limpa a lista anterior
+        lista.innerHTML = '';
 
         Object.keys(clientesPorGrupo).forEach(grupo => {
-            // Cria o item de grupo
             const grupoItem = document.createElement('li');
             grupoItem.classList.add('grupo');
-            grupoItem.addEventListener('click', () => selecionarItem(grupoItem)); // Seleção do grupo
+            grupoItem.addEventListener('click', () => selecionarItem(grupoItem));
             
             const toggleButton = document.createElement('button');
             toggleButton.classList.add('toggle-button');
             toggleButton.textContent = '+';
             
             const grupoTexto = document.createElement('span');
-            grupoTexto.textContent = `${grupo}`; // Exibe diretamente o nome do grupo
+            grupoTexto.textContent = `${grupo}`;
 
             grupoItem.appendChild(toggleButton);
             grupoItem.appendChild(grupoTexto);
             lista.appendChild(grupoItem);
 
-            // Cria a lista de clientes escondida inicialmente
             const subLista = document.createElement('ul');
             subLista.classList.add('clientes');
             
@@ -62,15 +54,14 @@ document.addEventListener('DOMContentLoaded', function() {
                 clienteItem.classList.add('cliente-item');
                 clienteItem.textContent = `${cliente.codigo_cliente} - ${cliente.desc_cliente}`;
                 clienteItem.addEventListener('click', (event) => {
-                    event.stopPropagation(); // Evita que o clique no cliente selecione o grupo
-                    selecionarItem(clienteItem); // Seleção do cliente
+                    event.stopPropagation();
+                    selecionarItem(clienteItem);
                 });
                 subLista.appendChild(clienteItem);
             });
 
             lista.appendChild(subLista);
 
-            // Evento de clique para abrir/fechar a lista de clientes
             toggleButton.addEventListener('click', function() {
                 if (subLista.style.display === 'none' || subLista.style.display === '') {
                     subLista.style.display = 'block';
@@ -83,107 +74,136 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    // Faz a requisição e filtra os clientes pelo código do representante, supervisor, ou carrega todos os dados
+    // Adiciona um listener de evento para o campo de filtro
+    const filterInput = document.getElementById('filterInput');
+    if (filterInput) {
+        filterInput.addEventListener('input', function () {
+            const query = this.value.toLowerCase();
+            console.log("Texto digitado no filtro:", query); // Verificação
+            filtrarClientes(query);
+        });
+    } else {
+        console.error("Campo de filtro não encontrado!");
+    }
+
+    function filtrarClientes(query) {
+		const lista = document.getElementById('listaClientes');
+		const grupos = lista.querySelectorAll('.grupo');
+
+		// Verifica se o campo de filtro está vazio
+		const filtroVazio = query.trim() === '';
+
+		grupos.forEach(grupoItem => {
+			const grupoNome = grupoItem.querySelector('span').textContent.toLowerCase();
+			const subLista = grupoItem.nextElementSibling;
+
+			let grupoVisivel = false;
+			const clientes = subLista.querySelectorAll('.cliente-item');
+			clientes.forEach(clienteItem => {
+				const clienteNome = clienteItem.textContent.toLowerCase();
+				const clienteVisivel = clienteNome.includes(query) || grupoNome.includes(query);
+				clienteItem.style.display = clienteVisivel ? '' : 'none';
+				grupoVisivel = grupoVisivel || clienteVisivel;
+			});
+
+			// Exibe ou oculta o grupo e a lista de clientes conforme o filtro
+			grupoItem.style.display = grupoVisivel || grupoNome.includes(query) ? '' : 'none';
+			subLista.style.display = (filtroVazio || !grupoVisivel) ? 'none' : 'block';
+			
+			// Define o texto do botão com base na visibilidade da sublista
+			const toggleButton = grupoItem.querySelector('.toggle-button');
+			toggleButton.textContent = subLista.style.display === 'none' ? '+' : '-';
+		});
+	}
+
     fetch(url)
-		.then(response => {
-			if (!response.ok) {
-				throw new Error('Erro ao buscar o JSON');
-			}
-			return response.json();
-		})
-		.then(data => {
-			console.log(data); // Verifica o conteúdo do JSON no console
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Erro ao buscar o JSON');
+            }
+            return response.json();
+        })
+        .then(data => {
+            console.log("Dados carregados:", data);
 
-			if (supCode) {
-				// Filtragem pelo código do supervisor
-				if (data[supCode]) {
-					const representantes = data[supCode]['representantes'];
-					let clientesPorGrupo = {};
+            if (supCode) {
+                if (data[supCode]) {
+                    const representantes = data[supCode]['representantes'];
+                    let clientesPorGrupo = {};
 
-					Object.values(representantes).forEach(grupos => {
-						Object.keys(grupos).forEach(grupo => {
-							if (!clientesPorGrupo[grupo]) {
-								clientesPorGrupo[grupo] = [];
-							}
-							// Concatena e ordena os clientes do grupo em ordem alfabética
-							clientesPorGrupo[grupo] = clientesPorGrupo[grupo]
-								.concat(grupos[grupo])
-								.filter(cliente => cliente && cliente.desc_cliente) // Filtra clientes não nulos
-								.sort((a, b) => a.desc_cliente.localeCompare(b.desc_cliente));
-						});
-					});
+                    Object.values(representantes).forEach(grupos => {
+                        Object.keys(grupos).forEach(grupo => {
+                            if (!clientesPorGrupo[grupo]) {
+                                clientesPorGrupo[grupo] = [];
+                            }
+                            clientesPorGrupo[grupo] = clientesPorGrupo[grupo]
+                                .concat(grupos[grupo])
+                                .filter(cliente => cliente && cliente.desc_cliente)
+                                .sort((a, b) => a.desc_cliente.localeCompare(b.desc_cliente));
+                        });
+                    });
 
-					// Exibe os clientes na página
-					exibirClientes(clientesPorGrupo);
-				} else {
-					document.getElementById('listaClientes').innerHTML = 'Nenhum cliente encontrado para este supervisor.';
-				}
-			} else if (repCode) {
-				// Filtragem pelo código do representante
-				let encontrado = false;
-				Object.keys(data).forEach(sup => {
-					const representantes = data[sup]['representantes'];
-					if (representantes[repCode]) {
-						encontrado = true;
-						const clientesPorGrupo = representantes[repCode];
+                    exibirClientes(clientesPorGrupo);
+                } else {
+                    document.getElementById('listaClientes').innerHTML = 'Nenhum cliente encontrado para este supervisor.';
+                }
+            } else if (repCode) {
+                let encontrado = false;
+                Object.keys(data).forEach(sup => {
+                    const representantes = data[sup]['representantes'];
+                    if (representantes[repCode]) {
+                        encontrado = true;
+                        const clientesPorGrupo = representantes[repCode];
 
-						// Ordena os clientes de cada grupo do representante
-						Object.keys(clientesPorGrupo).forEach(grupo => {
-							clientesPorGrupo[grupo] = clientesPorGrupo[grupo]
-								.filter(cliente => cliente && cliente.desc_cliente) // Filtra clientes não nulos
-								.sort((a, b) => a.desc_cliente.localeCompare(b.desc_cliente));
-						});
+                        Object.keys(clientesPorGrupo).forEach(grupo => {
+                            clientesPorGrupo[grupo] = clientesPorGrupo[grupo]
+                                .filter(cliente => cliente && cliente.desc_cliente)
+                                .sort((a, b) => a.desc_cliente.localeCompare(b.desc_cliente));
+                        });
 
-						exibirClientes(clientesPorGrupo);
-					}
-				});
+                        exibirClientes(clientesPorGrupo);
+                    }
+                });
 
-				if (!encontrado) {
-					document.getElementById('listaClientes').innerHTML = 'Nenhum cliente encontrado para este representante.';
-				}
-			} else {
-				// Caso nenhum código seja fornecido, carrega todos os dados
-				let clientesPorGrupo = {};
+                if (!encontrado) {
+                    document.getElementById('listaClientes').innerHTML = 'Nenhum cliente encontrado para este representante.';
+                }
+            } else {
+                let clientesPorGrupo = {};
 
-				Object.keys(data).forEach(sup => {
-					const representantes = data[sup]['representantes'];
-					Object.values(representantes).forEach(grupos => {
-						Object.keys(grupos).forEach(grupo => {
-							if (!clientesPorGrupo[grupo]) {
-								clientesPorGrupo[grupo] = [];
-							}
-							// Concatena e ordena os clientes do grupo em ordem alfabética
-							clientesPorGrupo[grupo] = clientesPorGrupo[grupo]
-								.concat(grupos[grupo])
-								.filter(cliente => cliente && cliente.desc_cliente) // Filtra clientes não nulos
-								.sort((a, b) => a.desc_cliente.localeCompare(b.desc_cliente));
-						});
-					});
-				});
+                Object.keys(data).forEach(sup => {
+                    const representantes = data[sup]['representantes'];
+                    Object.values(representantes).forEach(grupos => {
+                        Object.keys(grupos).forEach(grupo => {
+                            if (!clientesPorGrupo[grupo]) {
+                                clientesPorGrupo[grupo] = [];
+                            }
+                            clientesPorGrupo[grupo] = clientesPorGrupo[grupo]
+                                .concat(grupos[grupo])
+                                .filter(cliente => cliente && cliente.desc_cliente)
+                                .sort((a, b) => a.desc_cliente.localeCompare(b.desc_cliente));
+                        });
+                    });
+                });
 
-				// Exibe todos os clientes na página
-				exibirClientes(clientesPorGrupo);
-			}
-		})
-		.catch(error => console.error('Erro ao buscar os dados:', error));
+                exibirClientes(clientesPorGrupo);
+            }
+        })
+        .catch(error => console.error('Erro ao buscar os dados:', error));
 
-
-    // Função para enviar dados para o Telegram e fechar o WebApp
     document.getElementById('enviarBtn').addEventListener('click', function() {
         if (selecionado) {
             let message = '';
 
-            // Verifica se o grupo selecionado é "1 - GERAL" e exibe o alerta
             if (selecionado.classList.contains('grupo') && selecionado.textContent.includes('1 - GERAL')) {
                 alert("Não é possível gerar o relatório para o grupo '1 - GERAL', por favor, selecione outro Grupo / Cliente");
-                return; // Cancela o envio
+                return;
             } else if (selecionado.classList.contains('grupo')) {
                 message = `Grupo selecionado: ${selecionado.textContent}`;
             } else if (selecionado.classList.contains('cliente-item')) {
                 message = `Cliente selecionado: ${selecionado.textContent}`;
             }
 
-            // Confirmação da seleção do usuário antes de enviar
             const confirmacao = confirm(`Você selecionou: ${selecionado.textContent}. Deseja enviar esta informação?`);
             if (confirmacao) {
                 console.log("Mensagem a ser enviada para o Telegram:", message);
@@ -192,7 +212,6 @@ document.addEventListener('DOMContentLoaded', function() {
                     window.Telegram.WebApp.sendData(message);
                     console.log("Mensagem enviada para o Telegram: ", message);
 
-                    // Fechar o WebApp após enviar a mensagem
                     window.Telegram.WebApp.close();
                     console.log("WebApp fechado.");
                 } catch (error) {

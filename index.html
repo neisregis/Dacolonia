@@ -7,6 +7,23 @@
     <link rel="stylesheet" href="styles.css"> <!-- Link para o arquivo CSS externo -->
     <script src="https://telegram.org/js/telegram-web-app.js"></script> <!-- Biblioteca do Telegram WebApp -->
     <script src="app.js"></script>
+    
+    <style>
+        /* Contêiner do filtro e botão */
+        .filter-container {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+
+        /* Estilos para o filtro */
+        #filterInput {
+            width: 60%; /* 60% da largura */
+            padding: 8px;
+            font-size: 16px;
+        }
+        
+    </style>
 </head>
 <body>
 
@@ -15,10 +32,13 @@
     <img id="logo" src="Dacolonia.png" alt="Logo da Empresa">
 </header>
 
-<ul id="listaClientes"></ul>
+<!-- Contêiner para o filtro e o botão juntos -->
+<div class="filter-container">
+    <input type="text" id="filterInput" placeholder="Filtrar clientes ou grupos">
+    <button id="enviarBtn">Gerar Relatório!</button>
+</div>
 
-<!-- Botão fixo para enviar informações -->
-<button id="enviarBtn">Enviar Informações</button>
+<ul id="listaClientes"></ul>
 
 </body>
 </html>

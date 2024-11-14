@@ -80,20 +80,19 @@ li {
     border: 2px solid yellow;
 }
 
-/* Botão fixo no rodapé */
+/* Ajustes no botão "Enviar Informações" para que fique ao lado do filtro na parte superior */
 #enviarBtn {
-    position: fixed;
-    bottom: 10px;
-    right: 10px;
-    background-color: #007bff;
+    width: 40%; /* 40% da largura */
+    background-color: #5A2E0E; /* Marrom mais forte para chamar atenção */
     color: white;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 8px;
+    border: 2px solid #3D1F07; /* Marrom mais escuro para a borda */
+    padding: 8px;
     font-size: 16px;
     cursor: pointer;
+    transition: 0.3s;
+    border-radius: 8px;
 }
 
 #enviarBtn:hover {
-    background-color: #0056b3;
+    background-color: #7B3F14; /* Marrom um pouco mais claro ao passar o mouse */
 }

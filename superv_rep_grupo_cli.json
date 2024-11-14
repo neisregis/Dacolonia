@@ -14236,6 +14236,10 @@
                     {
                         "codigo_cliente": "67949",
                         "desc_cliente": "IRMAOS ZAT LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71135",
+                        "desc_cliente": "IRMAOS ZAT LTDA"
                     }
                 ],
                 "1234 - ANSOLIN": [
@@ -14500,12 +14504,6 @@
                     {
                         "codigo_cliente": "8032",
                         "desc_cliente": "IMPERIAL SUPERMERCADOS LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71135",
-                        "desc_cliente": "IRMAOS ZAT LTDA"
                     }
                 ]
             },
@@ -24104,6 +24102,10 @@
                         "desc_cliente": "JAJA SUPERMERCADO LTDA"
                     },
                     {
+                        "codigo_cliente": "71137",
+                        "desc_cliente": "JEAN PIERRE DE BORBA CORREA"
+                    },
+                    {
                         "codigo_cliente": "59533",
                         "desc_cliente": "JEAN VINICIUS BROZO DA SILVA 02841504018"
                     },
@@ -24362,12 +24364,6 @@
                     {
                         "codigo_cliente": "5359",
                         "desc_cliente": "MERCADO REICHERT LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71137",
-                        "desc_cliente": "JEAN PIERRE DE BORBA CORREA"
                     }
                 ]
             },
@@ -29074,6 +29070,10 @@
                         "desc_cliente": "N R SERVICOS DE ALIMENTACAO LTDA"
                     },
                     {
+                        "codigo_cliente": "71141",
+                        "desc_cliente": "PANIFICADORA E CONFEITARIA KEKA LTDA"
+                    },
+                    {
                         "codigo_cliente": "19926",
                         "desc_cliente": "PANIFICADORA E CONFEITARIA MAZZUCCO LTDA"
                     },
@@ -29200,12 +29200,6 @@
                     {
                         "codigo_cliente": "19066",
                         "desc_cliente": "CASTAGNETTI & CIA LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71141",
-                        "desc_cliente": "PANIFICADORA E CONFEITARIA KEKA LTDA"
                     }
                 ]
             },
@@ -80874,6 +80868,10 @@
                         "desc_cliente": "VIVIANE KLAUS DA SILVA ROCHA"
                     },
                     {
+                        "codigo_cliente": "71150",
+                        "desc_cliente": "VKS COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "66371",
                         "desc_cliente": "WILLIAM H. DOS SANTOS LTDA"
                     }
@@ -80976,12 +80974,6 @@
                     {
                         "codigo_cliente": "66589",
                         "desc_cliente": "ALIPASSO DISTRIBUIDORA LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71150",
-                        "desc_cliente": "VKS COMERCIO DE PROD.ALIM.LTDA"
                     }
                 ]
             },

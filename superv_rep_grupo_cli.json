@@ -41262,6 +41262,10 @@
                 ],
                 "785 - SUPER ROBERTÃO": [
                     {
+                        "codigo_cliente": "59573",
+                        "desc_cliente": "B PEREIRA SILVA & SANTOS - COM DE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "44511",
                         "desc_cliente": "B. PEREIRA SILVA & SANTOS - COM. DE PRODUTOS ALIMENT. LTDA"
                     }

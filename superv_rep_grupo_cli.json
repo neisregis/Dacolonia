@@ -6678,6 +6678,10 @@
                 ],
                 "221 - ARMAZEM MATEUS": [
                     {
+                        "codigo_cliente": "29039",
+                        "desc_cliente": "ARMAZEM MATEUS S.A."
+                    },
+                    {
                         "codigo_cliente": "29223",
                         "desc_cliente": "ARMAZEM MATEUS S.A."
                     },
@@ -19096,6 +19100,10 @@
                         "desc_cliente": "JPS COMERCIO DE ALIMENTOS E ARTIGOS PARA FESTAS LTDA"
                     },
                     {
+                        "codigo_cliente": "71230",
+                        "desc_cliente": "NAS COMERCIO DE ALIMENTOS E ARTIGOS PARA FESTAS LTDA"
+                    },
+                    {
                         "codigo_cliente": "71229",
                         "desc_cliente": "PITTER PAN COMERCIO DE ALIMENTOS LTDA"
                     }
@@ -24750,6 +24758,10 @@
                     {
                         "codigo_cliente": "47234",
                         "desc_cliente": "LUIZ MAGEDANZ ME"
+                    },
+                    {
+                        "codigo_cliente": "69958",
+                        "desc_cliente": "MAIS PAPEIS INDUSTRIA & COMERCIO LTDA"
                     },
                     {
                         "codigo_cliente": "56836",
@@ -35442,6 +35454,12 @@
                     {
                         "codigo_cliente": "45596",
                         "desc_cliente": "MJ COM DE EMBALAGENS E PROD ALIMENT LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71241",
+                        "desc_cliente": "ARMAZEM DO CONFEITEIRO LTDA"
                     }
                 ]
             },
@@ -46154,6 +46172,10 @@
                         "desc_cliente": "LISANDRA HORNKE KLUG"
                     },
                     {
+                        "codigo_cliente": "34208",
+                        "desc_cliente": "LLS NATURAIS LTDA"
+                    },
+                    {
                         "codigo_cliente": "43142",
                         "desc_cliente": "L. M. D. SARAIVA"
                     },
@@ -46478,6 +46500,10 @@
                         "desc_cliente": "AMANDA RUVIARO"
                     },
                     {
+                        "codigo_cliente": "55626",
+                        "desc_cliente": "AMILTOM CEZAR MARTINI BISCAGLIA & CIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "22756",
                         "desc_cliente": "ANA FERNANDES DE QUADROS"
                     },
@@ -46568,6 +46594,10 @@
                     {
                         "codigo_cliente": "55761",
                         "desc_cliente": "CRISTIANO FAGUNDES MARQUES"
+                    },
+                    {
+                        "codigo_cliente": "40507",
+                        "desc_cliente": "CRISTIANO RIBEIRO FERNANDES DA SILVA"
                     },
                     {
                         "codigo_cliente": "15147",
@@ -68642,6 +68672,10 @@
                         "desc_cliente": "EMERSON PESSINI"
                     },
                     {
+                        "codigo_cliente": "71236",
+                        "desc_cliente": "EVANDRO MARTINS DA SILVA"
+                    },
+                    {
                         "codigo_cliente": "71182",
                         "desc_cliente": "FIAMA MARQUES DA SILVA"
                     },
@@ -79918,6 +79952,10 @@
                     {
                         "codigo_cliente": "64362",
                         "desc_cliente": "50.510.564 ENIA DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "71219",
+                        "desc_cliente": "55.838.574 MARISA CARMEM DALL AGNOL COMUNELLO"
                     },
                     {
                         "codigo_cliente": "36788",

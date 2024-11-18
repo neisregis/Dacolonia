@@ -7574,6 +7574,10 @@
                         "desc_cliente": "H DE GODOY BUENO & CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "33376",
+                        "desc_cliente": "IACIDA EMBALAGENS E PRESENTES LTDA"
+                    },
+                    {
                         "codigo_cliente": "52947",
                         "desc_cliente": "IMBAU - COMERCIO DE ALIMENTOS LTDA"
                     },
@@ -8648,10 +8652,6 @@
                     {
                         "codigo_cliente": "31647",
                         "desc_cliente": "HM VENDRAMINI E CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "33376",
-                        "desc_cliente": "IACIDA EMBALAGENS E PRESENTES LTDA"
                     },
                     {
                         "codigo_cliente": "62102",
@@ -18488,6 +18488,10 @@
                         "desc_cliente": "SOUZA COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "70134",
+                        "desc_cliente": "SUPER ECONOMIA BARRA DO SUL LTDA"
+                    },
+                    {
                         "codigo_cliente": "35937",
                         "desc_cliente": "SUPERMERCADO BOI GORDO LTDA"
                     },
@@ -19087,6 +19091,10 @@
                     }
                 ],
                 "null": [
+                    {
+                        "codigo_cliente": "71231",
+                        "desc_cliente": "JPS COMERCIO DE ALIMENTOS E ARTIGOS PARA FESTAS LTDA"
+                    },
                     {
                         "codigo_cliente": "71229",
                         "desc_cliente": "PITTER PAN COMERCIO DE ALIMENTOS LTDA"
@@ -43268,6 +43276,12 @@
                     {
                         "codigo_cliente": "39741",
                         "desc_cliente": "MIXCERTO COMERCIO E DISTRIBUIDORA DE ALIMENTOS EIRELI-ME"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71235",
+                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A"
                     }
                 ]
             },

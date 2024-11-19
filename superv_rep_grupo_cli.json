@@ -9714,6 +9714,10 @@
                     {
                         "codigo_cliente": "67463",
                         "desc_cliente": "FILHOS DE ALMIR A. CRUZ LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71247",
+                        "desc_cliente": "FILHOS DE ALMIR A. CRUZ LTDA"
                     }
                 ],
                 "1286 - RANCHO SUPERMERCADOS": [
@@ -10194,12 +10198,6 @@
                     {
                         "codigo_cliente": "55299",
                         "desc_cliente": "ISHII COMERCIO DE ALIMENTOS LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71247",
-                        "desc_cliente": "FILHOS DE ALMIR A, CRUZ LTDA"
                     }
                 ]
             },
@@ -35110,6 +35108,10 @@
                         "desc_cliente": "ARMAZEM DO CONFEITEIRO LTDA"
                     },
                     {
+                        "codigo_cliente": "71241",
+                        "desc_cliente": "ARMAZEM DO CONFEITEIRO LTDA"
+                    },
+                    {
                         "codigo_cliente": "8379",
                         "desc_cliente": "ARMAZEM METROPOLITANO LTDA. - ME"
                     },
@@ -35476,12 +35478,6 @@
                     {
                         "codigo_cliente": "45596",
                         "desc_cliente": "MJ COM DE EMBALAGENS E PROD ALIMENT LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71241",
-                        "desc_cliente": "ARMAZEM DO CONFEITEIRO LTDA"
                     }
                 ]
             },
@@ -43260,6 +43256,10 @@
                         "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A"
                     },
                     {
+                        "codigo_cliente": "71235",
+                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A"
+                    },
+                    {
                         "codigo_cliente": "55666",
                         "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A."
                     },
@@ -43320,12 +43320,6 @@
                     {
                         "codigo_cliente": "39741",
                         "desc_cliente": "MIXCERTO COMERCIO E DISTRIBUIDORA DE ALIMENTOS EIRELI-ME"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71235",
-                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A"
                     }
                 ]
             },

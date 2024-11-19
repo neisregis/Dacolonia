@@ -25759,6 +25759,12 @@
                         "codigo_cliente": "10189",
                         "desc_cliente": "SUPER MERCADO IVOTI LTDA - FILIAL"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71278",
+                        "desc_cliente": "Sorvetes do Parque"
+                    }
                 ]
             },
             "468": {
@@ -38506,6 +38512,10 @@
                     {
                         "codigo_cliente": "48954",
                         "desc_cliente": "BAZAR KIOSKO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71273",
+                        "desc_cliente": "BORGES EXPRESS SUPERMERCADO LTDA"
                     },
                     {
                         "codigo_cliente": "70641",

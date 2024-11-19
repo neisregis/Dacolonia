@@ -18894,6 +18894,10 @@
                         "desc_cliente": "JOSE FERNANDES RESENDE"
                     },
                     {
+                        "codigo_cliente": "71231",
+                        "desc_cliente": "JPS COMERCIO DE ALIMENTOS E ARTIGOS PARA FESTAS LTDA"
+                    },
+                    {
                         "codigo_cliente": "46772",
                         "desc_cliente": "KALFELS PANIFICADORA E MERCADO LTDA"
                     },
@@ -18970,6 +18974,10 @@
                         "desc_cliente": "NACK & CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "71230",
+                        "desc_cliente": "NAS COMERCIO DE ALIMENTOS E ARTIGOS PARA FESTAS LTDA"
+                    },
+                    {
                         "codigo_cliente": "53977",
                         "desc_cliente": "NUTRY FRUTARIA E MERCEARIA LTDA"
                     },
@@ -18984,6 +18992,10 @@
                     {
                         "codigo_cliente": "48359",
                         "desc_cliente": "PANIFICADORA E MERCEARIA WAGNER LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71229",
+                        "desc_cliente": "PITTER PAN COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "44583",
@@ -19104,20 +19116,6 @@
                     {
                         "codigo_cliente": "30175",
                         "desc_cliente": "UNIAO SUL BRASILEIRA DA IGREJA ADVENTISTA DO 7 DIA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71231",
-                        "desc_cliente": "JPS COMERCIO DE ALIMENTOS E ARTIGOS PARA FESTAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71230",
-                        "desc_cliente": "NAS COMERCIO DE ALIMENTOS E ARTIGOS PARA FESTAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71229",
-                        "desc_cliente": "PITTER PAN COMERCIO DE ALIMENTOS LTDA"
                     }
                 ]
             },
@@ -68652,6 +68650,10 @@
                         "desc_cliente": "BRUNO FERREIRA RITTER"
                     },
                     {
+                        "codigo_cliente": "71253",
+                        "desc_cliente": "CLEBER LOPES"
+                    },
+                    {
                         "codigo_cliente": "71084",
                         "desc_cliente": "CLOVIS HUMBERTO GONÇALVES"
                     },
@@ -68726,6 +68728,10 @@
                     {
                         "codigo_cliente": "71105",
                         "desc_cliente": "HUMBERTO KOTANI"
+                    },
+                    {
+                        "codigo_cliente": "71261",
+                        "desc_cliente": "JAIR BORSSATO"
                     },
                     {
                         "codigo_cliente": "71017",

@@ -9880,6 +9880,10 @@
                         "desc_cliente": "MARTINS AGRONEGOCIOS LTDA"
                     },
                     {
+                        "codigo_cliente": "70207",
+                        "desc_cliente": "MARTINS AGRONEGOCIOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "36444",
                         "desc_cliente": "MERCADO E PANIFICADORA SERVE BEM LTDA"
                     },
@@ -24782,10 +24786,6 @@
                         "desc_cliente": "LUIZ MAGEDANZ ME"
                     },
                     {
-                        "codigo_cliente": "69958",
-                        "desc_cliente": "MAIS PAPEIS INDUSTRIA & COMERCIO LTDA"
-                    },
-                    {
                         "codigo_cliente": "56836",
                         "desc_cliente": "MARCOS HELENO FERNANDES"
                     },
@@ -33690,6 +33690,10 @@
                         "desc_cliente": "MERCADO SAO JOSE  DOMINGOS LTDA"
                     },
                     {
+                        "codigo_cliente": "64956",
+                        "desc_cliente": "MINI MERCADO MENDONCA LTDA"
+                    },
+                    {
                         "codigo_cliente": "64310",
                         "desc_cliente": "PIOVESAN DOCES LTDA"
                     },
@@ -34472,10 +34476,6 @@
                     {
                         "codigo_cliente": "64238",
                         "desc_cliente": "MINIMERCADO KASQUINHA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "64956",
-                        "desc_cliente": "MINI MERCADO MENDONCA LTDA"
                     },
                     {
                         "codigo_cliente": "64649",
@@ -54216,6 +54216,10 @@
                         "desc_cliente": "ALBERI DOS SANTOS MOREIRA 89320867020"
                     },
                     {
+                        "codigo_cliente": "71274",
+                        "desc_cliente": "AUTO POSTO MENEGHINI LTDA"
+                    },
+                    {
                         "codigo_cliente": "34077",
                         "desc_cliente": "COOP CENTRAL DA AGRICULTURA FAMILIAR LTDA UNICOOPER"
                     },
@@ -54352,12 +54356,6 @@
                     {
                         "codigo_cliente": "60629",
                         "desc_cliente": "UFFA REDE DE LOJAS DE PROXIMIDADE LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71274",
-                        "desc_cliente": "auto posto meneghini ltda"
                     }
                 ]
             },
@@ -56076,6 +56074,10 @@
                         "desc_cliente": "MERCADO GALO LTDA - EPP"
                     },
                     {
+                        "codigo_cliente": "71276",
+                        "desc_cliente": "MERCADO JAMON LTDA"
+                    },
+                    {
                         "codigo_cliente": "11257",
                         "desc_cliente": "MERCADO TALHAFERRO LTDA"
                     },
@@ -56200,12 +56202,6 @@
                     {
                         "codigo_cliente": "46234",
                         "desc_cliente": "PAULO AFONSO GONCALVES MOREIRA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71276",
-                        "desc_cliente": "MERCADO JAMON LTDA"
                     }
                 ]
             },
@@ -68672,8 +68668,16 @@
                         "desc_cliente": "ANDREIA DA SILVA"
                     },
                     {
+                        "codigo_cliente": "71294",
+                        "desc_cliente": "ANELISE DA SILVA OLIVEIRA"
+                    },
+                    {
                         "codigo_cliente": "70988",
                         "desc_cliente": "ARLINDO DA SILVA PEREIRA"
+                    },
+                    {
+                        "codigo_cliente": "71292",
+                        "desc_cliente": "BETINA DALOSTO FRAGA"
                     },
                     {
                         "codigo_cliente": "71281",
@@ -68684,8 +68688,16 @@
                         "desc_cliente": "BRUNO FERREIRA RITTER"
                     },
                     {
+                        "codigo_cliente": "71299",
+                        "desc_cliente": "CAMILA DE BARROS BORBA"
+                    },
+                    {
                         "codigo_cliente": "71253",
                         "desc_cliente": "CLEBER LOPES"
+                    },
+                    {
+                        "codigo_cliente": "71293",
+                        "desc_cliente": "CLEITON DO AMARAL SILVA"
                     },
                     {
                         "codigo_cliente": "71084",
@@ -68698,6 +68710,10 @@
                     {
                         "codigo_cliente": "70991",
                         "desc_cliente": "DAVINO DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "71290",
+                        "desc_cliente": "DEBORA JUNG BONZANINI"
                     },
                     {
                         "codigo_cliente": "70997",
@@ -68732,6 +68748,10 @@
                         "desc_cliente": "EVANDRO MARTINS DA SILVA"
                     },
                     {
+                        "codigo_cliente": "71295",
+                        "desc_cliente": "FERNANDA BORTOLISE"
+                    },
+                    {
                         "codigo_cliente": "71182",
                         "desc_cliente": "FIAMA MARQUES DA SILVA"
                     },
@@ -68750,6 +68770,10 @@
                     {
                         "codigo_cliente": "71022",
                         "desc_cliente": "GEAN CARDOSO"
+                    },
+                    {
+                        "codigo_cliente": "71297",
+                        "desc_cliente": "GYOVANNA RODRIGUES DA CRUZ"
                     },
                     {
                         "codigo_cliente": "71225",
@@ -68812,6 +68836,14 @@
                         "desc_cliente": "MARCIO PADILHA ASSIS"
                     },
                     {
+                        "codigo_cliente": "71291",
+                        "desc_cliente": "MARIA ISABEL BOEIRA "
+                    },
+                    {
+                        "codigo_cliente": "71298",
+                        "desc_cliente": "NATHANAELLE SILVEIRA DA SILVA"
+                    },
+                    {
                         "codigo_cliente": "70989",
                         "desc_cliente": "NELSI CARDOSO BRUNO"
                     },
@@ -68826,6 +68858,10 @@
                     {
                         "codigo_cliente": "71074",
                         "desc_cliente": "RANIERI ROSA"
+                    },
+                    {
+                        "codigo_cliente": "71296",
+                        "desc_cliente": "RENATA DOS SANTOS"
                     },
                     {
                         "codigo_cliente": "71201",

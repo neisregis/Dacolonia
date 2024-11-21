@@ -17790,6 +17790,10 @@
                         "desc_cliente": "PRAIA E MAR COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "25764",
+                        "desc_cliente": "RAQUEL MINELA EIRELI"
+                    },
+                    {
                         "codigo_cliente": "70632",
                         "desc_cliente": "RESTAURANTE PLANALTO 3 LTDA"
                     },
@@ -27496,6 +27500,10 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "71372",
+                        "desc_cliente": "54.091.316 CREMILDE NOLETO DE SOUZA BARBOSA"
+                    },
+                    {
                         "codigo_cliente": "65799",
                         "desc_cliente": "ADONIRIO DA FONSECA JUNIOR LTDA"
                     },
@@ -27692,12 +27700,6 @@
                     {
                         "codigo_cliente": "43573",
                         "desc_cliente": "SUPER TRIUNFO EIRELI ME"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71372",
-                        "desc_cliente": "cremildes noleto de souza barbosa"
                     }
                 ]
             },
@@ -50310,6 +50312,10 @@
                         "desc_cliente": "SUPERMERCADO ZANETTI LTDA"
                     },
                     {
+                        "codigo_cliente": "71369",
+                        "desc_cliente": "VILA FORMOSA COMERCIAL DE BEBIDAS LTDA"
+                    },
+                    {
                         "codigo_cliente": "67618",
                         "desc_cliente": "VIVACITA A GRANEL PRODUTOS ALIMENTICIOS LTDA"
                     }
@@ -50342,12 +50348,6 @@
                     {
                         "codigo_cliente": "34165",
                         "desc_cliente": "SUPERMERCADOS KAWAKAMI LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71369",
-                        "desc_cliente": "VILA FORMOSA  COMERCIAL DE BEBIDAS LTDA"
                     }
                 ]
             },
@@ -64618,6 +64618,10 @@
                         "desc_cliente": "LUCAS BARBOSA DOS SANTOS "
                     },
                     {
+                        "codigo_cliente": "60596",
+                        "desc_cliente": "LUCAS CARDOSO"
+                    },
+                    {
                         "codigo_cliente": "69802",
                         "desc_cliente": "LUCAS CARDOSO"
                     },
@@ -68930,6 +68934,10 @@
                         "desc_cliente": "LUCELIA VASCONCELOS DA SILVA"
                     },
                     {
+                        "codigo_cliente": "71374",
+                        "desc_cliente": "LUCIANO AGUIAR DA SILVA"
+                    },
+                    {
                         "codigo_cliente": "70993",
                         "desc_cliente": "LUCILA STEREIT"
                     },
@@ -69252,6 +69260,10 @@
                     {
                         "codigo_cliente": "68524",
                         "desc_cliente": "ALBERTINO MENEGUZZO"
+                    },
+                    {
+                        "codigo_cliente": "71343",
+                        "desc_cliente": "ALBERTO AZENHA DE ALMEIDA"
                     },
                     {
                         "codigo_cliente": "65926",
@@ -70014,6 +70026,10 @@
                         "desc_cliente": "ANGELA MARIA NASCIMENTO"
                     },
                     {
+                        "codigo_cliente": "71350",
+                        "desc_cliente": "ANGELA P BRANCO"
+                    },
+                    {
                         "codigo_cliente": "66540",
                         "desc_cliente": "ANGELA PIRES BATISTA"
                     },
@@ -70546,6 +70562,10 @@
                         "desc_cliente": "CARLA CHESINI FRAPORTI"
                     },
                     {
+                        "codigo_cliente": "71348",
+                        "desc_cliente": "CARLA COUTINHO"
+                    },
+                    {
                         "codigo_cliente": "70337",
                         "desc_cliente": "CARLA CRISTIANE BORBA DE SOUZA"
                     },
@@ -70986,6 +71006,10 @@
                         "desc_cliente": "CLARISSA RODRIGUES AMARAL"
                     },
                     {
+                        "codigo_cliente": "71346",
+                        "desc_cliente": "CLARISSA TAMIE HIWATASHI FUJIWARA"
+                    },
+                    {
                         "codigo_cliente": "69345",
                         "desc_cliente": "CLARISSA VIEWEGER"
                     },
@@ -71244,6 +71268,10 @@
                     {
                         "codigo_cliente": "61604",
                         "desc_cliente": "DAIANA MICHELE CALLEGARO REDLER"
+                    },
+                    {
+                        "codigo_cliente": "71345",
+                        "desc_cliente": "DAIANE GRATER"
                     },
                     {
                         "codigo_cliente": "66782",
@@ -72778,6 +72806,10 @@
                         "desc_cliente": "GABRIEL SERAFINI CANABARRO"
                     },
                     {
+                        "codigo_cliente": "71347",
+                        "desc_cliente": "GABRIEL SIMON BATANOLLI"
+                    },
+                    {
                         "codigo_cliente": "43355",
                         "desc_cliente": "GALENO ALVES SANTOS JUNIOR "
                     },
@@ -73842,6 +73874,10 @@
                         "desc_cliente": "JOSE ROBERTO DA SILVA"
                     },
                     {
+                        "codigo_cliente": "71353",
+                        "desc_cliente": "JOSE ROBERTO DE ABREU"
+                    },
+                    {
                         "codigo_cliente": "69481",
                         "desc_cliente": "JOSE ROBERTO FUMIS ROSSI"
                     },
@@ -73904,6 +73940,10 @@
                     {
                         "codigo_cliente": "65040",
                         "desc_cliente": "JOSUE GIRARDI"
+                    },
+                    {
+                        "codigo_cliente": "71342",
+                        "desc_cliente": "JOYCE FELICIANO SILVA DE AZEVEDO"
                     },
                     {
                         "codigo_cliente": "60305",
@@ -75656,6 +75696,10 @@
                     {
                         "codigo_cliente": "65421",
                         "desc_cliente": "MARIANA GOLLO PEREIRA"
+                    },
+                    {
+                        "codigo_cliente": "71352",
+                        "desc_cliente": "MARIANA INES IGNACZAK"
                     },
                     {
                         "codigo_cliente": "69773",
@@ -77930,6 +77974,10 @@
                         "desc_cliente": "SERGIO SOCZEK"
                     },
                     {
+                        "codigo_cliente": "71349",
+                        "desc_cliente": "SHALINE FERLA"
+                    },
+                    {
                         "codigo_cliente": "66557",
                         "desc_cliente": "SHEILA BRITO DE LOS SANTOS"
                     },
@@ -78160,6 +78208,10 @@
                     {
                         "codigo_cliente": "66497",
                         "desc_cliente": "SUELI QUEIROZ"
+                    },
+                    {
+                        "codigo_cliente": "71344",
+                        "desc_cliente": "SUELLEN LOBO PALMA"
                     },
                     {
                         "codigo_cliente": "69247",
@@ -78444,6 +78496,10 @@
                     {
                         "codigo_cliente": "69727",
                         "desc_cliente": "THAYS BISI TIMOTEO"
+                    },
+                    {
+                        "codigo_cliente": "71341",
+                        "desc_cliente": "THELMA MARTINI BOZZA NAMUR"
                     },
                     {
                         "codigo_cliente": "65025",
@@ -79766,6 +79822,12 @@
                     {
                         "codigo_cliente": "57877",
                         "desc_cliente": "UFFA REDE DE LOJAS DE PROXIMIDADE LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71375",
+                        "desc_cliente": "SANDRA CRISTINA LERMEN HANSEN"
                     }
                 ]
             },

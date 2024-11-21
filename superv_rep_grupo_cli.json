@@ -27693,6 +27693,12 @@
                         "codigo_cliente": "43573",
                         "desc_cliente": "SUPER TRIUNFO EIRELI ME"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71372",
+                        "desc_cliente": "cremildes noleto de souza barbosa"
+                    }
                 ]
             },
             "1108": {
@@ -54756,6 +54762,10 @@
                     {
                         "codigo_cliente": "70000",
                         "desc_cliente": "POSTO PIZZOLOTTO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71327",
+                        "desc_cliente": "RAINER CORREA BAUMART LTDA"
                     },
                     {
                         "codigo_cliente": "70004",

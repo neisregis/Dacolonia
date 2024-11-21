@@ -16178,6 +16178,10 @@
                         "desc_cliente": "MERCADO CHIESA LTDA EPP"
                     },
                     {
+                        "codigo_cliente": "21712",
+                        "desc_cliente": "MERCADO CONFIANÇA LTDA"
+                    },
+                    {
                         "codigo_cliente": "69451",
                         "desc_cliente": "MERCADO CONTE LTDA"
                     },
@@ -30900,6 +30904,22 @@
                         "desc_cliente": "HUNTTEMANN MARTENDAL E CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "14332",
+                        "desc_cliente": "IDEAL SUPERMERCADOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "17531",
+                        "desc_cliente": "IDEAL SUPERMERCADOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "42715",
+                        "desc_cliente": "IDEAL SUPERMERCADOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "55516",
+                        "desc_cliente": "IDEAL SUPERMERCADOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "40492",
                         "desc_cliente": "IGOR EMERSON TENFEN"
                     },
@@ -30938,22 +30958,6 @@
                     {
                         "codigo_cliente": "52709",
                         "desc_cliente": "JOSIANE CAMPOS DOS SANTOS 02143522002"
-                    },
-                    {
-                        "codigo_cliente": "14332",
-                        "desc_cliente": "JUCILMAR JOSE ELI & FILHO SUPERMERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "17531",
-                        "desc_cliente": "JUCILMAR JOSE ELI & FILHO SUPERMERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "42715",
-                        "desc_cliente": "JUCILMAR JOSE ELI & FILHO SUPERMERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "55516",
-                        "desc_cliente": "JUCILMAR JOSE ELI & FILHO SUPERMERCADO LTDA"
                     },
                     {
                         "codigo_cliente": "39843",
@@ -75576,6 +75580,10 @@
                     {
                         "codigo_cliente": "71125",
                         "desc_cliente": "MARIA GABRIELA GADELHA"
+                    },
+                    {
+                        "codigo_cliente": "71340",
+                        "desc_cliente": "MARIA GARCIA"
                     },
                     {
                         "codigo_cliente": "48094",

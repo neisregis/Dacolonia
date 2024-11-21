@@ -7726,6 +7726,10 @@
                         "desc_cliente": "PRODUTOS NATURAIS EMPORIO DO CAMPO LTDA"
                     },
                     {
+                        "codigo_cliente": "43637",
+                        "desc_cliente": "PROMISSE COMERCIO DE MATERIAIS MEDICO HOSPITALARES EIRELI - "
+                    },
+                    {
                         "codigo_cliente": "47465",
                         "desc_cliente": "REAL VARIEDADES EIRELI"
                     },
@@ -8736,10 +8740,6 @@
                     {
                         "codigo_cliente": "47591",
                         "desc_cliente": "PREDILLETO RESTAURANTE EIRELI"
-                    },
-                    {
-                        "codigo_cliente": "43637",
-                        "desc_cliente": "PROMISSE COMERCIO DE MATERIAIS MEDICO HOSPITALARES EIRELI - "
                     },
                     {
                         "codigo_cliente": "61441",
@@ -15368,6 +15368,16 @@
                 ]
             },
             "512": {
+                "1371 - D. VILLA": [
+                    {
+                        "codigo_cliente": "71332",
+                        "desc_cliente": "DAVILLA SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "1032",
+                        "desc_cliente": "D. VILLA SUPERMERCADOS LTDA"
+                    }
+                ],
                 "170 - COOPER ALFA": [
                     {
                         "codigo_cliente": "27782",
@@ -15426,10 +15436,6 @@
                     {
                         "codigo_cliente": "63271",
                         "desc_cliente": "COMFIT SABOR NATURAL LTDA."
-                    },
-                    {
-                        "codigo_cliente": "1032",
-                        "desc_cliente": "D. VILLA SUPERMERCADOS LTDA"
                     },
                     {
                         "codigo_cliente": "11252",
@@ -22173,6 +22179,12 @@
                         "codigo_cliente": "8632",
                         "desc_cliente": "DORNELLES E CIA LTDA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71326",
+                        "desc_cliente": "RUBIANE SALVAGNI RESTAURANTE E LANCHERIA LTDA"
+                    }
                 ]
             },
             "294": {
@@ -23262,6 +23274,10 @@
                         "desc_cliente": "M & J COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "9168",
+                        "desc_cliente": "MUITA COISA COM DE UTILIDADES LTDA"
+                    },
+                    {
                         "codigo_cliente": "70281",
                         "desc_cliente": "NATALIA T. RODRIGUES QUEIJARIA LTDA."
                     },
@@ -23332,6 +23348,10 @@
                     {
                         "codigo_cliente": "32427",
                         "desc_cliente": "POSTO DE SERVICOS BALDISSERA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71330",
+                        "desc_cliente": "QUIOSQUE DO ACAI & PARRILA LTDA"
                     },
                     {
                         "codigo_cliente": "65911",
@@ -27226,6 +27246,10 @@
                     {
                         "codigo_cliente": "43790",
                         "desc_cliente": "BRASIL SUL DISTRIBUIDORA COMERCIO E SERVICOS LTDA - ME"
+                    },
+                    {
+                        "codigo_cliente": "71335",
+                        "desc_cliente": "CASA GOIANA RESTAURANTE E COMERCIO DE PRODUTOS ALIMENTICIOS "
                     },
                     {
                         "codigo_cliente": "63851",
@@ -32160,6 +32184,10 @@
                     {
                         "codigo_cliente": "32484",
                         "desc_cliente": "UNIAO ESTRELA MINIMERCADO EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "70583",
+                        "desc_cliente": "UNIAO SUPER MARKET LTDA"
                     }
                 ],
                 "227 - SUPERM. FORTE": [
@@ -33644,8 +33672,16 @@
                         "desc_cliente": "CANTINHO DOCE COMERCIO ATACADISTA LTDA"
                     },
                     {
+                        "codigo_cliente": "32419",
+                        "desc_cliente": "COMERCIAL E DISTRIBUIDORA ALVES PORTUGAL LTDA"
+                    },
+                    {
                         "codigo_cliente": "64253",
                         "desc_cliente": "DAYLUZ AGRICULTURA ORGANICA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "32420",
+                        "desc_cliente": "DINHO PORTUGAL COMERCIAL LTDA - EPP"
                     },
                     {
                         "codigo_cliente": "48098",
@@ -38514,10 +38550,6 @@
                         "desc_cliente": "BAZAR KIOSKO LTDA"
                     },
                     {
-                        "codigo_cliente": "71273",
-                        "desc_cliente": "BORGES EXPRESS SUPERMERCADO LTDA"
-                    },
-                    {
                         "codigo_cliente": "70641",
                         "desc_cliente": "BRAMBILA S UTILIDADES PARA O LAR LTDA ME"
                     },
@@ -38815,6 +38847,10 @@
                     }
                 ],
                 "766 - SUPER MAGGI BORGES": [
+                    {
+                        "codigo_cliente": "71273",
+                        "desc_cliente": "BORGES EXPRESS SUPERMERCADO LTDA"
+                    },
                     {
                         "codigo_cliente": "38961",
                         "desc_cliente": "SUPERMERCADO MAGGI BORGES LTDA"
@@ -39322,6 +39358,10 @@
                         "desc_cliente": "MINIMERCADO RIBEIRO E CASANOVA LTDA"
                     },
                     {
+                        "codigo_cliente": "71323",
+                        "desc_cliente": "MTM COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "15376",
                         "desc_cliente": "PAULO ROBERTO PINHEIRO RIBEIRO"
                     },
@@ -39446,12 +39486,6 @@
                     {
                         "codigo_cliente": "70731",
                         "desc_cliente": "SHOPPING DE CARNES AZENHA LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71323",
-                        "desc_cliente": "MTM COMERCIO DE ALIMENTOS LTDA"
                     }
                 ]
             },
@@ -42326,6 +42360,10 @@
                         "desc_cliente": "MERCADO SHEKINAH VR LTDA"
                     },
                     {
+                        "codigo_cliente": "71325",
+                        "desc_cliente": "MERCADO TATAIS JULIETA LTDA"
+                    },
+                    {
                         "codigo_cliente": "59645",
                         "desc_cliente": "MINIMERCADO PAG LEV DE ITAGUAI LTDA"
                     },
@@ -42531,12 +42569,6 @@
                         "codigo_cliente": "52775",
                         "desc_cliente": "JM COMERCIO SERVICOS E EVENTOS LTDA"
                     }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71325",
-                        "desc_cliente": "MERCADO TATAIS JULIETA LTDA ( JAPUIBA )"
-                    }
                 ]
             },
             "1205": {
@@ -42554,6 +42586,16 @@
                     {
                         "codigo_cliente": "65895",
                         "desc_cliente": "MERCADO TURBO 1000 LTDA"
+                    }
+                ],
+                "1372 - REI DO NORTE": [
+                    {
+                        "codigo_cliente": "44135",
+                        "desc_cliente": "REI DO NORTE PRODUTOS ALIMENTICIOS EIRELI "
+                    },
+                    {
+                        "codigo_cliente": "46060",
+                        "desc_cliente": "RN PRODUTOS NORDESTINO "
                     }
                 ],
                 "1 - GERAL": [
@@ -42720,14 +42762,6 @@
                     {
                         "codigo_cliente": "27234",
                         "desc_cliente": "RAMAR COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44135",
-                        "desc_cliente": "REI DO NORTE PRODUTOS ALIMENTICIOS EIRELI "
-                    },
-                    {
-                        "codigo_cliente": "46060",
-                        "desc_cliente": "RN PRODUTOS NORDESTINO "
                     },
                     {
                         "codigo_cliente": "8259",
@@ -50710,6 +50744,12 @@
                 ]
             },
             "1017": {
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "70224",
+                        "desc_cliente": "LOUBR COMERCIO E EXPORTACAO LTDA"
+                    }
+                ],
                 "853 - DECIO CHURRASCARIA": [
                     {
                         "codigo_cliente": "63223",
@@ -68782,6 +68822,10 @@
                         "desc_cliente": "EDIMAR GRUDKA"
                     },
                     {
+                        "codigo_cliente": "71336",
+                        "desc_cliente": "EDSON RAFAEL BITTENCOURT"
+                    },
+                    {
                         "codigo_cliente": "71211",
                         "desc_cliente": "EDUARDO BIANCHE "
                     },
@@ -81142,6 +81186,10 @@
                         "desc_cliente": "SUPER CENTRO DE COMPRAS CADORE LTDA"
                     },
                     {
+                        "codigo_cliente": "20373",
+                        "desc_cliente": "SUPERMERCADO D'CARLI LTDA"
+                    },
+                    {
                         "codigo_cliente": "6830",
                         "desc_cliente": "SUPERMERCADO E DISTRIBUIDORA PROVIM LTDA"
                     },
@@ -85349,6 +85397,10 @@
                     },
                     {
                         "codigo_cliente": "36662",
+                        "desc_cliente": "ASUN COMERCIO DE GENEROS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "40176",
                         "desc_cliente": "ASUN COMERCIO DE GENEROS ALIMENTICIOS LTDA"
                     },
                     {

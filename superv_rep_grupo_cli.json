@@ -20528,6 +20528,16 @@
                         "desc_cliente": "FLAVIO PEREIRA DOS SANTOS"
                     }
                 ],
+                "1066 - DESCO (IMEC)": [
+                    {
+                        "codigo_cliente": "71249",
+                        "desc_cliente": "IMPORTADORA E EXPORTADORA DE CEREAIS SA"
+                    },
+                    {
+                        "codigo_cliente": "71329",
+                        "desc_cliente": "IMPORTADORA E EXPORTADORA DE CEREAIS SA"
+                    }
+                ],
                 "10 - CARREFOUR": [
                     {
                         "codigo_cliente": "4848",
@@ -55463,6 +55473,12 @@
                         "codigo_cliente": "15064",
                         "desc_cliente": "ULISSES BRUNO PAZINI & CIA LTDA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71393",
+                        "desc_cliente": "DIEGO DA ROSA TITO"
+                    }
                 ]
             },
             "800": {
@@ -69174,6 +69190,10 @@
                     {
                         "codigo_cliente": "71277",
                         "desc_cliente": "VIVIANE PEREIRA DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "71394",
+                        "desc_cliente": "WANDER RODRIGUES"
                     }
                 ]
             },
@@ -71908,6 +71928,10 @@
                         "desc_cliente": "EDUARDO FRANCA"
                     },
                     {
+                        "codigo_cliente": "71357",
+                        "desc_cliente": "EDUARDO FUCCINA "
+                    },
+                    {
                         "codigo_cliente": "70471",
                         "desc_cliente": "EDUARDO GARCIA SARTORI"
                     },
@@ -73214,10 +73238,6 @@
                     {
                         "codigo_cliente": "70517",
                         "desc_cliente": "GUSTAVO HIRANO"
-                    },
-                    {
-                        "codigo_cliente": "41357",
-                        "desc_cliente": "GUSTAVO LOPES PEIXOTO PEOXOTO"
                     },
                     {
                         "codigo_cliente": "68590",
@@ -75988,10 +76008,6 @@
                         "desc_cliente": "MARILISA CARNEIRO LEAO GABARDO"
                     },
                     {
-                        "codigo_cliente": "41360",
-                        "desc_cliente": "MARILISE VALENTINI"
-                    },
-                    {
                         "codigo_cliente": "67929",
                         "desc_cliente": "MARILUCI FERRAZ"
                     },
@@ -78202,6 +78218,10 @@
                     {
                         "codigo_cliente": "63102",
                         "desc_cliente": "SIMONE AKEMI FUNAKI DA CRUZ"
+                    },
+                    {
+                        "codigo_cliente": "71360",
+                        "desc_cliente": "SIMONE CANDIDA DA SILVA SCUR"
                     },
                     {
                         "codigo_cliente": "70018",

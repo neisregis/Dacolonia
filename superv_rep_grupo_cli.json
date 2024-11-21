@@ -7666,6 +7666,10 @@
                         "desc_cliente": "LUCILENE APARECIDA DA SILVA"
                     },
                     {
+                        "codigo_cliente": "33240",
+                        "desc_cliente": "LUIZA MORAIS LTDA"
+                    },
+                    {
                         "codigo_cliente": "68019",
                         "desc_cliente": "MARINEZ FERREIRA B MARCONI E CIA LTDA"
                     },
@@ -7684,10 +7688,6 @@
                     {
                         "codigo_cliente": "52212",
                         "desc_cliente": "MERCADO SUPER FACIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "33240",
-                        "desc_cliente": "M F FREITAS DOCES E FESTAS"
                     },
                     {
                         "codigo_cliente": "38465",
@@ -25538,6 +25538,10 @@
                         "desc_cliente": "MAGNO SCHULZ MELO"
                     },
                     {
+                        "codigo_cliente": "71371",
+                        "desc_cliente": "MARCELO BISCHOFF 99801248068"
+                    },
+                    {
                         "codigo_cliente": "47135",
                         "desc_cliente": "MARLICE IVANETE SCHMITT KURTZ LTDA"
                     },
@@ -36189,6 +36193,12 @@
                         "codigo_cliente": "66271",
                         "desc_cliente": "T FREITAS DE FRAGA & CIA LTDA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71404",
+                        "desc_cliente": "INTENSE LIFE CACHOEIRINHA"
+                    }
                 ]
             },
             "819": {
@@ -40568,10 +40578,6 @@
                     {
                         "codigo_cliente": "46568",
                         "desc_cliente": "GRAO INTEGRAL COMERCIO DE PRODUTOS NATURAIS LTDA "
-                    },
-                    {
-                        "codigo_cliente": "69555",
-                        "desc_cliente": "GUARANY E ALMEIDA LTDA"
                     },
                     {
                         "codigo_cliente": "53157",
@@ -45215,6 +45221,10 @@
                     },
                     {
                         "codigo_cliente": "6662",
+                        "desc_cliente": "RUBENICH E CREMONESE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71195",
                         "desc_cliente": "RUBENICH E CREMONESE LTDA"
                     }
                 ],
@@ -68894,6 +68904,10 @@
                     {
                         "codigo_cliente": "71234",
                         "desc_cliente": "EMERSON PESSINI"
+                    },
+                    {
+                        "codigo_cliente": "71402",
+                        "desc_cliente": "ERICK TEYLOR"
                     },
                     {
                         "codigo_cliente": "71321",

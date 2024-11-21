@@ -10207,6 +10207,12 @@
                         "codigo_cliente": "55299",
                         "desc_cliente": "ISHII COMERCIO DE ALIMENTOS LTDA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71383",
+                        "desc_cliente": "S S GRAVENA PAPELARIA E INFORMATICA"
+                    }
                 ]
             },
             "909": {
@@ -39484,6 +39490,10 @@
                 ],
                 "901 - SHOPPING DAS CARNES": [
                     {
+                        "codigo_cliente": "42650",
+                        "desc_cliente": "SHOPPING DE CARNES AZENHA LTDA"
+                    },
+                    {
                         "codigo_cliente": "62004",
                         "desc_cliente": "SHOPPING DE CARNES AZENHA LTDA"
                     },
@@ -58112,6 +58122,10 @@
                         "desc_cliente": "JOAO COSTA SOARES E CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "71009",
+                        "desc_cliente": "JOELMA ALVES VILELA COSTA LTDA"
+                    },
+                    {
                         "codigo_cliente": "69015",
                         "desc_cliente": "M P MULTY COMERCIAL LTDA"
                     },
@@ -68750,6 +68764,10 @@
                         "desc_cliente": "ALEXANDRE SOUZA BARCELOS"
                     },
                     {
+                        "codigo_cliente": "71387",
+                        "desc_cliente": "ALEXA RODRIGUES COSTA"
+                    },
+                    {
                         "codigo_cliente": "56785",
                         "desc_cliente": "AMARILDO DEVENZZE "
                     },
@@ -68760,6 +68778,10 @@
                     {
                         "codigo_cliente": "71030",
                         "desc_cliente": "ANA ANGELICA WILSKE"
+                    },
+                    {
+                        "codigo_cliente": "71378",
+                        "desc_cliente": "ANA LUISA MARTINELLI"
                     },
                     {
                         "codigo_cliente": "71033",
@@ -68846,6 +68868,10 @@
                         "desc_cliente": "EDSON RAFAEL BITTENCOURT"
                     },
                     {
+                        "codigo_cliente": "71384",
+                        "desc_cliente": "EDUARDA APARECIDA DA LUZ"
+                    },
+                    {
                         "codigo_cliente": "71211",
                         "desc_cliente": "EDUARDO BIANCHE "
                     },
@@ -68866,6 +68892,10 @@
                         "desc_cliente": "EVANESSA SALVADOR"
                     },
                     {
+                        "codigo_cliente": "71381",
+                        "desc_cliente": "FELIPE AUGUSTO PIRES AMARAL"
+                    },
+                    {
                         "codigo_cliente": "71295",
                         "desc_cliente": "FERNANDA BORTOLISE"
                     },
@@ -68878,8 +68908,16 @@
                         "desc_cliente": "FILIPE DE OLIVEIRA MARTINS"
                     },
                     {
+                        "codigo_cliente": "71388",
+                        "desc_cliente": "FRANCIELE SOARES"
+                    },
+                    {
                         "codigo_cliente": "71058",
                         "desc_cliente": "FRUTAMIX CONVENIENCIA GRUDKA LTDA."
+                    },
+                    {
+                        "codigo_cliente": "71391",
+                        "desc_cliente": "GABRIELA CARLESSO"
                     },
                     {
                         "codigo_cliente": "71187",
@@ -68888,6 +68926,10 @@
                     {
                         "codigo_cliente": "71022",
                         "desc_cliente": "GEAN CARDOSO"
+                    },
+                    {
+                        "codigo_cliente": "71390",
+                        "desc_cliente": "GIOVANNA SARDIQUE"
                     },
                     {
                         "codigo_cliente": "71322",
@@ -68922,12 +68964,32 @@
                         "desc_cliente": "JAIR BORSSATO"
                     },
                     {
+                        "codigo_cliente": "71376",
+                        "desc_cliente": "JULIA OLIVEIRA DOS SANTOS"
+                    },
+                    {
                         "codigo_cliente": "71017",
                         "desc_cliente": "JULIO CESAR SILVA DOS SANTOS"
                     },
                     {
+                        "codigo_cliente": "71389",
+                        "desc_cliente": "KATLEN DE ABREU "
+                    },
+                    {
                         "codigo_cliente": "71028",
                         "desc_cliente": "KELLY DA SILVA DAVILA"
+                    },
+                    {
+                        "codigo_cliente": "71380",
+                        "desc_cliente": "LAUREN DA SILVA SOARES"
+                    },
+                    {
+                        "codigo_cliente": "71379",
+                        "desc_cliente": "LETICIA RODRIGUES"
+                    },
+                    {
+                        "codigo_cliente": "71377",
+                        "desc_cliente": "LUCAS BALADAO "
                     },
                     {
                         "codigo_cliente": "71031",
@@ -68994,6 +69056,10 @@
                         "desc_cliente": "MARIANA FREIJ"
                     },
                     {
+                        "codigo_cliente": "71385",
+                        "desc_cliente": "MAURICIO MACHADO"
+                    },
+                    {
                         "codigo_cliente": "71351",
                         "desc_cliente": "NATALIA PELLISOLI REGULY"
                     },
@@ -69034,6 +69100,10 @@
                         "desc_cliente": "RAISA SCHENATTO "
                     },
                     {
+                        "codigo_cliente": "71392",
+                        "desc_cliente": "RANATA CRISTINA DE SOUZA RAMOS"
+                    },
+                    {
                         "codigo_cliente": "71074",
                         "desc_cliente": "RANIERI ROSA"
                     },
@@ -69056,6 +69126,10 @@
                     {
                         "codigo_cliente": "70995",
                         "desc_cliente": "ROGERIO CARDOSO"
+                    },
+                    {
+                        "codigo_cliente": "71382",
+                        "desc_cliente": "SABRINA COIMBRA DA SILVA"
                     },
                     {
                         "codigo_cliente": "70987",
@@ -69092,6 +69166,10 @@
                     {
                         "codigo_cliente": "70986",
                         "desc_cliente": "VILLIAN GEBESK"
+                    },
+                    {
+                        "codigo_cliente": "71386",
+                        "desc_cliente": "VITOR ARIGONY"
                     },
                     {
                         "codigo_cliente": "71277",

@@ -2570,6 +2570,10 @@
                         "desc_cliente": "SUPERMERCADO SHOW DE COMPRAS LTDA"
                     },
                     {
+                        "codigo_cliente": "17375",
+                        "desc_cliente": "SUPERMERCADOS K.M.C LTDA"
+                    },
+                    {
                         "codigo_cliente": "60106",
                         "desc_cliente": "SUPERMERCADOS NOROESTE LTDA"
                     },
@@ -8544,6 +8548,12 @@
                     {
                         "codigo_cliente": "55277",
                         "desc_cliente": "SUPERMERCADO SANTAREM LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71405",
+                        "desc_cliente": "SANTAREM JARDINS-FIIAL 06"
                     }
                 ]
             },
@@ -33456,6 +33466,10 @@
                         "desc_cliente": "ANTONIO CONTI FRIOS E LATICINIOS-ME"
                     },
                     {
+                        "codigo_cliente": "34912",
+                        "desc_cliente": "BG LESTE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "35229",
                         "desc_cliente": "BG NORTE ALIMENTOS LTDA"
                     },
@@ -33498,6 +33512,34 @@
                     {
                         "codigo_cliente": "61975",
                         "desc_cliente": "J V ORRU DE SOUZA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69039",
+                        "desc_cliente": "LOJAO ORRU LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69040",
+                        "desc_cliente": "LOJAO ORRU LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69041",
+                        "desc_cliente": "LOJAO ORRU LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69043",
+                        "desc_cliente": "LOJAO ORRU LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69044",
+                        "desc_cliente": "LOJAO ORRU LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69046",
+                        "desc_cliente": "LOJAO ORRU LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69051",
+                        "desc_cliente": "LOJAO ORRU LTDA"
                     },
                     {
                         "codigo_cliente": "69042",
@@ -36691,6 +36733,10 @@
                     },
                     {
                         "codigo_cliente": "63479",
+                        "desc_cliente": "WCA COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71224",
                         "desc_cliente": "WCA COMERCIO DE ALIMENTOS LTDA"
                     }
                 ],
@@ -40578,6 +40624,10 @@
                     {
                         "codigo_cliente": "46568",
                         "desc_cliente": "GRAO INTEGRAL COMERCIO DE PRODUTOS NATURAIS LTDA "
+                    },
+                    {
+                        "codigo_cliente": "69555",
+                        "desc_cliente": "GUARANY E ALMEIDA LTDA"
                     },
                     {
                         "codigo_cliente": "53157",

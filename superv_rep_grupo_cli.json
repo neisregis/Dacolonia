@@ -14582,6 +14582,10 @@
                     {
                         "codigo_cliente": "34023",
                         "desc_cliente": "PASSARELA CENTER LTDA."
+                    },
+                    {
+                        "codigo_cliente": "70973",
+                        "desc_cliente": "PASSARELA CENTER LTDA."
                     }
                 ],
                 "153 - OCTAVIANO ZANDONAI": [
@@ -21738,6 +21742,10 @@
                         "desc_cliente": "ROTA SUL RESTAURANTE E LANCHERIA LTDA - ME"
                     },
                     {
+                        "codigo_cliente": "71326",
+                        "desc_cliente": "RUBIANE SALVAGNI RESTAURANTE E LANCHERIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "26135",
                         "desc_cliente": "SABOR DA SERRA - GASTRONOMIA LTDA"
                     },
@@ -22178,12 +22186,6 @@
                     {
                         "codigo_cliente": "8632",
                         "desc_cliente": "DORNELLES E CIA LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71326",
-                        "desc_cliente": "RUBIANE SALVAGNI RESTAURANTE E LANCHERIA LTDA"
                     }
                 ]
             },
@@ -25778,12 +25780,6 @@
                     {
                         "codigo_cliente": "10189",
                         "desc_cliente": "SUPER MERCADO IVOTI LTDA - FILIAL"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71278",
-                        "desc_cliente": "Sorvetes do Parque"
                     }
                 ]
             },
@@ -45218,10 +45214,6 @@
                         "desc_cliente": "43.809.994 EDSON DE PAULA SEEGER"
                     },
                     {
-                        "codigo_cliente": "65756",
-                        "desc_cliente": "52.795.625 FRANCIELE GAIS DA SILVA"
-                    },
-                    {
                         "codigo_cliente": "21623",
                         "desc_cliente": "ADEMIR CARGNELUTTI - ME"
                     },
@@ -45600,6 +45592,10 @@
                     {
                         "codigo_cliente": "31922",
                         "desc_cliente": "MARIELE JANAINA SCHIFELBEIN STREPPEL - ME"
+                    },
+                    {
+                        "codigo_cliente": "65756",
+                        "desc_cliente": "MERCADO GAIS LTDA"
                     },
                     {
                         "codigo_cliente": "6649",
@@ -61610,6 +61606,10 @@
                         "desc_cliente": "ELAINE CARDOSO DA SILVA "
                     },
                     {
+                        "codigo_cliente": "61719",
+                        "desc_cliente": "ELAINE MARIA FUBER "
+                    },
+                    {
                         "codigo_cliente": "70587",
                         "desc_cliente": "ELEMAR LUIZ FORTE"
                     },
@@ -68968,6 +68968,10 @@
                     {
                         "codigo_cliente": "71318",
                         "desc_cliente": "MARIANA FREIJ"
+                    },
+                    {
+                        "codigo_cliente": "71351",
+                        "desc_cliente": "NATALIA PELLISOLI REGULY"
                     },
                     {
                         "codigo_cliente": "71298",

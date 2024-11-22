@@ -5810,6 +5810,10 @@
                         "desc_cliente": "MERCADO PAG POKO LTDA"
                     },
                     {
+                        "codigo_cliente": "71410",
+                        "desc_cliente": "MERCADO PAG POKO LTDA"
+                    },
+                    {
                         "codigo_cliente": "34001",
                         "desc_cliente": "VRA COMERCIO LTDA"
                     }
@@ -5950,12 +5954,6 @@
                     {
                         "codigo_cliente": "62619",
                         "desc_cliente": "SUPERMERCADO GAUCHAO LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71410",
-                        "desc_cliente": "MERCADO PAG POKO LTDA"
                     }
                 ]
             },
@@ -8536,10 +8534,6 @@
                 ],
                 "989 - SUPER SANTAREM": [
                     {
-                        "codigo_cliente": "71405",
-                        "desc_cliente": "SANTAREM JARDINS-FIIAL 06"
-                    },
-                    {
                         "codigo_cliente": "18380",
                         "desc_cliente": "SUPERMERCADO SANTAREM LTDA"
                     },
@@ -8557,6 +8551,10 @@
                     },
                     {
                         "codigo_cliente": "55277",
+                        "desc_cliente": "SUPERMERCADO SANTAREM LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71405",
                         "desc_cliente": "SUPERMERCADO SANTAREM LTDA"
                     }
                 ]
@@ -9958,6 +9956,10 @@
                         "desc_cliente": "SIMONE FAGUNDES PEREIRA"
                     },
                     {
+                        "codigo_cliente": "71383",
+                        "desc_cliente": "S S GRAVENA PAPELARIA E INFORMATICA"
+                    },
+                    {
                         "codigo_cliente": "59131",
                         "desc_cliente": "SUPERGYPE COMERCIO DE GENEROS ALIMENTICIOS LTDA."
                     },
@@ -10220,12 +10222,6 @@
                     {
                         "codigo_cliente": "55299",
                         "desc_cliente": "ISHII COMERCIO DE ALIMENTOS LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71383",
-                        "desc_cliente": "S S GRAVENA PAPELARIA E INFORMATICA"
                     }
                 ]
             },
@@ -19318,10 +19314,6 @@
                         "desc_cliente": "ENIO LUIS SPENGLER - ME"
                     },
                     {
-                        "codigo_cliente": "52982",
-                        "desc_cliente": "FABIANE MARIA ZIMERMANN RAUBER 04082450939"
-                    },
-                    {
                         "codigo_cliente": "43027",
                         "desc_cliente": "FAMILIA CAMARGO MERCADO LTDA"
                     },
@@ -22614,6 +22606,10 @@
                         "desc_cliente": "CELECIO RECH"
                     },
                     {
+                        "codigo_cliente": "34174",
+                        "desc_cliente": "COMERCIAL DE ALIMENTOS BENINI LTDA"
+                    },
+                    {
                         "codigo_cliente": "52189",
                         "desc_cliente": "DANIELA APARECIDA RODRIGUES 03597424082"
                     },
@@ -24128,6 +24124,10 @@
                     {
                         "codigo_cliente": "69784",
                         "desc_cliente": "AMANDA E. CARVALHO"
+                    },
+                    {
+                        "codigo_cliente": "70305",
+                        "desc_cliente": "ANIZIO MORAES MACHADO"
                     },
                     {
                         "codigo_cliente": "21192",
@@ -33444,6 +33444,36 @@
                         "desc_cliente": "SUPERMERCADOS DALBEN LTDA 3"
                     }
                 ],
+                "1373 - LOJAO URRU": [
+                    {
+                        "codigo_cliente": "61975",
+                        "desc_cliente": "J V ORRU DE SOUZA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69039",
+                        "desc_cliente": "LOJAO ORRU LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69040",
+                        "desc_cliente": "LOJAO ORRU LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69041",
+                        "desc_cliente": "LOJAO ORRU LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69043",
+                        "desc_cliente": "LOJAO ORRU LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69046",
+                        "desc_cliente": "LOJAO ORRU LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69042",
+                        "desc_cliente": "LOJA ORRU LTDA"
+                    }
+                ],
                 "142 - CASA DO CONFEITEIRO": [
                     {
                         "codigo_cliente": "19928",
@@ -33524,34 +33554,6 @@
                     {
                         "codigo_cliente": "43554",
                         "desc_cliente": "GL COMERCIO DE DOCES LTDA"
-                    },
-                    {
-                        "codigo_cliente": "61975",
-                        "desc_cliente": "J V ORRU DE SOUZA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69039",
-                        "desc_cliente": "LOJAO ORRU LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69040",
-                        "desc_cliente": "LOJAO ORRU LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69041",
-                        "desc_cliente": "LOJAO ORRU LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69043",
-                        "desc_cliente": "LOJAO ORRU LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69046",
-                        "desc_cliente": "LOJAO ORRU LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69042",
-                        "desc_cliente": "LOJA ORRU LTDA"
                     },
                     {
                         "codigo_cliente": "66156",
@@ -39572,6 +39574,12 @@
                     {
                         "codigo_cliente": "70731",
                         "desc_cliente": "SHOPPING DE CARNES AZENHA LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71419",
+                        "desc_cliente": "LUZ E SILVA COMERCIO ALIMENTOS"
                     }
                 ]
             },
@@ -68924,6 +68932,10 @@
                         "desc_cliente": "DEBORA JUNG BONZANINI"
                     },
                     {
+                        "codigo_cliente": "71414",
+                        "desc_cliente": "DENIS FERNANDO GUIMARAES DA SILVA"
+                    },
+                    {
                         "codigo_cliente": "70997",
                         "desc_cliente": "DEVERSON PAZ"
                     },
@@ -79902,6 +79914,10 @@
                         "desc_cliente": "RUBIA DE MELO ZANFIR LTDA"
                     },
                     {
+                        "codigo_cliente": "71375",
+                        "desc_cliente": "SANDRA CRISTINA LERMEN HANSEN"
+                    },
+                    {
                         "codigo_cliente": "37573",
                         "desc_cliente": "SIMONI MAIER"
                     },
@@ -80052,12 +80068,6 @@
                     {
                         "codigo_cliente": "57877",
                         "desc_cliente": "UFFA REDE DE LOJAS DE PROXIMIDADE LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71375",
-                        "desc_cliente": "SANDRA CRISTINA LERMEN HANSEN"
                     }
                 ]
             },

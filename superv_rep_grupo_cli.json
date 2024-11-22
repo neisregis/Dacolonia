@@ -8536,6 +8536,10 @@
                 ],
                 "989 - SUPER SANTAREM": [
                     {
+                        "codigo_cliente": "71405",
+                        "desc_cliente": "SANTAREM JARDINS-FIIAL 06"
+                    },
+                    {
                         "codigo_cliente": "18380",
                         "desc_cliente": "SUPERMERCADO SANTAREM LTDA"
                     },
@@ -8554,12 +8558,6 @@
                     {
                         "codigo_cliente": "55277",
                         "desc_cliente": "SUPERMERCADO SANTAREM LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71405",
-                        "desc_cliente": "SANTAREM JARDINS-FIIAL 06"
                     }
                 ]
             },
@@ -20418,6 +20416,10 @@
                     {
                         "codigo_cliente": "70452",
                         "desc_cliente": "KOCH HIPERMERCADO S/A"
+                    },
+                    {
+                        "codigo_cliente": "71411",
+                        "desc_cliente": "KOCH HIPERMERCADO S/A"
                     }
                 ],
                 "317 - MACRIS": [
@@ -20456,12 +20458,6 @@
                     {
                         "codigo_cliente": "18667",
                         "desc_cliente": "ZELLA DE SOUZA & CIA LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71411",
-                        "desc_cliente": "KOCH HIPERMERCADO S/A. 81"
                     }
                 ]
             },
@@ -33550,15 +33546,7 @@
                         "desc_cliente": "LOJAO ORRU LTDA"
                     },
                     {
-                        "codigo_cliente": "69044",
-                        "desc_cliente": "LOJAO ORRU LTDA"
-                    },
-                    {
                         "codigo_cliente": "69046",
-                        "desc_cliente": "LOJAO ORRU LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69051",
                         "desc_cliente": "LOJAO ORRU LTDA"
                     },
                     {
@@ -36046,6 +36034,10 @@
                         "desc_cliente": "DOM GOURMET RESTAURANTE LTDA"
                     },
                     {
+                        "codigo_cliente": "71404",
+                        "desc_cliente": "DONA BRANDS COM E DIST DE SUPLEMENTOS E ART ESPORTIVOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "21202",
                         "desc_cliente": "FABIO ROQUE DA CAS"
                     },
@@ -36254,12 +36246,6 @@
                     {
                         "codigo_cliente": "66271",
                         "desc_cliente": "T FREITAS DE FRAGA & CIA LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71404",
-                        "desc_cliente": "INTENSE LIFE CACHOEIRINHA"
                     }
                 ]
             },
@@ -55062,6 +55048,10 @@
                         "desc_cliente": "53.472.250 MARISETE CAMARGO RODRIGUES"
                     },
                     {
+                        "codigo_cliente": "71393",
+                        "desc_cliente": "54.571.673 DIEGO DA ROSA TITO"
+                    },
+                    {
                         "codigo_cliente": "68143",
                         "desc_cliente": "54.885.201 EVELINE DA ROSA JAPUR"
                     },
@@ -55552,12 +55542,6 @@
                     {
                         "codigo_cliente": "15064",
                         "desc_cliente": "ULISSES BRUNO PAZINI & CIA LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71393",
-                        "desc_cliente": "DIEGO DA ROSA TITO"
                     }
                 ]
             },

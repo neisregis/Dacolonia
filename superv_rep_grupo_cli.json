@@ -1626,6 +1626,10 @@
                         "desc_cliente": "ARIFA E LIMA COMERCIO LTDA"
                     },
                     {
+                        "codigo_cliente": "71370",
+                        "desc_cliente": "BURITTI COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "67364",
                         "desc_cliente": "COMERCIO DE FRIOS E LATICINIOS SAO JOAO LTDA"
                     },
@@ -5654,6 +5658,10 @@
                     {
                         "codigo_cliente": "66513",
                         "desc_cliente": "COSTA E CAIXETA COMERCIO VAREJISTA DE EMBALAGENS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "24591",
+                        "desc_cliente": "DALL AGNOL & FILHO LTDA - EPP"
                     },
                     {
                         "codigo_cliente": "14388",
@@ -28400,10 +28408,6 @@
                         "desc_cliente": "MERCANTIL DE ALIMENTOS MA LTDA"
                     },
                     {
-                        "codigo_cliente": "70311",
-                        "desc_cliente": "MX COMERCIO ATACADISTA LTDA"
-                    },
-                    {
                         "codigo_cliente": "60939",
                         "desc_cliente": "SUPER MAX GO LTDA"
                     },
@@ -33466,7 +33470,15 @@
                         "desc_cliente": "LOJAO ORRU LTDA"
                     },
                     {
+                        "codigo_cliente": "69044",
+                        "desc_cliente": "LOJAO ORRU LTDA"
+                    },
+                    {
                         "codigo_cliente": "69046",
+                        "desc_cliente": "LOJAO ORRU LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69051",
                         "desc_cliente": "LOJAO ORRU LTDA"
                     },
                     {
@@ -42450,10 +42462,6 @@
                         "desc_cliente": "MERCADO SHEKINAH VR LTDA"
                     },
                     {
-                        "codigo_cliente": "71325",
-                        "desc_cliente": "MERCADO TATAIS JULIETA LTDA"
-                    },
-                    {
                         "codigo_cliente": "59645",
                         "desc_cliente": "MINIMERCADO PAG LEV DE ITAGUAI LTDA"
                     },
@@ -48972,10 +48980,6 @@
                     {
                         "codigo_cliente": "61554",
                         "desc_cliente": "C-8 PRODUTOS ALIMENTICIOS E EMBALAGENS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "62870",
-                        "desc_cliente": "CHARLES HORTIFRUTI LTDA"
                     },
                     {
                         "codigo_cliente": "62106",
@@ -56074,6 +56078,12 @@
                     {
                         "codigo_cliente": "33972",
                         "desc_cliente": "TIAGO DA ROSA VASCONCELOS -ME(OPT)"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71424",
+                        "desc_cliente": "MERCADO LONGO LTDA"
                     }
                 ]
             },
@@ -70156,6 +70166,10 @@
                         "desc_cliente": "ANDREIA SCHROEDER OLIVEIRA"
                     },
                     {
+                        "codigo_cliente": "71398",
+                        "desc_cliente": "ANDREIA TEIXEIRA CANTO"
+                    },
+                    {
                         "codigo_cliente": "69332",
                         "desc_cliente": "ANDRE LUIZ SAURA"
                     },
@@ -72182,6 +72196,10 @@
                     {
                         "codigo_cliente": "68738",
                         "desc_cliente": "ELIZANA MEDEIROS DE MOURA"
+                    },
+                    {
+                        "codigo_cliente": "71396",
+                        "desc_cliente": "ELIZEU POSSAMAI"
                     },
                     {
                         "codigo_cliente": "68816",
@@ -75836,6 +75854,10 @@
                         "desc_cliente": "MARIA EDUARDA BIODERE MELO"
                     },
                     {
+                        "codigo_cliente": "71397",
+                        "desc_cliente": "MARIA ELCIRA DI NAPOLI"
+                    },
+                    {
                         "codigo_cliente": "64723",
                         "desc_cliente": "MARIA ELISABETE FERRARI VENDITTO BASSO"
                     },
@@ -75926,6 +75948,10 @@
                     {
                         "codigo_cliente": "65421",
                         "desc_cliente": "MARIANA GOLLO PEREIRA"
+                    },
+                    {
+                        "codigo_cliente": "71401",
+                        "desc_cliente": "MARIANA GONZALES"
                     },
                     {
                         "codigo_cliente": "71352",
@@ -76458,6 +76484,10 @@
                     {
                         "codigo_cliente": "37877",
                         "desc_cliente": "MIRIAM CELIA MILIONI"
+                    },
+                    {
+                        "codigo_cliente": "71395",
+                        "desc_cliente": "MIRIAM PILLA ROSITO"
                     },
                     {
                         "codigo_cliente": "67650",
@@ -79026,6 +79056,10 @@
                     {
                         "codigo_cliente": "67932",
                         "desc_cliente": "VERANICE CRISTINA LOHN"
+                    },
+                    {
+                        "codigo_cliente": "71399",
+                        "desc_cliente": "VERANICE MOTA CHRISPIM PIRES"
                     },
                     {
                         "codigo_cliente": "58600",

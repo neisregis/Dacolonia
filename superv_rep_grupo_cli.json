@@ -12776,6 +12776,10 @@
                         "desc_cliente": "TIAGO CRUZ VILELA MINI - MERCADO"
                     },
                     {
+                        "codigo_cliente": "60482",
+                        "desc_cliente": "VINICOLA AMBROSIO FARDO LTDA"
+                    },
+                    {
                         "codigo_cliente": "54104",
                         "desc_cliente": "VIP GULA COMERCIO DE ALIMENTOS LTDA"
                     },
@@ -23334,10 +23338,6 @@
                         "desc_cliente": "M & J COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
-                        "codigo_cliente": "9168",
-                        "desc_cliente": "MUITA COISA COM DE UTILIDADES LTDA"
-                    },
-                    {
                         "codigo_cliente": "70281",
                         "desc_cliente": "NATALIA T. RODRIGUES QUEIJARIA LTDA."
                     },
@@ -23408,10 +23408,6 @@
                     {
                         "codigo_cliente": "32427",
                         "desc_cliente": "POSTO DE SERVICOS BALDISSERA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71330",
-                        "desc_cliente": "QUIOSQUE DO ACAI & PARRILA LTDA"
                     },
                     {
                         "codigo_cliente": "65911",
@@ -24538,6 +24534,10 @@
                     {
                         "codigo_cliente": "71448",
                         "desc_cliente": "DAVI LOUREIRO DE MELO ME"
+                    },
+                    {
+                        "codigo_cliente": "71452",
+                        "desc_cliente": "ESPACO NUTRIFIT"
                     }
                 ]
             },
@@ -25580,6 +25580,10 @@
                     {
                         "codigo_cliente": "53798",
                         "desc_cliente": "LOJA DE UTILIDADES CANTELE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "39548",
+                        "desc_cliente": "L. STEFFEN"
                     },
                     {
                         "codigo_cliente": "66280",
@@ -28784,12 +28788,24 @@
                         "desc_cliente": "ARAO PEREIRA DE SA LTDA"
                     },
                     {
+                        "codigo_cliente": "70301",
+                        "desc_cliente": "DI FESTA PRODUTOS PARA FESTAS LTDA"
+                    },
+                    {
                         "codigo_cliente": "70093",
                         "desc_cliente": "IPANEMA COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "70292",
+                        "desc_cliente": "JUDA PRODUTOS PARA FESTAS LTDA"
+                    },
+                    {
                         "codigo_cliente": "70223",
                         "desc_cliente": "SO FESTA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "55025",
+                        "desc_cliente": "ZITTE PRODUTOS PARA FESTAS LTDA"
                     }
                 ],
                 "949 - SUPER CANAÃ": [
@@ -51116,6 +51132,10 @@
                     {
                         "codigo_cliente": "57419",
                         "desc_cliente": "ATACADAO DO NATURAL COM. E IMPORTACAO DE PROD. ALIMENTICIOS "
+                    },
+                    {
+                        "codigo_cliente": "71157",
+                        "desc_cliente": "ATACADAO DO NATURAL COM. E IMPORT. DE PROD ALIMENTICIOS LTDA"
                     },
                     {
                         "codigo_cliente": "62480",
@@ -86380,6 +86400,10 @@
                     {
                         "codigo_cliente": "43893",
                         "desc_cliente": "GMJ EMPORIO SAUDAVEL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71232",
+                        "desc_cliente": "GMJ SC SAUDAVEL LTDA"
                     },
                     {
                         "codigo_cliente": "67104",

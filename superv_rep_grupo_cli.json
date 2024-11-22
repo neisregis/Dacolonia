@@ -23338,6 +23338,10 @@
                         "desc_cliente": "M & J COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "9168",
+                        "desc_cliente": "MUITA COISA COM DE UTILIDADES LTDA"
+                    },
+                    {
                         "codigo_cliente": "70281",
                         "desc_cliente": "NATALIA T. RODRIGUES QUEIJARIA LTDA."
                     },
@@ -23408,6 +23412,10 @@
                     {
                         "codigo_cliente": "32427",
                         "desc_cliente": "POSTO DE SERVICOS BALDISSERA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71330",
+                        "desc_cliente": "QUIOSQUE DO ACAI & PARRILA LTDA"
                     },
                     {
                         "codigo_cliente": "65911",
@@ -23596,6 +23604,10 @@
                     {
                         "codigo_cliente": "23679",
                         "desc_cliente": "DBC COML DE UTILIDADES LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71409",
+                        "desc_cliente": "DI ROSE COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
                     },
                     {
                         "codigo_cliente": "56099",
@@ -24531,6 +24543,10 @@
                     }
                 ],
                 "null": [
+                    {
+                        "codigo_cliente": "71454",
+                        "desc_cliente": "CLEOMAR MINI MERCADO LTDA"
+                    },
                     {
                         "codigo_cliente": "71448",
                         "desc_cliente": "DAVI LOUREIRO DE MELO ME"
@@ -29178,10 +29194,6 @@
                         "desc_cliente": "M. DA GRAÇAS GENEROSO MACHADO"
                     },
                     {
-                        "codigo_cliente": "37435",
-                        "desc_cliente": "MEGA SUPERMERCADO LTDA"
-                    },
-                    {
                         "codigo_cliente": "36925",
                         "desc_cliente": "MENEGON & SILVA MERCEARIA LTDA"
                     },
@@ -30758,10 +30770,6 @@
                         "desc_cliente": "49.446.363 RAIZA GRADASCHI BORGES"
                     },
                     {
-                        "codigo_cliente": "71248",
-                        "desc_cliente": "50.174.462 ROZELANDA DE FATIMA SOUZA SOARES"
-                    },
-                    {
                         "codigo_cliente": "61055",
                         "desc_cliente": "50.410.936 MARGARIDA MARQUES RAMOS"
                     },
@@ -31412,10 +31420,6 @@
                     {
                         "codigo_cliente": "15145",
                         "desc_cliente": "SWEETLANDIA COMERCIO DE BALAS E DOCES LTDA - ME"
-                    },
-                    {
-                        "codigo_cliente": "51872",
-                        "desc_cliente": "THAIS FERNANDA GOMEZ ROSANO"
                     },
                     {
                         "codigo_cliente": "31108",
@@ -32286,10 +32290,6 @@
                     {
                         "codigo_cliente": "32484",
                         "desc_cliente": "UNIAO ESTRELA MINIMERCADO EIRELI"
-                    },
-                    {
-                        "codigo_cliente": "70583",
-                        "desc_cliente": "UNIAO SUPER MARKET LTDA"
                     }
                 ],
                 "227 - SUPERM. FORTE": [
@@ -44976,6 +44976,10 @@
                     {
                         "codigo_cliente": "39374",
                         "desc_cliente": "ROGERIO CONZATI"
+                    },
+                    {
+                        "codigo_cliente": "71331",
+                        "desc_cliente": "ROGERIO CONZATI LTDA"
                     },
                     {
                         "codigo_cliente": "57097",

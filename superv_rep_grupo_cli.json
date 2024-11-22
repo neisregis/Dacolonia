@@ -22722,6 +22722,10 @@
                         "desc_cliente": "SILVA & ALVES SUPERMERCADOS LTDA"
                     },
                     {
+                        "codigo_cliente": "49296",
+                        "desc_cliente": "SUPERMERCADO BRENNER LTDA"
+                    },
+                    {
                         "codigo_cliente": "54827",
                         "desc_cliente": "SUPERMERCADO DOS REIS LTDA"
                     },
@@ -24004,6 +24008,10 @@
                     {
                         "codigo_cliente": "49093",
                         "desc_cliente": "R BORGES"
+                    },
+                    {
+                        "codigo_cliente": "70022",
+                        "desc_cliente": "REPUBLICA DEL ACAI LTDA"
                     },
                     {
                         "codigo_cliente": "38013",
@@ -50354,6 +50362,10 @@
                         "desc_cliente": "JOSIANE SOBRINHO MARANHO 30754564894"
                     },
                     {
+                        "codigo_cliente": "70224",
+                        "desc_cliente": "LOUBR COMERCIO E EXPORTACAO LTDA"
+                    },
+                    {
                         "codigo_cliente": "61097",
                         "desc_cliente": "LUCIANA DA SILVA CAMILO"
                     },
@@ -50832,10 +50844,6 @@
                     {
                         "codigo_cliente": "70389",
                         "desc_cliente": "J. A. PINHEIRO MERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "70224",
-                        "desc_cliente": "LOUBR COMERCIO E EXPORTACAO LTDA"
                     },
                     {
                         "codigo_cliente": "69798",
@@ -69164,6 +69172,10 @@
                     {
                         "codigo_cliente": "70993",
                         "desc_cliente": "LUCILA STEREIT"
+                    },
+                    {
+                        "codigo_cliente": "71449",
+                        "desc_cliente": "LUISA KILLES RAMOS"
                     },
                     {
                         "codigo_cliente": "71306",

@@ -14056,6 +14056,10 @@
                         "desc_cliente": "MERCADO DANANY LTDA ME"
                     },
                     {
+                        "codigo_cliente": "31377",
+                        "desc_cliente": "MERCADO E ACOUGUE JM LTDA - ME"
+                    },
+                    {
                         "codigo_cliente": "32382",
                         "desc_cliente": "MERCADO LITORANEA LTDA"
                     },
@@ -17806,12 +17810,20 @@
                         "desc_cliente": "POSTO DO LIRIO LTDA"
                     },
                     {
+                        "codigo_cliente": "22727",
+                        "desc_cliente": "POSTO MAIOCHI CAMBORIU LTDA"
+                    },
+                    {
                         "codigo_cliente": "56128",
                         "desc_cliente": "POSTO M AVIAO LTDA"
                     },
                     {
                         "codigo_cliente": "54903",
                         "desc_cliente": "PRAIA E MAR COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "25764",
+                        "desc_cliente": "RAQUEL MINELA EIRELI"
                     },
                     {
                         "codigo_cliente": "70632",
@@ -58296,6 +58308,10 @@
                         "desc_cliente": "IVAN SUPERMERCADO LTDA"
                     },
                     {
+                        "codigo_cliente": "68686",
+                        "desc_cliente": "JC COMERCIAL DE ALIMENTOS ANDRADE LTDA"
+                    },
+                    {
                         "codigo_cliente": "68684",
                         "desc_cliente": "JOAO COSTA SOARES E CIA LTDA"
                     },
@@ -58314,6 +58330,10 @@
                     {
                         "codigo_cliente": "69022",
                         "desc_cliente": "PAULO PINTO COMERCIO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69018",
+                        "desc_cliente": "R D COMERCIAL DE ALIMENTOS E RACOES LTDA"
                     },
                     {
                         "codigo_cliente": "69005",
@@ -69336,6 +69356,10 @@
                     {
                         "codigo_cliente": "70995",
                         "desc_cliente": "ROGERIO CARDOSO"
+                    },
+                    {
+                        "codigo_cliente": "71453",
+                        "desc_cliente": "ROSIANY MAMEDE"
                     },
                     {
                         "codigo_cliente": "71382",

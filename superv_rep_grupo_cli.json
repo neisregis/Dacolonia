@@ -24200,6 +24200,10 @@
                         "desc_cliente": "CASSIA BERETTA DA SILVEIRA"
                     },
                     {
+                        "codigo_cliente": "71454",
+                        "desc_cliente": "CLEOMAR - MINIMERCADO LTDA"
+                    },
+                    {
                         "codigo_cliente": "68172",
                         "desc_cliente": "COMERCIO DE DOCES MODERATO LTDA"
                     },
@@ -24549,10 +24553,6 @@
                     }
                 ],
                 "null": [
-                    {
-                        "codigo_cliente": "71454",
-                        "desc_cliente": "CLEOMAR MINI MERCADO LTDA"
-                    },
                     {
                         "codigo_cliente": "71448",
                         "desc_cliente": "DAVI LOUREIRO DE MELO ME"

@@ -5660,10 +5660,6 @@
                         "desc_cliente": "COSTA E CAIXETA COMERCIO VAREJISTA DE EMBALAGENS LTDA"
                     },
                     {
-                        "codigo_cliente": "24591",
-                        "desc_cliente": "DALL AGNOL & FILHO LTDA - EPP"
-                    },
-                    {
                         "codigo_cliente": "14388",
                         "desc_cliente": "HIPERMERCADO BOM GOSTO LTDA"
                     },
@@ -5819,10 +5815,6 @@
                     },
                     {
                         "codigo_cliente": "57768",
-                        "desc_cliente": "MERCADO PAG POKO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71410",
                         "desc_cliente": "MERCADO PAG POKO LTDA"
                     },
                     {
@@ -18008,6 +18000,10 @@
                         "desc_cliente": "POSTO Z20 LTDA"
                     },
                     {
+                        "codigo_cliente": "70907",
+                        "desc_cliente": "POSTO Z23 LTDA"
+                    },
+                    {
                         "codigo_cliente": "34961",
                         "desc_cliente": "POSTO Z4 LTDA"
                     }
@@ -18222,10 +18218,6 @@
                     {
                         "codigo_cliente": "30403",
                         "desc_cliente": "POMMERCADO LTDA - EPP"
-                    },
-                    {
-                        "codigo_cliente": "70907",
-                        "desc_cliente": "POSTO Z23 LTDA"
                     },
                     {
                         "codigo_cliente": "64046",
@@ -20918,6 +20910,10 @@
                     {
                         "codigo_cliente": "43916",
                         "desc_cliente": "REST E HOTEL BRASAS DE OURO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "52341",
+                        "desc_cliente": "R. L. A. ANTUNES DE OLIVEIRA"
                     },
                     {
                         "codigo_cliente": "64160",
@@ -24182,6 +24178,10 @@
                         "desc_cliente": "BRITOSUL DISTR DE ALIM HIGIENE E LIMPEZA LTDA"
                     },
                     {
+                        "codigo_cliente": "71452",
+                        "desc_cliente": "BRUNO LOPES DORNELES 02222481066"
+                    },
+                    {
                         "codigo_cliente": "48811",
                         "desc_cliente": "CAFETERIA BORBA LTDA"
                     },
@@ -24240,10 +24240,6 @@
                     {
                         "codigo_cliente": "68187",
                         "desc_cliente": "DORA GIRLENE FLORENTINO 61323420010"
-                    },
-                    {
-                        "codigo_cliente": "71452",
-                        "desc_cliente": "ESPACO NUTRIFIT"
                     },
                     {
                         "codigo_cliente": "46901",
@@ -27736,10 +27732,6 @@
                     {
                         "codigo_cliente": "63072",
                         "desc_cliente": "SUPERMERCADO SS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67607",
-                        "desc_cliente": "SUPER OPCAO SUPERMERCADO LTDA"
                     },
                     {
                         "codigo_cliente": "66754",
@@ -33537,10 +33529,6 @@
                     },
                     {
                         "codigo_cliente": "69043",
-                        "desc_cliente": "LOJAO ORRU LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69044",
                         "desc_cliente": "LOJAO ORRU LTDA"
                     },
                     {
@@ -69048,6 +69036,10 @@
                         "desc_cliente": "CAROLINA MACHADO"
                     },
                     {
+                        "codigo_cliente": "71469",
+                        "desc_cliente": "CLAUDIANO MENGUE HIEGER"
+                    },
+                    {
                         "codigo_cliente": "71253",
                         "desc_cliente": "CLEBER LOPES"
                     },
@@ -80480,6 +80472,12 @@
                     {
                         "codigo_cliente": "57877",
                         "desc_cliente": "UFFA REDE DE LOJAS DE PROXIMIDADE LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71474",
+                        "desc_cliente": "MORESCO ALIMENTOS LTDA"
                     }
                 ]
             },

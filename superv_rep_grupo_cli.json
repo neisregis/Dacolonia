@@ -16126,6 +16126,10 @@
                         "desc_cliente": "KLEYBER SIMIONATO LTDA"
                     },
                     {
+                        "codigo_cliente": "16862",
+                        "desc_cliente": "KOCHHANN E KIST SUPERMERCADO LTDA"
+                    },
+                    {
                         "codigo_cliente": "549",
                         "desc_cliente": "LAUDIR PARNOF - ME"
                     },
@@ -16192,10 +16196,6 @@
                     {
                         "codigo_cliente": "16942",
                         "desc_cliente": "MERCADO ALAN E ARIELI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "16862",
-                        "desc_cliente": "MERCADO ALBANEZE LTDA"
                     },
                     {
                         "codigo_cliente": "21793",
@@ -43180,6 +43180,12 @@
                     {
                         "codigo_cliente": "53100",
                         "desc_cliente": "MERCEARIA SUPER REDE DE VILA NOVA LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71510",
+                        "desc_cliente": "MERCADO BOM PRECO E NEW MAR LTDA"
                     }
                 ]
             },
@@ -86784,6 +86790,14 @@
                     {
                         "codigo_cliente": "69468",
                         "desc_cliente": "CARVALHO & BITTENCOURT LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71407",
+                        "desc_cliente": "MAURICIO M DE OLIVEIRA E MEDEIROS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71473",
+                        "desc_cliente": "NEUZAFARMA PRODUTOS FARMACEUTICOS LTDA\r\n"
                     },
                     {
                         "codigo_cliente": "70789",

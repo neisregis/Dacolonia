@@ -35727,6 +35727,12 @@
                         "codigo_cliente": "45596",
                         "desc_cliente": "MJ COM DE EMBALAGENS E PROD ALIMENT LTDA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71513",
+                        "desc_cliente": "54413628 MARCELO FEDERIZZI"
+                    }
                 ]
             },
             "672": {
@@ -43184,7 +43190,19 @@
                 ],
                 "null": [
                     {
+                        "codigo_cliente": "71512",
+                        "desc_cliente": "MERCADO BOM PRECO DE SAO JOAO LTDA EPP"
+                    },
+                    {
+                        "codigo_cliente": "71514",
+                        "desc_cliente": "MERCADO BOM PRECO E NEW MAR"
+                    },
+                    {
                         "codigo_cliente": "71510",
+                        "desc_cliente": "MERCADO BOM PRECO E NEW MAR LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71511",
                         "desc_cliente": "MERCADO BOM PRECO E NEW MAR LTDA"
                     }
                 ]

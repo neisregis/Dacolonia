@@ -17748,6 +17748,10 @@
                         "desc_cliente": "JOSIANE PATRICIA DAROSCI"
                     },
                     {
+                        "codigo_cliente": "71479",
+                        "desc_cliente": "JP & L CONSTRUTORA LTDA"
+                    },
+                    {
                         "codigo_cliente": "35863",
                         "desc_cliente": "MATIAS FARIA SUPERMERCADO LTDA"
                     },
@@ -17972,12 +17976,6 @@
                     {
                         "codigo_cliente": "44663",
                         "desc_cliente": "CRISTIANO STALOCH"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71479",
-                        "desc_cliente": "JP & L CONSTRUTORA LTDA"
                     }
                 ]
             },
@@ -25612,20 +25610,12 @@
                         "desc_cliente": "LOJA DE UTILIDADES CANTELE LTDA"
                     },
                     {
-                        "codigo_cliente": "39548",
-                        "desc_cliente": "L. STEFFEN"
-                    },
-                    {
                         "codigo_cliente": "66280",
                         "desc_cliente": "LUCIANO KLAUS"
                     },
                     {
                         "codigo_cliente": "37697",
                         "desc_cliente": "MAGNO SCHULZ MELO"
-                    },
-                    {
-                        "codigo_cliente": "71371",
-                        "desc_cliente": "MARCELO BISCHOFF 99801248068"
                     },
                     {
                         "codigo_cliente": "47135",
@@ -36831,10 +36821,6 @@
                     },
                     {
                         "codigo_cliente": "63479",
-                        "desc_cliente": "WCA COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71224",
                         "desc_cliente": "WCA COMERCIO DE ALIMENTOS LTDA"
                     }
                 ],
@@ -50881,6 +50867,30 @@
                     }
                 ]
             },
+            "1017": {
+                "1323 - ALIMAX": [
+                    {
+                        "codigo_cliente": "69117",
+                        "desc_cliente": "ALIMENTARE PRODUTOS ALIMENTICIOS LTDA"
+                    }
+                ],
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "63572",
+                        "desc_cliente": "AVANZI SUPERMERCADOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70224",
+                        "desc_cliente": "LOUBR COMERCIO E EXPORTACAO LTDA"
+                    }
+                ],
+                "853 - DECIO CHURRASCARIA": [
+                    {
+                        "codigo_cliente": "63223",
+                        "desc_cliente": "DECIO COMERCIO E SERVICOS RODOVIARIOS LTDA"
+                    }
+                ]
+            },
             "1189": {
                 "1 - GERAL": [
                     {
@@ -50912,28 +50922,6 @@
                     {
                         "codigo_cliente": "35423",
                         "desc_cliente": "DIAS PASTORINHO S A COMERCIO E INDUSTRIA"
-                    }
-                ]
-            },
-            "1017": {
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "69117",
-                        "desc_cliente": "ALIMENTARE PRODUTOS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "63572",
-                        "desc_cliente": "AVANZI SUPERMERCADOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "70224",
-                        "desc_cliente": "LOUBR COMERCIO E EXPORTACAO LTDA"
-                    }
-                ],
-                "853 - DECIO CHURRASCARIA": [
-                    {
-                        "codigo_cliente": "63223",
-                        "desc_cliente": "DECIO COMERCIO E SERVICOS RODOVIARIOS LTDA"
                     }
                 ]
             },
@@ -53470,6 +53458,10 @@
                     {
                         "codigo_cliente": "38071",
                         "desc_cliente": "MEGA-DOCES DISTRIBUIDORA DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "49197",
+                        "desc_cliente": "MERCADO OLIVEIRA VII LTDA"
                     },
                     {
                         "codigo_cliente": "55493",
@@ -80290,6 +80282,10 @@
                         "desc_cliente": "MORAIS & OLIVEIRA LTDA"
                     },
                     {
+                        "codigo_cliente": "71474",
+                        "desc_cliente": "MORESCO ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "13479",
                         "desc_cliente": "NASCIMENTO & CIA LTDA"
                     },
@@ -80508,12 +80504,6 @@
                     {
                         "codigo_cliente": "57877",
                         "desc_cliente": "UFFA REDE DE LOJAS DE PROXIMIDADE LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71474",
-                        "desc_cliente": "MORESCO ALIMENTOS LTDA"
                     }
                 ]
             },
@@ -82608,6 +82598,12 @@
                     {
                         "codigo_cliente": "37728",
                         "desc_cliente": "MASTER ATS SUPERMERCADOS LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71493",
+                        "desc_cliente": "MASTERSONDA ATS SUPERMERCADOS LTDA"
                     }
                 ]
             },

@@ -22898,6 +22898,10 @@
                         "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA LJ-106"
                     },
                     {
+                        "codigo_cliente": "279",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA LJ-108"
+                    },
+                    {
                         "codigo_cliente": "302",
                         "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA LJ-109"
                     },
@@ -25610,12 +25614,20 @@
                         "desc_cliente": "LOJA DE UTILIDADES CANTELE LTDA"
                     },
                     {
+                        "codigo_cliente": "39548",
+                        "desc_cliente": "L. STEFFEN"
+                    },
+                    {
                         "codigo_cliente": "66280",
                         "desc_cliente": "LUCIANO KLAUS"
                     },
                     {
                         "codigo_cliente": "37697",
                         "desc_cliente": "MAGNO SCHULZ MELO"
+                    },
+                    {
+                        "codigo_cliente": "71371",
+                        "desc_cliente": "MARCELO BISCHOFF 99801248068"
                     },
                     {
                         "codigo_cliente": "47135",
@@ -36822,6 +36834,10 @@
                     {
                         "codigo_cliente": "63479",
                         "desc_cliente": "WCA COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71224",
+                        "desc_cliente": "WCA COMERCIO DE ALIMENTOS LTDA"
                     }
                 ],
                 "247 - SUPERM. PAULINHO": [
@@ -45374,10 +45390,6 @@
                     {
                         "codigo_cliente": "6662",
                         "desc_cliente": "RUBENICH E CREMONESE LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71195",
-                        "desc_cliente": "RUBENICH E CREMONESE LTDA"
                     }
                 ],
                 "1324 - JP SANTA LUCIA": [
@@ -53574,6 +53586,10 @@
                     {
                         "codigo_cliente": "70985",
                         "desc_cliente": "BRASILEIRAO ATACADO COM. DE PROD. ALIMENT. SOCIEDADE ANONIMA"
+                    },
+                    {
+                        "codigo_cliente": "71492",
+                        "desc_cliente": "MERCADO MIX AZUL LTDA"
                     }
                 ]
             },
@@ -69322,6 +69338,10 @@
                     {
                         "codigo_cliente": "71318",
                         "desc_cliente": "MARIANA FREIJ"
+                    },
+                    {
+                        "codigo_cliente": "71495",
+                        "desc_cliente": "MARINES MARTINS DAS NEVES"
                     },
                     {
                         "codigo_cliente": "71385",

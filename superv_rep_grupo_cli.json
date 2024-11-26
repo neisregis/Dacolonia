@@ -6688,6 +6688,10 @@
                     {
                         "codigo_cliente": "62178",
                         "desc_cliente": "OFERTAO STM LTDA"
+                    },
+                    {
+                        "codigo_cliente": "45107",
+                        "desc_cliente": "P. GONCALVES DE LIMA COMERCIO - EIRELI"
                     }
                 ],
                 "765 - DISLIMP": [
@@ -12792,6 +12796,10 @@
                         "desc_cliente": "TIAGO CRUZ VILELA MINI - MERCADO"
                     },
                     {
+                        "codigo_cliente": "54569",
+                        "desc_cliente": "VANESSA MAIARA GONCALVES RIBAS - MERCADO"
+                    },
+                    {
                         "codigo_cliente": "60482",
                         "desc_cliente": "VINICOLA AMBROSIO FARDO LTDA"
                     },
@@ -13114,6 +13122,10 @@
                     {
                         "codigo_cliente": "36464",
                         "desc_cliente": "M. DE O. TAVESKI"
+                    },
+                    {
+                        "codigo_cliente": "71552",
+                        "desc_cliente": "MEGA DISTRIBUIDORA DE PRODUTOS ALIMENTICIOS LTDA"
                     },
                     {
                         "codigo_cliente": "38511",
@@ -16980,6 +16992,10 @@
                         "desc_cliente": "IVONE ZENI 02255763923"
                     },
                     {
+                        "codigo_cliente": "14363",
+                        "desc_cliente": "IZABEL SMITH"
+                    },
+                    {
                         "codigo_cliente": "70827",
                         "desc_cliente": "JEAN CARLOS PALMA 03413288989"
                     },
@@ -17178,6 +17194,10 @@
                     {
                         "codigo_cliente": "41502",
                         "desc_cliente": "MERCADO LIMA E FILHOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "45102",
+                        "desc_cliente": "MERCADO MARTELLO CENTER EIRELI"
                     },
                     {
                         "codigo_cliente": "40635",
@@ -17766,6 +17786,10 @@
                     {
                         "codigo_cliente": "71479",
                         "desc_cliente": "JP & L CONSTRUTORA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44969",
+                        "desc_cliente": "MARCOS JOSE BRAUN 02558758942"
                     },
                     {
                         "codigo_cliente": "35863",
@@ -21864,6 +21888,10 @@
                         "desc_cliente": "ROTA SUL RESTAURANTE E LANCHERIA LTDA - ME"
                     },
                     {
+                        "codigo_cliente": "71326",
+                        "desc_cliente": "RUBIANE SALVAGNI RESTAURANTE E LANCHERIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "26135",
                         "desc_cliente": "SABOR DA SERRA - GASTRONOMIA LTDA"
                     },
@@ -24428,6 +24456,10 @@
                     {
                         "codigo_cliente": "67329",
                         "desc_cliente": "LIOMAR SILVA DE SOUZA"
+                    },
+                    {
+                        "codigo_cliente": "43859",
+                        "desc_cliente": "LUCAS SPITZNAGEL SANTOS DA SILVA 03599215073"
                     },
                     {
                         "codigo_cliente": "67859",
@@ -59126,6 +59158,10 @@
                         "desc_cliente": "GOMERCINDO MUNIZ DA SILVA FILHO"
                     },
                     {
+                        "codigo_cliente": "63016",
+                        "desc_cliente": "GRINGOS EVENTOS ESPORTIVOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "5918",
                         "desc_cliente": "GUIMARAES BRASIL IND E ALIMENTOS LTDA ME"
                     },
@@ -85206,6 +85242,12 @@
                     {
                         "codigo_cliente": "52913",
                         "desc_cliente": "EVA CLEONI LAMAISON"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71571",
+                        "desc_cliente": "COMERCIAL GRICZINSKI LTDA."
                     }
                 ]
             },

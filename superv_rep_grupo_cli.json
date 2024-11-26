@@ -3270,6 +3270,10 @@
                         "desc_cliente": "GUEDES & PAIXAO LTDA-DROGARIA MINAS BRASIL"
                     },
                     {
+                        "codigo_cliente": "59266",
+                        "desc_cliente": "HELIO GONCALVES DIAS"
+                    },
+                    {
                         "codigo_cliente": "41003",
                         "desc_cliente": "IRMAOS COSTA CEREAIS LTDA"
                     },
@@ -14110,6 +14114,10 @@
                         "desc_cliente": "PAIOL PRODUTOS NATURAIS LTDA"
                     },
                     {
+                        "codigo_cliente": "71499",
+                        "desc_cliente": "PANIFICADORA E CONFEITARIA SAO BENTO LTDA"
+                    },
+                    {
                         "codigo_cliente": "11418",
                         "desc_cliente": "PANIFICADORA PAULI LTDA"
                     },
@@ -21361,6 +21369,20 @@
                         "codigo_cliente": "9346",
                         "desc_cliente": "SUPERMERCADO MOMBACH LTDA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71566",
+                        "desc_cliente": "ANA MARIA KLEINPAUL"
+                    },
+                    {
+                        "codigo_cliente": "71565",
+                        "desc_cliente": "CENTRO DE DISTRIBUICAO MAV LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71564",
+                        "desc_cliente": "MARLI DE LOURDES GUEDES"
+                    }
                 ]
             },
             "155": {
@@ -21840,10 +21862,6 @@
                     {
                         "codigo_cliente": "25190",
                         "desc_cliente": "ROTA SUL RESTAURANTE E LANCHERIA LTDA - ME"
-                    },
-                    {
-                        "codigo_cliente": "71326",
-                        "desc_cliente": "RUBIANE SALVAGNI RESTAURANTE E LANCHERIA LTDA"
                     },
                     {
                         "codigo_cliente": "26135",
@@ -69118,6 +69136,10 @@
                         "desc_cliente": "ALEXA RODRIGUES COSTA"
                     },
                     {
+                        "codigo_cliente": "71568",
+                        "desc_cliente": "ALINE CRISTINA VIEIRA"
+                    },
+                    {
                         "codigo_cliente": "56785",
                         "desc_cliente": "AMARILDO DEVENZZE "
                     },
@@ -69190,6 +69212,10 @@
                         "desc_cliente": "CLOVIS HUMBERTO GONÇALVES"
                     },
                     {
+                        "codigo_cliente": "71064",
+                        "desc_cliente": "CLOVIS HUMBERTO GONCALVES DOS SANTOS"
+                    },
+                    {
                         "codigo_cliente": "70992",
                         "desc_cliente": "CRISTIANO DA SILVA BOEIRA"
                     },
@@ -69200,6 +69226,10 @@
                     {
                         "codigo_cliente": "71501",
                         "desc_cliente": "DAVI SILVA"
+                    },
+                    {
+                        "codigo_cliente": "71567",
+                        "desc_cliente": "DAYANA SILVA DOS SANTOS"
                     },
                     {
                         "codigo_cliente": "71290",
@@ -69232,6 +69262,10 @@
                     {
                         "codigo_cliente": "71061",
                         "desc_cliente": "EDIMAR GRUDKA"
+                    },
+                    {
+                        "codigo_cliente": "71569",
+                        "desc_cliente": "EDIR FRANCISCO"
                     },
                     {
                         "codigo_cliente": "71336",
@@ -69324,6 +69358,10 @@
                     {
                         "codigo_cliente": "71102",
                         "desc_cliente": "HELLEN VARGAS"
+                    },
+                    {
+                        "codigo_cliente": "71570",
+                        "desc_cliente": "HENRIQUE LOPES"
                     },
                     {
                         "codigo_cliente": "70990",

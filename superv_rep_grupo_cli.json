@@ -18424,6 +18424,10 @@
                         "desc_cliente": "BAR E MERCEARIA T II LTDA"
                     },
                     {
+                        "codigo_cliente": "70157",
+                        "desc_cliente": "BELO BAR E MERCEARIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "52569",
                         "desc_cliente": "CARLA QUINTINO SERAFIM 97069272987"
                     },
@@ -31124,6 +31128,10 @@
                     {
                         "codigo_cliente": "38674",
                         "desc_cliente": "IZABEL DAPONT KROLL"
+                    },
+                    {
+                        "codigo_cliente": "38599",
+                        "desc_cliente": "JOANICE MARIA BEUMER 04499752906"
                     },
                     {
                         "codigo_cliente": "23481",
@@ -56430,6 +56438,10 @@
                         "desc_cliente": "LUANDA NOGUEIRA FORT 00061447056"
                     },
                     {
+                        "codigo_cliente": "30830",
+                        "desc_cliente": "MAGED JABER MAHMUD JABER EIRELI"
+                    },
+                    {
                         "codigo_cliente": "39812",
                         "desc_cliente": "MARCIO GLEI BITENCOURT DE CARVALHO"
                     },
@@ -69328,6 +69340,10 @@
                     {
                         "codigo_cliente": "71261",
                         "desc_cliente": "JAIR BORSSATO"
+                    },
+                    {
+                        "codigo_cliente": "71563",
+                        "desc_cliente": "JOAO SILVA NUNES"
                     },
                     {
                         "codigo_cliente": "71376",

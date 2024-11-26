@@ -20890,6 +20890,10 @@
                         "desc_cliente": "MERCADO SANTA RITA LTDA"
                     },
                     {
+                        "codigo_cliente": "8816",
+                        "desc_cliente": "MERCADO SPIAGGIA EIRELLI"
+                    },
+                    {
                         "codigo_cliente": "55733",
                         "desc_cliente": "MERCADO ZONA NORTE LTDA"
                     },
@@ -24394,6 +24398,10 @@
                     {
                         "codigo_cliente": "66283",
                         "desc_cliente": "LEONARDO LANG FERREIRA"
+                    },
+                    {
+                        "codigo_cliente": "29639",
+                        "desc_cliente": "LILIANE DALPIAS E CIA LTDA - ME"
                     },
                     {
                         "codigo_cliente": "67329",
@@ -66006,6 +66014,10 @@
                         "desc_cliente": "MAURICIO BRUZZA"
                     },
                     {
+                        "codigo_cliente": "64216",
+                        "desc_cliente": "MAURICIO DUMBOCK"
+                    },
+                    {
                         "codigo_cliente": "52300",
                         "desc_cliente": "MAURICIO GOMES DE ALMEIDA"
                     },
@@ -72742,6 +72754,10 @@
                         "desc_cliente": "ESEQUIAS DIAS DE MOURA"
                     },
                     {
+                        "codigo_cliente": "63384",
+                        "desc_cliente": "E SILVA"
+                    },
+                    {
                         "codigo_cliente": "71519",
                         "desc_cliente": "EULALIA BESCHORNER MARIN"
                     },
@@ -72928,6 +72944,10 @@
                     {
                         "codigo_cliente": "66503",
                         "desc_cliente": "FABIO MATSUMOTO"
+                    },
+                    {
+                        "codigo_cliente": "71562",
+                        "desc_cliente": "FABIO MOSQUINI DOS SANTOS"
                     },
                     {
                         "codigo_cliente": "68554",
@@ -74562,6 +74582,10 @@
                         "desc_cliente": "JOSE EDUARDO MAY"
                     },
                     {
+                        "codigo_cliente": "71557",
+                        "desc_cliente": "JOSE EDUARDO PALUDO"
+                    },
+                    {
                         "codigo_cliente": "66822",
                         "desc_cliente": "JOSEFA MARIA DA SILVA"
                     },
@@ -76034,6 +76058,10 @@
                         "desc_cliente": "MAIRA ROESSING"
                     },
                     {
+                        "codigo_cliente": "71561",
+                        "desc_cliente": "MALAQUI HATEM CERUTTI"
+                    },
+                    {
                         "codigo_cliente": "70720",
                         "desc_cliente": "MANOELA GARRIDO ESTRELA"
                     },
@@ -77458,6 +77486,10 @@
                         "desc_cliente": "PAMELA MOREIRA"
                     },
                     {
+                        "codigo_cliente": "71558",
+                        "desc_cliente": "PAMELLA VIANA PORALLA"
+                    },
+                    {
                         "codigo_cliente": "68613",
                         "desc_cliente": "PAOLA BARBARO"
                     },
@@ -77604,6 +77636,10 @@
                     {
                         "codigo_cliente": "65727",
                         "desc_cliente": "PAULA PUHL MUNCHEN"
+                    },
+                    {
+                        "codigo_cliente": "71556",
+                        "desc_cliente": "PAULA RIOS CURTOLO"
                     },
                     {
                         "codigo_cliente": "47871",
@@ -86354,10 +86390,6 @@
                     {
                         "codigo_cliente": "34875",
                         "desc_cliente": "MARCUS WESTPHAL 94213151034"
-                    },
-                    {
-                        "codigo_cliente": "8816",
-                        "desc_cliente": "MERCADO SPIAGGIA EIRELLI"
                     },
                     {
                         "codigo_cliente": "27403",

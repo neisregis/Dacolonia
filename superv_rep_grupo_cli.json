@@ -11134,6 +11134,10 @@
                         "desc_cliente": "RM NEGRELLI COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "71545",
+                        "desc_cliente": "SD MARKET LTDA"
+                    },
+                    {
                         "codigo_cliente": "55100",
                         "desc_cliente": "SETE FESTAS LTDA"
                     },
@@ -11260,12 +11264,6 @@
                     {
                         "codigo_cliente": "42278",
                         "desc_cliente": "UNIAO SUL BRASILEIRA DA IGREJA ADVENTISTA DO SETIMO DIA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71545",
-                        "desc_cliente": "SD MARKET"
                     }
                 ]
             },
@@ -21658,6 +21656,10 @@
                     {
                         "codigo_cliente": "12327",
                         "desc_cliente": "JADIR MAGRI & CIA LTDA - EPP"
+                    },
+                    {
+                        "codigo_cliente": "71553",
+                        "desc_cliente": "JD COMERCIO, IMPORTACAO E REPRESENTACOES LTDA"
                     },
                     {
                         "codigo_cliente": "34525",
@@ -59086,6 +59088,10 @@
                         "desc_cliente": "GOMERCINDO MUNIZ DA SILVA FILHO"
                     },
                     {
+                        "codigo_cliente": "5918",
+                        "desc_cliente": "GUIMARAES BRASIL IND E ALIMENTOS LTDA ME"
+                    },
+                    {
                         "codigo_cliente": "27431",
                         "desc_cliente": "H. P. MERCADO LTDA"
                     },
@@ -69100,6 +69106,10 @@
                         "desc_cliente": "ANA ANGELICA WILSKE"
                     },
                     {
+                        "codigo_cliente": "71555",
+                        "desc_cliente": "ANA CLAUDIA OLIVEIRA"
+                    },
+                    {
                         "codigo_cliente": "71378",
                         "desc_cliente": "ANA LUISA MARTINELLI"
                     },
@@ -69418,6 +69428,10 @@
                     {
                         "codigo_cliente": "71495",
                         "desc_cliente": "MARINES MARTINS DAS NEVES"
+                    },
+                    {
+                        "codigo_cliente": "71554",
+                        "desc_cliente": "MATIELE LEMOS"
                     },
                     {
                         "codigo_cliente": "71385",

@@ -30834,6 +30834,10 @@
                         "desc_cliente": "VANDERLEI SALESIO DE OLIVEIRA - ME"
                     },
                     {
+                        "codigo_cliente": "22297",
+                        "desc_cliente": "VEDOVA COMERCIO DE GEN. ALIM. LTDA - EPP"
+                    },
+                    {
                         "codigo_cliente": "48590",
                         "desc_cliente": "VOVO MODERNA MERCADO GOURMET LTDA"
                     },
@@ -31602,6 +31606,12 @@
                     {
                         "codigo_cliente": "67297",
                         "desc_cliente": "UNIAO SUL BRASILEIRA DA IGREJA ADVENTISTA DO SETIMO DIA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71572",
+                        "desc_cliente": "AM COMERCIO DE ALIMENTOS LTDA"
                     }
                 ]
             },
@@ -43220,6 +43230,10 @@
                     {
                         "codigo_cliente": "36221",
                         "desc_cliente": "SUPERMERCADO RIO SUL DA VILA SAO LUIS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "40453",
+                        "desc_cliente": "SUPERMERCADO RIO SUL DE AUSTIN LTDA "
                     },
                     {
                         "codigo_cliente": "58913",

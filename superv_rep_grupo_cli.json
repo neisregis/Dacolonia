@@ -19671,6 +19671,12 @@
                         "codigo_cliente": "31054",
                         "desc_cliente": "CLAUDINEI LUIZ TASCA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71605",
+                        "desc_cliente": "KUMEROWE ANDREZZA LTDA EPP"
+                    }
                 ]
             },
             "1086": {
@@ -53292,6 +53298,10 @@
             "1156": {
                 "1252 - CASA DO NORTE": [
                     {
+                        "codigo_cliente": "71585",
+                        "desc_cliente": "57.832.803 JOSE LUCAS DOS SANTOS FONTES"
+                    },
+                    {
                         "codigo_cliente": "66073",
                         "desc_cliente": "CASA DO NORTE E EMPORIO MINEIRINHO LTDA"
                     },
@@ -53339,10 +53349,6 @@
                     }
                 ],
                 "1 - GERAL": [
-                    {
-                        "codigo_cliente": "71585",
-                        "desc_cliente": "57.832.803 JOSE LUCAS DOS SANTOS FONTES"
-                    },
                     {
                         "codigo_cliente": "62347",
                         "desc_cliente": "ANUBIS SERVICOS AUTOMOTIVOS LTDA"

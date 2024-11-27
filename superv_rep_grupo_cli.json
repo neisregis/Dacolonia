@@ -15686,6 +15686,10 @@
                         "desc_cliente": "SUPERMERCADO CASTELO LTDA"
                     },
                     {
+                        "codigo_cliente": "53237",
+                        "desc_cliente": "SUPERMERCADO CASTELO LTDA"
+                    },
+                    {
                         "codigo_cliente": "17256",
                         "desc_cliente": "SUPERMERCADO CASTELO LTDA - EPP"
                     },
@@ -33447,6 +33451,10 @@
                     },
                     {
                         "codigo_cliente": "69779",
+                        "desc_cliente": "MIX VALI COMERCIO DE PRODUTOS ALIMENTICIOS LTDA."
+                    },
+                    {
+                        "codigo_cliente": "69780",
                         "desc_cliente": "MIX VALI COMERCIO DE PRODUTOS ALIMENTICIOS LTDA."
                     },
                     {

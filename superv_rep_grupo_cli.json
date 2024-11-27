@@ -4203,6 +4203,12 @@
                         "codigo_cliente": "36103",
                         "desc_cliente": "ORGANIZACAO DE CEREAIS MONLEVADE LTDA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71596",
+                        "desc_cliente": "COOPERATIVA DOS EMPREGADOS DA USIMINAS"
+                    }
                 ]
             },
             "983": {
@@ -9736,6 +9742,12 @@
                     {
                         "codigo_cliente": "42178",
                         "desc_cliente": "UNIAO SUL BRASILEIRA DA IGREJA ADVENTISTA DO SETIMO DIA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71602",
+                        "desc_cliente": "ROINSTER ALIMENTOS E BEBIDAS LTDA"
                     }
                 ]
             },
@@ -17980,6 +17992,10 @@
                         "desc_cliente": "VIVENDA EXPRESS LTDA"
                     },
                     {
+                        "codigo_cliente": "48548",
+                        "desc_cliente": "VLADIMIR SOUZA DA ROCHA 00244306095"
+                    },
+                    {
                         "codigo_cliente": "63256",
                         "desc_cliente": "YGEIA COMERCIO DE ALIMENTOS LTDA"
                     }
@@ -18530,6 +18546,10 @@
                     {
                         "codigo_cliente": "33305",
                         "desc_cliente": "FJ COMERCIO DE UTENSILIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "37828",
+                        "desc_cliente": "GI COMÉRCIO DE VERDURAS LTDA ME"
                     },
                     {
                         "codigo_cliente": "31585",
@@ -24698,6 +24718,12 @@
                     {
                         "codigo_cliente": "5359",
                         "desc_cliente": "MERCADO REICHERT LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71597",
+                        "desc_cliente": "LUIZ FERNANDO COLOMBO DA SILVEIRA"
                     }
                 ]
             },
@@ -71896,6 +71922,10 @@
                         "desc_cliente": "CLEBER ALAUR WAGNER"
                     },
                     {
+                        "codigo_cliente": "68146",
+                        "desc_cliente": "CLEBER ELIMAR WESZ"
+                    },
+                    {
                         "codigo_cliente": "66599",
                         "desc_cliente": "CLEBER WANDERLEI LIRIA"
                     },
@@ -72114,6 +72144,10 @@
                     {
                         "codigo_cliente": "64855",
                         "desc_cliente": "DAISY DUARTE"
+                    },
+                    {
+                        "codigo_cliente": "68116",
+                        "desc_cliente": "DAMIANA MOREIRA DE ANDRADE"
                     },
                     {
                         "codigo_cliente": "70007",
@@ -72882,6 +72916,10 @@
                     {
                         "codigo_cliente": "69803",
                         "desc_cliente": "ELOISA BARTMEYER"
+                    },
+                    {
+                        "codigo_cliente": "68107",
+                        "desc_cliente": "ELOISE DUARTE"
                     },
                     {
                         "codigo_cliente": "63287",
@@ -74626,6 +74664,10 @@
                     {
                         "codigo_cliente": "69519",
                         "desc_cliente": "JESSICA CRISTIANE HAHN"
+                    },
+                    {
+                        "codigo_cliente": "68113",
+                        "desc_cliente": "JESSICA DE CONTO"
                     },
                     {
                         "codigo_cliente": "69121",
@@ -80320,6 +80362,10 @@
                         "desc_cliente": "WILLIAN LEANDRO DOS SANTOS"
                     },
                     {
+                        "codigo_cliente": "68106",
+                        "desc_cliente": "WILLIAN VINICIUS BORDIN"
+                    },
+                    {
                         "codigo_cliente": "61848",
                         "desc_cliente": "WILSON KIYOSHI TAMASHIRO"
                     },
@@ -83160,6 +83206,12 @@
                     {
                         "codigo_cliente": "66589",
                         "desc_cliente": "ALIPASSO DISTRIBUIDORA LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71598",
+                        "desc_cliente": "Agropecuaria KST Ltda"
                     }
                 ]
             },

@@ -6428,6 +6428,12 @@
                         "desc_cliente": "VALDIMAR DE SOUSA ROCHA"
                     }
                 ],
+                "631 - SANAGIOTTO": [
+                    {
+                        "codigo_cliente": "43561",
+                        "desc_cliente": "NOVA SANTA ROSA SUPERMERCADO LTDA"
+                    }
+                ],
                 "775 - COMERCIAL FERREIRA": [
                     {
                         "codigo_cliente": "55161",
@@ -39377,7 +39383,7 @@
                     },
                     {
                         "codigo_cliente": "59921",
-                        "desc_cliente": "SABOR & SAUDE FORNECIMENTO DE ALIMENTOS PREPARADO EIRELI"
+                        "desc_cliente": "SABOR & SAUDE FORNECIM DE ALIM PREPARADOS LTDA"
                     },
                     {
                         "codigo_cliente": "14084",
@@ -53300,6 +53306,10 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "71585",
+                        "desc_cliente": "57.832.803 JOSE LUCAS DOS SANTOS FONTES"
+                    },
+                    {
                         "codigo_cliente": "62347",
                         "desc_cliente": "ANUBIS SERVICOS AUTOMOTIVOS LTDA"
                     },
@@ -53774,6 +53784,10 @@
                     {
                         "codigo_cliente": "70985",
                         "desc_cliente": "BRASILEIRAO ATACADO COM. DE PROD. ALIMENT. SOCIEDADE ANONIMA"
+                    },
+                    {
+                        "codigo_cliente": "71593",
+                        "desc_cliente": "CENTRO DE TREINAMENTO LESTE LTDA"
                     }
                 ]
             },
@@ -60426,6 +60440,10 @@
                         "desc_cliente": "ANDRESSA ASSUNÇÃO RODRIGUES"
                     },
                     {
+                        "codigo_cliente": "70604",
+                        "desc_cliente": "ANDRESSA COSTA DE FAGUNDES"
+                    },
+                    {
                         "codigo_cliente": "65480",
                         "desc_cliente": "ANDRESSA GOMES CARDOSO"
                     },
@@ -60952,6 +60970,10 @@
                     {
                         "codigo_cliente": "69415",
                         "desc_cliente": "CARLOS HENRIQUE POTT"
+                    },
+                    {
+                        "codigo_cliente": "61741",
+                        "desc_cliente": "CARLOS JOAO "
                     },
                     {
                         "codigo_cliente": "67620",
@@ -69362,6 +69384,10 @@
                         "desc_cliente": "DIMY ROBSON LOPES"
                     },
                     {
+                        "codigo_cliente": "71595",
+                        "desc_cliente": "DINAEL OLIVEIRA ROBETTI SANTOS"
+                    },
+                    {
                         "codigo_cliente": "71218",
                         "desc_cliente": "DIOGO MARCELO"
                     },
@@ -69656,6 +69682,10 @@
                     {
                         "codigo_cliente": "71034",
                         "desc_cliente": "PRISCILA HILARIO"
+                    },
+                    {
+                        "codigo_cliente": "71594",
+                        "desc_cliente": "RAFAEL MULUSSI"
                     },
                     {
                         "codigo_cliente": "71301",

@@ -39978,6 +39978,10 @@
                         "desc_cliente": "CRIS MAR MERCADO LTDA"
                     },
                     {
+                        "codigo_cliente": "36852",
+                        "desc_cliente": "CRL DISTRIBUIDORA LTDA"
+                    },
+                    {
                         "codigo_cliente": "53973",
                         "desc_cliente": "C & R SUPERMERCADO GOMES DE MADRESSILVA LTDA"
                     },
@@ -42845,6 +42849,10 @@
                     }
                 ],
                 "865 - SUPER VICALI": [
+                    {
+                        "codigo_cliente": "37843",
+                        "desc_cliente": "SUPERMERCADO VICALI PARATY LTDA"
+                    },
                     {
                         "codigo_cliente": "48689",
                         "desc_cliente": "SUPERMERCADO VICALI PARATY LTDA"
@@ -85649,6 +85657,10 @@
                     },
                     {
                         "codigo_cliente": "38713",
+                        "desc_cliente": "ALLMAYER SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "64088",
                         "desc_cliente": "ALLMAYER SUPERMERCADO LTDA"
                     },
                     {

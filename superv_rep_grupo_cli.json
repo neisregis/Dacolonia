@@ -16826,6 +16826,10 @@
                         "desc_cliente": "COMERCIAL AMALCABURIO LTDA"
                     },
                     {
+                        "codigo_cliente": "71577",
+                        "desc_cliente": "COMERCIAL AMALCABURIO LTDA"
+                    },
+                    {
                         "codigo_cliente": "40631",
                         "desc_cliente": "COMERCIAL ARBEL LTDA"
                     },
@@ -17580,12 +17584,6 @@
                     {
                         "codigo_cliente": "45287",
                         "desc_cliente": "EMPORIUM KERO MAIS ATACADISTA LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71577",
-                        "desc_cliente": "SUPERMERCADO  AMALCABURIO"
                     }
                 ]
             },
@@ -69232,6 +69230,10 @@
                         "desc_cliente": "ADRIANO MOISES PRUCHIANU"
                     },
                     {
+                        "codigo_cliente": "71592",
+                        "desc_cliente": "ALEXANDRE DE OLIVEIRA COIMBRA"
+                    },
+                    {
                         "codigo_cliente": "71140",
                         "desc_cliente": "ALEXANDRE SOUZA BARCELOS"
                     },
@@ -69614,6 +69616,10 @@
                     {
                         "codigo_cliente": "71385",
                         "desc_cliente": "MAURICIO MACHADO"
+                    },
+                    {
+                        "codigo_cliente": "71591",
+                        "desc_cliente": "MIGUEL ENRICONI"
                     },
                     {
                         "codigo_cliente": "71351",

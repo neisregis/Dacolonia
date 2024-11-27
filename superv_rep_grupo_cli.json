@@ -5313,6 +5313,12 @@
                         "codigo_cliente": "59968",
                         "desc_cliente": "SUPERMERCADO TELEFRANGO LTDA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71607",
+                        "desc_cliente": "DISTRIBUIDORA DE ALIMENTOS MINEIRINHO DO BRAS LTDA"
+                    }
                 ]
             },
             "944": {
@@ -49744,6 +49750,10 @@
                     {
                         "codigo_cliente": "44935",
                         "desc_cliente": "ESPLANDA - COMERCIAL DE ALIMENTOS E TRANSPORTES"
+                    },
+                    {
+                        "codigo_cliente": "71574",
+                        "desc_cliente": "MAXGOLD DIST. DE COM. ALIMENTICIOS E HIGIENE E LIMPEZA LTDA"
                     },
                     {
                         "codigo_cliente": "65898",

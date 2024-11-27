@@ -11142,10 +11142,6 @@
                         "desc_cliente": "RM NEGRELLI COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
-                        "codigo_cliente": "71545",
-                        "desc_cliente": "SD MARKET LTDA"
-                    },
-                    {
                         "codigo_cliente": "55100",
                         "desc_cliente": "SETE FESTAS LTDA"
                     },
@@ -12940,6 +12936,16 @@
                         "desc_cliente": "PRIOTTO & CIA LTDA"
                     }
                 ],
+                "1377 - MEGA DISTRIBUIDORA": [
+                    {
+                        "codigo_cliente": "71552",
+                        "desc_cliente": "MEGA DISTRIBUIDORA DE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "47767",
+                        "desc_cliente": "PAULO RICARDO MYSZYNSKI 87550547904"
+                    }
+                ],
                 "17 - CONDOR": [
                     {
                         "codigo_cliente": "27852",
@@ -13124,10 +13130,6 @@
                         "desc_cliente": "M. DE O. TAVESKI"
                     },
                     {
-                        "codigo_cliente": "71552",
-                        "desc_cliente": "MEGA DISTRIBUIDORA DE PRODUTOS ALIMENTICIOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "38511",
                         "desc_cliente": "MERCADO FUTURAMA LTDA"
                     },
@@ -13154,10 +13156,6 @@
                     {
                         "codigo_cliente": "30743",
                         "desc_cliente": "PARADA DO PAO DE QUEIJO LTDA - ME"
-                    },
-                    {
-                        "codigo_cliente": "47767",
-                        "desc_cliente": "PAULO RICARDO MYSZYNSKI 87550547904"
                     },
                     {
                         "codigo_cliente": "35981",
@@ -14436,6 +14434,10 @@
                     {
                         "codigo_cliente": "27710",
                         "desc_cliente": "DISTRIBUIDORA GIROTTO"
+                    },
+                    {
+                        "codigo_cliente": "37025",
+                        "desc_cliente": "ELOIR VIEIRA FALCAO 30846068893"
                     },
                     {
                         "codigo_cliente": "32578",
@@ -17571,6 +17573,12 @@
                         "codigo_cliente": "45287",
                         "desc_cliente": "EMPORIUM KERO MAIS ATACADISTA LTDA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71577",
+                        "desc_cliente": "SUPERMERCADO  AMALCABURIO"
+                    }
                 ]
             },
             "1030": {
@@ -17788,16 +17796,16 @@
                         "desc_cliente": "JP & L CONSTRUTORA LTDA"
                     },
                     {
-                        "codigo_cliente": "44969",
-                        "desc_cliente": "MARCOS JOSE BRAUN 02558758942"
-                    },
-                    {
                         "codigo_cliente": "35863",
                         "desc_cliente": "MATIAS FARIA SUPERMERCADO LTDA"
                     },
                     {
                         "codigo_cliente": "43684",
                         "desc_cliente": "MERCADO ALEMAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44969",
+                        "desc_cliente": "MERCADO BRAUN LTDA"
                     },
                     {
                         "codigo_cliente": "62859",
@@ -21156,12 +21164,20 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "71564",
+                        "desc_cliente": "57.101.619 MARLI DE LOURDES GUEDES"
+                    },
+                    {
                         "codigo_cliente": "52968",
                         "desc_cliente": "ADILSON LUIZ LUNKES LANGER 71187138053"
                     },
                     {
                         "codigo_cliente": "52908",
                         "desc_cliente": "ADRIANA JAEGER DA SILVA 01142279006"
+                    },
+                    {
+                        "codigo_cliente": "71566",
+                        "desc_cliente": "ANA MARIA KLEINPAUL 63828847072"
                     },
                     {
                         "codigo_cliente": "60210",
@@ -21174,6 +21190,10 @@
                     {
                         "codigo_cliente": "54716",
                         "desc_cliente": "BELLS MERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71565",
+                        "desc_cliente": "CENTRO DE DISTRIBUICAO MAV LTDA"
                     },
                     {
                         "codigo_cliente": "13291",
@@ -21392,20 +21412,6 @@
                     {
                         "codigo_cliente": "9346",
                         "desc_cliente": "SUPERMERCADO MOMBACH LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71566",
-                        "desc_cliente": "ANA MARIA KLEINPAUL"
-                    },
-                    {
-                        "codigo_cliente": "71565",
-                        "desc_cliente": "CENTRO DE DISTRIBUICAO MAV LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71564",
-                        "desc_cliente": "MARLI DE LOURDES GUEDES"
                     }
                 ]
             },
@@ -28684,6 +28690,10 @@
                         "desc_cliente": "HP SUPERMERCADO LTDA"
                     },
                     {
+                        "codigo_cliente": "56849",
+                        "desc_cliente": "M A MARQUES SUPERMERCADO LTDA"
+                    },
+                    {
                         "codigo_cliente": "42374",
                         "desc_cliente": "MIRANDAS COMERCIAL DE ALIMENTOS EIRELI"
                     },
@@ -30835,7 +30845,7 @@
                     },
                     {
                         "codigo_cliente": "22297",
-                        "desc_cliente": "VEDOVA COMERCIO DE GEN. ALIM. LTDA - EPP"
+                        "desc_cliente": "VEDOVA COMERCIO DE GENEROS ALIMENTICIOS LTDA"
                     },
                     {
                         "codigo_cliente": "48590",
@@ -30946,6 +30956,10 @@
                     {
                         "codigo_cliente": "40574",
                         "desc_cliente": "AMAZONIA NATIVA COMERCIO DE ALIMENTOS LTDA."
+                    },
+                    {
+                        "codigo_cliente": "71572",
+                        "desc_cliente": "AM COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "43866",
@@ -31606,12 +31620,6 @@
                     {
                         "codigo_cliente": "67297",
                         "desc_cliente": "UNIAO SUL BRASILEIRA DA IGREJA ADVENTISTA DO SETIMO DIA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71572",
-                        "desc_cliente": "AM COMERCIO DE ALIMENTOS LTDA"
                     }
                 ]
             },
@@ -41482,10 +41490,6 @@
                         "desc_cliente": "KAMIL COMERCIO LTDA"
                     },
                     {
-                        "codigo_cliente": "38766",
-                        "desc_cliente": "LA ESTRADA MINI MERCADO LTDA"
-                    },
-                    {
                         "codigo_cliente": "40478",
                         "desc_cliente": "L.G.H. EMPREENDIMENTOS COMERCIAIS EIRELI"
                     },
@@ -42750,6 +42754,10 @@
                         "desc_cliente": "SPETTO CARNES E DELICATESSEN EIRELI"
                     },
                     {
+                        "codigo_cliente": "71576",
+                        "desc_cliente": "STEFANY DE BRITO NOGUEIRA 14027508700"
+                    },
+                    {
                         "codigo_cliente": "26718",
                         "desc_cliente": "SUPERMERCADO COSTA VERDE LTDA"
                     },
@@ -42850,10 +42858,6 @@
                 ],
                 "865 - SUPER VICALI": [
                     {
-                        "codigo_cliente": "37843",
-                        "desc_cliente": "SUPERMERCADO VICALI PARATY LTDA"
-                    },
-                    {
                         "codigo_cliente": "48689",
                         "desc_cliente": "SUPERMERCADO VICALI PARATY LTDA"
                     },
@@ -42882,12 +42886,6 @@
                     {
                         "codigo_cliente": "52775",
                         "desc_cliente": "JM COMERCIO SERVICOS E EVENTOS LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71576",
-                        "desc_cliente": "STEFANY DE BRITO NOGUEIRA"
                     }
                 ]
             },
@@ -43016,6 +43014,10 @@
                     {
                         "codigo_cliente": "63219",
                         "desc_cliente": "HORTI PRIME BRASIL LTDA."
+                    },
+                    {
+                        "codigo_cliente": "38766",
+                        "desc_cliente": "LA ESTRADA MINI MERCADO LTDA"
                     },
                     {
                         "codigo_cliente": "43490",
@@ -43729,6 +43731,20 @@
                     }
                 ]
             },
+            "1025": {
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "66197",
+                        "desc_cliente": "MERCADO DO BAIRRO RJ LTDA"
+                    }
+                ],
+                "849 - COML ITINGA": [
+                    {
+                        "codigo_cliente": "40232",
+                        "desc_cliente": "COMERCIAL ITINGA DE ALIMENTOS LTDA"
+                    }
+                ]
+            },
             "937": {
                 "1 - GERAL": [
                     {
@@ -43884,14 +43900,6 @@
                     {
                         "codigo_cliente": "69617",
                         "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
-                    }
-                ]
-            },
-            "1025": {
-                "849 - COML ITINGA": [
-                    {
-                        "codigo_cliente": "40232",
-                        "desc_cliente": "COMERCIAL ITINGA DE ALIMENTOS LTDA"
                     }
                 ]
             }
@@ -47890,6 +47898,10 @@
                     {
                         "codigo_cliente": "58678",
                         "desc_cliente": "GUSTAVO SANTOS PORTO"
+                    },
+                    {
+                        "codigo_cliente": "55332",
+                        "desc_cliente": "HERBERTS COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "8926",
@@ -53998,10 +54010,6 @@
                     {
                         "codigo_cliente": "40993",
                         "desc_cliente": "BOTURUSSU 219 DISTRIBUIDORA  LTDA."
-                    },
-                    {
-                        "codigo_cliente": "8552",
-                        "desc_cliente": "DISTRIBUIDORA DE PROD ALIMENT MARSIL LTD"
                     },
                     {
                         "codigo_cliente": "68801",
@@ -61422,6 +61430,10 @@
                     {
                         "codigo_cliente": "66574",
                         "desc_cliente": "DANIELA ABREU SILVEIRA"
+                    },
+                    {
+                        "codigo_cliente": "51394",
+                        "desc_cliente": "DANIELA CORREA DA SILVA DOS SANTOS"
                     },
                     {
                         "codigo_cliente": "54312",
@@ -84886,6 +84898,10 @@
                         "desc_cliente": "COMERCIAL GRICZINSKI LTDA."
                     },
                     {
+                        "codigo_cliente": "71571",
+                        "desc_cliente": "COMERCIAL GRICZINSKI LTDA."
+                    },
+                    {
                         "codigo_cliente": "31589",
                         "desc_cliente": "COMERCIO DE GENEROS ALIMENTICIOS NHOATTO LTDA - ME"
                     },
@@ -85270,12 +85286,6 @@
                     {
                         "codigo_cliente": "52913",
                         "desc_cliente": "EVA CLEONI LAMAISON"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71571",
-                        "desc_cliente": "COMERCIAL GRICZINSKI LTDA."
                     }
                 ]
             },

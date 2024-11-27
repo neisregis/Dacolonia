@@ -23594,6 +23594,10 @@
                         "desc_cliente": "SUPERMERCADO SAO MARTINHO LTDA"
                     },
                     {
+                        "codigo_cliente": "15698",
+                        "desc_cliente": "SUPERMERCADOS LEAND LTDA -ME"
+                    },
+                    {
                         "codigo_cliente": "57291",
                         "desc_cliente": "VALDIR NAZARENO BIANCHI 32759878015"
                     },
@@ -27121,6 +27125,10 @@
                     }
                 ],
                 "970 - NOVA JERUSALEM": [
+                    {
+                        "codigo_cliente": "54640",
+                        "desc_cliente": "SUPERMERCADO NOVA JERUSALEM ANHANGUERA LTDA"
+                    },
                     {
                         "codigo_cliente": "55008",
                         "desc_cliente": "SUPERMERCADO NOVA JERUSALEM JARDIM OLIMPICO LTDA"
@@ -65658,6 +65666,10 @@
                     {
                         "codigo_cliente": "56419",
                         "desc_cliente": "MARCELO VIEIRA"
+                    },
+                    {
+                        "codigo_cliente": "61692",
+                        "desc_cliente": "MARCIA DE MORAIS"
                     },
                     {
                         "codigo_cliente": "67339",

@@ -17834,10 +17834,6 @@
                         "desc_cliente": "JOSIANE PATRICIA DAROSCI"
                     },
                     {
-                        "codigo_cliente": "71479",
-                        "desc_cliente": "JP & L CONSTRUTORA LTDA"
-                    },
-                    {
                         "codigo_cliente": "35863",
                         "desc_cliente": "MATIAS FARIA SUPERMERCADO LTDA"
                     },
@@ -21784,6 +21780,10 @@
                         "desc_cliente": "JADIR MAGRI & CIA LTDA - EPP"
                     },
                     {
+                        "codigo_cliente": "71553",
+                        "desc_cliente": "JD COMERCIO, IMPORTACAO E REPRESENTACOES LTDA"
+                    },
+                    {
                         "codigo_cliente": "34525",
                         "desc_cliente": "JULIPA COMERCIO DE ALIMENTOS LTDA"
                     },
@@ -24756,6 +24756,12 @@
                     {
                         "codigo_cliente": "5359",
                         "desc_cliente": "MERCADO REICHERT LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71657",
+                        "desc_cliente": "LANCHERIA E PADARIA GERACOES"
                     }
                 ]
             },
@@ -29139,10 +29145,6 @@
                     }
                 ],
                 "1 - GERAL": [
-                    {
-                        "codigo_cliente": "71400",
-                        "desc_cliente": "53.900.838 RENATA CRISTINA COELHO"
-                    },
                     {
                         "codigo_cliente": "18993",
                         "desc_cliente": "AAP PESCADOR PRODUTOS ALIMENTICIOS LTDA"
@@ -62690,6 +62692,10 @@
                         "desc_cliente": "FELIPE BELLEZA TORTORELLI"
                     },
                     {
+                        "codigo_cliente": "54290",
+                        "desc_cliente": "FELIPE BORGES FERRONI"
+                    },
+                    {
                         "codigo_cliente": "68918",
                         "desc_cliente": "FELIPE DA SILVA NUNES"
                     },
@@ -69690,6 +69696,10 @@
                         "desc_cliente": "JOSE ANTONIO DAMETTO"
                     },
                     {
+                        "codigo_cliente": "71662",
+                        "desc_cliente": "JOSE JAIR ARAUJO"
+                    },
+                    {
                         "codigo_cliente": "71376",
                         "desc_cliente": "JULIA OLIVEIRA DOS SANTOS"
                     },
@@ -69914,6 +69924,10 @@
                         "desc_cliente": "ROBSON SANTOS"
                     },
                     {
+                        "codigo_cliente": "71658",
+                        "desc_cliente": "RODIMAR NASCENTE DA SILVA"
+                    },
+                    {
                         "codigo_cliente": "71551",
                         "desc_cliente": "RODRIGO MOREIRA"
                     },
@@ -69956,6 +69970,10 @@
                     {
                         "codigo_cliente": "71307",
                         "desc_cliente": "STEFFANY BENS"
+                    },
+                    {
+                        "codigo_cliente": "71663",
+                        "desc_cliente": "TALES ZANOTTO"
                     },
                     {
                         "codigo_cliente": "71283",
@@ -87468,10 +87486,6 @@
                     {
                         "codigo_cliente": "71112",
                         "desc_cliente": "DIVINA TERRA MERCADO SAUDAVEL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71232",
-                        "desc_cliente": "GMJ SC SAUDAVEL LTDA"
                     },
                     {
                         "codigo_cliente": "69882",

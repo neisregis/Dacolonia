@@ -21784,10 +21784,6 @@
                         "desc_cliente": "JADIR MAGRI & CIA LTDA - EPP"
                     },
                     {
-                        "codigo_cliente": "71553",
-                        "desc_cliente": "JD COMERCIO, IMPORTACAO E REPRESENTACOES LTDA"
-                    },
-                    {
                         "codigo_cliente": "34525",
                         "desc_cliente": "JULIPA COMERCIO DE ALIMENTOS LTDA"
                     },
@@ -32258,6 +32254,10 @@
                         "desc_cliente": "GHP PRODUTOS ALIMENTICIOS LTDA - ME"
                     },
                     {
+                        "codigo_cliente": "19694",
+                        "desc_cliente": "GOLDEN - COMERCIO DE COMBUSTIVEIS LTDA"
+                    },
+                    {
                         "codigo_cliente": "39455",
                         "desc_cliente": "HELTON JOSÉ VIEIRA EIRELI"
                     },
@@ -33510,6 +33510,16 @@
                         "desc_cliente": "GRUPO FARTURA DE HORTIFRUT S.A."
                     }
                 ],
+                "132 - ENXUTO SUPERMERCADOS": [
+                    {
+                        "codigo_cliente": "26454",
+                        "desc_cliente": "ENXUTO SUPERMERCADOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "27925",
+                        "desc_cliente": "ENXUTO SUPERMERCADOS LTDA"
+                    }
+                ],
                 "14 - REDE FORT": [
                     {
                         "codigo_cliente": "43903",
@@ -33620,6 +33630,12 @@
                     {
                         "codigo_cliente": "19824",
                         "desc_cliente": "PH NATURAL REPRESENTACAO COMERCIAL LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71652",
+                        "desc_cliente": "ENXUTO SUPERMERCADOS LTDA"
                     }
                 ]
             },
@@ -40082,6 +40098,10 @@
                     {
                         "codigo_cliente": "21069",
                         "desc_cliente": "COMERCIAL RANCHO ZEGNO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "16957",
+                        "desc_cliente": "COMERCIO DE LATICINIOS DA VOVO ANA EIRELI"
                     },
                     {
                         "codigo_cliente": "30551",

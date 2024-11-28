@@ -4192,6 +4192,10 @@
                     {
                         "codigo_cliente": "56205",
                         "desc_cliente": "COOPERATIVA DE CONSUMO DOS EMPREGADOS DA USIMINAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71596",
+                        "desc_cliente": "COOPERATIVA DE CONSUMO DOS EMPREGADOS DA USIMINAS LTDA"
                     }
                 ],
                 "380 - ORGANIZACAO DE CEREA": [
@@ -4202,12 +4206,6 @@
                     {
                         "codigo_cliente": "36103",
                         "desc_cliente": "ORGANIZACAO DE CEREAIS MONLEVADE LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71596",
-                        "desc_cliente": "COOPERATIVA DOS EMPREGADOS DA USIMINAS"
                     }
                 ]
             },
@@ -4602,6 +4600,10 @@
                     {
                         "codigo_cliente": "52688",
                         "desc_cliente": "DISTRIBUIDORA DE ALIMENTOS FARTURA S/A"
+                    },
+                    {
+                        "codigo_cliente": "71607",
+                        "desc_cliente": "DISTRIBUIDORA DE ALIMENTOS MINEIRINHO DO BRAS LTDA"
                     },
                     {
                         "codigo_cliente": "64093",
@@ -5312,12 +5314,6 @@
                     {
                         "codigo_cliente": "59968",
                         "desc_cliente": "SUPERMERCADO TELEFRANGO LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71607",
-                        "desc_cliente": "DISTRIBUIDORA DE ALIMENTOS MINEIRINHO DO BRAS LTDA"
                     }
                 ]
             },
@@ -9616,6 +9612,10 @@
                         "desc_cliente": "REGINA JOSE OLIVEIRA"
                     },
                     {
+                        "codigo_cliente": "71602",
+                        "desc_cliente": "ROISTER ALIMENTOS E BEBIDAS S/A"
+                    },
+                    {
                         "codigo_cliente": "49100",
                         "desc_cliente": "ROSANA MARTINS AGOSTINI"
                     },
@@ -9748,12 +9748,6 @@
                     {
                         "codigo_cliente": "42178",
                         "desc_cliente": "UNIAO SUL BRASILEIRA DA IGREJA ADVENTISTA DO SETIMO DIA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71602",
-                        "desc_cliente": "ROINSTER ALIMENTOS E BEBIDAS LTDA"
                     }
                 ]
             },
@@ -19510,6 +19504,10 @@
                         "desc_cliente": "KARINE DE SOUZA ALMEIDA 10839529945"
                     },
                     {
+                        "codigo_cliente": "71605",
+                        "desc_cliente": "KUMEROW E ANDREAZZA LTDA"
+                    },
+                    {
                         "codigo_cliente": "69562",
                         "desc_cliente": "LIDIA JASKI KOZAK MARTINS & CIA LTDA"
                     },
@@ -19680,12 +19678,6 @@
                     {
                         "codigo_cliente": "31054",
                         "desc_cliente": "CLAUDINEI LUIZ TASCA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71605",
-                        "desc_cliente": "KUMEROWE ANDREZZA LTDA EPP"
                     }
                 ]
             },
@@ -20558,6 +20550,10 @@
                     {
                         "codigo_cliente": "71411",
                         "desc_cliente": "KOCH HIPERMERCADO S/A"
+                    },
+                    {
+                        "codigo_cliente": "71608",
+                        "desc_cliente": "KOCH HIPERMERCADO S/A."
                     }
                 ],
                 "317 - MACRIS": [
@@ -20596,12 +20592,6 @@
                     {
                         "codigo_cliente": "18667",
                         "desc_cliente": "ZELLA DE SOUZA & CIA LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71608",
-                        "desc_cliente": "KOCH HIPERMERCADO S/A."
                     }
                 ]
             },
@@ -20870,6 +20860,10 @@
                     {
                         "codigo_cliente": "44569",
                         "desc_cliente": "COMPREBEM COM VAREJISTA DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "5996",
+                        "desc_cliente": "CRISTIANO DUARTE KRAS BORGES"
                     },
                     {
                         "codigo_cliente": "65381",
@@ -24534,6 +24528,10 @@
                         "desc_cliente": "LUCAS SPITZNAGEL SANTOS DA SILVA 03599215073"
                     },
                     {
+                        "codigo_cliente": "71597",
+                        "desc_cliente": "LUIS FERNANDO COLOMBO DA SILVEIRA E CIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "67859",
                         "desc_cliente": "LURDES HELENA DA SILVA 66094054091"
                     },
@@ -24740,12 +24738,6 @@
                     {
                         "codigo_cliente": "5359",
                         "desc_cliente": "MERCADO REICHERT LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71597",
-                        "desc_cliente": "LUIZ FERNANDO COLOMBO DA SILVEIRA"
                     }
                 ]
             },
@@ -53658,6 +53650,10 @@
                         "desc_cliente": "BOTURUSSU 219 DISTRIBUIDORA  LTDA."
                     },
                     {
+                        "codigo_cliente": "71593",
+                        "desc_cliente": "CENTRO DE TREINAMENTO LESTE LTDA"
+                    },
+                    {
                         "codigo_cliente": "22943",
                         "desc_cliente": "COM DE DOCES BOM PRECO DE S AMARO LT EPP"
                     },
@@ -53852,10 +53848,6 @@
                     {
                         "codigo_cliente": "70985",
                         "desc_cliente": "BRASILEIRAO ATACADO COM. DE PROD. ALIMENT. SOCIEDADE ANONIMA"
-                    },
-                    {
-                        "codigo_cliente": "71593",
-                        "desc_cliente": "CENTRO DE TREINAMENTO LESTE LTDA"
                     }
                 ]
             },
@@ -82754,6 +82746,10 @@
                         "desc_cliente": "ADELMO FERREIRA"
                     },
                     {
+                        "codigo_cliente": "71598",
+                        "desc_cliente": "AGROPECUARIA KST LTDA"
+                    },
+                    {
                         "codigo_cliente": "28797",
                         "desc_cliente": "A. L. BORTOLINI CEREAIS"
                     },
@@ -83240,12 +83236,6 @@
                     {
                         "codigo_cliente": "66589",
                         "desc_cliente": "ALIPASSO DISTRIBUIDORA LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71598",
-                        "desc_cliente": "Agropecuaria KST Ltda"
                     }
                 ]
             },

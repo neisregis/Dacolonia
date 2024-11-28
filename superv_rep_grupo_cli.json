@@ -25452,10 +25452,6 @@
                 ],
                 "528 - VIEZZER": [
                     {
-                        "codigo_cliente": "11784",
-                        "desc_cliente": "VIEZZER & CIA LTDA"
-                    },
-                    {
                         "codigo_cliente": "2936",
                         "desc_cliente": "VIEZZER & CIA LTDA"
                     },
@@ -34156,10 +34152,6 @@
                         "desc_cliente": "REMARO COMERCIAL LTDA"
                     },
                     {
-                        "codigo_cliente": "70391",
-                        "desc_cliente": "RODRIGO MARIANO SUPLEMENTOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "63431",
                         "desc_cliente": "SHOPPING MANIA PRESENTES LTDA"
                     },
@@ -39263,6 +39255,12 @@
                         "codigo_cliente": "47636",
                         "desc_cliente": "BRANES MERCADO LTDA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71614",
+                        "desc_cliente": "BRANES MERCADO LTDA"
+                    }
                 ]
             },
             "241": {
@@ -39884,6 +39882,12 @@
                     {
                         "codigo_cliente": "70731",
                         "desc_cliente": "SHOPPING DE CARNES AZENHA LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71617",
+                        "desc_cliente": "VILLEROY E ROSITO COMERCIO E SERVICOS DE CONDICIONAMENTO FISICO LTDA"
                     }
                 ]
             },
@@ -49770,6 +49774,10 @@
                         "desc_cliente": "MB COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
                     },
                     {
+                        "codigo_cliente": "7448",
+                        "desc_cliente": "MELHOR COMERCIO VAREJISTA E ATACADISTA DE PROD ALIMENT LTDA"
+                    },
+                    {
                         "codigo_cliente": "66248",
                         "desc_cliente": "PRECITO ATACADO IMPORTACAO E EXPORTACAO LTDA"
                     },
@@ -53325,10 +53333,6 @@
             },
             "1156": {
                 "1252 - CASA DO NORTE": [
-                    {
-                        "codigo_cliente": "71585",
-                        "desc_cliente": "57.832.803 JOSE LUCAS DOS SANTOS FONTES"
-                    },
                     {
                         "codigo_cliente": "66073",
                         "desc_cliente": "CASA DO NORTE E EMPORIO MINEIRINHO LTDA"
@@ -69366,6 +69370,10 @@
                         "desc_cliente": "ANA ANGELICA WILSKE"
                     },
                     {
+                        "codigo_cliente": "71628",
+                        "desc_cliente": "ANA CAROLINA SIEWES FLEIX"
+                    },
+                    {
                         "codigo_cliente": "71555",
                         "desc_cliente": "ANA CLAUDIA OLIVEIRA"
                     },
@@ -69392,6 +69400,14 @@
                     {
                         "codigo_cliente": "71313",
                         "desc_cliente": "BETLIN DA SILVEIRA LIMA"
+                    },
+                    {
+                        "codigo_cliente": "71630",
+                        "desc_cliente": "BIBIANA SCHIMITT "
+                    },
+                    {
+                        "codigo_cliente": "71622",
+                        "desc_cliente": "BRENDA BINA"
                     },
                     {
                         "codigo_cliente": "71281",
@@ -69436,6 +69452,10 @@
                     {
                         "codigo_cliente": "70992",
                         "desc_cliente": "CRISTIANO DA SILVA BOEIRA"
+                    },
+                    {
+                        "codigo_cliente": "71620",
+                        "desc_cliente": "DANIELE DE SOUZA MACEDO"
                     },
                     {
                         "codigo_cliente": "70991",
@@ -69626,6 +69646,10 @@
                         "desc_cliente": "JULIO CESAR SILVA DOS SANTOS"
                     },
                     {
+                        "codigo_cliente": "71623",
+                        "desc_cliente": "JULIO GOMES"
+                    },
+                    {
                         "codigo_cliente": "71389",
                         "desc_cliente": "KATLEN DE ABREU "
                     },
@@ -69636,6 +69660,10 @@
                     {
                         "codigo_cliente": "71380",
                         "desc_cliente": "LAUREN DA SILVA SOARES"
+                    },
+                    {
+                        "codigo_cliente": "71626",
+                        "desc_cliente": "LAUREN SILVA MARCOWICH"
                     },
                     {
                         "codigo_cliente": "71379",
@@ -69738,6 +69766,10 @@
                         "desc_cliente": "MAURICIO MACHADO"
                     },
                     {
+                        "codigo_cliente": "71625",
+                        "desc_cliente": "MICHELLE HORST DIAZ"
+                    },
+                    {
                         "codigo_cliente": "71591",
                         "desc_cliente": "MIGUEL ENRICONI"
                     },
@@ -69748,6 +69780,10 @@
                     {
                         "codigo_cliente": "71298",
                         "desc_cliente": "NATHANAELLE SILVEIRA DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "71618",
+                        "desc_cliente": "NATLIA FRANCIELE SILVA DE MENEZES"
                     },
                     {
                         "codigo_cliente": "70989",
@@ -69776,6 +69812,10 @@
                     {
                         "codigo_cliente": "71034",
                         "desc_cliente": "PRISCILA HILARIO"
+                    },
+                    {
+                        "codigo_cliente": "71635",
+                        "desc_cliente": "RAFAELA PORFIRIO"
                     },
                     {
                         "codigo_cliente": "71594",
@@ -69822,6 +69862,10 @@
                         "desc_cliente": "ROSIANY MAMEDE"
                     },
                     {
+                        "codigo_cliente": "71631",
+                        "desc_cliente": "RUDINEI AUGUSTO DE SOUZA"
+                    },
+                    {
                         "codigo_cliente": "71382",
                         "desc_cliente": "SABRINA COIMBRA DA SILVA"
                     },
@@ -69856,6 +69900,10 @@
                     {
                         "codigo_cliente": "71002",
                         "desc_cliente": "TATIANE BRIGONI"
+                    },
+                    {
+                        "codigo_cliente": "71621",
+                        "desc_cliente": "THIAGO BONNESS"
                     },
                     {
                         "codigo_cliente": "71270",

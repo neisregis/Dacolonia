@@ -51216,6 +51216,10 @@
             "1017": {
                 "1323 - ALIMAX": [
                     {
+                        "codigo_cliente": "68782",
+                        "desc_cliente": "ALIMENTARE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "69117",
                         "desc_cliente": "ALIMENTARE PRODUTOS ALIMENTICIOS LTDA"
                     }

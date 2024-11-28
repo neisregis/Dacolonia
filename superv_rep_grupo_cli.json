@@ -18586,10 +18586,6 @@
                         "desc_cliente": "JULIANE D. SUOMINSKI "
                     },
                     {
-                        "codigo_cliente": "45391",
-                        "desc_cliente": "LETICIA COMERCIO DE PRODUTOS ALIMENTICIOS NATURAIS LTDA"
-                    },
-                    {
                         "codigo_cliente": "40447",
                         "desc_cliente": "LOJA DE CONVENIÊNCIA AMP LTDA."
                     },
@@ -19098,6 +19094,10 @@
                     {
                         "codigo_cliente": "48579",
                         "desc_cliente": "LEONARDO FARIA PEREIRA 05168348190"
+                    },
+                    {
+                        "codigo_cliente": "45391",
+                        "desc_cliente": "LETICIA COMERCIO DE PRODUTOS ALIMENTICIOS NATURAIS LTDA"
                     },
                     {
                         "codigo_cliente": "28218",
@@ -25024,6 +25024,10 @@
                     {
                         "codigo_cliente": "28910",
                         "desc_cliente": "BAR E ARMAZEM KUHN LTDA - ME"
+                    },
+                    {
+                        "codigo_cliente": "71037",
+                        "desc_cliente": "CASA DO DOCE LTDA"
                     },
                     {
                         "codigo_cliente": "20277",
@@ -43825,6 +43829,14 @@
                     }
                 ]
             },
+            "1181": {
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "70654",
+                        "desc_cliente": "COMERCIAL SHIVA DE ALIMENTOS LTDA"
+                    }
+                ]
+            },
             "1184": {
                 "1 - GERAL": [
                     {
@@ -52984,6 +52996,10 @@
                         "desc_cliente": "GISELLE BARBOSA MARTINS"
                     },
                     {
+                        "codigo_cliente": "41932",
+                        "desc_cliente": "IMPERIO DOS DOCES DE BERTIOGA LTDA."
+                    },
+                    {
                         "codigo_cliente": "23591",
                         "desc_cliente": "J D FERNANDES & FILHOS LTDA"
                     },
@@ -54040,10 +54056,6 @@
                     {
                         "codigo_cliente": "68801",
                         "desc_cliente": "EVOLUD DISTRIBUIDORA DE PRODUTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "41932",
-                        "desc_cliente": "IMPERIO DOS DOCES DE BERTIOGA LTDA."
                     },
                     {
                         "codigo_cliente": "47598",
@@ -69932,6 +69944,10 @@
                     {
                         "codigo_cliente": "71002",
                         "desc_cliente": "TATIANE BRIGONI"
+                    },
+                    {
+                        "codigo_cliente": "71650",
+                        "desc_cliente": "THEOMAR PEDRO DE OLIVEIRA COSTA"
                     },
                     {
                         "codigo_cliente": "71621",

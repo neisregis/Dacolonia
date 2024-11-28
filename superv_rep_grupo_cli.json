@@ -7562,6 +7562,10 @@
                         "desc_cliente": "CONSOLIN & CONSOLIN LTDA"
                     },
                     {
+                        "codigo_cliente": "71611",
+                        "desc_cliente": "CONTI COMERCIO DE PRODUTOS E CIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "45032",
                         "desc_cliente": "COSTA COMERCIO DE ALIMENTOS LTDA"
                     },
@@ -7948,12 +7952,6 @@
                     {
                         "codigo_cliente": "48489",
                         "desc_cliente": "S.R. MARTINS LIMA COM. DE ALIM. E UTILIDADES DOMESTICAS LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71611",
-                        "desc_cliente": "CONTI COMERCIO DE PRODUTOS E CIA LTDA"
                     }
                 ]
             },
@@ -23194,6 +23192,10 @@
                         "desc_cliente": "50.894.613 SANDRA HOFFMANN DA SILVA"
                     },
                     {
+                        "codigo_cliente": "71649",
+                        "desc_cliente": "58.100.317 JANIO LANES DE MEDEIROS"
+                    },
+                    {
                         "codigo_cliente": "64717",
                         "desc_cliente": "ABASTECEDORA ANA RECH LTDA"
                     },
@@ -23352,6 +23354,10 @@
                     {
                         "codigo_cliente": "59735",
                         "desc_cliente": "GRACIANI E BORGES COMERCIO DE COMBUSTIVEIS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71644",
+                        "desc_cliente": "GUS COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "64915",
@@ -23682,12 +23688,6 @@
                     {
                         "codigo_cliente": "29233",
                         "desc_cliente": "BENTOSUL DISTRIBUIDOR DE ALIMENTOS LTDA - EPP"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71644",
-                        "desc_cliente": "GUS COMERCIO DE ALIMENTOS LTDA"
                     }
                 ]
             },
@@ -24944,11 +24944,11 @@
                         "desc_cliente": "IRMAOS ANDREAZZA LTDA"
                     },
                     {
-                        "codigo_cliente": "8273",
-                        "desc_cliente": "IRMAOS ANDREAZZA LTDA"
+                        "codigo_cliente": "39744",
+                        "desc_cliente": "IRMAOS ANDREAZZA LTDA."
                     },
                     {
-                        "codigo_cliente": "39744",
+                        "codigo_cliente": "8273",
                         "desc_cliente": "IRMAOS ANDREAZZA LTDA."
                     }
                 ],
@@ -25465,6 +25465,10 @@
                     }
                 ],
                 "528 - VIEZZER": [
+                    {
+                        "codigo_cliente": "11784",
+                        "desc_cliente": "VIEZZER & CIA LTDA"
+                    },
                     {
                         "codigo_cliente": "2936",
                         "desc_cliente": "VIEZZER & CIA LTDA"
@@ -39268,9 +39272,7 @@
                     {
                         "codigo_cliente": "47636",
                         "desc_cliente": "BRANES MERCADO LTDA"
-                    }
-                ],
-                "null": [
+                    },
                     {
                         "codigo_cliente": "71614",
                         "desc_cliente": "BRANES MERCADO LTDA"
@@ -43820,14 +43822,6 @@
                     {
                         "codigo_cliente": "39741",
                         "desc_cliente": "MIXCERTO COMERCIO E DISTRIBUIDORA DE ALIMENTOS EIRELI-ME"
-                    }
-                ]
-            },
-            "1181": {
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "70654",
-                        "desc_cliente": "COMERCIAL SHIVA DE ALIMENTOS LTDA"
                     }
                 ]
             },
@@ -54037,100 +54031,6 @@
                     }
                 ]
             },
-            "1074": {
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "70170",
-                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
-                    }
-                ],
-                "422 - COMERCIAL ESPERANÇA": [
-                    {
-                        "codigo_cliente": "38270",
-                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38271",
-                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38273",
-                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38274",
-                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38275",
-                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38276",
-                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38277",
-                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38278",
-                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38279",
-                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38280",
-                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38284",
-                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "42882",
-                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA."
-                    },
-                    {
-                        "codigo_cliente": "38272",
-                        "desc_cliente": "ATACADO E AUTO SERVIÇO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38281",
-                        "desc_cliente": "ATACADO E AUTO SERVIÇO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38282",
-                        "desc_cliente": "ATACADO E AUTO SERVIÇO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38268",
-                        "desc_cliente": "ATACADO E AUTO SERVIÇO ESPERANÇA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38269",
-                        "desc_cliente": "COMERCIAL ESPERANCA ATACADISTA IMPORTACAO E EXPORTACAO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "47061",
-                        "desc_cliente": "COMERCIAL ESPERANCA ATACADISTA IMPORTACAO E EXPORTACAO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "59912",
-                        "desc_cliente": "COMERCIAL ESPERANCA ATACADISTA IMPORTACAO E EXPORTACAO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "60799",
-                        "desc_cliente": "COMERCIAL ESPERANCA ATACADISTA IMPORTACAO E EXPORTACAO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69613",
-                        "desc_cliente": "COMERCIAL ESPERANCA ATACADISTA IMPORTACAO E EXPORTACAO LTDA"
-                    }
-                ]
-            },
             "1117": {
                 "1 - GERAL": [
                     {
@@ -54236,6 +54136,98 @@
                     {
                         "codigo_cliente": "57065",
                         "desc_cliente": "SUPERMERCADO ROSSI NEW LTDA"
+                    }
+                ]
+            },
+            "1074": {
+                "422 - COMERCIAL ESPERANÇA": [
+                    {
+                        "codigo_cliente": "38270",
+                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38271",
+                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38273",
+                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38274",
+                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38275",
+                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38276",
+                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38277",
+                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38278",
+                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38279",
+                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38280",
+                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38284",
+                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70170",
+                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "42882",
+                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA."
+                    },
+                    {
+                        "codigo_cliente": "38272",
+                        "desc_cliente": "ATACADO E AUTO SERVIÇO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38281",
+                        "desc_cliente": "ATACADO E AUTO SERVIÇO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38282",
+                        "desc_cliente": "ATACADO E AUTO SERVIÇO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38268",
+                        "desc_cliente": "ATACADO E AUTO SERVIÇO ESPERANÇA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38269",
+                        "desc_cliente": "COMERCIAL ESPERANCA ATACADISTA IMPORTACAO E EXPORTACAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "47061",
+                        "desc_cliente": "COMERCIAL ESPERANCA ATACADISTA IMPORTACAO E EXPORTACAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "59912",
+                        "desc_cliente": "COMERCIAL ESPERANCA ATACADISTA IMPORTACAO E EXPORTACAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "60799",
+                        "desc_cliente": "COMERCIAL ESPERANCA ATACADISTA IMPORTACAO E EXPORTACAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69613",
+                        "desc_cliente": "COMERCIAL ESPERANCA ATACADISTA IMPORTACAO E EXPORTACAO LTDA"
                     }
                 ]
             }
@@ -65362,6 +65354,10 @@
                         "desc_cliente": "LUCIANO KUAGA"
                     },
                     {
+                        "codigo_cliente": "61495",
+                        "desc_cliente": "LUCIANO MEDEIROS"
+                    },
+                    {
                         "codigo_cliente": "68419",
                         "desc_cliente": "LUCIANO OLIVEIRA DA SILVA"
                     },
@@ -67200,6 +67196,10 @@
                     {
                         "codigo_cliente": "65290",
                         "desc_cliente": "RAMON OLVEIRA DE ASSIS"
+                    },
+                    {
+                        "codigo_cliente": "58577",
+                        "desc_cliente": "RAPHAEL TORRES NUNES"
                     },
                     {
                         "codigo_cliente": "55702",
@@ -69394,6 +69394,10 @@
                         "desc_cliente": "ANDREIA DA SILVA"
                     },
                     {
+                        "codigo_cliente": "71642",
+                        "desc_cliente": "ANDRE LUIS VOLKMANN"
+                    },
+                    {
                         "codigo_cliente": "71294",
                         "desc_cliente": "ANELISE DA SILVA OLIVEIRA"
                     },
@@ -69640,6 +69644,10 @@
                     {
                         "codigo_cliente": "71261",
                         "desc_cliente": "JAIR BORSSATO"
+                    },
+                    {
+                        "codigo_cliente": "71643",
+                        "desc_cliente": "JOAO BATISTA DE ASSIS MARQUES"
                     },
                     {
                         "codigo_cliente": "71563",

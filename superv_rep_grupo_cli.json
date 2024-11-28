@@ -25446,6 +25446,10 @@
                 ],
                 "528 - VIEZZER": [
                     {
+                        "codigo_cliente": "11784",
+                        "desc_cliente": "VIEZZER & CIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "2936",
                         "desc_cliente": "VIEZZER & CIA LTDA"
                     },

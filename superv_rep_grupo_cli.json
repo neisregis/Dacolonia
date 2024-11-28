@@ -2860,16 +2860,6 @@
                 ]
             },
             "1091": {
-                "71 - SENDAS": [
-                    {
-                        "codigo_cliente": "57514",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A"
-                    },
-                    {
-                        "codigo_cliente": "62128",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A"
-                    }
-                ],
                 "88 - ATACADAO": [
                     {
                         "codigo_cliente": "35579",
@@ -8620,6 +8610,20 @@
                     {
                         "codigo_cliente": "71405",
                         "desc_cliente": "SUPERMERCADO SANTAREM LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71653",
+                        "desc_cliente": "ROCHA-COMERCIO VAREJISTA DE GENEROS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71654",
+                        "desc_cliente": "ROCHA-COMERCIO VAREJISTA DE GENEROS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71655",
+                        "desc_cliente": "ROCHA-COMERCIO VAREJISTA DE GENEROS ALIMENTICIOS LTDA"
                     }
                 ]
             },
@@ -15082,6 +15086,12 @@
                         "desc_cliente": "UNIBOX DINARDELLI COMÉRCIO E DISTRIBUIÇÃO LTDA"
                     }
                 ],
+                "1379 - EDEMAR RUSSI - SC": [
+                    {
+                        "codigo_cliente": "37164",
+                        "desc_cliente": "EDEMAR RUSSI & CIA LTDA"
+                    }
+                ],
                 "163 - NARDELLI": [
                     {
                         "codigo_cliente": "26367",
@@ -15140,10 +15150,6 @@
                     {
                         "codigo_cliente": "11397",
                         "desc_cliente": "COMERCIAL VOLTOLINI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "37164",
-                        "desc_cliente": "EDEMAR RUSSI & CIA LTDA"
                     },
                     {
                         "codigo_cliente": "12320",
@@ -17832,6 +17838,10 @@
                     {
                         "codigo_cliente": "55532",
                         "desc_cliente": "JOSIANE PATRICIA DAROSCI"
+                    },
+                    {
+                        "codigo_cliente": "71479",
+                        "desc_cliente": "JP & L CONSTRUTORA EIRELI"
                     },
                     {
                         "codigo_cliente": "35863",
@@ -29044,6 +29054,10 @@
                         "desc_cliente": "JUDA PRODUTOS PARA FESTAS LTDA"
                     },
                     {
+                        "codigo_cliente": "71560",
+                        "desc_cliente": "MELO PRODUTOS PARA FESTAS LTDA"
+                    },
+                    {
                         "codigo_cliente": "70223",
                         "desc_cliente": "SO FESTA LTDA"
                     },
@@ -29145,6 +29159,10 @@
                     }
                 ],
                 "1 - GERAL": [
+                    {
+                        "codigo_cliente": "71400",
+                        "desc_cliente": "53.900.838 RENATA CRISTINA COELHO"
+                    },
                     {
                         "codigo_cliente": "18993",
                         "desc_cliente": "AAP PESCADOR PRODUTOS ALIMENTICIOS LTDA"
@@ -40118,10 +40136,6 @@
                         "desc_cliente": "CRIS MAR MERCADO LTDA"
                     },
                     {
-                        "codigo_cliente": "36852",
-                        "desc_cliente": "CRL DISTRIBUIDORA LTDA"
-                    },
-                    {
                         "codigo_cliente": "53973",
                         "desc_cliente": "C & R SUPERMERCADO GOMES DE MADRESSILVA LTDA"
                     },
@@ -40498,6 +40512,12 @@
                     {
                         "codigo_cliente": "26436",
                         "desc_cliente": "CLASSICOS COMERCIO DE ALIMENTOS LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71664",
+                        "desc_cliente": "PHE Comercial Alimentos Ltda"
                     }
                 ]
             },
@@ -43913,6 +43933,14 @@
                 "71 - SENDAS": [
                     {
                         "codigo_cliente": "48633",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A"
+                    },
+                    {
+                        "codigo_cliente": "57514",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A"
+                    },
+                    {
+                        "codigo_cliente": "62128",
                         "desc_cliente": "SENDAS DISTRIBUIDORA S/A"
                     }
                 ],
@@ -49814,10 +49842,6 @@
                         "desc_cliente": "MB COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
                     },
                     {
-                        "codigo_cliente": "7448",
-                        "desc_cliente": "MELHOR COMERCIO VAREJISTA E ATACADISTA DE PROD ALIMENT LTDA"
-                    },
-                    {
                         "codigo_cliente": "66248",
                         "desc_cliente": "PRECITO ATACADO IMPORTACAO E EXPORTACAO LTDA"
                     },
@@ -49955,6 +49979,10 @@
                     }
                 ],
                 "557 - MELHOR ATACADO": [
+                    {
+                        "codigo_cliente": "7448",
+                        "desc_cliente": "MELHOR COMERCIO VAREJISTA E ATACADISTA DE PROD ALIMENT LTDA"
+                    },
                     {
                         "codigo_cliente": "33509",
                         "desc_cliente": "MELHOR COMERCIO VAREJISTA E ATACADISTA DE PRODUTOS ALIMENTIC"
@@ -69568,6 +69596,10 @@
                         "desc_cliente": "EDIR FRANCISCO"
                     },
                     {
+                        "codigo_cliente": "71665",
+                        "desc_cliente": "EDNALDO DOS SANTOS AZEVEDO"
+                    },
+                    {
                         "codigo_cliente": "71336",
                         "desc_cliente": "EDSON RAFAEL BITTENCOURT"
                     },
@@ -71368,6 +71400,10 @@
                         "desc_cliente": "BRUNA ZORZANELLO"
                     },
                     {
+                        "codigo_cliente": "71629",
+                        "desc_cliente": "BRUNO BOLZON LAUDA"
+                    },
+                    {
                         "codigo_cliente": "68779",
                         "desc_cliente": "BRUNO BRUCKHEIMER"
                     },
@@ -72352,6 +72388,10 @@
                         "desc_cliente": "DAIANE PINHEIRO JANNER"
                     },
                     {
+                        "codigo_cliente": "71615",
+                        "desc_cliente": "DAIANE PINTO FAGUNDES"
+                    },
+                    {
                         "codigo_cliente": "70688",
                         "desc_cliente": "DAIANE RODRIGUES"
                     },
@@ -73178,6 +73218,10 @@
                     {
                         "codigo_cliente": "70681",
                         "desc_cliente": "EMILLY CASSOL BOLACEL"
+                    },
+                    {
+                        "codigo_cliente": "71613",
+                        "desc_cliente": "EMILLY SCHOENBERGER"
                     },
                     {
                         "codigo_cliente": "68869",
@@ -76784,6 +76828,10 @@
                         "desc_cliente": "MARCO ANTONIO DA LUZ"
                     },
                     {
+                        "codigo_cliente": "71616",
+                        "desc_cliente": "MARCO ANTONIO FEDRIZZI"
+                    },
+                    {
                         "codigo_cliente": "65192",
                         "desc_cliente": "MARCO ANTONIO FERRACINI"
                     },
@@ -77592,6 +77640,10 @@
                         "desc_cliente": "MILENA TAKAHASHI"
                     },
                     {
+                        "codigo_cliente": "71612",
+                        "desc_cliente": "MILENA WEIMER"
+                    },
+                    {
                         "codigo_cliente": "68931",
                         "desc_cliente": "MINASSES CARLOTO DA SILVA"
                     },
@@ -78112,6 +78164,10 @@
                         "desc_cliente": "PATRICIA TERRIGNO"
                     },
                     {
+                        "codigo_cliente": "71632",
+                        "desc_cliente": "PATRICIA ZAMPRONIO"
+                    },
+                    {
                         "codigo_cliente": "71007",
                         "desc_cliente": "PAULA ANDREATA BARROS DA SILVA"
                     },
@@ -78420,6 +78476,10 @@
                         "desc_cliente": "RAFAELA RETTORE"
                     },
                     {
+                        "codigo_cliente": "71619",
+                        "desc_cliente": "RAFAELA ROCHA"
+                    },
+                    {
                         "codigo_cliente": "55760",
                         "desc_cliente": "RAFAELA SARTOR"
                     },
@@ -78522,6 +78582,10 @@
                     {
                         "codigo_cliente": "62652",
                         "desc_cliente": "RAIZA ROCHA TEIXEIRA"
+                    },
+                    {
+                        "codigo_cliente": "71660",
+                        "desc_cliente": "RALPH MEDEIROS DOS SANTOS"
                     },
                     {
                         "codigo_cliente": "63934",
@@ -80136,6 +80200,10 @@
                         "desc_cliente": "TOSHIKASU FUKUMASU"
                     },
                     {
+                        "codigo_cliente": "71661",
+                        "desc_cliente": "TULIANA SOUZA"
+                    },
+                    {
                         "codigo_cliente": "70011",
                         "desc_cliente": "TULIO DE OLIVEIRA PEREIRA"
                     },
@@ -80308,6 +80376,10 @@
                         "desc_cliente": "VANISSE RIBEIRO"
                     },
                     {
+                        "codigo_cliente": "71624",
+                        "desc_cliente": "VANTUIR PEREIRA TEIXEIRA"
+                    },
+                    {
                         "codigo_cliente": "54101",
                         "desc_cliente": "VELAMIR JOSE BRESSAN"
                     },
@@ -80386,6 +80458,10 @@
                     {
                         "codigo_cliente": "67028",
                         "desc_cliente": "VICTORIA BASTOS"
+                    },
+                    {
+                        "codigo_cliente": "71656",
+                        "desc_cliente": "VICTORIA SILVA CHITES"
                     },
                     {
                         "codigo_cliente": "71159",
@@ -80536,6 +80612,10 @@
                         "desc_cliente": "WAGNER MACHADO"
                     },
                     {
+                        "codigo_cliente": "71627",
+                        "desc_cliente": "WAGNER PEIXOTO"
+                    },
+                    {
                         "codigo_cliente": "67427",
                         "desc_cliente": "WAGNER RODRIGUES"
                     },
@@ -80562,6 +80642,10 @@
                     {
                         "codigo_cliente": "70748",
                         "desc_cliente": "WESLEN MINARDI"
+                    },
+                    {
+                        "codigo_cliente": "71659",
+                        "desc_cliente": "WILIAN DE AZEVEDO FAZENDA"
                     },
                     {
                         "codigo_cliente": "65267",
@@ -81610,6 +81694,10 @@
                     {
                         "codigo_cliente": "43224",
                         "desc_cliente": "FRANCESCATTO COM DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70247",
+                        "desc_cliente": "FRUTEIRA CAMPESTRE ERVES LTDA"
                     },
                     {
                         "codigo_cliente": "70246",
@@ -87486,6 +87574,10 @@
                     {
                         "codigo_cliente": "71112",
                         "desc_cliente": "DIVINA TERRA MERCADO SAUDAVEL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71232",
+                        "desc_cliente": "GMJ SC SAUDAVEL LTDA"
                     },
                     {
                         "codigo_cliente": "69882",

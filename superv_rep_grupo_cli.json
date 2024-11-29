@@ -8284,6 +8284,20 @@
                         "desc_cliente": "BAEZA E CRUZ LTDA"
                     }
                 ],
+                "1380 - ROCHA SUPERMERCADOS - PR": [
+                    {
+                        "codigo_cliente": "71653",
+                        "desc_cliente": "ROCHA-COMERCIO VAREJISTA DE GENEROS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71654",
+                        "desc_cliente": "ROCHA-COMERCIO VAREJISTA DE GENEROS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71655",
+                        "desc_cliente": "ROCHA-COMERCIO VAREJISTA DE GENEROS ALIMENTICIOS LTDA"
+                    }
+                ],
                 "17 - CONDOR": [
                     {
                         "codigo_cliente": "6187",
@@ -8610,20 +8624,6 @@
                     {
                         "codigo_cliente": "71405",
                         "desc_cliente": "SUPERMERCADO SANTAREM LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71653",
-                        "desc_cliente": "ROCHA-COMERCIO VAREJISTA DE GENEROS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71654",
-                        "desc_cliente": "ROCHA-COMERCIO VAREJISTA DE GENEROS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71655",
-                        "desc_cliente": "ROCHA-COMERCIO VAREJISTA DE GENEROS ALIMENTICIOS LTDA"
                     }
                 ]
             },
@@ -24532,6 +24532,10 @@
                         "desc_cliente": "J VILMAR DA SILVA & FILHO LTDA"
                     },
                     {
+                        "codigo_cliente": "71657",
+                        "desc_cliente": "LANCHERIA E PADARIA GERACOES LTDA"
+                    },
+                    {
                         "codigo_cliente": "65239",
                         "desc_cliente": "LB BAZAR DIFERENTE LTDA"
                     },
@@ -24770,12 +24774,6 @@
                     {
                         "codigo_cliente": "5359",
                         "desc_cliente": "MERCADO REICHERT LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71657",
-                        "desc_cliente": "LANCHERIA E PADARIA GERACOES"
                     }
                 ]
             },
@@ -31240,6 +31238,10 @@
                         "desc_cliente": "FB COMÉRCIO LTDA"
                     },
                     {
+                        "codigo_cliente": "71640",
+                        "desc_cliente": "FB. LIMA COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "18284",
                         "desc_cliente": "FHA FIFO COMERCIO DE ALIMENTOS EIRELI"
                     },
@@ -33542,6 +33544,10 @@
                     {
                         "codigo_cliente": "27925",
                         "desc_cliente": "ENXUTO SUPERMERCADOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71652",
+                        "desc_cliente": "ENXUTO SUPERMERCADOS LTDA"
                     }
                 ],
                 "14 - REDE FORT": [
@@ -33654,12 +33660,6 @@
                     {
                         "codigo_cliente": "19824",
                         "desc_cliente": "PH NATURAL REPRESENTACAO COMERCIAL LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71652",
-                        "desc_cliente": "ENXUTO SUPERMERCADOS LTDA"
                     }
                 ]
             },
@@ -40288,6 +40288,10 @@
                         "desc_cliente": "PEROLA DOS LAGOS LTDA"
                     },
                     {
+                        "codigo_cliente": "71664",
+                        "desc_cliente": "PHE COMERCIAL ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "38475",
                         "desc_cliente": "P.J.V.A.PASTEIS E CONVENIENCIA LTDA"
                     },
@@ -40516,12 +40520,6 @@
                     {
                         "codigo_cliente": "26436",
                         "desc_cliente": "CLASSICOS COMERCIO DE ALIMENTOS LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71664",
-                        "desc_cliente": "PHE Comercial Alimentos Ltda"
                     }
                 ]
             },
@@ -49983,10 +49981,6 @@
                     }
                 ],
                 "557 - MELHOR ATACADO": [
-                    {
-                        "codigo_cliente": "7448",
-                        "desc_cliente": "MELHOR COMERCIO VAREJISTA E ATACADISTA DE PROD ALIMENT LTDA"
-                    },
                     {
                         "codigo_cliente": "33509",
                         "desc_cliente": "MELHOR COMERCIO VAREJISTA E ATACADISTA DE PRODUTOS ALIMENTIC"
@@ -87659,6 +87653,24 @@
                     }
                 ]
             },
+            "1141": {
+                "1381 - MEDCHAP": [
+                    {
+                        "codigo_cliente": "69987",
+                        "desc_cliente": "MEDCHAP DISTRIBUIDORA DE MEDICAMENTOS CHAPECO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70021",
+                        "desc_cliente": "MEDCHAP DISTRIBUIDORA DE MEDICAMENTOS CHAPECO LTDA"
+                    }
+                ],
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "68915",
+                        "desc_cliente": "DELACQUA DISTRIBUIDORA LTDA"
+                    }
+                ]
+            },
             "1160": {
                 "1 - GERAL": [
                     {
@@ -87676,14 +87688,6 @@
                     {
                         "codigo_cliente": "70789",
                         "desc_cliente": "R. DA S. FERREIRA - DROGARIA"
-                    }
-                ]
-            },
-            "1141": {
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "68915",
-                        "desc_cliente": "DELACQUA DISTRIBUIDORA LTDA"
                     }
                 ]
             },

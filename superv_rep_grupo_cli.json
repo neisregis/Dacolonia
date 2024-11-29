@@ -1722,6 +1722,10 @@
                         "desc_cliente": "PARAISO DO GRANEL 3 LTDA"
                     },
                     {
+                        "codigo_cliente": "70467",
+                        "desc_cliente": "PDR COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "66842",
                         "desc_cliente": "PIMPOLHO FESTAS LTDA"
                     },
@@ -3332,10 +3336,6 @@
                         "desc_cliente": "PADARIA MENDES CAVALCANTE LTDA"
                     },
                     {
-                        "codigo_cliente": "70467",
-                        "desc_cliente": "PDR COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "22314",
                         "desc_cliente": "PEROLA DO MUCURI SUPERMERCADO E DISTRIBUICAO  LTDA"
                     },
@@ -3815,6 +3815,10 @@
                 "1 - GERAL": [
                     {
                         "codigo_cliente": "44352",
+                        "desc_cliente": "BEM QUE TEM HORTIFRUTI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71701",
                         "desc_cliente": "BEM QUE TEM HORTIFRUTI LTDA"
                     },
                     {
@@ -29088,6 +29092,16 @@
                     {
                         "codigo_cliente": "53700",
                         "desc_cliente": "B J V ATACADO E VAREJO DE ALIMENTOS E EMBALAGENS LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71707",
+                        "desc_cliente": "JUPITER PRODUTOS PARA FESTAS LTA MATRIZ"
+                    },
+                    {
+                        "codigo_cliente": "71708",
+                        "desc_cliente": "JUPITER PRODUTOS PARA FESTAS LTDA"
                     }
                 ]
             },
@@ -69488,6 +69502,10 @@
                     {
                         "codigo_cliente": "71378",
                         "desc_cliente": "ANA LUISA MARTINELLI"
+                    },
+                    {
+                        "codigo_cliente": "71706",
+                        "desc_cliente": "ANDERSON DESSORDE"
                     },
                     {
                         "codigo_cliente": "71033",

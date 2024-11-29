@@ -4061,6 +4061,12 @@
                         "codigo_cliente": "47109",
                         "desc_cliente": "ROMA PLUS LTDA / SANTA INÊS / LOJA 6"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71679",
+                        "desc_cliente": "VAREJAO PLANALTO LTDA"
+                    }
                 ]
             },
             "687": {
@@ -8287,15 +8293,15 @@
                 "1380 - ROCHA SUPERMERCADOS - PR": [
                     {
                         "codigo_cliente": "71653",
-                        "desc_cliente": "ROCHA-COMERCIO VAREJISTA DE GENEROS ALIMENTICIOS LTDA"
+                        "desc_cliente": "ROCHA - COMERCIO VAREJISTA DE GENEROS ALIMENTICIOS LTDA"
                     },
                     {
                         "codigo_cliente": "71654",
-                        "desc_cliente": "ROCHA-COMERCIO VAREJISTA DE GENEROS ALIMENTICIOS LTDA"
+                        "desc_cliente": "ROCHA - COMERCIO VAREJISTA DE GENEROS ALIMENTICIOS LTDA"
                     },
                     {
                         "codigo_cliente": "71655",
-                        "desc_cliente": "ROCHA-COMERCIO VAREJISTA DE GENEROS ALIMENTICIOS LTDA"
+                        "desc_cliente": "ROCHA - COMERCIO VAREJISTA DE GENEROS ALIMENTICIOS LTDA"
                     }
                 ],
                 "17 - CONDOR": [
@@ -33542,6 +33548,10 @@
                         "desc_cliente": "ENXUTO SUPERMERCADOS LTDA"
                     },
                     {
+                        "codigo_cliente": "26455",
+                        "desc_cliente": "ENXUTO SUPERMERCADOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "27925",
                         "desc_cliente": "ENXUTO SUPERMERCADOS LTDA"
                     },
@@ -35974,6 +35984,12 @@
                     {
                         "codigo_cliente": "45596",
                         "desc_cliente": "MJ COM DE EMBALAGENS E PROD ALIMENT LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71673",
+                        "desc_cliente": "MANDABRASA RESTAURANTE LTDA"
                     }
                 ]
             },
@@ -69944,6 +69960,10 @@
                     {
                         "codigo_cliente": "71296",
                         "desc_cliente": "RENATA DOS SANTOS"
+                    },
+                    {
+                        "codigo_cliente": "71693",
+                        "desc_cliente": "RICARDO TOMAZI"
                     },
                     {
                         "codigo_cliente": "71201",

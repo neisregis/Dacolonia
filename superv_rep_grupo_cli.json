@@ -4194,10 +4194,6 @@
                     {
                         "codigo_cliente": "56205",
                         "desc_cliente": "COOPERATIVA DE CONSUMO DOS EMPREGADOS DA USIMINAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71596",
-                        "desc_cliente": "COOPERATIVA DE CONSUMO DOS EMPREGADOS DA USIMINAS LTDA"
                     }
                 ],
                 "380 - ORGANIZACAO DE CEREA": [
@@ -6796,6 +6792,12 @@
                     {
                         "codigo_cliente": "70649",
                         "desc_cliente": "UNIFORCA DIST IMP E EXP DE MERCADO"
+                    }
+                ],
+                "221 - ARMAZEM MATEUS": [
+                    {
+                        "codigo_cliente": "55116",
+                        "desc_cliente": "ARMAZEM MATEUS S.A."
                     }
                 ]
             },
@@ -24787,6 +24789,12 @@
                         "codigo_cliente": "5359",
                         "desc_cliente": "MERCADO REICHERT LTDA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "71711",
+                        "desc_cliente": "NORTESUL COM DOCES LTDA"
+                    }
                 ]
             },
             "717": {
@@ -26917,10 +26925,6 @@
                     }
                 ],
                 "1365 - SUPER MS ATACADO E VAREJO ": [
-                    {
-                        "codigo_cliente": "69364",
-                        "desc_cliente": "DISTRIBUIDORA DE ALIMENTOS MS LTDA"
-                    },
                     {
                         "codigo_cliente": "70940",
                         "desc_cliente": "DISTRIBUIDORA DE ALIMENTOS MS LTDA"
@@ -29074,10 +29078,6 @@
                     {
                         "codigo_cliente": "70292",
                         "desc_cliente": "JUDA PRODUTOS PARA FESTAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71560",
-                        "desc_cliente": "MELO PRODUTOS PARA FESTAS LTDA"
                     },
                     {
                         "codigo_cliente": "70223",
@@ -56485,10 +56485,6 @@
                     }
                 ],
                 "50 - SUPER UTIL": [
-                    {
-                        "codigo_cliente": "40239",
-                        "desc_cliente": "ANTUNES & ANTUNES CIA LTDA"
-                    },
                     {
                         "codigo_cliente": "34650",
                         "desc_cliente": "MARINO RODRIGUES DA SILVA & CIA LTDA"

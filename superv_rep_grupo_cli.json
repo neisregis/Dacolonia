@@ -33290,10 +33290,6 @@
                         "desc_cliente": "BOUTIQUE DOS TEMPEROS LTDA."
                     },
                     {
-                        "codigo_cliente": "71036",
-                        "desc_cliente": "BRAVO & BIAGIOTTI COMERCIO E SERVICOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "66770",
                         "desc_cliente": "CAMARGO & MENDES CAFETERIA LTDA"
                     },
@@ -33574,10 +33570,6 @@
                         "desc_cliente": "MIX VALI COMERCIO DE PRODUTOS ALIMENTICIOS LTDA."
                     },
                     {
-                        "codigo_cliente": "69780",
-                        "desc_cliente": "MIX VALI COMERCIO DE PRODUTOS ALIMENTICIOS LTDA."
-                    },
-                    {
                         "codigo_cliente": "26707",
                         "desc_cliente": "SUPERMERCADO ASP LTDA"
                     },
@@ -33597,10 +33589,6 @@
                     }
                 ],
                 "132 - ENXUTO SUPERMERCADOS": [
-                    {
-                        "codigo_cliente": "26454",
-                        "desc_cliente": "ENXUTO SUPERMERCADOS LTDA"
-                    },
                     {
                         "codigo_cliente": "26455",
                         "desc_cliente": "ENXUTO SUPERMERCADOS LTDA"
@@ -33685,10 +33673,6 @@
                 "392 - CREMA": [
                     {
                         "codigo_cliente": "35828",
-                        "desc_cliente": "A.A.DE MELO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "35829",
                         "desc_cliente": "A.A.DE MELO & CIA LTDA"
                     },
                     {
@@ -33888,15 +33872,7 @@
                         "desc_cliente": "LOJAO ORRU LTDA"
                     },
                     {
-                        "codigo_cliente": "69044",
-                        "desc_cliente": "LOJAO ORRU LTDA"
-                    },
-                    {
                         "codigo_cliente": "69046",
-                        "desc_cliente": "LOJAO ORRU LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69051",
                         "desc_cliente": "LOJAO ORRU LTDA"
                     },
                     {
@@ -51292,10 +51268,6 @@
                     {
                         "codigo_cliente": "68782",
                         "desc_cliente": "ALIMENTARE PRODUTOS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69117",
-                        "desc_cliente": "ALIMENTARE PRODUTOS ALIMENTICIOS LTDA"
                     }
                 ],
                 "1 - GERAL": [
@@ -52940,6 +52912,12 @@
                         "desc_cliente": "XARA COMERCIO DE DOCES LTDA"
                     }
                 ],
+                "337 - VENDA BALCÃO": [
+                    {
+                        "codigo_cliente": "60406",
+                        "desc_cliente": "52.647.861 LILIAN CINTRA"
+                    }
+                ],
                 "565 - PURPLE BERRY BRASIL": [
                     {
                         "codigo_cliente": "36686",
@@ -53886,14 +53864,6 @@
                     {
                         "codigo_cliente": "38071",
                         "desc_cliente": "MEGA-DOCES DISTRIBUIDORA DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71492",
-                        "desc_cliente": "MERCADO MIX AZUL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "49197",
-                        "desc_cliente": "MERCADO OLIVEIRA VII LTDA"
                     },
                     {
                         "codigo_cliente": "55493",
@@ -55266,6 +55236,10 @@
                     {
                         "codigo_cliente": "66793",
                         "desc_cliente": "JOAO CARLOS FERRAZZA"
+                    },
+                    {
+                        "codigo_cliente": "71497",
+                        "desc_cliente": "JOLO LANCHERIA E CAFETERIA LTDA"
                     },
                     {
                         "codigo_cliente": "64726",

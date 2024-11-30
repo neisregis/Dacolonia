@@ -18144,10 +18144,6 @@
                         "desc_cliente": "POSTO Z20 LTDA"
                     },
                     {
-                        "codigo_cliente": "70907",
-                        "desc_cliente": "POSTO Z23 LTDA"
-                    },
-                    {
                         "codigo_cliente": "34961",
                         "desc_cliente": "POSTO Z4 LTDA"
                     }
@@ -61108,6 +61104,10 @@
                     {
                         "codigo_cliente": "50372",
                         "desc_cliente": "CARLA CONCEIÇAO OLIVEIRA ROSA DOS SANTOS"
+                    },
+                    {
+                        "codigo_cliente": "71715",
+                        "desc_cliente": "CARLA DAIANA LIMA TORRES"
                     },
                     {
                         "codigo_cliente": "66618",

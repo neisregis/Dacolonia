@@ -18144,6 +18144,10 @@
                         "desc_cliente": "POSTO Z20 LTDA"
                     },
                     {
+                        "codigo_cliente": "70907",
+                        "desc_cliente": "POSTO Z23 LTDA"
+                    },
+                    {
                         "codigo_cliente": "34961",
                         "desc_cliente": "POSTO Z4 LTDA"
                     }
@@ -18546,10 +18550,6 @@
                         "desc_cliente": "BAR E MERCEARIA T II LTDA"
                     },
                     {
-                        "codigo_cliente": "70157",
-                        "desc_cliente": "BELO BAR E MERCEARIA LTDA"
-                    },
-                    {
                         "codigo_cliente": "52569",
                         "desc_cliente": "CARLA QUINTINO SERAFIM 97069272987"
                     },
@@ -18600,10 +18600,6 @@
                     {
                         "codigo_cliente": "33305",
                         "desc_cliente": "FJ COMERCIO DE UTENSILIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "37828",
-                        "desc_cliente": "GI COMÉRCIO DE VERDURAS LTDA ME"
                     },
                     {
                         "codigo_cliente": "31585",
@@ -19552,10 +19548,6 @@
                     {
                         "codigo_cliente": "40324",
                         "desc_cliente": "KARINE DE SOUZA ALMEIDA 10839529945"
-                    },
-                    {
-                        "codigo_cliente": "71605",
-                        "desc_cliente": "KUMEROW E ANDREAZZA LTDA"
                     },
                     {
                         "codigo_cliente": "69562",
@@ -39379,10 +39371,6 @@
                     },
                     {
                         "codigo_cliente": "47636",
-                        "desc_cliente": "BRANES MERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71614",
                         "desc_cliente": "BRANES MERCADO LTDA"
                     }
                 ]
@@ -65892,6 +65880,10 @@
                     {
                         "codigo_cliente": "56419",
                         "desc_cliente": "MARCELO VIEIRA"
+                    },
+                    {
+                        "codigo_cliente": "71716",
+                        "desc_cliente": "MARCIA CARDOSO"
                     },
                     {
                         "codigo_cliente": "61692",

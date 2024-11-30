@@ -18550,6 +18550,10 @@
                         "desc_cliente": "BAR E MERCEARIA T II LTDA"
                     },
                     {
+                        "codigo_cliente": "70157",
+                        "desc_cliente": "BELO BAR E MERCEARIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "52569",
                         "desc_cliente": "CARLA QUINTINO SERAFIM 97069272987"
                     },
@@ -18600,6 +18604,10 @@
                     {
                         "codigo_cliente": "33305",
                         "desc_cliente": "FJ COMERCIO DE UTENSILIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "37828",
+                        "desc_cliente": "GI COMÉRCIO DE VERDURAS LTDA ME"
                     },
                     {
                         "codigo_cliente": "31585",
@@ -19548,6 +19556,10 @@
                     {
                         "codigo_cliente": "40324",
                         "desc_cliente": "KARINE DE SOUZA ALMEIDA 10839529945"
+                    },
+                    {
+                        "codigo_cliente": "71605",
+                        "desc_cliente": "KUMEROW E ANDREAZZA LTDA"
                     },
                     {
                         "codigo_cliente": "69562",
@@ -22950,10 +22962,6 @@
                     {
                         "codigo_cliente": "33616",
                         "desc_cliente": "SUPERMERCADO S&E LTDA"
-                    },
-                    {
-                        "codigo_cliente": "35387",
-                        "desc_cliente": "VIEIRA E HARTMANN COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "69318",
@@ -39371,6 +39379,10 @@
                     },
                     {
                         "codigo_cliente": "47636",
+                        "desc_cliente": "BRANES MERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71614",
                         "desc_cliente": "BRANES MERCADO LTDA"
                     }
                 ]

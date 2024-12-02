@@ -9758,6 +9758,10 @@
                         "desc_cliente": "JUSITA LANCHES LTDA"
                     },
                     {
+                        "codigo_cliente": "71761",
+                        "desc_cliente": "KOLTUN & COLATUSSO LTDA"
+                    },
+                    {
                         "codigo_cliente": "13170",
                         "desc_cliente": "LAURICENTER CANOAS COMERCIO VAREJISTA DE UTILIDADES DOMESTIC"
                     },
@@ -10584,6 +10588,10 @@
                     {
                         "codigo_cliente": "60785",
                         "desc_cliente": "AUTO POSTO TS LIMITADA"
+                    },
+                    {
+                        "codigo_cliente": "41560",
+                        "desc_cliente": "BEBIFRIOS COMERCIAL EIRELI"
                     },
                     {
                         "codigo_cliente": "60002",

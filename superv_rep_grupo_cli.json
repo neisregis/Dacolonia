@@ -3396,6 +3396,10 @@
                     {
                         "codigo_cliente": "65317",
                         "desc_cliente": "CIRO VERNER DE P.NUNES LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71713",
+                        "desc_cliente": "SUPERMERCADOS BOA COMPRA LTDA"
                     }
                 ],
                 "723 - SÓ FESTA": [
@@ -3438,12 +3442,6 @@
                     {
                         "codigo_cliente": "54474",
                         "desc_cliente": "SUPERMERCADO ASA BRANCA LIMITADA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71713",
-                        "desc_cliente": "SUPERMERCADOS BOA COMPRA  LTDA  CD"
                     }
                 ]
             },
@@ -8228,6 +8226,10 @@
                         "desc_cliente": "MERCADO MILIOZZI EIRELI"
                     },
                     {
+                        "codigo_cliente": "71710",
+                        "desc_cliente": "MERCADO MR. DESCONTO LTDA"
+                    },
+                    {
                         "codigo_cliente": "45844",
                         "desc_cliente": "MERCEARIA PROMISSAO LTDA"
                     },
@@ -8378,12 +8380,6 @@
                     {
                         "codigo_cliente": "71405",
                         "desc_cliente": "SUPERMERCADO SANTAREM LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71710",
-                        "desc_cliente": "MERCADO MR.DESCONTO LTDA"
                     }
                 ]
             },
@@ -21050,6 +21046,10 @@
                         "desc_cliente": "LEO COM DE SUPRIMENTOS E EMBALAGENS LTDA"
                     },
                     {
+                        "codigo_cliente": "71714",
+                        "desc_cliente": "L&L COMERCIO DE ALIMENTOS E BEBIDAS LTDA"
+                    },
+                    {
                         "codigo_cliente": "43532",
                         "desc_cliente": "LMM COM DE ALIMENTOS LTDA"
                     },
@@ -21642,12 +21642,6 @@
                     {
                         "codigo_cliente": "8632",
                         "desc_cliente": "DORNELLES E CIA LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71714",
-                        "desc_cliente": "L&L COMERCIO DE ALIMENTOS E BEBIDAS LTDA"
                     }
                 ]
             },
@@ -23786,6 +23780,10 @@
                         "desc_cliente": "M&M ALIMENTOS SAUDÁVEIS  LTDA"
                     },
                     {
+                        "codigo_cliente": "71711",
+                        "desc_cliente": "NORTESUL COMERCIO DE DOCES LTDA"
+                    },
+                    {
                         "codigo_cliente": "69725",
                         "desc_cliente": "PADARIA CONFEITARIA JAILIKE LTDA"
                     },
@@ -23928,12 +23926,6 @@
                     {
                         "codigo_cliente": "5359",
                         "desc_cliente": "MERCADO REICHERT LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71711",
-                        "desc_cliente": "NORTESUL COM DOCES LTDA"
                     }
                 ]
             },
@@ -24592,10 +24584,6 @@
                         "desc_cliente": "SUPERMERCADO CONCORDIA - NANCI PANSERA LTDA"
                     },
                     {
-                        "codigo_cliente": "71718",
-                        "desc_cliente": "SUPERMERCADO DIEHL LTDA"
-                    },
-                    {
                         "codigo_cliente": "58997",
                         "desc_cliente": "SUPERMERCADO FLORIPA LTDA"
                     },
@@ -24666,6 +24654,12 @@
                     {
                         "codigo_cliente": "27861",
                         "desc_cliente": "VIEZZER E CIA LTDA"
+                    }
+                ],
+                "535 - SUPER DIEHL": [
+                    {
+                        "codigo_cliente": "71718",
+                        "desc_cliente": "SUPERMERCADO DIEHL LTDA"
                     }
                 ],
                 "56 - REDEFORT": [
@@ -27966,6 +27960,14 @@
                         "desc_cliente": "JUDA PRODUTOS PARA FESTAS LTDA"
                     },
                     {
+                        "codigo_cliente": "71707",
+                        "desc_cliente": "JUPITER PRODUTOS PARA FESTAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71708",
+                        "desc_cliente": "JUPITER PRODUTOS PARA FESTAS LTDA"
+                    },
+                    {
                         "codigo_cliente": "71560",
                         "desc_cliente": "MELO PRODUTOS PARA FESTAS LTDA"
                     },
@@ -27982,16 +27984,6 @@
                     {
                         "codigo_cliente": "53700",
                         "desc_cliente": "B J V ATACADO E VAREJO DE ALIMENTOS E EMBALAGENS LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "71707",
-                        "desc_cliente": "JUPITER PRODUTOS PARA FESTAS LTA MATRIZ"
-                    },
-                    {
-                        "codigo_cliente": "71708",
-                        "desc_cliente": "JUPITER PRODUTOS PARA FESTAS LTDA"
                     }
                 ]
             },
@@ -35544,6 +35536,10 @@
                         "desc_cliente": "JULIA PUCHALSKI MARKOWSKI HUFF"
                     },
                     {
+                        "codigo_cliente": "317",
+                        "desc_cliente": "LANCHERIA QUERO MAIS LTDA"
+                    },
+                    {
                         "codigo_cliente": "45751",
                         "desc_cliente": "LETICIA AZAMBUJA & CIA LTDA"
                     },
@@ -41782,10 +41778,6 @@
                     {
                         "codigo_cliente": "61912",
                         "desc_cliente": "MERCADO RIO SUL DA VILA OPERÁRIA LTDA."
-                    },
-                    {
-                        "codigo_cliente": "35060",
-                        "desc_cliente": "MERCADO RIO SUL DE CAMPOS ELISEOS EIRELI"
                     },
                     {
                         "codigo_cliente": "63269",

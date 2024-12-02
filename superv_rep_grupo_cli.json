@@ -7274,6 +7274,10 @@
                         "desc_cliente": "ANGELO DAMIANI NETO EIRELI"
                     },
                     {
+                        "codigo_cliente": "44145",
+                        "desc_cliente": "ANTONIO CARLOS DOS SANTOS TEIXEIRA"
+                    },
+                    {
                         "codigo_cliente": "70672",
                         "desc_cliente": "A P BENTO - ARTIGOS DE FESTAS E EMBALAGENS"
                     },
@@ -7560,6 +7564,10 @@
                     {
                         "codigo_cliente": "40422",
                         "desc_cliente": "ONOFRE PIZZANI & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44140",
+                        "desc_cliente": "PAULO MENDES MARTELI"
                     },
                     {
                         "codigo_cliente": "27624",
@@ -8392,10 +8400,6 @@
                         "desc_cliente": "ALTO PARANA SUPERMERCADO LTDA"
                     },
                     {
-                        "codigo_cliente": "44145",
-                        "desc_cliente": "ANTONIO CARLOS DOS SANTOS TEIXEIRA"
-                    },
-                    {
                         "codigo_cliente": "9287",
                         "desc_cliente": "ARAUJO & CARDOSO LTDA"
                     },
@@ -8558,10 +8562,6 @@
                     {
                         "codigo_cliente": "48726",
                         "desc_cliente": "PATROCINIO CORREA LEME 48450936934"
-                    },
-                    {
-                        "codigo_cliente": "44140",
-                        "desc_cliente": "PAULO MENDES MARTELI"
                     },
                     {
                         "codigo_cliente": "61441",
@@ -24658,12 +24658,6 @@
                         "desc_cliente": "VIEZZER E CIA LTDA"
                     }
                 ],
-                "535 - SUPER DIEHL": [
-                    {
-                        "codigo_cliente": "71718",
-                        "desc_cliente": "SUPERMERCADO DIEHL LTDA"
-                    }
-                ],
                 "56 - REDEFORT": [
                     {
                         "codigo_cliente": "56023",
@@ -32609,10 +32603,6 @@
                     },
                     {
                         "codigo_cliente": "70359",
-                        "desc_cliente": "MANDABRASA RESTAURANTE LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71673",
                         "desc_cliente": "MANDABRASA RESTAURANTE LTDA"
                     },
                     {
@@ -55425,6 +55415,66 @@
             }
         }
     },
+    "null": {
+        "representantes": {
+            "1018": {
+                "1070 - COMBO GIASSI": [
+                    {
+                        "codigo_cliente": "33572",
+                        "desc_cliente": "GIASSI & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "35528",
+                        "desc_cliente": "GIASSI & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "37521",
+                        "desc_cliente": "GIASSI & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "43296",
+                        "desc_cliente": "GIASSI & CIA LTDA"
+                    }
+                ],
+                "107 - BISTEK": [
+                    {
+                        "codigo_cliente": "25543",
+                        "desc_cliente": "BISTEK - SUPERMERCADOS LTDA."
+                    }
+                ],
+                "23 - GIASSI": [
+                    {
+                        "codigo_cliente": "37882",
+                        "desc_cliente": "GIASSI & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "49000",
+                        "desc_cliente": "GIASSI & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "4734",
+                        "desc_cliente": "GIASSI E CIA"
+                    }
+                ]
+            },
+            "0": {
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "57863",
+                        "desc_cliente": "CASSIO VIDAL DOS SANTOS "
+                    }
+                ]
+            },
+            "null": {
+                "null": [
+                    {
+                        "codigo_cliente": null,
+                        "desc_cliente": null
+                    }
+                ]
+            }
+        }
+    },
     "776": {
         "representantes": {
             "776": {
@@ -59456,6 +59506,10 @@
                         "desc_cliente": "GILSON MACIEL GOMES"
                     },
                     {
+                        "codigo_cliente": "71742",
+                        "desc_cliente": "GILSON SANTOS"
+                    },
+                    {
                         "codigo_cliente": "69248",
                         "desc_cliente": "GIOVANE PERICO"
                     },
@@ -59562,6 +59616,10 @@
                     {
                         "codigo_cliente": "51087",
                         "desc_cliente": "GUILHERME HENN"
+                    },
+                    {
+                        "codigo_cliente": "71739",
+                        "desc_cliente": "GUILHERME LAURITO"
                     },
                     {
                         "codigo_cliente": "66062",
@@ -63250,6 +63308,10 @@
                     {
                         "codigo_cliente": "70384",
                         "desc_cliente": "REGINALDO SEVERIANO"
+                    },
+                    {
+                        "codigo_cliente": "71744",
+                        "desc_cliente": "REGINEI GUETNER"
                     },
                     {
                         "codigo_cliente": "65120",
@@ -85222,26 +85284,6 @@
                     {
                         "codigo_cliente": "66789",
                         "desc_cliente": "SUMMIT3S ALLIANCE AND DISTRIBUTION LLC"
-                    }
-                ]
-            }
-        }
-    },
-    "null": {
-        "representantes": {
-            "0": {
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "57863",
-                        "desc_cliente": "CASSIO VIDAL DOS SANTOS "
-                    }
-                ]
-            },
-            "null": {
-                "null": [
-                    {
-                        "codigo_cliente": null,
-                        "desc_cliente": null
                     }
                 ]
             }

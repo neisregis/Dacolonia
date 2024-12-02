@@ -3672,7 +3672,7 @@
                         "desc_cliente": "SUPERMERCADO SUPER LUNA S.A"
                     }
                 ],
-                "1 - GERAL": [
+                "1382 - BEM QUE TEM HORTIFRUTI": [
                     {
                         "codigo_cliente": "44352",
                         "desc_cliente": "BEM QUE TEM HORTIFRUTI LTDA"
@@ -3680,7 +3680,9 @@
                     {
                         "codigo_cliente": "71701",
                         "desc_cliente": "BEM QUE TEM HORTIFRUTI LTDA"
-                    },
+                    }
+                ],
+                "1 - GERAL": [
                     {
                         "codigo_cliente": "64035",
                         "desc_cliente": "CASA RENA S/A"
@@ -28682,6 +28684,10 @@
                         "desc_cliente": "FERNANDO LUIZ LTDA"
                     },
                     {
+                        "codigo_cliente": "45866",
+                        "desc_cliente": "F&M COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "56458",
                         "desc_cliente": "HORTIFRUTI MEURER LTDA"
                     },
@@ -28996,24 +29002,6 @@
                     {
                         "codigo_cliente": "25543",
                         "desc_cliente": "BISTEK - SUPERMERCADOS LTDA."
-                    }
-                ],
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "30678",
-                        "desc_cliente": "FABRICA EXPRESSO ACAI LTDA - ME"
-                    },
-                    {
-                        "codigo_cliente": "45866",
-                        "desc_cliente": "F&M COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "32887",
-                        "desc_cliente": "MTLH DISTRIBUIDORA DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "15001",
-                        "desc_cliente": "XANDOCA ARTIGOS PARA FESTAS LTDA EPP"
                     }
                 ],
                 "23 - GIASSI": [
@@ -30978,6 +30966,10 @@
                         "desc_cliente": "EVOLUTION NUTRICAO SAUDAVEL E COMERCIO LTDA"
                     },
                     {
+                        "codigo_cliente": "30678",
+                        "desc_cliente": "FABRICA EXPRESSO ACAI LTDA - ME"
+                    },
+                    {
                         "codigo_cliente": "70582",
                         "desc_cliente": "FAMILY MARKET LTDA"
                     },
@@ -31154,6 +31146,10 @@
                         "desc_cliente": "MSJ RESTAURANTE E LANCHONETE LTDA"
                     },
                     {
+                        "codigo_cliente": "32887",
+                        "desc_cliente": "MTLH DISTRIBUIDORA DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "32685",
                         "desc_cliente": "NILSE CARLESSO TOSS ME"
                     },
@@ -31288,6 +31284,10 @@
                     {
                         "codigo_cliente": "70583",
                         "desc_cliente": "UNIAO SUPER MARKET LTDA"
+                    },
+                    {
+                        "codigo_cliente": "15001",
+                        "desc_cliente": "XANDOCA ARTIGOS PARA FESTAS LTDA EPP"
                     }
                 ],
                 "227 - SUPERM. FORTE": [

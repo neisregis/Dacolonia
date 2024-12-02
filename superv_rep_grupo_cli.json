@@ -6420,6 +6420,10 @@
                         "desc_cliente": "GIGANTE ATACADO E DISTRIBUIDORA DE ALIMENTOS S/A"
                     },
                     {
+                        "codigo_cliente": "60471",
+                        "desc_cliente": "PEDRO MINI BOX LTDA"
+                    },
+                    {
                         "codigo_cliente": "26094",
                         "desc_cliente": "QUARTETTO SUPERMERCADOS LTDA"
                     },

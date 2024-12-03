@@ -19012,6 +19012,10 @@
                         "desc_cliente": "V COMÉRCIO DE ALIMENTOS EIRELI ME"
                     },
                     {
+                        "codigo_cliente": "71788",
+                        "desc_cliente": "VDZ DOCES LTDA"
+                    },
+                    {
                         "codigo_cliente": "40098",
                         "desc_cliente": "WILLIAM AUTH"
                     },
@@ -36576,6 +36580,10 @@
                         "desc_cliente": "SUPERMERCADO MFK LTDA"
                     },
                     {
+                        "codigo_cliente": "71156",
+                        "desc_cliente": "SUPERMERCADO MUNHOZ LTDA"
+                    },
+                    {
                         "codigo_cliente": "19389",
                         "desc_cliente": "VALDIR LAZZARI & CIA LTDA"
                     },
@@ -48440,10 +48448,6 @@
                     {
                         "codigo_cliente": "40993",
                         "desc_cliente": "BOTURUSSU 219 DISTRIBUIDORA  LTDA."
-                    },
-                    {
-                        "codigo_cliente": "71593",
-                        "desc_cliente": "CENTRO DE TREINAMENTO LESTE LTDA"
                     },
                     {
                         "codigo_cliente": "22943",
@@ -79220,6 +79224,10 @@
                         "desc_cliente": "MERCADO PORTTAL DO SOL LTDA"
                     },
                     {
+                        "codigo_cliente": "63189",
+                        "desc_cliente": "MGCR INDUSTRIA E COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "39282",
                         "desc_cliente": "MGL ADMINISTRADORA DE IMOVEIS LTDA"
                     },
@@ -85463,26 +85471,6 @@
             }
         }
     },
-    "null": {
-        "representantes": {
-            "0": {
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "57863",
-                        "desc_cliente": "CASSIO VIDAL DOS SANTOS "
-                    }
-                ]
-            },
-            "null": {
-                "null": [
-                    {
-                        "codigo_cliente": null,
-                        "desc_cliente": null
-                    }
-                ]
-            }
-        }
-    },
     "932": {
         "representantes": {
             "932": {
@@ -85490,6 +85478,18 @@
                     {
                         "codigo_cliente": "40355",
                         "desc_cliente": "VITOR HUGO ROCHA VIEIRA DA COSTA"
+                    }
+                ]
+            }
+        }
+    },
+    "null": {
+        "representantes": {
+            "null": {
+                "null": [
+                    {
+                        "codigo_cliente": null,
+                        "desc_cliente": null
                     }
                 ]
             }

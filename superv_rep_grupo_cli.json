@@ -1167,7 +1167,7 @@
                     },
                     {
                         "codigo_cliente": "71751",
-                        "desc_cliente": "COMERCIAL PAVONE  LTDA"
+                        "desc_cliente": "COMERCIAL PAVONE LTDA"
                     },
                     {
                         "codigo_cliente": "17415",
@@ -9570,6 +9570,10 @@
                     {
                         "codigo_cliente": "65845",
                         "desc_cliente": "KOLTUN & COLATUSSO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71761",
+                        "desc_cliente": "KOLTUN & COLATUSSO LTDA"
                     }
                 ],
                 "1327 - SUPERMERCADO OURO BRANCO": [
@@ -9764,10 +9768,6 @@
                     {
                         "codigo_cliente": "68888",
                         "desc_cliente": "JUSITA LANCHES LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71761",
-                        "desc_cliente": "KOLTUN & COLATUSSO LTDA"
                     },
                     {
                         "codigo_cliente": "13170",
@@ -26677,7 +26677,7 @@
                     },
                     {
                         "codigo_cliente": "71762",
-                        "desc_cliente": "restaurante e lanchonete  cerrado"
+                        "desc_cliente": "RESTAURANTE E LANCHONETE CERRADO LTDA"
                     },
                     {
                         "codigo_cliente": "56951",
@@ -42771,193 +42771,13 @@
                     }
                 ]
             },
-            "1052": {
-                "1103 - BERTAGNOLLI": [
-                    {
-                        "codigo_cliente": "15051",
-                        "desc_cliente": "SUPERMERCADO BERTAGNOLLI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "55187",
-                        "desc_cliente": "SUPERMERCADO BERTAGNOLLI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "55188",
-                        "desc_cliente": "SUPERMERCADO BERTAGNOLLI LTDA"
-                    }
-                ],
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "17867",
-                        "desc_cliente": "ANZELMO LELES DE LIMA & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "66426",
-                        "desc_cliente": "FIT SUL SMART ATIVIDADES FISICAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "55220",
-                        "desc_cliente": "LUIZ GUSTAVO KLUGE"
-                    },
-                    {
-                        "codigo_cliente": "55186",
-                        "desc_cliente": "SUPERMERCADO COPETTI LTDA"
-                    }
-                ],
-                "240 - BELTRAME": [
-                    {
-                        "codigo_cliente": "41446",
-                        "desc_cliente": "SUPERMERCADOS BELTRAME LTDA"
-                    }
-                ],
-                "75 - LIBRAGA & BRANDAO": [
-                    {
-                        "codigo_cliente": "16094",
-                        "desc_cliente": "LIBRAGA BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "16096",
-                        "desc_cliente": "LIBRAGA BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "34882",
-                        "desc_cliente": "LIBRAGA BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "37772",
-                        "desc_cliente": "LIBRAGA BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "39619",
-                        "desc_cliente": "LIBRAGA BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "40474",
-                        "desc_cliente": "LIBRAGA BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "48966",
-                        "desc_cliente": "LIBRAGA BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "48967",
-                        "desc_cliente": "LIBRAGA BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "58099",
-                        "desc_cliente": "LIBRAGA BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "58100",
-                        "desc_cliente": "LIBRAGA BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "16085",
-                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "16086",
-                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "16087",
-                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "16088",
-                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "16089",
-                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "16090",
-                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "16091",
-                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "16092",
-                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "16093",
-                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "16095",
-                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "16099",
-                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "16100",
-                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "16101",
-                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "16102",
-                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "17652",
-                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "20235",
-                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "21155",
-                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "22183",
-                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "23354",
-                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "25083",
-                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "25178",
-                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "34128",
-                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "58012",
-                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "27237",
-                        "desc_cliente": "LIBRAGA, BRANDÃO & CIA LTDA-REDE VIVO"
-                    },
-                    {
-                        "codigo_cliente": "68326",
-                        "desc_cliente": "LIBRAGA, BRANDAO SUPERMERCADOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "54465",
-                        "desc_cliente": "LIBRAGA E BRANDAO E CIA LTDA"
-                    }
-                ]
-            },
             "1206": {
+                "10 - CARREFOUR": [
+                    {
+                        "codigo_cliente": "71450",
+                        "desc_cliente": "CARREFOUR COMERCIO E INDUSTRIA LTDA"
+                    }
+                ],
                 "1266 - MERCADO ELENICE": [
                     {
                         "codigo_cliente": "39885",
@@ -43044,10 +42864,6 @@
                     {
                         "codigo_cliente": "48517",
                         "desc_cliente": "BUENO & AVILA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71450",
-                        "desc_cliente": "CARREFOUR COMERCIO E INDUSTRIA LTDA"
                     },
                     {
                         "codigo_cliente": "66322",
@@ -43488,6 +43304,192 @@
                     {
                         "codigo_cliente": "36097",
                         "desc_cliente": "ISAIR CARDOSO COMERCIO DE ALIMENTOS EIRELI"
+                    }
+                ]
+            },
+            "1052": {
+                "1103 - BERTAGNOLLI": [
+                    {
+                        "codigo_cliente": "15051",
+                        "desc_cliente": "SUPERMERCADO BERTAGNOLLI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "55187",
+                        "desc_cliente": "SUPERMERCADO BERTAGNOLLI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "55188",
+                        "desc_cliente": "SUPERMERCADO BERTAGNOLLI LTDA"
+                    }
+                ],
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "17867",
+                        "desc_cliente": "ANZELMO LELES DE LIMA & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66426",
+                        "desc_cliente": "FIT SUL SMART ATIVIDADES FISICAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "55220",
+                        "desc_cliente": "LUIZ GUSTAVO KLUGE"
+                    },
+                    {
+                        "codigo_cliente": "55186",
+                        "desc_cliente": "SUPERMERCADO COPETTI LTDA"
+                    }
+                ],
+                "240 - BELTRAME": [
+                    {
+                        "codigo_cliente": "41446",
+                        "desc_cliente": "SUPERMERCADOS BELTRAME LTDA"
+                    }
+                ],
+                "75 - LIBRAGA & BRANDAO": [
+                    {
+                        "codigo_cliente": "16094",
+                        "desc_cliente": "LIBRAGA BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "16096",
+                        "desc_cliente": "LIBRAGA BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "34882",
+                        "desc_cliente": "LIBRAGA BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "37772",
+                        "desc_cliente": "LIBRAGA BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "39619",
+                        "desc_cliente": "LIBRAGA BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "40474",
+                        "desc_cliente": "LIBRAGA BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "48966",
+                        "desc_cliente": "LIBRAGA BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "48967",
+                        "desc_cliente": "LIBRAGA BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "58099",
+                        "desc_cliente": "LIBRAGA BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "58100",
+                        "desc_cliente": "LIBRAGA BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "16085",
+                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "16086",
+                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "16087",
+                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "16088",
+                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "16089",
+                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "16090",
+                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "16091",
+                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "16092",
+                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "16093",
+                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "16095",
+                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "16099",
+                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "16100",
+                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "16101",
+                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "16102",
+                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "17652",
+                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "20235",
+                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "21155",
+                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "22183",
+                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "23354",
+                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "25083",
+                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "25178",
+                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "34128",
+                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "58012",
+                        "desc_cliente": "LIBRAGA, BRANDAO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "27237",
+                        "desc_cliente": "LIBRAGA, BRANDÃO & CIA LTDA-REDE VIVO"
+                    },
+                    {
+                        "codigo_cliente": "68326",
+                        "desc_cliente": "LIBRAGA, BRANDAO SUPERMERCADOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "54465",
+                        "desc_cliente": "LIBRAGA E BRANDAO E CIA LTDA"
                     }
                 ]
             },

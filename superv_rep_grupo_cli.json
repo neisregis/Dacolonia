@@ -23700,6 +23700,10 @@
                         "desc_cliente": "INDUSTRIA DE DOCES SELECAO LTDA"
                     },
                     {
+                        "codigo_cliente": "71792",
+                        "desc_cliente": "IRMAOS IARONKA"
+                    },
+                    {
                         "codigo_cliente": "28717",
                         "desc_cliente": "JAJA SUPERMERCADO LTDA"
                     },
@@ -41944,6 +41948,10 @@
                     {
                         "codigo_cliente": "54180",
                         "desc_cliente": "TEUTONIA DISTRIBUIDORA DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "23685",
+                        "desc_cliente": "WEGMANN & WEGMANN LTDA"
                     }
                 ],
                 "233 - REDE POLO": [
@@ -77064,10 +77072,6 @@
                         "desc_cliente": "FRANCESCATTO COM DE ALIMENTOS LTDA"
                     },
                     {
-                        "codigo_cliente": "70247",
-                        "desc_cliente": "FRUTEIRA CAMPESTRE ERVES LTDA"
-                    },
-                    {
                         "codigo_cliente": "70246",
                         "desc_cliente": "FRUTEIRA CAMPESTRE VACARIA LTDA"
                     },
@@ -77398,10 +77402,6 @@
                     {
                         "codigo_cliente": "8931",
                         "desc_cliente": "SUPERMERCADO ZULIAN LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71720",
-                        "desc_cliente": "SUPER PRATICO COMERCIO E DISTRIBUICAO DE ALIMENTOS LTDA."
                     },
                     {
                         "codigo_cliente": "64237",

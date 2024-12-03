@@ -16422,6 +16422,10 @@
                         "desc_cliente": "COOPERATIVA AGROPECUARIA CAMPONOVENSE - COOCAM"
                     },
                     {
+                        "codigo_cliente": "40849",
+                        "desc_cliente": "CRISTAL COMERCIO VAREJISTA DE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "41755",
                         "desc_cliente": "DAMBROS TRANSPORTE & CONVENIENCIA LTDA"
                     },
@@ -19068,6 +19072,10 @@
                         "desc_cliente": "POSTO Z2 LTDA"
                     },
                     {
+                        "codigo_cliente": "56311",
+                        "desc_cliente": "POSTO Z3 LTDA"
+                    },
+                    {
                         "codigo_cliente": "35425",
                         "desc_cliente": "POSTO Z9 LTDA"
                     }
@@ -20272,6 +20280,10 @@
                     {
                         "codigo_cliente": "45664",
                         "desc_cliente": "LESSA DA SILVA MINIMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71791",
+                        "desc_cliente": "LUCAS NACIMENTO"
                     },
                     {
                         "codigo_cliente": "60489",
@@ -24910,6 +24922,10 @@
                     {
                         "codigo_cliente": "31818",
                         "desc_cliente": "DAIANE CAFE EIRELI - ME"
+                    },
+                    {
+                        "codigo_cliente": "71773",
+                        "desc_cliente": "DISTRIBUIDORA ABELHINHA LTDA"
                     },
                     {
                         "codigo_cliente": "44081",
@@ -80940,6 +80956,10 @@
                     {
                         "codigo_cliente": "21096",
                         "desc_cliente": "TONINI & TONINI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "40830",
+                        "desc_cliente": "TRANSBOTTIN COMERCIAL LTDA"
                     },
                     {
                         "codigo_cliente": "56751",

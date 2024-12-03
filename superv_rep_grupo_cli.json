@@ -9326,6 +9326,10 @@
                     {
                         "codigo_cliente": "70444",
                         "desc_cliente": "TSF IMPORTACAO E EXPORTACAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "51940",
+                        "desc_cliente": "W B DOS SANTOS LTDA"
                     }
                 ],
                 "307 - REDE STALL": [
@@ -32176,6 +32180,10 @@
                     {
                         "codigo_cliente": "17078",
                         "desc_cliente": "DENISE ROCKE SONEMAM & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71719",
+                        "desc_cliente": "DROGARIA LVD LTDA"
                     },
                     {
                         "codigo_cliente": "1898",

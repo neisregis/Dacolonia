@@ -7400,6 +7400,10 @@
                         "desc_cliente": "ELAINE CASSIMIRO RODRIGUES MACEDO EIRELI"
                     },
                     {
+                        "codigo_cliente": "71789",
+                        "desc_cliente": "ELAINE CASSIMIRO RODRIGUES MACEDO LTDA"
+                    },
+                    {
                         "codigo_cliente": "16455",
                         "desc_cliente": "ELZA PIRES SCANDORIEIRO PROD.NATUR. ME"
                     },
@@ -20203,7 +20207,7 @@
                     },
                     {
                         "codigo_cliente": "5996",
-                        "desc_cliente": "CRISTIANO DUARTE KRAS BORGES"
+                        "desc_cliente": "CRISTIANO DUARTE KRAS BORGES & CIA LTDA"
                     },
                     {
                         "codigo_cliente": "65381",
@@ -24410,6 +24414,10 @@
                     {
                         "codigo_cliente": "69594",
                         "desc_cliente": "REDE BIRNFELD LTDA"
+                    },
+                    {
+                        "codigo_cliente": "65462",
+                        "desc_cliente": "RESTAURANTE FAAL LTDA"
                     },
                     {
                         "codigo_cliente": "15999",
@@ -54162,6 +54170,10 @@
                         "desc_cliente": "MAURO DA SILVA BENTO"
                     },
                     {
+                        "codigo_cliente": "42176",
+                        "desc_cliente": "MERCADO A PARADA DO MOTORISTA LTDA"
+                    },
+                    {
                         "codigo_cliente": "25084",
                         "desc_cliente": "MERCADO BEM BOM"
                     },
@@ -77072,6 +77084,10 @@
                         "desc_cliente": "FRANCESCATTO COM DE ALIMENTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "70247",
+                        "desc_cliente": "FRUTEIRA CAMPESTRE ERVES LTDA"
+                    },
+                    {
                         "codigo_cliente": "70246",
                         "desc_cliente": "FRUTEIRA CAMPESTRE VACARIA LTDA"
                     },
@@ -77402,6 +77418,10 @@
                     {
                         "codigo_cliente": "8931",
                         "desc_cliente": "SUPERMERCADO ZULIAN LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71720",
+                        "desc_cliente": "SUPER PRATICO COMERCIO E DISTRIBUICAO DE ALIMENTOS LTDA."
                     },
                     {
                         "codigo_cliente": "64237",

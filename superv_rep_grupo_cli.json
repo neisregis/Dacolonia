@@ -47611,7 +47611,7 @@
                     }
                 ]
             },
-            "1167": {
+            "872": {
                 "1067 - SUPER MENCK": [
                     {
                         "codigo_cliente": "38129",
@@ -47632,12 +47632,36 @@
                         "desc_cliente": "DISTRIBUIDORA DE DOCES SAGRADO CORACAO BARUERI LTDA"
                     },
                     {
+                        "codigo_cliente": "8552",
+                        "desc_cliente": "DISTRIBUIDORA DE PROD ALIMENT MARSIL LTD"
+                    },
+                    {
+                        "codigo_cliente": "61870",
+                        "desc_cliente": "EMPORIO NATURALLE CANASTRA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "68801",
+                        "desc_cliente": "EVOLUD DISTRIBUIDORA DE PRODUTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "53479",
                         "desc_cliente": "FAZENDINHA DOCES E SALGADOS LTDA"
                     },
                     {
                         "codigo_cliente": "39424",
                         "desc_cliente": "GUI BOX MERCADINHO EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "32957",
+                        "desc_cliente": "JJGG - DISTRIBUIDORA ASSIS ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "47598",
+                        "desc_cliente": "MADE IN NATURAL COM. DE ALIMENTOS E PRODUTOS ECOLOGICOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "42949",
+                        "desc_cliente": "MENINO LEITE COMERCIO DE DOCES E ARTIGOS PARA FESTAS LTDA"
                     },
                     {
                         "codigo_cliente": "43818",
@@ -47662,6 +47686,14 @@
                     {
                         "codigo_cliente": "13383",
                         "desc_cliente": "SUPERMERCADO YONETA LT"
+                    },
+                    {
+                        "codigo_cliente": "38761",
+                        "desc_cliente": "VAH IMPORTACAO E EXPORTACAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "46019",
+                        "desc_cliente": "VIA PORTO DISTRIBUIDORA DE PRODUTOS EIRELI"
                     }
                 ],
                 "705 - JORDMIX - SP": [
@@ -48772,42 +48804,6 @@
                     {
                         "codigo_cliente": "40993",
                         "desc_cliente": "BOTURUSSU 219 DISTRIBUIDORA  LTDA."
-                    },
-                    {
-                        "codigo_cliente": "68801",
-                        "desc_cliente": "EVOLUD DISTRIBUIDORA DE PRODUTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "47598",
-                        "desc_cliente": "MADE IN NATURAL COM. DE ALIMENTOS E PRODUTOS ECOLOGICOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "42949",
-                        "desc_cliente": "MENINO LEITE COMERCIO DE DOCES E ARTIGOS PARA FESTAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "46019",
-                        "desc_cliente": "VIA PORTO DISTRIBUIDORA DE PRODUTOS EIRELI"
-                    }
-                ]
-            },
-            "872": {
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "8552",
-                        "desc_cliente": "DISTRIBUIDORA DE PROD ALIMENT MARSIL LTD"
-                    },
-                    {
-                        "codigo_cliente": "61870",
-                        "desc_cliente": "EMPORIO NATURALLE CANASTRA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "32957",
-                        "desc_cliente": "JJGG - DISTRIBUIDORA ASSIS ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38761",
-                        "desc_cliente": "VAH IMPORTACAO E EXPORTACAO LTDA"
                     }
                 ]
             },

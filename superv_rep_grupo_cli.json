@@ -18940,6 +18940,10 @@
                         "desc_cliente": "MERCADO E CONVENIENCIA KAUANI LTDA"
                     },
                     {
+                        "codigo_cliente": "71797",
+                        "desc_cliente": "MERCADO MERABE LIMITADA"
+                    },
+                    {
                         "codigo_cliente": "42826",
                         "desc_cliente": "MERCADO PONTO CERTO LTDA"
                     },
@@ -18982,10 +18986,6 @@
                     {
                         "codigo_cliente": "40348",
                         "desc_cliente": "PROVESI & BOTELHO HORTIFRUTI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71797",
-                        "desc_cliente": "REBECA SOARES NUNES"
                     },
                     {
                         "codigo_cliente": "43335",
@@ -35014,6 +35014,10 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "39636",
+                        "desc_cliente": "30.373.275 GABRIELLE NOGUEIRA RIBEIRO"
+                    },
+                    {
                         "codigo_cliente": "65724",
                         "desc_cliente": "48.398.091 VINICIUS SANTOS DE MATTOS"
                     },
@@ -35284,10 +35288,6 @@
                     {
                         "codigo_cliente": "32229",
                         "desc_cliente": "F. S. REFEICOES EIRELI - EPP"
-                    },
-                    {
-                        "codigo_cliente": "39636",
-                        "desc_cliente": "GABRIELLE NOGUEIRA RIBEIRO 00830982086"
                     },
                     {
                         "codigo_cliente": "31520",
@@ -36420,6 +36420,10 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "71793",
+                        "desc_cliente": "57.906.393 NARA MARIA DUTRA KRUEL"
+                    },
+                    {
                         "codigo_cliente": "64630",
                         "desc_cliente": "ADEGA PINHEIRO COM DE BEBIDAS LTDA"
                     },
@@ -36590,10 +36594,6 @@
                     {
                         "codigo_cliente": "71323",
                         "desc_cliente": "MTM COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71793",
-                        "desc_cliente": "NARA MARIA DUTRA KRUEL"
                     },
                     {
                         "codigo_cliente": "15376",
@@ -57830,6 +57830,10 @@
                         "desc_cliente": "CESAR AUGUSTO DOS SANTOS SOARES"
                     },
                     {
+                        "codigo_cliente": "71801",
+                        "desc_cliente": "CESAR JUNIOR AVILA FERREIRA"
+                    },
+                    {
                         "codigo_cliente": "69584",
                         "desc_cliente": "CESAR PEREIRA"
                     },
@@ -62120,6 +62124,10 @@
                     {
                         "codigo_cliente": "62896",
                         "desc_cliente": "MARCIO SANDRO TRESPACH LIMA"
+                    },
+                    {
+                        "codigo_cliente": "65597",
+                        "desc_cliente": "MARCIO SARAIVA"
                     },
                     {
                         "codigo_cliente": "66233",

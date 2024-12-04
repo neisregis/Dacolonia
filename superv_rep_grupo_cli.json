@@ -22482,10 +22482,6 @@
                         "desc_cliente": "50.894.613 SANDRA HOFFMANN DA SILVA"
                     },
                     {
-                        "codigo_cliente": "71649",
-                        "desc_cliente": "58.100.317 JANIO LANES DE MEDEIROS"
-                    },
-                    {
                         "codigo_cliente": "64717",
                         "desc_cliente": "ABASTECEDORA ANA RECH LTDA"
                     },
@@ -33276,6 +33272,10 @@
                         "desc_cliente": "LUCAS BORTOLINI LTDA"
                     },
                     {
+                        "codigo_cliente": "19462",
+                        "desc_cliente": "LUCIANO CAVALLERI"
+                    },
+                    {
                         "codigo_cliente": "56833",
                         "desc_cliente": "MANIA EM HOME MARKET LTDA"
                     },
@@ -36586,6 +36586,10 @@
                     {
                         "codigo_cliente": "71323",
                         "desc_cliente": "MTM COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71793",
+                        "desc_cliente": "NARA MARIA DUTRA KRUEL"
                     },
                     {
                         "codigo_cliente": "15376",

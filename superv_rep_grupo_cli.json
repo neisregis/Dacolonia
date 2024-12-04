@@ -7688,6 +7688,10 @@
                         "desc_cliente": "VELASCO COMERCIO DE PRODUTOS ALIMENTICIOS"
                     },
                     {
+                        "codigo_cliente": "44036",
+                        "desc_cliente": "VERA LUCIA FAQUINI ASSONI & CIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "64648",
                         "desc_cliente": "VERENKA E FILHOS & CIA LTDA"
                     },
@@ -8680,10 +8684,6 @@
                     {
                         "codigo_cliente": "61317",
                         "desc_cliente": "TINELLI - LIVRARIA E PAPELARIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44036",
-                        "desc_cliente": "VERA LUCIA FAQUINI ASSONI & CIA LTDA"
                     },
                     {
                         "codigo_cliente": "45154",
@@ -18982,6 +18982,10 @@
                     {
                         "codigo_cliente": "40348",
                         "desc_cliente": "PROVESI & BOTELHO HORTIFRUTI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71797",
+                        "desc_cliente": "REBECA SOARES NUNES"
                     },
                     {
                         "codigo_cliente": "43335",
@@ -57970,6 +57974,10 @@
                         "desc_cliente": "CLAUDIO SOUZA"
                     },
                     {
+                        "codigo_cliente": "71796",
+                        "desc_cliente": "CLEBER MICHEL FROHELICH"
+                    },
+                    {
                         "codigo_cliente": "52314",
                         "desc_cliente": "CLEBER ROBERTO FACCIN"
                     },
@@ -61646,6 +61654,10 @@
                         "desc_cliente": "LUCIANO CUNHA DA SILVA"
                     },
                     {
+                        "codigo_cliente": "71794",
+                        "desc_cliente": "LUCIANO DA COSTA"
+                    },
+                    {
                         "codigo_cliente": "67893",
                         "desc_cliente": "LUCIANO DA SILVA CARDOSO"
                     },
@@ -62688,6 +62700,10 @@
                     {
                         "codigo_cliente": "67920",
                         "desc_cliente": "MOISES VIEGAS DOS SANTOS"
+                    },
+                    {
+                        "codigo_cliente": "71795",
+                        "desc_cliente": "MONICA DA SILVA SANTOS -ATLETA"
                     },
                     {
                         "codigo_cliente": "59602",

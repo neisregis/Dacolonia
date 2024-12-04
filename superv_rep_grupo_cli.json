@@ -8826,6 +8826,10 @@
                         "desc_cliente": "IRMAOS MUFFATO S.A"
                     },
                     {
+                        "codigo_cliente": "45000",
+                        "desc_cliente": "IRMAOS MUFFATO S.A"
+                    },
+                    {
                         "codigo_cliente": "45001",
                         "desc_cliente": "IRMAOS MUFFATO S.A"
                     },
@@ -28552,6 +28556,10 @@
                     {
                         "codigo_cliente": "39512",
                         "desc_cliente": "PAULO BITENCOURT"
+                    },
+                    {
+                        "codigo_cliente": "69821",
+                        "desc_cliente": "PAULO JOSE CARDOSO"
                     },
                     {
                         "codigo_cliente": "36937",
@@ -56722,6 +56730,10 @@
                         "desc_cliente": "ALENCAR ANDRE FRANKEN"
                     },
                     {
+                        "codigo_cliente": "49345",
+                        "desc_cliente": "ALESANDRO SILVEIRA DA CONCEICAO"
+                    },
+                    {
                         "codigo_cliente": "67820",
                         "desc_cliente": "ALESSANDRA PINHEIRO DIAS"
                     },
@@ -80046,12 +80058,6 @@
                     {
                         "codigo_cliente": "69165",
                         "desc_cliente": "SUPERMERCADO NEW LTDA"
-                    }
-                ],
-                "26 - MUFFATO": [
-                    {
-                        "codigo_cliente": "45000",
-                        "desc_cliente": "IRMAOS MUFFATO S.A"
                     }
                 ],
                 "368 - CONRADO": [

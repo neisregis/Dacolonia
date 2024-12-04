@@ -26354,6 +26354,10 @@
                         "desc_cliente": "COMERCIAL MIGOTTO LTDA"
                     },
                     {
+                        "codigo_cliente": "46005",
+                        "desc_cliente": "DAMASCENO & DAMASCENO LTDA"
+                    },
+                    {
                         "codigo_cliente": "23012",
                         "desc_cliente": "D'GUST TEMPEROS LTDA"
                     },
@@ -28062,6 +28066,10 @@
                     {
                         "codigo_cliente": "71560",
                         "desc_cliente": "MELO PRODUTOS PARA FESTAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71725",
+                        "desc_cliente": "SALMOS PRODUTOS PARA FESTAS LTDA"
                     },
                     {
                         "codigo_cliente": "70223",
@@ -34636,6 +34644,10 @@
                         "desc_cliente": "DANIELA APARECIDA RODRIGUES 03597424082"
                     },
                     {
+                        "codigo_cliente": "71412",
+                        "desc_cliente": "DISTRIBUIDORA UNIPAO LTDA"
+                    },
+                    {
                         "codigo_cliente": "37848",
                         "desc_cliente": "D J MINIMERCADO & FRUTEIRA LTDA"
                     },
@@ -35248,6 +35260,10 @@
                     {
                         "codigo_cliente": "62976",
                         "desc_cliente": "D F M DA SILVA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "39447",
+                        "desc_cliente": "DISTRIBUIDORA DE COMBUSTIVEIS SAVAR LTDA"
                     },
                     {
                         "codigo_cliente": "40517",
@@ -43756,6 +43772,10 @@
                     {
                         "codigo_cliente": "37774",
                         "desc_cliente": "COML DE COMB MARGARIDA DO SUL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71803",
+                        "desc_cliente": "CRISTIANE DE LIMA  PEDRON"
                     },
                     {
                         "codigo_cliente": "55761",
@@ -55658,6 +55678,10 @@
                         "desc_cliente": "SUPERMERCADO HIROTA LTDA"
                     },
                     {
+                        "codigo_cliente": "71804",
+                        "desc_cliente": "TOTAL DISTRIBUIDORA DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "24463",
                         "desc_cliente": "UNIAGRO INDUSTRIA E COMERCIO DE PRODUTOS ALIMENTICIOS L"
                     }
@@ -60572,6 +60596,10 @@
                     {
                         "codigo_cliente": "66132",
                         "desc_cliente": "JONAS GAIGUER DE OLIVEIRA"
+                    },
+                    {
+                        "codigo_cliente": "71805",
+                        "desc_cliente": "JONAS GUEDES"
                     },
                     {
                         "codigo_cliente": "64646",
@@ -70806,6 +70834,10 @@
                         "desc_cliente": "JESSICA SANT M FLORES"
                     },
                     {
+                        "codigo_cliente": "71736",
+                        "desc_cliente": "JESSICA WALTER BUENO"
+                    },
+                    {
                         "codigo_cliente": "68080",
                         "desc_cliente": "JIAN DA SILVA OLIVEIRA"
                     },
@@ -71748,6 +71780,10 @@
                     {
                         "codigo_cliente": "66784",
                         "desc_cliente": "LENISE DE LIMA FIGUEIREDO"
+                    },
+                    {
+                        "codigo_cliente": "71735",
+                        "desc_cliente": "LEONARA DINIZ"
                     },
                     {
                         "codigo_cliente": "70790",
@@ -74856,6 +74892,10 @@
                     {
                         "codigo_cliente": "66744",
                         "desc_cliente": "ROSANA LUZIA BIASI"
+                    },
+                    {
+                        "codigo_cliente": "71763",
+                        "desc_cliente": "ROSANA PORTAL DE SOUZA FLOR"
                     },
                     {
                         "codigo_cliente": "70618",

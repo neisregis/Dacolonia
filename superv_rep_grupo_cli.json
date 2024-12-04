@@ -18732,6 +18732,12 @@
                         "desc_cliente": "POSTO Z 14 LTDA"
                     }
                 ],
+                "1233 - VILI GULA - SC": [
+                    {
+                        "codigo_cliente": "42224",
+                        "desc_cliente": "KATIA APARECIDA DE LIMA VIEIRA 06386813910"
+                    }
+                ],
                 "1296 - NINO SUPERMERCADO": [
                     {
                         "codigo_cliente": "60569",
@@ -42914,6 +42920,10 @@
                     {
                         "codigo_cliente": "59102",
                         "desc_cliente": "17.324.707 REJANE BEATRIZ FERNANDES VALVERDE"
+                    },
+                    {
+                        "codigo_cliente": "51936",
+                        "desc_cliente": "17.333.904 LTDA"
                     },
                     {
                         "codigo_cliente": "58990",

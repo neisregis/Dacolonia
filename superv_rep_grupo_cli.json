@@ -10840,6 +10840,10 @@
                         "desc_cliente": "PANIFICADORA E CONFEITARIA AQUARIO LTDA"
                     },
                     {
+                        "codigo_cliente": "56906",
+                        "desc_cliente": "PANIFICADORA KITUTI LTDA."
+                    },
+                    {
                         "codigo_cliente": "45474",
                         "desc_cliente": "PARANAENSE MINIMERCADO LTDA"
                     },
@@ -56176,6 +56180,10 @@
                     {
                         "codigo_cliente": "45634",
                         "desc_cliente": "BENTO NORDESTE TRANSPS E LOGISTICA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71806",
+                        "desc_cliente": "CARPEDIN TRANSPORTES E AGENCIA DE CARGAS LTDA"
                     },
                     {
                         "codigo_cliente": "61135",

@@ -2017,6 +2017,12 @@
                         "codigo_cliente": "70451",
                         "desc_cliente": "SUPERMERCADOS BH COMERCIO DE ALIMENTOS S/A"
                     }
+                ],
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "71810",
+                        "desc_cliente": "SUPERMERCADOS BH COMERCIO DE ALIMENTOS S.A"
+                    }
                 ]
             },
             "1045": {

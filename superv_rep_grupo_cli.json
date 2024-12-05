@@ -7594,6 +7594,10 @@
                         "desc_cliente": "N R NOCHI PRODUTOS NATURAIS LTDA"
                     },
                     {
+                        "codigo_cliente": "48848",
+                        "desc_cliente": "N RONQUI & CIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "44602",
                         "desc_cliente": "O. CATANIO & CIA LTDA"
                     },
@@ -8596,10 +8600,6 @@
                     {
                         "codigo_cliente": "33377",
                         "desc_cliente": "NICE EMBALAGENS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "48848",
-                        "desc_cliente": "N RONQUI & CIA LTDA"
                     },
                     {
                         "codigo_cliente": "52660",
@@ -70354,6 +70354,10 @@
                         "desc_cliente": "GUILHERME BALBAO RONCAGLIA"
                     },
                     {
+                        "codigo_cliente": "71841",
+                        "desc_cliente": "GUILHERME BUENO PERASI"
+                    },
+                    {
                         "codigo_cliente": "71091",
                         "desc_cliente": "GUILHERME CARNEIRO BEUTTEMMULLER"
                     },
@@ -72942,6 +72946,10 @@
                         "desc_cliente": "MARIA CLAUDIA IRINEU DE SOUZA"
                     },
                     {
+                        "codigo_cliente": "71840",
+                        "desc_cliente": "MARIA CRISTINA OLIVEIRA CRUZ MARTINS BRANCO"
+                    },
+                    {
                         "codigo_cliente": "66903",
                         "desc_cliente": "MARIA DA GLORIA FONSECA RODRIGUES"
                     },
@@ -75242,16 +75250,16 @@
                         "desc_cliente": "SABRINA MOUTRAN B M THOME"
                     },
                     {
-                        "codigo_cliente": "66274",
-                        "desc_cliente": "SABRINA SABINO"
-                    },
-                    {
                         "codigo_cliente": "71531",
                         "desc_cliente": "SABRINA SARTORI CHOUINARD"
                     },
                     {
                         "codigo_cliente": "58994",
                         "desc_cliente": "SABRINA SILVEIRA SCHIRMER"
+                    },
+                    {
+                        "codigo_cliente": "66274",
+                        "desc_cliente": "SABRINA SOUSA"
                     },
                     {
                         "codigo_cliente": "70248",

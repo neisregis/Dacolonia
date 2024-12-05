@@ -4470,6 +4470,10 @@
                         "desc_cliente": "DISTRIBUIDORA DE ALIMENTOS FARTURA S/A"
                     },
                     {
+                        "codigo_cliente": "71829",
+                        "desc_cliente": "Economico LTDA"
+                    },
+                    {
                         "codigo_cliente": "64093",
                         "desc_cliente": "ECONOMICO LTDA"
                     },
@@ -18300,6 +18304,10 @@
                     {
                         "codigo_cliente": "34876",
                         "desc_cliente": "POSTO Z7 LTDA"
+                    },
+                    {
+                        "codigo_cliente": "28256",
+                        "desc_cliente": "POSTO Z8 LTDA"
                     }
                 ],
                 "17 - CONDOR": [
@@ -34684,10 +34692,6 @@
                         "desc_cliente": "DANIELA APARECIDA RODRIGUES 03597424082"
                     },
                     {
-                        "codigo_cliente": "71412",
-                        "desc_cliente": "DISTRIBUIDORA UNIPAO LTDA"
-                    },
-                    {
                         "codigo_cliente": "37848",
                         "desc_cliente": "D J MINIMERCADO & FRUTEIRA LTDA"
                     },
@@ -36008,6 +36012,10 @@
                         "desc_cliente": "NILSON ANTONIO FRANZON"
                     },
                     {
+                        "codigo_cliente": "21491",
+                        "desc_cliente": "PEDRALLI & PEDRALLI SUPERMERCADO LTDA"
+                    },
+                    {
                         "codigo_cliente": "65181",
                         "desc_cliente": "PIQUINIQUI LTDA"
                     },
@@ -37278,7 +37286,7 @@
                         "desc_cliente": "REDE HIPER GRAOS RODOVIARIA RJ COMERCIO LTDA"
                     }
                 ],
-                "68 - CASAS GUANABARA": [
+                "68 - CASAS GUANABARA - RJ": [
                     {
                         "codigo_cliente": "26418",
                         "desc_cliente": "CASAS GUANABARA COMESTIVEIS LTDA"
@@ -37680,7 +37688,7 @@
                         "desc_cliente": "INTERCONTINENTAL COMERCIO DE ALIMENTOS LTDA"
                     }
                 ],
-                "848 - ZONA SUL - SUPERDELLI": [
+                "848 - ZONA SUL - RJ": [
                     {
                         "codigo_cliente": "30446",
                         "desc_cliente": "SUPER MERCADO ZONA SUL S A"
@@ -39148,7 +39156,7 @@
                         "desc_cliente": "SUPERMERCADO RIO SUL DA PENHA LTDA"
                     }
                 ],
-                "68 - CASAS GUANABARA": [
+                "68 - CASAS GUANABARA - RJ": [
                     {
                         "codigo_cliente": "22378",
                         "desc_cliente": "CASAS GUANABARA COMESTIVEIS LTDA"
@@ -40154,7 +40162,7 @@
                         "desc_cliente": "FAVO DE MEL PRODUTOS ALIMENTICIOS LTDA"
                     }
                 ],
-                "68 - CASAS GUANABARA": [
+                "68 - CASAS GUANABARA - RJ": [
                     {
                         "codigo_cliente": "22350",
                         "desc_cliente": "CASAS GUANABARA COMESTIVEIS LTDA"
@@ -40374,7 +40382,7 @@
                         "desc_cliente": "VERDAN COMERCIO DE DOCES LTDA ME"
                     }
                 ],
-                "68 - CASAS GUANABARA": [
+                "68 - CASAS GUANABARA - RJ": [
                     {
                         "codigo_cliente": "22348",
                         "desc_cliente": "CASAS GUANABARA COMESTIVEIS LTDA"
@@ -82926,6 +82934,10 @@
                         "desc_cliente": "CHOKOMELK DOCES, CONFEITARIA E FESTAS LTDA"
                     },
                     {
+                        "codigo_cliente": "63222",
+                        "desc_cliente": "COMERCIO DE ALIMENTOS SUPER MIX LTDA"
+                    },
+                    {
                         "codigo_cliente": "63981",
                         "desc_cliente": "COMPRAR BEM COMERCIAL DE ALIMENTOS LTDA"
                     },
@@ -85490,7 +85502,7 @@
     "544": {
         "representantes": {
             "544": {
-                "1340 - Super A": [
+                "1340 - SUPER A - SC": [
                     {
                         "codigo_cliente": "1975",
                         "desc_cliente": "A. ANGELONI & CIA. LTDA"

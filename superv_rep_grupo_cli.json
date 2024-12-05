@@ -13082,10 +13082,6 @@
                         "desc_cliente": "C. P SCHAPPO COBRANCAS E SERVICOS"
                     },
                     {
-                        "codigo_cliente": "40545",
-                        "desc_cliente": "MERCADO E ACOUGUE BORMANN LTDA"
-                    },
-                    {
                         "codigo_cliente": "16676",
                         "desc_cliente": "RESTAURANTE LIGEIRINHO LTDA"
                     }
@@ -14134,6 +14130,10 @@
                     {
                         "codigo_cliente": "4176",
                         "desc_cliente": "MAXIMO ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "40545",
+                        "desc_cliente": "MERCADO E ACOUGUE BORMANN LTDA"
                     },
                     {
                         "codigo_cliente": "1304",
@@ -28434,6 +28434,10 @@
                         "desc_cliente": "KELLY MARTINS MACHADO E CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "71732",
+                        "desc_cliente": "LITORAL CASA DAS CARNES LTDA"
+                    },
+                    {
                         "codigo_cliente": "22491",
                         "desc_cliente": "L.L.L HOTEL E REST.LTDA-ME-H. E R.DO CARLINHOS"
                     },
@@ -30496,6 +30500,14 @@
                     {
                         "codigo_cliente": "36118",
                         "desc_cliente": "B A BARBOSA SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71825",
+                        "desc_cliente": "CONVEM SUPERMERCADOS DE BRAGANCA LTDA."
+                    },
+                    {
+                        "codigo_cliente": "71824",
+                        "desc_cliente": "CONVÉM SUPERMERCADOS LTDA"
                     },
                     {
                         "codigo_cliente": "33854",
@@ -37348,6 +37360,16 @@
                         "desc_cliente": "CARREFOUR COMERCIO E INDUSTRIA LTDA"
                     }
                 ],
+                "1384 - MEGA BOX- RJ": [
+                    {
+                        "codigo_cliente": "24924",
+                        "desc_cliente": "SUPERDELLI ATACADO E SUPERMERCADO S A"
+                    },
+                    {
+                        "codigo_cliente": "45917",
+                        "desc_cliente": "SUPERDELLI ATACADO E SUPERMERCADO S.A."
+                    }
+                ],
                 "183 - PRINCESA RJ": [
                     {
                         "codigo_cliente": "25850",
@@ -37658,15 +37680,7 @@
                         "desc_cliente": "INTERCONTINENTAL COMERCIO DE ALIMENTOS LTDA"
                     }
                 ],
-                "848 - MEGABOX - SUPERDELLI": [
-                    {
-                        "codigo_cliente": "24924",
-                        "desc_cliente": "SUPERDELLI ATACADO E SUPERMERCADO S A"
-                    },
-                    {
-                        "codigo_cliente": "45917",
-                        "desc_cliente": "SUPERDELLI ATACADO E SUPERMERCADO S.A."
-                    },
+                "848 - ZONA SUL - SUPERDELLI": [
                     {
                         "codigo_cliente": "30446",
                         "desc_cliente": "SUPER MERCADO ZONA SUL S A"
@@ -45296,7 +45310,7 @@
                         "desc_cliente": "COML ZAFFARI LTDA"
                     }
                 ],
-                "40 - GUANABARA SUPERMERC": [
+                "40 - GUANABARA - RS": [
                     {
                         "codigo_cliente": "438",
                         "desc_cliente": "SUPERMERCADO GUANABARA S/A"

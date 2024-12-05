@@ -2021,7 +2021,7 @@
                 "1 - GERAL": [
                     {
                         "codigo_cliente": "71810",
-                        "desc_cliente": "SUPERMERCADOS BH COMERCIO DE ALIMENTOS S.A"
+                        "desc_cliente": "SUPERMERCADOS BH COMERCIO DE ALIMENTOS S/A"
                     }
                 ]
             },
@@ -7753,6 +7753,16 @@
                         "codigo_cliente": "48489",
                         "desc_cliente": "S.R. MARTINS LIMA COM. DE ALIM. E UTILIDADES DOMESTICAS LTDA"
                     }
+                ],
+                "998 - SUPER NIPPON": [
+                    {
+                        "codigo_cliente": "55551",
+                        "desc_cliente": "VISCOVINI E REIS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "48861",
+                        "desc_cliente": "VR 10.VISCOVINI LTDA"
+                    }
                 ]
             },
             "877": {
@@ -8726,16 +8736,6 @@
                     {
                         "codigo_cliente": "20996",
                         "desc_cliente": "MERCADO KATAYAMA EIRELI"
-                    }
-                ],
-                "998 - SUPER NIPPON": [
-                    {
-                        "codigo_cliente": "55551",
-                        "desc_cliente": "VISCOVINI E REIS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "48861",
-                        "desc_cliente": "VR 10.VISCOVINI LTDA"
                     }
                 ]
             },
@@ -23848,6 +23848,10 @@
                         "desc_cliente": "MARCELO BARNART"
                     },
                     {
+                        "codigo_cliente": "71817",
+                        "desc_cliente": "MARILENE CARDOSO DA SILVA LTDA"
+                    },
+                    {
                         "codigo_cliente": "46046",
                         "desc_cliente": "MATESO - COMERCIO VAREJISTA DE PROD ALIMENTICIOS LTDA"
                     },
@@ -30839,7 +30843,7 @@
                     },
                     {
                         "codigo_cliente": "71808",
-                        "desc_cliente": "HELIO DE MORAES RODRIGUES JUNIOR ME"
+                        "desc_cliente": "HELIO DE MORAIS RODRIGUES JUNIOR"
                     },
                     {
                         "codigo_cliente": "66156",
@@ -36670,6 +36674,10 @@
                     {
                         "codigo_cliente": "70798",
                         "desc_cliente": "SAFE MARKET MERCADOS AUTONOMOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "24626",
+                        "desc_cliente": "SOLANGE MARTINS ORTIZ"
                     },
                     {
                         "codigo_cliente": "44535",
@@ -43085,7 +43093,7 @@
                     },
                     {
                         "codigo_cliente": "71807",
-                        "desc_cliente": "EMPORIO AREAL"
+                        "desc_cliente": "EMPORIO AREAL LTDA"
                     },
                     {
                         "codigo_cliente": "47970",
@@ -43690,6 +43698,10 @@
                         "desc_cliente": "52.430.507 MARCELIA NUNES GOROSITO CANALS"
                     },
                     {
+                        "codigo_cliente": "71803",
+                        "desc_cliente": "53.805.375 CRISTIANE DE LIMA PEDRON"
+                    },
+                    {
                         "codigo_cliente": "63117",
                         "desc_cliente": "53.805.482 EVA CENEDY DE LIMA PEDRON"
                     },
@@ -43804,10 +43816,6 @@
                     {
                         "codigo_cliente": "37774",
                         "desc_cliente": "COML DE COMB MARGARIDA DO SUL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71803",
-                        "desc_cliente": "CRISTIANE DE LIMA  PEDRON"
                     },
                     {
                         "codigo_cliente": "55761",
@@ -57910,6 +57918,10 @@
                         "desc_cliente": "CESAR JUNIOR AVILA FERREIRA"
                     },
                     {
+                        "codigo_cliente": "71815",
+                        "desc_cliente": "CESAR MATTOS"
+                    },
+                    {
                         "codigo_cliente": "69584",
                         "desc_cliente": "CESAR PEREIRA"
                     },
@@ -58606,6 +58618,10 @@
                         "desc_cliente": "DOUGLAS HENRIQUE DE ALMEIDA DA SILVEIRA"
                     },
                     {
+                        "codigo_cliente": "71813",
+                        "desc_cliente": "DOUGLAS LIMA"
+                    },
+                    {
                         "codigo_cliente": "49633",
                         "desc_cliente": "DOUGLAS LUIZ NAZARIO"
                     },
@@ -58688,6 +58704,10 @@
                     {
                         "codigo_cliente": "22857",
                         "desc_cliente": "EDIMILSON RIBEIRO DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "71814",
+                        "desc_cliente": "EDIO JULIO DA ROSA"
                     },
                     {
                         "codigo_cliente": "59941",

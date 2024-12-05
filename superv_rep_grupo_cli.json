@@ -21166,10 +21166,6 @@
                         "desc_cliente": "LEO COM DE SUPRIMENTOS E EMBALAGENS LTDA"
                     },
                     {
-                        "codigo_cliente": "71714",
-                        "desc_cliente": "L&L COMERCIO DE ALIMENTOS E BEBIDAS LTDA"
-                    },
-                    {
                         "codigo_cliente": "43532",
                         "desc_cliente": "LMM COM DE ALIMENTOS LTDA"
                     },
@@ -28612,10 +28608,6 @@
                     {
                         "codigo_cliente": "39512",
                         "desc_cliente": "PAULO BITENCOURT"
-                    },
-                    {
-                        "codigo_cliente": "69821",
-                        "desc_cliente": "PAULO JOSE CARDOSO"
                     },
                     {
                         "codigo_cliente": "36937",
@@ -54334,10 +54326,6 @@
                         "desc_cliente": "MAURO DA SILVA BENTO"
                     },
                     {
-                        "codigo_cliente": "42176",
-                        "desc_cliente": "MERCADO A PARADA DO MOTORISTA LTDA"
-                    },
-                    {
                         "codigo_cliente": "25084",
                         "desc_cliente": "MERCADO BEM BOM"
                     },
@@ -54900,6 +54888,10 @@
                     {
                         "codigo_cliente": "60875",
                         "desc_cliente": "BASICOISAS EXPRESS - SOUZA&MATTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "34907",
+                        "desc_cliente": "BIANCA HEIDERSCHEIDT"
                     },
                     {
                         "codigo_cliente": "70173",

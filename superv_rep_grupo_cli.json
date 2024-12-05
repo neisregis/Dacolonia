@@ -2240,6 +2240,10 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "71835",
+                        "desc_cliente": "13.270.979 GELSON DIAS FERRAZI"
+                    },
+                    {
                         "codigo_cliente": "54530",
                         "desc_cliente": "AGNA ARAUJO VIANA SANTOS 91570506515"
                     },
@@ -2330,10 +2334,6 @@
                     {
                         "codigo_cliente": "53830",
                         "desc_cliente": "EMPORIO URBANO GRAOS E CONDIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71835",
-                        "desc_cliente": "GELSON DIAS FERRAZI"
                     },
                     {
                         "codigo_cliente": "66562",
@@ -17276,6 +17276,10 @@
                         "desc_cliente": "CATIA DE MELO"
                     },
                     {
+                        "codigo_cliente": "44488",
+                        "desc_cliente": "CELIA REGINA DA SILVA"
+                    },
+                    {
                         "codigo_cliente": "62432",
                         "desc_cliente": "CLARA VOLTOLINI VARGAS"
                     },
@@ -20972,6 +20976,10 @@
                     {
                         "codigo_cliente": "40700",
                         "desc_cliente": "CASA DEI GRANI GARIBALDI COM DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "9616",
+                        "desc_cliente": "CASA DE QUEIJOS E ESPECIARIAS ABRELINO E FILHOS LTDA"
                     },
                     {
                         "codigo_cliente": "28042",
@@ -42986,6 +42994,10 @@
                         "desc_cliente": "50.654.558 GUILHERME DE CARVALHO FERREIRA TOMASCHEWSKI MOITT"
                     },
                     {
+                        "codigo_cliente": "71834",
+                        "desc_cliente": "50.863.508 IVANICE RODRIGUES FERREIRA"
+                    },
+                    {
                         "codigo_cliente": "66704",
                         "desc_cliente": "55.390.071 PAULO ARNOLDO TUCHTENHAGEN"
                     },
@@ -43200,10 +43212,6 @@
                     {
                         "codigo_cliente": "62971",
                         "desc_cliente": "ITALO ZILMER BEDERODE LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71834",
-                        "desc_cliente": "IVANICE RODRIGUES FERREIRA"
                     },
                     {
                         "codigo_cliente": "55243",
@@ -44948,6 +44956,10 @@
                     {
                         "codigo_cliente": "39401",
                         "desc_cliente": "QUITANDA MARKET LTDA"
+                    },
+                    {
+                        "codigo_cliente": "58555",
+                        "desc_cliente": "REGIS ALBERTO CORREA"
                     },
                     {
                         "codigo_cliente": "58686",
@@ -49620,6 +49632,12 @@
                     {
                         "codigo_cliente": "51892",
                         "desc_cliente": "COOP TRITICOLA REG SAOLUIZENSE LTDA"
+                    }
+                ],
+                "784 - VENDEDOR/REPRESENTANTE": [
+                    {
+                        "codigo_cliente": "41365",
+                        "desc_cliente": "ANDERSON FURTADO LIMA"
                     }
                 ]
             },
@@ -64128,6 +64146,10 @@
                         "desc_cliente": "SAMUEL ROSSO POSAMAI DELA"
                     },
                     {
+                        "codigo_cliente": "71842",
+                        "desc_cliente": "SANDI DA SILVEIRA DIAS"
+                    },
+                    {
                         "codigo_cliente": "59453",
                         "desc_cliente": "SANDRA DELOURDES CAVALLI"
                     },
@@ -64569,7 +64591,7 @@
                     },
                     {
                         "codigo_cliente": "53650",
-                        "desc_cliente": "THAMYRIZ DUTRA VALADAS"
+                        "desc_cliente": "THAMYRIS DUTRA VALADAS"
                     },
                     {
                         "codigo_cliente": "65851",

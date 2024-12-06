@@ -57958,6 +57958,10 @@
                         "desc_cliente": "CAROLINA DA SILVA PEREIRA"
                     },
                     {
+                        "codigo_cliente": "3746",
+                        "desc_cliente": "CAROLINA WAYNE FERREIRA"
+                    },
+                    {
                         "codigo_cliente": "51651",
                         "desc_cliente": "CAROLINE ALMEIDA PACHECO"
                     },
@@ -60026,6 +60030,10 @@
                         "desc_cliente": "GUSTAVO FREITAS COSTA"
                     },
                     {
+                        "codigo_cliente": "71864",
+                        "desc_cliente": "GUSTAVO LINK"
+                    },
+                    {
                         "codigo_cliente": "53244",
                         "desc_cliente": "GUSTAVO MATEUS JOANELLA"
                     },
@@ -60900,6 +60908,10 @@
                     {
                         "codigo_cliente": "62518",
                         "desc_cliente": "JORGE LUIS RODRIGUES DOS SANTOS"
+                    },
+                    {
+                        "codigo_cliente": "38413",
+                        "desc_cliente": "JORGE LUIZ SOUZA FERREIRA"
                     },
                     {
                         "codigo_cliente": "51415",
@@ -62180,6 +62192,10 @@
                     {
                         "codigo_cliente": "67590",
                         "desc_cliente": "MAICON DIEGO ESTIPE"
+                    },
+                    {
+                        "codigo_cliente": "71863",
+                        "desc_cliente": "MAICON FERNANDO DA SILVA"
                     },
                     {
                         "codigo_cliente": "66407",
@@ -82851,6 +82867,10 @@
                 "1370 - AMUNDIAL": [
                     {
                         "codigo_cliente": "69261",
+                        "desc_cliente": "CASA BRASILIA UTILIDADES DO LAR LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69262",
                         "desc_cliente": "CASA BRASILIA UTILIDADES DO LAR LTDA"
                     },
                     {

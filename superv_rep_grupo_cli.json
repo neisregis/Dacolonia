@@ -17866,12 +17866,6 @@
                         "desc_cliente": "WIDELAB DIGITAL LTDA"
                     }
                 ],
-                "23 - GIASSI": [
-                    {
-                        "codigo_cliente": "31692",
-                        "desc_cliente": "GIASSI & CIA LTDA LJ 15"
-                    }
-                ],
                 "270 - REDE N. PONTO": [
                     {
                         "codigo_cliente": "20022",
@@ -18194,12 +18188,6 @@
                     {
                         "codigo_cliente": "15316",
                         "desc_cliente": "Z.A. FRUTAS E VERDURAS LTDA ME"
-                    }
-                ],
-                "23 - GIASSI": [
-                    {
-                        "codigo_cliente": "27656",
-                        "desc_cliente": "GIASSI & CIA LTDA"
                     }
                 ],
                 "281 - DOCA PADARIA": [
@@ -18700,12 +18688,6 @@
                     {
                         "codigo_cliente": "15832",
                         "desc_cliente": "WFK RESTAURANTE E LANCHONETE LTDA"
-                    }
-                ],
-                "23 - GIASSI": [
-                    {
-                        "codigo_cliente": "19077",
-                        "desc_cliente": "GIASSI & CIA LTDA LJ-08"
                     }
                 ],
                 "270 - REDE N. PONTO": [
@@ -20026,12 +20008,6 @@
                     {
                         "codigo_cliente": "5384",
                         "desc_cliente": "COOPERATIVA DE PROD ABASTECIMENTO DO VALE DO ITAJAI"
-                    }
-                ],
-                "23 - GIASSI": [
-                    {
-                        "codigo_cliente": "19522",
-                        "desc_cliente": "GIASSI & CIA LTDA LJ-09"
                     }
                 ],
                 "784 - VENDEDOR/REPRESENTANTE": [
@@ -28188,12 +28164,6 @@
                         "desc_cliente": "DAIANE JOSE LAURINDO EIRELI"
                     }
                 ],
-                "1070 - COMBO GIASSI": [
-                    {
-                        "codigo_cliente": "58521",
-                        "desc_cliente": "GIASSI & CIA LTDA"
-                    }
-                ],
                 "1147 - LOLI - SC": [
                     {
                         "codigo_cliente": "18989",
@@ -28734,12 +28704,6 @@
                         "desc_cliente": "ZATTA & CIA LTDA"
                     }
                 ],
-                "23 - GIASSI": [
-                    {
-                        "codigo_cliente": "53187",
-                        "desc_cliente": "GIASSI & CIA LTDA"
-                    }
-                ],
                 "549 - CASTAGNETI": [
                     {
                         "codigo_cliente": "41092",
@@ -29034,20 +28998,6 @@
                     {
                         "codigo_cliente": "19312",
                         "desc_cliente": "SUPERMERCADO MINATTAO LTDA"
-                    }
-                ],
-                "23 - GIASSI": [
-                    {
-                        "codigo_cliente": "4937",
-                        "desc_cliente": "GIASSI & CIA LTDA LJ-02"
-                    },
-                    {
-                        "codigo_cliente": "4936",
-                        "desc_cliente": "GIASSI & CIA LTDA LJ-03"
-                    },
-                    {
-                        "codigo_cliente": "4970",
-                        "desc_cliente": "GIASSI & CIA LTDA LJ-04"
                     }
                 ],
                 "244 - COOPERJA": [
@@ -29545,16 +29495,6 @@
                         "codigo_cliente": "34393",
                         "desc_cliente": "ZULEMA ROCHA SERAFIM"
                     }
-                ],
-                "23 - GIASSI": [
-                    {
-                        "codigo_cliente": "19021",
-                        "desc_cliente": "GIASSI & CIA LTDA LJ-06"
-                    },
-                    {
-                        "codigo_cliente": "26797",
-                        "desc_cliente": "GIASSI &  CIA LTDA LJ-13"
-                    }
                 ]
             },
             "836": {
@@ -29650,20 +29590,6 @@
                     {
                         "codigo_cliente": "26256",
                         "desc_cliente": "SUPERMERCADO ZONA SUL LTDA"
-                    }
-                ],
-                "23 - GIASSI": [
-                    {
-                        "codigo_cliente": "4935",
-                        "desc_cliente": "GIASSI & CIA LTDA LJ-01"
-                    },
-                    {
-                        "codigo_cliente": "4930",
-                        "desc_cliente": "GIASSI & CIA LTDA LJ-05"
-                    },
-                    {
-                        "codigo_cliente": "24529",
-                        "desc_cliente": "GIASSI & CIA LTDA LJ-11"
                     }
                 ],
                 "73 - MANENTTI": [
@@ -37610,10 +37536,6 @@
                         "desc_cliente": "GRAO DA TERRA COPACABANA LTDA"
                     },
                     {
-                        "codigo_cliente": "36635",
-                        "desc_cliente": "GRAO DA TERRA COPACABANA LTDA"
-                    },
-                    {
                         "codigo_cliente": "37264",
                         "desc_cliente": "GRAO DA TERRA COPACABANA LTDA"
                     },
@@ -37648,6 +37570,10 @@
                     {
                         "codigo_cliente": "63971",
                         "desc_cliente": "GRAO DA TERRA COPACABANA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "36635",
+                        "desc_cliente": "GRÃO DA TERRA COPACABANA LTDA"
                     },
                     {
                         "codigo_cliente": "68836",
@@ -46500,10 +46426,6 @@
                         "desc_cliente": "SUPERMERCADO HIGAS ITAQUERA LTDA"
                     },
                     {
-                        "codigo_cliente": "71847",
-                        "desc_cliente": "SUPERMERCADO HIGAS ITAQUERA LTDA"
-                    },
-                    {
                         "codigo_cliente": "61001",
                         "desc_cliente": "SUPERMERCADO HIGAS PRIMAVERA LTDA"
                     },
@@ -53114,6 +53036,20 @@
                         "desc_cliente": "ATACADAO CENTRO SUL LTDA"
                     }
                 ],
+                "1385 - HIPER UNIMAR": [
+                    {
+                        "codigo_cliente": "71858",
+                        "desc_cliente": "UNIMAR SUPERMERCADO E ATACADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71859",
+                        "desc_cliente": "UNIMAR SUPERMERCADO E ATACADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71860",
+                        "desc_cliente": "UNIMAR SUPERMERCADO E ATACADO LTDA"
+                    }
+                ],
                 "1 - GERAL": [
                     {
                         "codigo_cliente": "61376",
@@ -53154,18 +53090,6 @@
                     {
                         "codigo_cliente": "58784",
                         "desc_cliente": "SIDINEIDE BASTOS TEIXEIRA 01917505574"
-                    },
-                    {
-                        "codigo_cliente": "71858",
-                        "desc_cliente": "UNIMAR SUPERMERCADO E ATACADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71859",
-                        "desc_cliente": "UNIMAR SUPERMERCADO E ATACADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71860",
-                        "desc_cliente": "UNIMAR SUPERMERCADO E ATACADO LTDA"
                     }
                 ],
                 "221 - ARMAZEM MATEUS": [
@@ -54802,20 +54726,6 @@
                         "desc_cliente": "ROGERIO LUIZ EITELVEIN EIRELI"
                     }
                 ],
-                "23 - GIASSI": [
-                    {
-                        "codigo_cliente": "8394",
-                        "desc_cliente": "GIASSI & CIA LTDA LJ 07 "
-                    },
-                    {
-                        "codigo_cliente": "22844",
-                        "desc_cliente": "GIASSI & CIA LTDA LJ-10"
-                    },
-                    {
-                        "codigo_cliente": "25810",
-                        "desc_cliente": "GIASSI & CIA LTDA LJ-12"
-                    }
-                ],
                 "274 - FELIPE ROYER": [
                     {
                         "codigo_cliente": "28327",
@@ -55732,6 +55642,10 @@
                     {
                         "codigo_cliente": "43296",
                         "desc_cliente": "GIASSI & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "58521",
+                        "desc_cliente": "GIASSI & CIA LTDA"
                     }
                 ],
                 "107 - BISTEK": [
@@ -55742,6 +55656,10 @@
                 ],
                 "23 - GIASSI": [
                     {
+                        "codigo_cliente": "27656",
+                        "desc_cliente": "GIASSI & CIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "37882",
                         "desc_cliente": "GIASSI & CIA LTDA"
                     },
@@ -55750,8 +55668,68 @@
                         "desc_cliente": "GIASSI & CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "53187",
+                        "desc_cliente": "GIASSI & CIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "70189",
                         "desc_cliente": "GIASSI & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "4935",
+                        "desc_cliente": "GIASSI & CIA LTDA LJ-01"
+                    },
+                    {
+                        "codigo_cliente": "4937",
+                        "desc_cliente": "GIASSI & CIA LTDA LJ-02"
+                    },
+                    {
+                        "codigo_cliente": "4936",
+                        "desc_cliente": "GIASSI & CIA LTDA LJ-03"
+                    },
+                    {
+                        "codigo_cliente": "4970",
+                        "desc_cliente": "GIASSI & CIA LTDA LJ-04"
+                    },
+                    {
+                        "codigo_cliente": "4930",
+                        "desc_cliente": "GIASSI & CIA LTDA LJ-05"
+                    },
+                    {
+                        "codigo_cliente": "19021",
+                        "desc_cliente": "GIASSI & CIA LTDA LJ-06"
+                    },
+                    {
+                        "codigo_cliente": "8394",
+                        "desc_cliente": "GIASSI & CIA LTDA LJ 07 "
+                    },
+                    {
+                        "codigo_cliente": "19077",
+                        "desc_cliente": "GIASSI & CIA LTDA LJ-08"
+                    },
+                    {
+                        "codigo_cliente": "19522",
+                        "desc_cliente": "GIASSI & CIA LTDA LJ-09"
+                    },
+                    {
+                        "codigo_cliente": "22844",
+                        "desc_cliente": "GIASSI & CIA LTDA LJ-10"
+                    },
+                    {
+                        "codigo_cliente": "24529",
+                        "desc_cliente": "GIASSI & CIA LTDA LJ-11"
+                    },
+                    {
+                        "codigo_cliente": "25810",
+                        "desc_cliente": "GIASSI & CIA LTDA LJ-12"
+                    },
+                    {
+                        "codigo_cliente": "26797",
+                        "desc_cliente": "GIASSI &  CIA LTDA LJ-13"
+                    },
+                    {
+                        "codigo_cliente": "31692",
+                        "desc_cliente": "GIASSI & CIA LTDA LJ 15"
                     },
                     {
                         "codigo_cliente": "4734",
@@ -59474,6 +59452,10 @@
                         "desc_cliente": "FELLIPE EDUARDO HACKENHANN"
                     },
                     {
+                        "codigo_cliente": "71888",
+                        "desc_cliente": "FERNANDA BOHN"
+                    },
+                    {
                         "codigo_cliente": "61458",
                         "desc_cliente": "FERNANDA CARDOSO"
                     },
@@ -59704,6 +59686,10 @@
                     {
                         "codigo_cliente": "66383",
                         "desc_cliente": "GABRIEL ROSA DOS SANTOS"
+                    },
+                    {
+                        "codigo_cliente": "57426",
+                        "desc_cliente": "GABRIEL SILVA"
                     },
                     {
                         "codigo_cliente": "64541",
@@ -69250,6 +69236,10 @@
                         "desc_cliente": "ELEN RANGEL PEIXOTO"
                     },
                     {
+                        "codigo_cliente": "71889",
+                        "desc_cliente": "ELIANA APARECIDA MAGALHAES DE OLIVEIRA"
+                    },
+                    {
                         "codigo_cliente": "69669",
                         "desc_cliente": "ELIANA BINATTO"
                     },
@@ -69720,6 +69710,10 @@
                     {
                         "codigo_cliente": "71202",
                         "desc_cliente": "FATIMA HASSAN EL AMIN"
+                    },
+                    {
+                        "codigo_cliente": "71887",
+                        "desc_cliente": "FATIMA MACHADO"
                     },
                     {
                         "codigo_cliente": "71432",
@@ -72506,6 +72500,10 @@
                         "desc_cliente": "LUCIANE APARECIDA MIRANDA"
                     },
                     {
+                        "codigo_cliente": "71890",
+                        "desc_cliente": "LUCIANE CARVALHO DE ANDRADE"
+                    },
+                    {
                         "codigo_cliente": "52596",
                         "desc_cliente": "LUCIANE ROCKENBACH FORSIN LEMIESZEK"
                     },
@@ -73430,6 +73428,10 @@
                         "desc_cliente": "MARILIA CHAVES"
                     },
                     {
+                        "codigo_cliente": "62580",
+                        "desc_cliente": "MARILIA SALETE DA SILVA DE OLIVEIRA"
+                    },
+                    {
                         "codigo_cliente": "67929",
                         "desc_cliente": "MARILUCI FERRAZ"
                     },
@@ -74070,6 +74072,10 @@
                         "desc_cliente": "NICOLE SANTOS"
                     },
                     {
+                        "codigo_cliente": "71885",
+                        "desc_cliente": "NIEGE COSTA CALDAS RICHARD"
+                    },
+                    {
                         "codigo_cliente": "57566",
                         "desc_cliente": "NILDO MARCIO MACHADO"
                     },
@@ -74674,6 +74680,10 @@
                         "desc_cliente": "RAINER CORREA BAUMART"
                     },
                     {
+                        "codigo_cliente": "71882",
+                        "desc_cliente": "RAISA CASTELO BRANCO"
+                    },
+                    {
                         "codigo_cliente": "62652",
                         "desc_cliente": "RAIZA ROCHA TEIXEIRA"
                     },
@@ -74840,6 +74850,10 @@
                     {
                         "codigo_cliente": "70788",
                         "desc_cliente": "RENATA CHERMONT"
+                    },
+                    {
+                        "codigo_cliente": "71884",
+                        "desc_cliente": "RENATA FADEL BARBUR DA ROSA"
                     },
                     {
                         "codigo_cliente": "67645",
@@ -75168,6 +75182,10 @@
                     {
                         "codigo_cliente": "58925",
                         "desc_cliente": "RODRIGO MAZZAROTTO"
+                    },
+                    {
+                        "codigo_cliente": "71883",
+                        "desc_cliente": "RODRIGO OLIVEIRA"
                     },
                     {
                         "codigo_cliente": "68284",

@@ -28128,10 +28128,6 @@
                         "desc_cliente": "JUPITER PRODUTOS PARA FESTAS LTDA"
                     },
                     {
-                        "codigo_cliente": "71708",
-                        "desc_cliente": "JUPITER PRODUTOS PARA FESTAS LTDA"
-                    },
-                    {
                         "codigo_cliente": "71560",
                         "desc_cliente": "MELO PRODUTOS PARA FESTAS LTDA"
                     },
@@ -61880,6 +61876,10 @@
                     {
                         "codigo_cliente": "51780",
                         "desc_cliente": "LUCAS SILVA DE SOUZA"
+                    },
+                    {
+                        "codigo_cliente": "51536",
+                        "desc_cliente": "LUCAS SOARES COSTA DA SILVA"
                     },
                     {
                         "codigo_cliente": "57950",

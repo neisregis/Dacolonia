@@ -4494,6 +4494,10 @@
                         "desc_cliente": "IDEAL ATACADISTA LTDA"
                     },
                     {
+                        "codigo_cliente": "71895",
+                        "desc_cliente": "JU DE QUEIROZ"
+                    },
+                    {
                         "codigo_cliente": "68206",
                         "desc_cliente": "LESN INDUSTRIA E COMERCIO DE ALIMENTOS LTDA"
                     },
@@ -12116,6 +12120,10 @@
                     {
                         "codigo_cliente": "43159",
                         "desc_cliente": "CAFEZIN MINEIRO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71894",
+                        "desc_cliente": "CASA DOS GRAOS E DESIDRATADOS LTDA"
                     },
                     {
                         "codigo_cliente": "47716",

@@ -19774,10 +19774,6 @@
                         "desc_cliente": "GCB LANCHES E CONVENIENCIA LTDA"
                     },
                     {
-                        "codigo_cliente": "71850",
-                        "desc_cliente": "KOCH HIPERMERCADO S/A."
-                    },
-                    {
                         "codigo_cliente": "28554",
                         "desc_cliente": "LANCHONETE E CASA DE SUCOS RANCHO DO OPA LTDA - EPP"
                     },
@@ -19961,6 +19957,10 @@
                     },
                     {
                         "codigo_cliente": "71411",
+                        "desc_cliente": "KOCH HIPERMERCADO S/A"
+                    },
+                    {
+                        "codigo_cliente": "71850",
                         "desc_cliente": "KOCH HIPERMERCADO S/A"
                     },
                     {
@@ -29460,10 +29460,6 @@
                     {
                         "codigo_cliente": "19954",
                         "desc_cliente": "RENATO MENEGAZ DA SILVA"
-                    },
-                    {
-                        "codigo_cliente": "36510",
-                        "desc_cliente": "RESTAURANTE E LANCHONETE TIO BILIA LTDA"
                     },
                     {
                         "codigo_cliente": "65775",
@@ -46488,6 +46484,10 @@
                         "desc_cliente": "SUPERMERCADO HIGAS ITAQUERA LTDA"
                     },
                     {
+                        "codigo_cliente": "71847",
+                        "desc_cliente": "SUPERMERCADO HIGAS ITAQUERA LTDA"
+                    },
+                    {
                         "codigo_cliente": "61001",
                         "desc_cliente": "SUPERMERCADO HIGAS PRIMAVERA LTDA"
                     },
@@ -47128,10 +47128,6 @@
                     {
                         "codigo_cliente": "64105",
                         "desc_cliente": "SUPERMERCADO DE CAMPOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71847",
-                        "desc_cliente": "SUPERMERCADO HIGAS ITAQUERA LTDA - FILIAL"
                     },
                     {
                         "codigo_cliente": "71848",
@@ -55095,7 +55091,7 @@
                     },
                     {
                         "codigo_cliente": "71845",
-                        "desc_cliente": "JANA RESTAURANTE EIRELI"
+                        "desc_cliente": "JANA RESTAURANTE LTDA"
                     },
                     {
                         "codigo_cliente": "31966",
@@ -82843,10 +82839,6 @@
                 "1370 - AMUNDIAL": [
                     {
                         "codigo_cliente": "69261",
-                        "desc_cliente": "CASA BRASILIA UTILIDADES DO LAR LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69262",
                         "desc_cliente": "CASA BRASILIA UTILIDADES DO LAR LTDA"
                     },
                     {

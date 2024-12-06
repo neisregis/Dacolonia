@@ -46626,10 +46626,6 @@
                         "desc_cliente": "A A RIBEIRO SUPERMERCADO EIRELI"
                     },
                     {
-                        "codigo_cliente": "71849",
-                        "desc_cliente": "ACHEI ATACAREJO DO PUTIM LTDA"
-                    },
-                    {
                         "codigo_cliente": "64142",
                         "desc_cliente": "ACJ - VALE VARIEDADES LTDA"
                     },
@@ -47191,6 +47187,10 @@
                     }
                 ],
                 "367 - MAXIMO SUP. SP": [
+                    {
+                        "codigo_cliente": "71849",
+                        "desc_cliente": "ACHEI ATACAREJO DO PUTIM LTDA"
+                    },
                     {
                         "codigo_cliente": "33183",
                         "desc_cliente": "MAXIMO SUPERMERCADOS ATACADISTA LTDA"
@@ -53138,6 +53138,18 @@
                     {
                         "codigo_cliente": "58784",
                         "desc_cliente": "SIDINEIDE BASTOS TEIXEIRA 01917505574"
+                    },
+                    {
+                        "codigo_cliente": "71858",
+                        "desc_cliente": "UNIMAR SUPERMERCADO E ATACADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71859",
+                        "desc_cliente": "UNIMAR SUPERMERCADO E ATACADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71860",
+                        "desc_cliente": "UNIMAR SUPERMERCADO E ATACADO LTDA"
                     }
                 ],
                 "221 - ARMAZEM MATEUS": [

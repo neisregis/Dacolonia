@@ -19062,6 +19062,10 @@
                         "desc_cliente": "V COMÉRCIO DE ALIMENTOS EIRELI ME"
                     },
                     {
+                        "codigo_cliente": "71788",
+                        "desc_cliente": "VDZ DOCES LTDA"
+                    },
+                    {
                         "codigo_cliente": "40098",
                         "desc_cliente": "WILLIAM AUTH"
                     },
@@ -58878,6 +58882,10 @@
                     {
                         "codigo_cliente": "68615",
                         "desc_cliente": "EDNA COELHO DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "51569",
+                        "desc_cliente": "EDNEIA NETO SILVEIRA"
                     },
                     {
                         "codigo_cliente": "70656",

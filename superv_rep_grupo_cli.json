@@ -19062,10 +19062,6 @@
                         "desc_cliente": "V COMÉRCIO DE ALIMENTOS EIRELI ME"
                     },
                     {
-                        "codigo_cliente": "71788",
-                        "desc_cliente": "VDZ DOCES LTDA"
-                    },
-                    {
                         "codigo_cliente": "40098",
                         "desc_cliente": "WILLIAM AUTH"
                     },
@@ -28458,6 +28454,10 @@
                     {
                         "codigo_cliente": "44629",
                         "desc_cliente": "KELLY MARTINS MACHADO E CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71732",
+                        "desc_cliente": "LITORAL CASA DAS CARNES LTDA"
                     },
                     {
                         "codigo_cliente": "22491",
@@ -60176,6 +60176,10 @@
                         "desc_cliente": "IDELCIR BAIRROS DOS SANTOS"
                     },
                     {
+                        "codigo_cliente": "71897",
+                        "desc_cliente": "IGOR DUTRA"
+                    },
+                    {
                         "codigo_cliente": "61496",
                         "desc_cliente": "IGOR ELIAS MARQUES"
                     },
@@ -62770,6 +62774,10 @@
                     {
                         "codigo_cliente": "66235",
                         "desc_cliente": "MATHEUS AUGUSTO CARVALHO DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "71898",
+                        "desc_cliente": "MATHEUS COSTA KONRATH"
                     },
                     {
                         "codigo_cliente": "55927",

@@ -33242,6 +33242,10 @@
                         "desc_cliente": "A SARMENTO DA SILVA DOCES"
                     },
                     {
+                        "codigo_cliente": "71905",
+                        "desc_cliente": "BELLER COMERCIO DE PAPEIS LTDA"
+                    },
+                    {
                         "codigo_cliente": "53916",
                         "desc_cliente": "BOOM COMERCIO DE ALIMENTOS LTDA"
                     },
@@ -41268,6 +41272,10 @@
                     {
                         "codigo_cliente": "36306",
                         "desc_cliente": "MERCADO E ACOUGUE DA ESTACAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "55291",
+                        "desc_cliente": "MERCADO MORTOLA LTDA"
                     },
                     {
                         "codigo_cliente": "58969",
@@ -83119,7 +83127,7 @@
                     },
                     {
                         "codigo_cliente": "6599",
-                        "desc_cliente": "GOIAS FORTE SUPERMERCADO LTDA ME"
+                        "desc_cliente": "GOIAS FORTE ATACADISTA LTDA"
                     },
                     {
                         "codigo_cliente": "62514",

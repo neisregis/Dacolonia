@@ -1162,6 +1162,10 @@
                         "desc_cliente": "CARLOS A. VIEIRA EIRELI"
                     },
                     {
+                        "codigo_cliente": "61238",
+                        "desc_cliente": "CHOCOLA LTDA"
+                    },
+                    {
                         "codigo_cliente": "17479",
                         "desc_cliente": "COMERCIAL LUNASA LTDA"
                     },
@@ -8753,6 +8757,10 @@
             },
             "940": {
                 "1 - GERAL": [
+                    {
+                        "codigo_cliente": "71908",
+                        "desc_cliente": "IRMAOS MUFFATO S.A"
+                    },
                     {
                         "codigo_cliente": "52345",
                         "desc_cliente": "MULTIPROD COMERCIAL EIRELI-EPP"

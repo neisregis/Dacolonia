@@ -17296,6 +17296,10 @@
                         "desc_cliente": "BARRA NORTE MINI MERCADO LTDA"
                     },
                     {
+                        "codigo_cliente": "71927",
+                        "desc_cliente": "BONEBEG COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "48611",
                         "desc_cliente": "CAIO FERNANDO STALOCH"
                     },
@@ -58784,6 +58788,10 @@
                         "desc_cliente": "DIOGO RODRIGUES ADAM"
                     },
                     {
+                        "codigo_cliente": "71928",
+                        "desc_cliente": "DIONATA CORREIA TEDESCO"
+                    },
+                    {
                         "codigo_cliente": "68840",
                         "desc_cliente": "DIONATA FONSCECA"
                     },
@@ -62434,6 +62442,10 @@
                     {
                         "codigo_cliente": "49627",
                         "desc_cliente": "MARCELO FRAGA DOS SANTOS"
+                    },
+                    {
+                        "codigo_cliente": "71929",
+                        "desc_cliente": "MARCELO GOMES DOS SANTOS"
                     },
                     {
                         "codigo_cliente": "69020",
@@ -66528,10 +66540,6 @@
                     {
                         "codigo_cliente": "66610",
                         "desc_cliente": "STEFANIE DALTOE"
-                    },
-                    {
-                        "codigo_cliente": "71011",
-                        "desc_cliente": "THIAGO GOMES ANSEL"
                     }
                 ],
                 "1 - GERAL": [
@@ -76336,6 +76344,10 @@
                         "desc_cliente": "THIAGO DE CESARO"
                     },
                     {
+                        "codigo_cliente": "71011",
+                        "desc_cliente": "THIAGO GOMES ANSEL"
+                    },
+                    {
                         "codigo_cliente": "62985",
                         "desc_cliente": "THIAGO GONCALVES MOREIRA"
                     },
@@ -85206,6 +85218,10 @@
                     {
                         "codigo_cliente": "69468",
                         "desc_cliente": "CARVALHO & BITTENCOURT LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71668",
+                        "desc_cliente": "COMERCIO DE MEDICAMENTOS FAFENIX LTDA"
                     },
                     {
                         "codigo_cliente": "71407",

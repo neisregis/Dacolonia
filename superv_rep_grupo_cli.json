@@ -4495,7 +4495,7 @@
                     },
                     {
                         "codigo_cliente": "71895",
-                        "desc_cliente": "JU DE QUEIROZ"
+                        "desc_cliente": "J U DE QUEIROZ COMERCIO LTDA"
                     },
                     {
                         "codigo_cliente": "68206",
@@ -23302,12 +23302,12 @@
                         "desc_cliente": "COML. DE ALIMENTOS RICCI LTDA"
                     },
                     {
-                        "codigo_cliente": "23100",
-                        "desc_cliente": "RICCI COMERCIO DE CEREAIS LTDA - EPP"
+                        "codigo_cliente": "41881",
+                        "desc_cliente": "FORMENTON S/A"
                     },
                     {
-                        "codigo_cliente": "41881",
-                        "desc_cliente": "SUPERMERCADOS FORMENTON LTDA"
+                        "codigo_cliente": "23100",
+                        "desc_cliente": "RICCI COMERCIO DE CEREAIS LTDA - EPP"
                     }
                 ],
                 "700 - MACAMO": [
@@ -24798,6 +24798,38 @@
                 ],
                 "57 - UNISUPER": [
                     {
+                        "codigo_cliente": "23364",
+                        "desc_cliente": "FORMENTON S/A"
+                    },
+                    {
+                        "codigo_cliente": "25812",
+                        "desc_cliente": "FORMENTON S/A"
+                    },
+                    {
+                        "codigo_cliente": "25813",
+                        "desc_cliente": "FORMENTON S/A"
+                    },
+                    {
+                        "codigo_cliente": "26397",
+                        "desc_cliente": "FORMENTON S/A"
+                    },
+                    {
+                        "codigo_cliente": "28917",
+                        "desc_cliente": "FORMENTON S/A"
+                    },
+                    {
+                        "codigo_cliente": "38151",
+                        "desc_cliente": "FORMENTON S/A"
+                    },
+                    {
+                        "codigo_cliente": "40382",
+                        "desc_cliente": "FORMENTON S/A"
+                    },
+                    {
+                        "codigo_cliente": "41838",
+                        "desc_cliente": "FORMENTON S/A"
+                    },
+                    {
                         "codigo_cliente": "41872",
                         "desc_cliente": "FORMENTON S/A"
                     },
@@ -24806,40 +24838,8 @@
                         "desc_cliente": "FORMENTON S/A"
                     },
                     {
-                        "codigo_cliente": "23364",
-                        "desc_cliente": "SUPERMERCADOS FORMENTON LTDA"
-                    },
-                    {
-                        "codigo_cliente": "25812",
-                        "desc_cliente": "SUPERMERCADOS FORMENTON LTDA"
-                    },
-                    {
-                        "codigo_cliente": "25813",
-                        "desc_cliente": "SUPERMERCADOS FORMENTON LTDA"
-                    },
-                    {
-                        "codigo_cliente": "26397",
-                        "desc_cliente": "SUPERMERCADOS FORMENTON LTDA"
-                    },
-                    {
-                        "codigo_cliente": "28917",
-                        "desc_cliente": "SUPERMERCADOS FORMENTON LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38151",
-                        "desc_cliente": "SUPERMERCADOS FORMENTON LTDA"
-                    },
-                    {
-                        "codigo_cliente": "40382",
-                        "desc_cliente": "SUPERMERCADOS FORMENTON LTDA"
-                    },
-                    {
-                        "codigo_cliente": "41838",
-                        "desc_cliente": "SUPERMERCADOS FORMENTON LTDA"
-                    },
-                    {
                         "codigo_cliente": "45115",
-                        "desc_cliente": "SUPERMERCADOS FORMENTON LTDA"
+                        "desc_cliente": "FORMENTON S/A"
                     }
                 ],
                 "662 - POMIER": [
@@ -33434,24 +33434,24 @@
                         "desc_cliente": "COML BERLINK LTDA"
                     },
                     {
+                        "codigo_cliente": "41839",
+                        "desc_cliente": "FORMENTON S/A"
+                    },
+                    {
+                        "codigo_cliente": "41840",
+                        "desc_cliente": "FORMENTON S/A"
+                    },
+                    {
+                        "codigo_cliente": "46312",
+                        "desc_cliente": "FORMENTON S/A"
+                    },
+                    {
                         "codigo_cliente": "1016",
                         "desc_cliente": "SUPERMERCADO GENIAL`S LTDA"
                     },
                     {
                         "codigo_cliente": "2892",
                         "desc_cliente": "SUPERMERCADO SAO MIGUEL E ZANELA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "41839",
-                        "desc_cliente": "SUPERMERCADOS FORMENTON LTDA"
-                    },
-                    {
-                        "codigo_cliente": "41840",
-                        "desc_cliente": "SUPERMERCADOS FORMENTON LTDA"
-                    },
-                    {
-                        "codigo_cliente": "46312",
-                        "desc_cliente": "SUPERMERCADOS FORMENTON LTDA"
                     }
                 ],
                 "664 - PESSI & DORNELES": [
@@ -34415,7 +34415,7 @@
                 "57 - UNISUPER": [
                     {
                         "codigo_cliente": "42367",
-                        "desc_cliente": "SUPERMERCADOS FORMENTON LTDA"
+                        "desc_cliente": "FORMENTON S/A"
                     }
                 ],
                 "592 - SUPERMERCADO PORTAL": [
@@ -61756,6 +61756,10 @@
                         "desc_cliente": "LILIAN MARA DA SILVA"
                     },
                     {
+                        "codigo_cliente": "60856",
+                        "desc_cliente": "LINDOMAR DAMAS"
+                    },
+                    {
                         "codigo_cliente": "66054",
                         "desc_cliente": "LIRYEL CRISTIANE MACHADO POTELHO"
                     },
@@ -69278,10 +69282,6 @@
                     {
                         "codigo_cliente": "60520",
                         "desc_cliente": "ELEN RANGEL PEIXOTO"
-                    },
-                    {
-                        "codigo_cliente": "71889",
-                        "desc_cliente": "ELIANA APARECIDA MAGALHAES DE OLIVEIRA"
                     },
                     {
                         "codigo_cliente": "69669",
@@ -83774,10 +83774,6 @@
                     {
                         "codigo_cliente": "65753",
                         "desc_cliente": "TDL - TOTAL DISTRIBUIDORA E LOGISTICA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71896",
-                        "desc_cliente": "WMS"
                     }
                 ],
                 "426 - DVA": [
@@ -84103,6 +84099,10 @@
                     },
                     {
                         "codigo_cliente": "68722",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
+                    },
+                    {
+                        "codigo_cliente": "71896",
                         "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
                     }
                 ]

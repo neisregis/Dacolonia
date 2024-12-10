@@ -10346,6 +10346,10 @@
                         "desc_cliente": "DOCE BABI LTDA"
                     },
                     {
+                        "codigo_cliente": "71940",
+                        "desc_cliente": "EMERSON APIO"
+                    },
+                    {
                         "codigo_cliente": "59604",
                         "desc_cliente": "EMPORIO DO DIABETICO LTDA"
                     },
@@ -34166,6 +34170,10 @@
                     {
                         "codigo_cliente": "70304",
                         "desc_cliente": "BAMPI & PERES SUPERMERCADOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71935",
+                        "desc_cliente": "CALLI SUPERMERCADO LTDA"
                     },
                     {
                         "codigo_cliente": "46426",

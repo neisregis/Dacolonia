@@ -33512,6 +33512,10 @@
                     {
                         "codigo_cliente": "1894",
                         "desc_cliente": "T S D COM DE ALIMENTOS COLONIAIS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71972",
+                        "desc_cliente": "TUTTI SECCHI PRODUTOS ALIMENTICIOS LTDA"
                     }
                 ],
                 "403 - DIVINA TERRA": [
@@ -40510,6 +40514,10 @@
                         "desc_cliente": "CASAS GUANABARA COMESTIVEIS LTDA"
                     },
                     {
+                        "codigo_cliente": "22383",
+                        "desc_cliente": "CASAS GUANABARA COMESTIVEIS LTDA"
+                    },
+                    {
                         "codigo_cliente": "22384",
                         "desc_cliente": "CASAS GUANABARA COMESTIVEIS LTDA"
                     },
@@ -44188,6 +44196,10 @@
                     {
                         "codigo_cliente": "30493",
                         "desc_cliente": "LUIS FERNANDO VASQUES VAZ - ME"
+                    },
+                    {
+                        "codigo_cliente": "18233",
+                        "desc_cliente": "LUIZA MAR RODRIGUES PEIXE"
                     },
                     {
                         "codigo_cliente": "58613",
@@ -56047,6 +56059,10 @@
             },
             "820": {
                 "10 - CARREFOUR": [
+                    {
+                        "codigo_cliente": "35311",
+                        "desc_cliente": "CARREFOUR COM E IND LTDA"
+                    },
                     {
                         "codigo_cliente": "35309",
                         "desc_cliente": "CARREFOUR COMERCIO E INDUSTRIAL LTDA"
@@ -80101,6 +80117,10 @@
             },
             "1053": {
                 "1 - GERAL": [
+                    {
+                        "codigo_cliente": "71900",
+                        "desc_cliente": "52.491.157 DAIANE DA SILVA TELES"
+                    },
                     {
                         "codigo_cliente": "65154",
                         "desc_cliente": "53.712.673 RUDIMAR ANTONIO CAPELETTI"

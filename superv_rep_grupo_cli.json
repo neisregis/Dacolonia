@@ -11070,6 +11070,12 @@
                         "desc_cliente": "DOACIR F. RODRIGUES DA SILVA & CIA LTDA"
                     }
                 ],
+                "1327 - SUPERMERCADO OURO BRANCO": [
+                    {
+                        "codigo_cliente": "69437",
+                        "desc_cliente": "CRISTIAN GONCALVES DE PAULA & CIA LTDA"
+                    }
+                ],
                 "1350 - BEM NA HORA ": [
                     {
                         "codigo_cliente": "61336",
@@ -12065,10 +12071,6 @@
                     },
                     {
                         "codigo_cliente": "69436",
-                        "desc_cliente": "CRISTIAN GONCALVES DE PAULA & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69437",
                         "desc_cliente": "CRISTIAN GONCALVES DE PAULA & CIA LTDA"
                     }
                 ],
@@ -17288,6 +17290,10 @@
                         "desc_cliente": "ADEGA UAI TCHE PRODUTOS ALIMENTICIOS E BEBIDAS LTDA"
                     },
                     {
+                        "codigo_cliente": "71927",
+                        "desc_cliente": "A D F COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "67251",
                         "desc_cliente": "ANDRE LUIS VAGHETTI"
                     },
@@ -17298,10 +17304,6 @@
                     {
                         "codigo_cliente": "71406",
                         "desc_cliente": "BARRA NORTE MINI MERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71927",
-                        "desc_cliente": "BONEBEG COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "48611",
@@ -25494,10 +25496,6 @@
             "696": {
                 "3 - CIA.ZAFFARI": [
                     {
-                        "codigo_cliente": "38370",
-                        "desc_cliente": "CIA ZAFFARI COM E IND"
-                    },
-                    {
                         "codigo_cliente": "9354",
                         "desc_cliente": "CIA.ZAFFARI COM.E INDUSTRIA-LJ 32"
                     },
@@ -25508,6 +25506,10 @@
                     {
                         "codigo_cliente": "11106",
                         "desc_cliente": "CIA.ZAFFARI COM.E INDUSTRIA-LJ 34"
+                    },
+                    {
+                        "codigo_cliente": "38370",
+                        "desc_cliente": "CIA. ZAFFARI COM. E INDUSTRIA - LJ 35"
                     }
                 ]
             },
@@ -28136,6 +28138,10 @@
                         "desc_cliente": "DI FESTA PRODUTOS PARA FESTAS LTDA"
                     },
                     {
+                        "codigo_cliente": "70294",
+                        "desc_cliente": "HIPER FESTAS PRODUTOS PARA FESTAS LTDA"
+                    },
+                    {
                         "codigo_cliente": "70093",
                         "desc_cliente": "IPANEMA COMERCIO DE ALIMENTOS LTDA"
                     },
@@ -28798,10 +28804,6 @@
                 ],
                 "1 - GERAL": [
                     {
-                        "codigo_cliente": "71934",
-                        "desc_cliente": "4 PARADA PEDRO PELANDA LTDA"
-                    },
-                    {
                         "codigo_cliente": "24679",
                         "desc_cliente": "A. B. CARDOSO SUPERMERCADOS LTDA - EPP"
                     },
@@ -29000,6 +29002,10 @@
                     {
                         "codigo_cliente": "8495",
                         "desc_cliente": "NATALIA DA ROSA MESQUITA 08155297918"
+                    },
+                    {
+                        "codigo_cliente": "71934",
+                        "desc_cliente": "PARADA PEDRO PELANDA LTDA"
                     },
                     {
                         "codigo_cliente": "19086",
@@ -41300,6 +41306,10 @@
                     {
                         "codigo_cliente": "43714",
                         "desc_cliente": "MARCELO C DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "71936",
+                        "desc_cliente": "MARCELO PACHECO TORRES"
                     },
                     {
                         "codigo_cliente": "18467",
@@ -64626,6 +64636,10 @@
                     {
                         "codigo_cliente": "61620",
                         "desc_cliente": "SILVIO LUIZ SOUZA DA SILVA "
+                    },
+                    {
+                        "codigo_cliente": "71939",
+                        "desc_cliente": "SILVIO REINALDO NUNES"
                     },
                     {
                         "codigo_cliente": "51436",

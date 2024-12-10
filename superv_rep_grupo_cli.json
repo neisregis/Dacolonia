@@ -8146,6 +8146,20 @@
                         "desc_cliente": "BAEZA E CRUZ LTDA"
                     }
                 ],
+                "1380 - ROCHA SUPERMERCADOS - PR": [
+                    {
+                        "codigo_cliente": "71653",
+                        "desc_cliente": "ROCHA - COMERCIO VAREJISTA DE GENEROS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71654",
+                        "desc_cliente": "ROCHA - COMERCIO VAREJISTA DE GENEROS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71655",
+                        "desc_cliente": "ROCHA - COMERCIO VAREJISTA DE GENEROS ALIMENTICIOS LTDA"
+                    }
+                ],
                 "17 - CONDOR": [
                     {
                         "codigo_cliente": "6187",
@@ -8925,6 +8939,10 @@
                     },
                     {
                         "codigo_cliente": "69502",
+                        "desc_cliente": "IRMAOS MUFFATO S.A"
+                    },
+                    {
+                        "codigo_cliente": "71908",
                         "desc_cliente": "IRMAOS MUFFATO S.A"
                     },
                     {
@@ -23398,6 +23416,10 @@
                     {
                         "codigo_cliente": "44011",
                         "desc_cliente": "AMB BAZAR E UTILIDADES LTDA"
+                    },
+                    {
+                        "codigo_cliente": "43950",
+                        "desc_cliente": "LOJA 7 SANTO ANTONIO PRES E UTIL LTDA"
                     }
                 ],
                 "124 - REDE GRANDESUL": [
@@ -60486,6 +60508,10 @@
                         "desc_cliente": "JAIME KONLD"
                     },
                     {
+                        "codigo_cliente": "12401",
+                        "desc_cliente": "JAIME LUIZ BORGES GOMES"
+                    },
+                    {
                         "codigo_cliente": "66525",
                         "desc_cliente": "JAINE OLIEVEIRA BIESLESQUE"
                     },
@@ -63900,6 +63926,10 @@
                     {
                         "codigo_cliente": "58577",
                         "desc_cliente": "RAPHAEL TORRES NUNES"
+                    },
+                    {
+                        "codigo_cliente": "71957",
+                        "desc_cliente": "RAQUEL GOMES PANTA"
                     },
                     {
                         "codigo_cliente": "55702",

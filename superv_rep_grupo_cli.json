@@ -19224,6 +19224,10 @@
                         "desc_cliente": "ARMAZEM DO FIFO LTDA"
                     },
                     {
+                        "codigo_cliente": "43133",
+                        "desc_cliente": "ARMAZEM DO PRECO LOKO LTDA"
+                    },
+                    {
                         "codigo_cliente": "15267",
                         "desc_cliente": "ARMAZEM WEISE LTDA"
                     },
@@ -19346,6 +19350,10 @@
                     {
                         "codigo_cliente": "43984",
                         "desc_cliente": "MERCADO BERTOLI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "22488",
+                        "desc_cliente": "MERCADO CEDRO CENTRAL LTDA"
                     },
                     {
                         "codigo_cliente": "29746",
@@ -29764,6 +29772,10 @@
                     {
                         "codigo_cliente": "63260",
                         "desc_cliente": "ARMAZEM SAO BERNARDO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71973",
+                        "desc_cliente": "AUTO POSTO JOVINHO LTDA"
                     },
                     {
                         "codigo_cliente": "49007",

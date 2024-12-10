@@ -28798,6 +28798,10 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "71934",
+                        "desc_cliente": "4 PARADA PEDRO PELANDA LTDA"
+                    },
+                    {
                         "codigo_cliente": "24679",
                         "desc_cliente": "A. B. CARDOSO SUPERMERCADOS LTDA - EPP"
                     },

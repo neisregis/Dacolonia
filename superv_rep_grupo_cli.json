@@ -21978,6 +21978,10 @@
                         "desc_cliente": "KUR HOTEL CLINICA GRAMADO LTDA"
                     },
                     {
+                        "codigo_cliente": "34690",
+                        "desc_cliente": "LARA TRINDADE BAZAR COMERCIO DE MERCADORIAS EM GERAL LT"
+                    },
+                    {
                         "codigo_cliente": "47548",
                         "desc_cliente": "LEANDRO TIAGO FAIFFER 02981162004"
                     },
@@ -41034,10 +41038,6 @@
                         "desc_cliente": "A P GONCALVES"
                     },
                     {
-                        "codigo_cliente": "56672",
-                        "desc_cliente": "BEATRIZ RUIZ DA COSTA 95474102020"
-                    },
-                    {
                         "codigo_cliente": "34332",
                         "desc_cliente": "BIERHALS & BRAZ LTDA"
                     },
@@ -41382,6 +41382,10 @@
                         "desc_cliente": "MERCADO E ACOUGUE DA ESTACAO LTDA"
                     },
                     {
+                        "codigo_cliente": "55291",
+                        "desc_cliente": "MERCADO MORTOLA LTDA"
+                    },
+                    {
                         "codigo_cliente": "58969",
                         "desc_cliente": "MERCEARIA E PADARIA JR LTDA"
                     },
@@ -41416,6 +41420,10 @@
                     {
                         "codigo_cliente": "26034",
                         "desc_cliente": "MISLENE BARBOZA DE AVILA AVILA OLIVEIRA"
+                    },
+                    {
+                        "codigo_cliente": "56672",
+                        "desc_cliente": "MIX FOOD ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "70673",
@@ -41491,7 +41499,7 @@
                     },
                     {
                         "codigo_cliente": "2652",
-                        "desc_cliente": "RADIR OLETO DE OLIVEIRA"
+                        "desc_cliente": "RADIR OLETO DE OLIVEIRA LTDA"
                     },
                     {
                         "codigo_cliente": "46921",
@@ -56050,10 +56058,6 @@
                     {
                         "codigo_cliente": "35310",
                         "desc_cliente": "CARREFOUR COMERCIO E INDUSTRIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "35311",
-                        "desc_cliente": "CARREFOUR COMERCIO E INDUSTRIA LTDA"
                     }
                 ]
             },
@@ -60192,6 +60196,10 @@
                         "desc_cliente": "GUILHERME VIANA DA SILVA"
                     },
                     {
+                        "codigo_cliente": "71971",
+                        "desc_cliente": "GUINTER NUNES HERTZOG"
+                    },
+                    {
                         "codigo_cliente": "70030",
                         "desc_cliente": "GUSTAVO CORREA"
                     },
@@ -60526,6 +60534,10 @@
                     {
                         "codigo_cliente": "66525",
                         "desc_cliente": "JAINE OLIEVEIRA BIESLESQUE"
+                    },
+                    {
+                        "codigo_cliente": "71970",
+                        "desc_cliente": "JAINE SCHYMANSKI"
                     },
                     {
                         "codigo_cliente": "70370",
@@ -77639,6 +77651,10 @@
                     },
                     {
                         "codigo_cliente": "69284",
+                        "desc_cliente": "MERCADO A QUITANDA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71933",
                         "desc_cliente": "MERCADO A QUITANDA LTDA"
                     },
                     {

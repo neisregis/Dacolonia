@@ -85576,6 +85576,16 @@
                 ]
             },
             "855": {
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "71975",
+                        "desc_cliente": "carrefour comercio e industria ltda"
+                    },
+                    {
+                        "codigo_cliente": "71974",
+                        "desc_cliente": "wms supermercados do brasil ltda"
+                    }
+                ],
                 "88 - ATACADAO": [
                     {
                         "codigo_cliente": "22238",

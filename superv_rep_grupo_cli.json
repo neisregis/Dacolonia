@@ -23458,6 +23458,10 @@
                     {
                         "codigo_cliente": "44011",
                         "desc_cliente": "AMB BAZAR E UTILIDADES LTDA"
+                    },
+                    {
+                        "codigo_cliente": "43950",
+                        "desc_cliente": "LOJA 7 SANTO ANTONIO PRES E UTIL LTDA"
                     }
                 ],
                 "124 - REDE GRANDESUL": [
@@ -23516,6 +23520,10 @@
                     {
                         "codigo_cliente": "44446",
                         "desc_cliente": "BRITOSUL DISTR DE ALIM HIGIENE E LIMPEZA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71452",
+                        "desc_cliente": "BRUNO LOPES DORNELES 02222481066"
                     },
                     {
                         "codigo_cliente": "48811",
@@ -23752,6 +23760,10 @@
                     {
                         "codigo_cliente": "38412",
                         "desc_cliente": "M&M ALIMENTOS SAUDÁVEIS  LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71711",
+                        "desc_cliente": "NORTESUL COMERCIO DE DOCES LTDA"
                     },
                     {
                         "codigo_cliente": "69725",
@@ -27232,19 +27244,7 @@
             "1108": {
                 "1080 - SUP RIO DAS PEDRAS": [
                     {
-                        "codigo_cliente": "58382",
-                        "desc_cliente": "MARIA DAS GRACAS SILVA & CIA LTDA"
-                    },
-                    {
                         "codigo_cliente": "58383",
-                        "desc_cliente": "MARIA DAS GRACAS SILVA & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "58387",
-                        "desc_cliente": "MARIA DAS GRACAS SILVA & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "60047",
                         "desc_cliente": "MARIA DAS GRACAS SILVA & CIA LTDA"
                     }
                 ],
@@ -28208,10 +28208,6 @@
                     {
                         "codigo_cliente": "70301",
                         "desc_cliente": "DI FESTA PRODUTOS PARA FESTAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "70294",
-                        "desc_cliente": "HIPER FESTAS PRODUTOS PARA FESTAS LTDA"
                     },
                     {
                         "codigo_cliente": "70093",
@@ -42544,6 +42540,10 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "71950",
+                        "desc_cliente": "40.813.934 CAMILA GRACIOLI"
+                    },
+                    {
                         "codigo_cliente": "56994",
                         "desc_cliente": "43.809.994 EDSON DE PAULA SEEGER"
                     },
@@ -43916,6 +43916,10 @@
                         "desc_cliente": "ADRIANA LOPES CRUZ"
                     },
                     {
+                        "codigo_cliente": "40585",
+                        "desc_cliente": "ADRIANO DA PRADO ACHILLES 00392856000"
+                    },
+                    {
                         "codigo_cliente": "56586",
                         "desc_cliente": "ALEX SANDRO MACHADO LANGENDORF 66993121034"
                     },
@@ -44178,6 +44182,10 @@
                     {
                         "codigo_cliente": "37998",
                         "desc_cliente": "JVF ALIMENTOS LTDA ME"
+                    },
+                    {
+                        "codigo_cliente": "40439",
+                        "desc_cliente": "LEANDRO ALTAIR MARQUES LOPES"
                     },
                     {
                         "codigo_cliente": "25681",
@@ -44716,6 +44724,10 @@
                     {
                         "codigo_cliente": "21126",
                         "desc_cliente": "ELIDO ANTONIO ANDRADES VIERO"
+                    },
+                    {
+                        "codigo_cliente": "23047",
+                        "desc_cliente": "ELIZETE MARIA BEVILACQUA"
                     },
                     {
                         "codigo_cliente": "58549",
@@ -45388,6 +45400,10 @@
                     {
                         "codigo_cliente": "57940",
                         "desc_cliente": "H N FREITAS MINIMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "37092",
+                        "desc_cliente": "IDIR CARLOS CHESINI COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "55201",
@@ -63430,6 +63446,10 @@
                         "desc_cliente": "NELCI LENIR MAIA"
                     },
                     {
+                        "codigo_cliente": "71996",
+                        "desc_cliente": "NELCINDO JOSE VIER"
+                    },
+                    {
                         "codigo_cliente": "67318",
                         "desc_cliente": "NELCIR BAO"
                     },
@@ -68996,6 +69016,10 @@
                     {
                         "codigo_cliente": "70007",
                         "desc_cliente": "DAMIANA REIS"
+                    },
+                    {
+                        "codigo_cliente": "71988",
+                        "desc_cliente": "DANIANE GRANDO REMOR CANALI"
                     },
                     {
                         "codigo_cliente": "67799",
@@ -84462,10 +84486,6 @@
                         "desc_cliente": "CHOKOMELK DOCES, CONFEITARIA E FESTAS LTDA"
                     },
                     {
-                        "codigo_cliente": "63222",
-                        "desc_cliente": "COMERCIO DE ALIMENTOS SUPER MIX LTDA"
-                    },
-                    {
                         "codigo_cliente": "63981",
                         "desc_cliente": "COMPRAR BEM COMERCIAL DE ALIMENTOS LTDA"
                     },
@@ -84552,10 +84572,6 @@
                     {
                         "codigo_cliente": "66920",
                         "desc_cliente": "LBNKRZY - COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71873",
-                        "desc_cliente": "L & L VAREJO E MARKETING LTDA"
                     },
                     {
                         "codigo_cliente": "61883",
@@ -84974,10 +84990,6 @@
                         "desc_cliente": "DVA COMERCIO ATACADISTA DE ALIMENTOS LTDA"
                     },
                     {
-                        "codigo_cliente": "71667",
-                        "desc_cliente": "DVA COMERCIO ATACADISTA DE ALIMENTOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "40084",
                         "desc_cliente": "DVA COMERCIO ATACDISTA"
                     },
@@ -85239,10 +85251,6 @@
                     },
                     {
                         "codigo_cliente": "68722",
-                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
-                    },
-                    {
-                        "codigo_cliente": "71896",
                         "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
                     }
                 ]

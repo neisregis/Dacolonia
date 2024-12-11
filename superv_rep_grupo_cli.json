@@ -7454,6 +7454,10 @@
                         "desc_cliente": "DANNY WILTON DA SILVA POVOA 04590435950"
                     },
                     {
+                        "codigo_cliente": "64760",
+                        "desc_cliente": "DARIANE CORONA BOURSCHEID 04587226939"
+                    },
+                    {
                         "codigo_cliente": "40859",
                         "desc_cliente": "D J DE SOUZA SUPERMERCADO ME"
                     },
@@ -22676,6 +22680,10 @@
                         "desc_cliente": "CASSIANO L ROSSINI"
                     },
                     {
+                        "codigo_cliente": "57477",
+                        "desc_cliente": "CHAMILA PERONDI"
+                    },
+                    {
                         "codigo_cliente": "60025",
                         "desc_cliente": "CILENE TOMKIEL 00579865096"
                     },
@@ -34442,10 +34450,6 @@
                     {
                         "codigo_cliente": "35682",
                         "desc_cliente": "TANIA MARIA GRAF"
-                    },
-                    {
-                        "codigo_cliente": "71926",
-                        "desc_cliente": "TATIANE MACEDO GOMES"
                     },
                     {
                         "codigo_cliente": "45348",
@@ -59866,6 +59870,10 @@
                         "desc_cliente": "GABRIELA RISTOW DA LUZ"
                     },
                     {
+                        "codigo_cliente": "71978",
+                        "desc_cliente": "GABRIEL BIASI"
+                    },
+                    {
                         "codigo_cliente": "67039",
                         "desc_cliente": "GABRIEL COLONETTE  LOPES"
                     },
@@ -77340,12 +77348,6 @@
                         "desc_cliente": "CARREFOUR COMERCIO E INDUSTRIA LTDA"
                     }
                 ],
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "71974",
-                        "desc_cliente": "wms supermercados do brasil ltda"
-                    }
-                ],
                 "88 - ATACADAO": [
                     {
                         "codigo_cliente": "22238",
@@ -77933,6 +77935,10 @@
                     },
                     {
                         "codigo_cliente": "69391",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71974",
                         "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
                     },
                     {
@@ -81524,10 +81530,6 @@
                     {
                         "codigo_cliente": "30214",
                         "desc_cliente": "V F SPERANZA"
-                    },
-                    {
-                        "codigo_cliente": "45340",
-                        "desc_cliente": "VPV JUNIOR LTDA"
                     },
                     {
                         "codigo_cliente": "31836",
@@ -85886,6 +85888,10 @@
                     {
                         "codigo_cliente": "66250",
                         "desc_cliente": "DIEGO S. MEDEIROS & LEONARDO E. MARTINI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71977",
+                        "desc_cliente": "UNIDASUL DISTRIBUIDORA ALIMENTICIA S/A"
                     }
                 ]
             }

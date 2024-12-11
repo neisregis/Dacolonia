@@ -39528,24 +39528,6 @@
                         "desc_cliente": "SUPERMERKATO COMERCIO DE ALIMENTOS LTDA"
                     }
                 ],
-                "352 - CASA DO ARROZ": [
-                    {
-                        "codigo_cliente": "28274",
-                        "desc_cliente": "H S COUTINHO INDUSTRIA E COMERCIO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "28628",
-                        "desc_cliente": "H S COUTINHO INDUSTRIA E COMERCIO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "29697",
-                        "desc_cliente": "H S COUTINHO INDUSTRIA E COMERCIO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "48932",
-                        "desc_cliente": "H S COUTINHO INDUTRIA E COMERCIO LTDA"
-                    }
-                ],
                 "832 - MERCADO TATAIS": [
                     {
                         "codigo_cliente": "47621",
@@ -39878,6 +39860,24 @@
                     {
                         "codigo_cliente": "68926",
                         "desc_cliente": "W ARAUJO MINI-MERCADO"
+                    }
+                ],
+                "352 - CASA DO ARROZ": [
+                    {
+                        "codigo_cliente": "28274",
+                        "desc_cliente": "H S COUTINHO INDUSTRIA E COMERCIO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "28628",
+                        "desc_cliente": "H S COUTINHO INDUSTRIA E COMERCIO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "29697",
+                        "desc_cliente": "H S COUTINHO INDUSTRIA E COMERCIO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "48932",
+                        "desc_cliente": "H S COUTINHO INDUTRIA E COMERCIO LTDA"
                     }
                 ],
                 "403 - DIVINA TERRA": [
@@ -58724,6 +58724,10 @@
                     {
                         "codigo_cliente": "51522",
                         "desc_cliente": "DAVIDSON ENINGER CORREA"
+                    },
+                    {
+                        "codigo_cliente": "71991",
+                        "desc_cliente": "DAVID TERRES PAGANI"
                     },
                     {
                         "codigo_cliente": "69710",

@@ -24418,6 +24418,10 @@
                         "desc_cliente": "CLEONICE PEREIRA SARMENTO 75237490034"
                     },
                     {
+                        "codigo_cliente": "71979",
+                        "desc_cliente": "COQUEIRO COMBUSTIVEIS E SERVICOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "57418",
                         "desc_cliente": "DIONE TAMARA FLORES MERTINS"
                     },
@@ -68834,6 +68838,10 @@
                         "desc_cliente": "CRISTIANE HIGASHI"
                     },
                     {
+                        "codigo_cliente": "39407",
+                        "desc_cliente": "CRISTIANE HOFFMANN"
+                    },
+                    {
                         "codigo_cliente": "69230",
                         "desc_cliente": "CRISTIANE MACHADO WEINGAERTNER"
                     },
@@ -71080,10 +71088,6 @@
                     {
                         "codigo_cliente": "67126",
                         "desc_cliente": "HENRIQUE CASTRO MARTINS"
-                    },
-                    {
-                        "codigo_cliente": "39407",
-                        "desc_cliente": "HENRIQUE HOFFMANN MONTEIRO DE CASTRO"
                     },
                     {
                         "codigo_cliente": "67172",
@@ -81530,6 +81534,10 @@
                     {
                         "codigo_cliente": "30214",
                         "desc_cliente": "V F SPERANZA"
+                    },
+                    {
+                        "codigo_cliente": "45340",
+                        "desc_cliente": "VPV JUNIOR LTDA"
                     },
                     {
                         "codigo_cliente": "31836",

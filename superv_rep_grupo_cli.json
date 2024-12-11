@@ -27244,7 +27244,19 @@
             "1108": {
                 "1080 - SUP RIO DAS PEDRAS": [
                     {
+                        "codigo_cliente": "58382",
+                        "desc_cliente": "MARIA DAS GRACAS SILVA & CIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "58383",
+                        "desc_cliente": "MARIA DAS GRACAS SILVA & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "58387",
+                        "desc_cliente": "MARIA DAS GRACAS SILVA & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "60047",
                         "desc_cliente": "MARIA DAS GRACAS SILVA & CIA LTDA"
                     }
                 ],
@@ -28208,6 +28220,10 @@
                     {
                         "codigo_cliente": "70301",
                         "desc_cliente": "DI FESTA PRODUTOS PARA FESTAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70294",
+                        "desc_cliente": "HIPER FESTAS PRODUTOS PARA FESTAS LTDA"
                     },
                     {
                         "codigo_cliente": "70093",
@@ -62150,6 +62166,10 @@
                         "desc_cliente": "LUCAS FERNANDO BITTENCOURT MENDONÇA"
                     },
                     {
+                        "codigo_cliente": "71999",
+                        "desc_cliente": "LUCAS GONÇALVES"
+                    },
+                    {
                         "codigo_cliente": "67389",
                         "desc_cliente": "LUCAS MONTEIRO MALHEIROS"
                     },
@@ -62880,6 +62900,10 @@
                     {
                         "codigo_cliente": "71925",
                         "desc_cliente": "MARIANA CARDOSO RAMOS"
+                    },
+                    {
+                        "codigo_cliente": "71997",
+                        "desc_cliente": "MARIANA LOBELL"
                     },
                     {
                         "codigo_cliente": "57088",
@@ -84486,6 +84510,10 @@
                         "desc_cliente": "CHOKOMELK DOCES, CONFEITARIA E FESTAS LTDA"
                     },
                     {
+                        "codigo_cliente": "63222",
+                        "desc_cliente": "COMERCIO DE ALIMENTOS SUPER MIX LTDA"
+                    },
+                    {
                         "codigo_cliente": "63981",
                         "desc_cliente": "COMPRAR BEM COMERCIAL DE ALIMENTOS LTDA"
                     },
@@ -84572,6 +84600,10 @@
                     {
                         "codigo_cliente": "66920",
                         "desc_cliente": "LBNKRZY - COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71873",
+                        "desc_cliente": "L & L VAREJO E MARKETING LTDA"
                     },
                     {
                         "codigo_cliente": "61883",
@@ -84990,6 +85022,10 @@
                         "desc_cliente": "DVA COMERCIO ATACADISTA DE ALIMENTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "71667",
+                        "desc_cliente": "DVA COMERCIO ATACADISTA DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "40084",
                         "desc_cliente": "DVA COMERCIO ATACDISTA"
                     },
@@ -85251,6 +85287,10 @@
                     },
                     {
                         "codigo_cliente": "68722",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
+                    },
+                    {
+                        "codigo_cliente": "71896",
                         "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
                     }
                 ]

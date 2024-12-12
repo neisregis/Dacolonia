@@ -1162,10 +1162,6 @@
                         "desc_cliente": "CARLOS A. VIEIRA EIRELI"
                     },
                     {
-                        "codigo_cliente": "61238",
-                        "desc_cliente": "CHOCOLA LTDA"
-                    },
-                    {
                         "codigo_cliente": "17479",
                         "desc_cliente": "COMERCIAL LUNASA LTDA"
                     },
@@ -3422,10 +3418,6 @@
                     {
                         "codigo_cliente": "65317",
                         "desc_cliente": "CIRO VERNER DE P.NUNES LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71713",
-                        "desc_cliente": "SUPERMERCADOS BOA COMPRA LTDA"
                     }
                 ],
                 "723 - SÓ FESTA": [
@@ -4041,10 +4033,6 @@
                     }
                 ],
                 "365 - JMF": [
-                    {
-                        "codigo_cliente": "20940",
-                        "desc_cliente": "ORGANIZACOES JMF LTDA"
-                    },
                     {
                         "codigo_cliente": "28817",
                         "desc_cliente": "ORGANIZACOES JMF LTDA"
@@ -5580,10 +5568,6 @@
                     {
                         "codigo_cliente": "35942",
                         "desc_cliente": "THALITA MARA BIACIO"
-                    },
-                    {
-                        "codigo_cliente": "71836",
-                        "desc_cliente": "UNIBEM ATACADISTA LTDA"
                     },
                     {
                         "codigo_cliente": "24417",
@@ -26520,10 +26504,6 @@
                         "desc_cliente": "COMERCIAL MIGOTTO LTDA"
                     },
                     {
-                        "codigo_cliente": "46005",
-                        "desc_cliente": "DAMASCENO & DAMASCENO LTDA"
-                    },
-                    {
                         "codigo_cliente": "23012",
                         "desc_cliente": "D'GUST TEMPEROS LTDA"
                     },
@@ -28256,10 +28236,6 @@
                     {
                         "codigo_cliente": "71560",
                         "desc_cliente": "MELO PRODUTOS PARA FESTAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71725",
-                        "desc_cliente": "SALMOS PRODUTOS PARA FESTAS LTDA"
                     },
                     {
                         "codigo_cliente": "70223",
@@ -41036,6 +41012,10 @@
                     {
                         "codigo_cliente": "68397",
                         "desc_cliente": "56.239.769 MARTA DE CAMPOS GOMES"
+                    },
+                    {
+                        "codigo_cliente": "72002",
+                        "desc_cliente": "57.652.662 JANAINA DE VASCONCELOS MEREB"
                     },
                     {
                         "codigo_cliente": "71936",
@@ -58636,6 +58616,10 @@
                         "desc_cliente": "CRISTYAN SOARES"
                     },
                     {
+                        "codigo_cliente": "55211",
+                        "desc_cliente": "DAGUIMAR MACIEL OLIVEIRA "
+                    },
+                    {
                         "codigo_cliente": "69909",
                         "desc_cliente": "DAIANA PETRO DOS SANTOS"
                     },
@@ -65646,6 +65630,10 @@
                     {
                         "codigo_cliente": "34253",
                         "desc_cliente": "CRISTIANO CAMOLEZ"
+                    },
+                    {
+                        "codigo_cliente": "37509",
+                        "desc_cliente": "DEISE CAROLINE MACHADO DE MEDEIROS"
                     },
                     {
                         "codigo_cliente": "69525",
@@ -79824,6 +79812,10 @@
                     {
                         "codigo_cliente": "42991",
                         "desc_cliente": "MERCADO PESCADOR LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71998",
+                        "desc_cliente": "MERCADO SPIRONELLO DEBONA LTDA"
                     },
                     {
                         "codigo_cliente": "17304",

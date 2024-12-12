@@ -19426,6 +19426,10 @@
                         "desc_cliente": "SUPERMERCADO VANS - EIRELI - ME"
                     },
                     {
+                        "codigo_cliente": "28986",
+                        "desc_cliente": "SUPERMERCADO VIVIANI LTDA"
+                    },
+                    {
                         "codigo_cliente": "56387",
                         "desc_cliente": "UNIFIQUE TELECOMUNICACOES S/A"
                     },
@@ -33514,6 +33518,10 @@
                     {
                         "codigo_cliente": "1894",
                         "desc_cliente": "T S D COM DE ALIMENTOS COLONIAIS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71972",
+                        "desc_cliente": "TUTTI SECCHI PRODUTOS ALIMENTICIOS LTDA"
                     }
                 ],
                 "403 - DIVINA TERRA": [
@@ -86110,6 +86118,10 @@
                         "desc_cliente": "UNIDASUL DISTRIBUIDORA ALIMENTICIA S/A"
                     },
                     {
+                        "codigo_cliente": "71977",
+                        "desc_cliente": "UNIDASUL DISTRIBUIDORA ALIMENTICIA S/A"
+                    },
+                    {
                         "codigo_cliente": "31535",
                         "desc_cliente": "UNIDASUL DISTRIBUIDORA ALIMENTICIA S/A-FL 60"
                     },
@@ -86390,6 +86402,10 @@
                     {
                         "codigo_cliente": "71407",
                         "desc_cliente": "MAURICIO M DE OLIVEIRA E MEDEIROS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71473",
+                        "desc_cliente": "NEUZAFARMA PRODUTOS FARMACEUTICOS LTDA\r\n"
                     },
                     {
                         "codigo_cliente": "70789",

@@ -33514,10 +33514,6 @@
                     {
                         "codigo_cliente": "1894",
                         "desc_cliente": "T S D COM DE ALIMENTOS COLONIAIS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71972",
-                        "desc_cliente": "TUTTI SECCHI PRODUTOS ALIMENTICIOS LTDA"
                     }
                 ],
                 "403 - DIVINA TERRA": [
@@ -42288,6 +42284,10 @@
                         "desc_cliente": "MERCADO CAUA LTDA - ME"
                     },
                     {
+                        "codigo_cliente": "72001",
+                        "desc_cliente": "SUPERMERCADO CAUA LTDA"
+                    },
+                    {
                         "codigo_cliente": "55174",
                         "desc_cliente": "SUPERMERCADO FREDERICO LTDA "
                     },
@@ -43250,6 +43250,10 @@
                     {
                         "codigo_cliente": "52630",
                         "desc_cliente": "DIONIS DOS SANTOS MADRUGA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72012",
+                        "desc_cliente": "DISQUEFARMA MEDICAMENTOS E PERFUMARIA LTDA"
                     },
                     {
                         "codigo_cliente": "33596",
@@ -54378,6 +54382,10 @@
                     {
                         "codigo_cliente": "39398",
                         "desc_cliente": "CHIRLEY MARIA DA SILVA SOUZA 04821942941"
+                    },
+                    {
+                        "codigo_cliente": "29555",
+                        "desc_cliente": "COMERCIAL FREI DAMIAO LTDA"
                     },
                     {
                         "codigo_cliente": "38987",
@@ -86102,10 +86110,6 @@
                         "desc_cliente": "UNIDASUL DISTRIBUIDORA ALIMENTICIA S/A"
                     },
                     {
-                        "codigo_cliente": "71977",
-                        "desc_cliente": "UNIDASUL DISTRIBUIDORA ALIMENTICIA S/A"
-                    },
-                    {
                         "codigo_cliente": "31535",
                         "desc_cliente": "UNIDASUL DISTRIBUIDORA ALIMENTICIA S/A-FL 60"
                     },
@@ -86386,10 +86390,6 @@
                     {
                         "codigo_cliente": "71407",
                         "desc_cliente": "MAURICIO M DE OLIVEIRA E MEDEIROS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71473",
-                        "desc_cliente": "NEUZAFARMA PRODUTOS FARMACEUTICOS LTDA\r\n"
                     },
                     {
                         "codigo_cliente": "70789",

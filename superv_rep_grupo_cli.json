@@ -10308,6 +10308,12 @@
                         "desc_cliente": "BEM NA HORA EXPRESS LTDA"
                     }
                 ],
+                "1387 - AKI TEM - PR": [
+                    {
+                        "codigo_cliente": "52756",
+                        "desc_cliente": "CHRISTOPHER DE FREITAS LTDA"
+                    }
+                ],
                 "1 - GERAL": [
                     {
                         "codigo_cliente": "40248",
@@ -10340,10 +10346,6 @@
                     {
                         "codigo_cliente": "70195",
                         "desc_cliente": "BEM NA HORA MERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "52756",
-                        "desc_cliente": "CHRISTOPHER DE FREITAS LTDA"
                     },
                     {
                         "codigo_cliente": "42048",
@@ -11136,6 +11138,12 @@
                         "desc_cliente": "RESTAURANTE CEU DA SERRA SUL LTDA"
                     }
                 ],
+                "1387 - AKI TEM - PR": [
+                    {
+                        "codigo_cliente": "51928",
+                        "desc_cliente": "CHRISTOPHER DE FREITAS LTDA"
+                    }
+                ],
                 "1 - GERAL": [
                     {
                         "codigo_cliente": "55000",
@@ -11180,10 +11188,6 @@
                     {
                         "codigo_cliente": "68676",
                         "desc_cliente": "CEASAQ CENTRAL DE ABASTECIMENTO SANTA QUITERIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "51928",
-                        "desc_cliente": "CHRISTOPHER DE FREITAS LTDA"
                     },
                     {
                         "codigo_cliente": "61309",
@@ -22728,10 +22732,6 @@
                         "desc_cliente": "DDJ COMERCIO DE PRODUTOS NATURAIS LTDA"
                     },
                     {
-                        "codigo_cliente": "71992",
-                        "desc_cliente": "DEGUSTA ACAI  CAXIAS DO SUL"
-                    },
-                    {
                         "codigo_cliente": "63517",
                         "desc_cliente": "DOMENICO FOOD LTDA"
                     },
@@ -23078,6 +23078,10 @@
                     {
                         "codigo_cliente": "59238",
                         "desc_cliente": "VILA OLIVA ARMAZEM E ACOUGUE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71992",
+                        "desc_cliente": "WMS COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "58219",
@@ -42224,10 +42228,6 @@
                         "desc_cliente": "SUPERMERCADO BELLE VILLE LTDA"
                     },
                     {
-                        "codigo_cliente": "72001",
-                        "desc_cliente": "SUPERMERCADO CAUÃ LTDA"
-                    },
-                    {
                         "codigo_cliente": "37875",
                         "desc_cliente": "SUPERMERCADO CONVENTOS LTDA"
                     },
@@ -42332,6 +42332,10 @@
                     {
                         "codigo_cliente": "29657",
                         "desc_cliente": "MERCADO CAUA LTDA - ME"
+                    },
+                    {
+                        "codigo_cliente": "72001",
+                        "desc_cliente": "SUPERMERCADO CAUA LTDA"
                     },
                     {
                         "codigo_cliente": "55174",
@@ -48586,6 +48590,16 @@
                         "desc_cliente": "DISTRIBUIDORA DE ALIMENTOS MINEIRINHO DO BRAS LTDA"
                     }
                 ],
+                "1388 - EMP ARROZ": [
+                    {
+                        "codigo_cliente": "19450",
+                        "desc_cliente": "EMPORIO DO ARROZ INTEGRAL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69166",
+                        "desc_cliente": "EMPORIO DO ARROZ INTEGRAL LTDA"
+                    }
+                ],
                 "1 - GERAL": [
                     {
                         "codigo_cliente": "62347",
@@ -48646,14 +48660,6 @@
                     {
                         "codigo_cliente": "67548",
                         "desc_cliente": "ELIJANE FRANCISCA DOS SANTOS PEREIRA"
-                    },
-                    {
-                        "codigo_cliente": "19450",
-                        "desc_cliente": "EMPORIO DO ARROZ INTEGRAL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69166",
-                        "desc_cliente": "EMPORIO DO ARROZ INTEGRAL LTDA"
                     },
                     {
                         "codigo_cliente": "68547",
@@ -48852,6 +48858,10 @@
                         "desc_cliente": "BOTURUSSU 219 DISTRIBUIDORA  LTDA."
                     },
                     {
+                        "codigo_cliente": "70985",
+                        "desc_cliente": "BRASILEIRAO ATACADO COM. DE PROD. ALIMENT. SOCIEDADE ANONIMA"
+                    },
+                    {
                         "codigo_cliente": "22943",
                         "desc_cliente": "COM DE DOCES BOM PRECO DE S AMARO LT EPP"
                     },
@@ -49040,12 +49050,6 @@
                     {
                         "codigo_cliente": "66445",
                         "desc_cliente": "SUPER DOCES MARINGA LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "70985",
-                        "desc_cliente": "BRASILEIRAO ATACADO COM. DE PROD. ALIMENT. SOCIEDADE ANONIMA"
                     }
                 ]
             },
@@ -55182,10 +55186,6 @@
                         "desc_cliente": "DAY & WILLIAN SUPERMERCADO LTDA"
                     },
                     {
-                        "codigo_cliente": "65448",
-                        "desc_cliente": "DC COMERCIO BESEN LTDA"
-                    },
-                    {
                         "codigo_cliente": "33522",
                         "desc_cliente": "DIONE DA CAS BUENO EIRELI"
                     },
@@ -55583,6 +55583,10 @@
                     },
                     {
                         "codigo_cliente": "64158",
+                        "desc_cliente": "DC COMERCIO BESEN LTDA"
+                    },
+                    {
+                        "codigo_cliente": "65448",
                         "desc_cliente": "DC COMERCIO BESEN LTDA"
                     },
                     {
@@ -86006,6 +86010,10 @@
                         "desc_cliente": "UNIDASUL DISTRIBUIDORA ALIMENTICIA S/A"
                     },
                     {
+                        "codigo_cliente": "71977",
+                        "desc_cliente": "UNIDASUL DISTRIBUIDORA ALIMENTICIA S/A"
+                    },
+                    {
                         "codigo_cliente": "31535",
                         "desc_cliente": "UNIDASUL DISTRIBUIDORA ALIMENTICIA S/A-FL 60"
                     },
@@ -86018,10 +86026,6 @@
                     {
                         "codigo_cliente": "66250",
                         "desc_cliente": "DIEGO S. MEDEIROS & LEONARDO E. MARTINI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71977",
-                        "desc_cliente": "UNIDASUL DISTRIBUIDORA ALIMENTICIA S/A"
                     }
                 ]
             }

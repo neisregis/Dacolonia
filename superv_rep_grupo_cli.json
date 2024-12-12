@@ -9970,10 +9970,6 @@
                         "desc_cliente": "SUPERMERCADO BARROZO LTDA"
                     },
                     {
-                        "codigo_cliente": "63237",
-                        "desc_cliente": "SUPERMERCADO CANOAS LTDA"
-                    },
-                    {
                         "codigo_cliente": "58425",
                         "desc_cliente": "SUPERMERCADO CURITIBA LTDA"
                     },
@@ -39830,6 +39826,10 @@
                         "desc_cliente": "R A DE PAULA ANDRADE COMERCIO DE LATICINIOS LTDA - ME"
                     },
                     {
+                        "codigo_cliente": "71844",
+                        "desc_cliente": "R A G ATACAREJO LTDA"
+                    },
+                    {
                         "codigo_cliente": "69792",
                         "desc_cliente": "RESTAURANTE CHEIRO DO CAMPO LTDA"
                     },
@@ -40765,6 +40765,20 @@
                     }
                 ]
             },
+            "843": {
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "71047",
+                        "desc_cliente": "EFICAZ PROMOVE MARKET SHARE LTDA"
+                    }
+                ],
+                "71 - SENDAS": [
+                    {
+                        "codigo_cliente": "48633",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A"
+                    }
+                ]
+            },
             "1025": {
                 "1 - GERAL": [
                     {
@@ -40792,14 +40806,6 @@
                     {
                         "codigo_cliente": "39499",
                         "desc_cliente": "SUPERMERCADOS RIO SUL DE PRIMAVERA LTDA"
-                    }
-                ]
-            },
-            "843": {
-                "71 - SENDAS": [
-                    {
-                        "codigo_cliente": "48633",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A"
                     }
                 ]
             },
@@ -51330,6 +51336,10 @@
                     {
                         "codigo_cliente": "66898",
                         "desc_cliente": "NOSTRA CASA CHURRASCARIA E REST LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72008",
+                        "desc_cliente": "ONE PADEL CLUBE ESPORTIVO LTDA"
                     },
                     {
                         "codigo_cliente": "30966",
@@ -62960,6 +62970,10 @@
                     {
                         "codigo_cliente": "50766",
                         "desc_cliente": "MARIELI SILVA DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "72009",
+                        "desc_cliente": "MARILAINE ALVARES CAMARGO"
                     },
                     {
                         "codigo_cliente": "51532",
@@ -76578,6 +76592,10 @@
                         "desc_cliente": "TARCISIO TROJAN COELHO"
                     },
                     {
+                        "codigo_cliente": "72005",
+                        "desc_cliente": "TATIANA ALENCASTRE SF"
+                    },
+                    {
                         "codigo_cliente": "70745",
                         "desc_cliente": "TATIANA CAMARA E SILVA GONTIJO"
                     },
@@ -79466,6 +79484,10 @@
                     {
                         "codigo_cliente": "59662",
                         "desc_cliente": "ANDRE TOMAZELLI"
+                    },
+                    {
+                        "codigo_cliente": "36273",
+                        "desc_cliente": "ANTONIO GILMAR PANIZ NORONHA 56081030091"
                     },
                     {
                         "codigo_cliente": "39198",

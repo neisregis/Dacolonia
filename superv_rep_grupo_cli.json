@@ -1162,6 +1162,10 @@
                         "desc_cliente": "CARLOS A. VIEIRA EIRELI"
                     },
                     {
+                        "codigo_cliente": "61238",
+                        "desc_cliente": "CHOCOLA LTDA"
+                    },
+                    {
                         "codigo_cliente": "17479",
                         "desc_cliente": "COMERCIAL LUNASA LTDA"
                     },
@@ -3418,6 +3422,10 @@
                     {
                         "codigo_cliente": "65317",
                         "desc_cliente": "CIRO VERNER DE P.NUNES LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71713",
+                        "desc_cliente": "SUPERMERCADOS BOA COMPRA LTDA"
                     }
                 ],
                 "723 - SÓ FESTA": [
@@ -4033,6 +4041,10 @@
                     }
                 ],
                 "365 - JMF": [
+                    {
+                        "codigo_cliente": "20940",
+                        "desc_cliente": "ORGANIZACOES JMF LTDA"
+                    },
                     {
                         "codigo_cliente": "28817",
                         "desc_cliente": "ORGANIZACOES JMF LTDA"
@@ -5568,6 +5580,10 @@
                     {
                         "codigo_cliente": "35942",
                         "desc_cliente": "THALITA MARA BIACIO"
+                    },
+                    {
+                        "codigo_cliente": "71836",
+                        "desc_cliente": "UNIBEM ATACADISTA LTDA"
                     },
                     {
                         "codigo_cliente": "24417",
@@ -26504,6 +26520,10 @@
                         "desc_cliente": "COMERCIAL MIGOTTO LTDA"
                     },
                     {
+                        "codigo_cliente": "46005",
+                        "desc_cliente": "DAMASCENO & DAMASCENO LTDA"
+                    },
+                    {
                         "codigo_cliente": "23012",
                         "desc_cliente": "D'GUST TEMPEROS LTDA"
                     },
@@ -28236,6 +28256,10 @@
                     {
                         "codigo_cliente": "71560",
                         "desc_cliente": "MELO PRODUTOS PARA FESTAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71725",
+                        "desc_cliente": "SALMOS PRODUTOS PARA FESTAS LTDA"
                     },
                     {
                         "codigo_cliente": "70223",
@@ -59604,6 +59628,10 @@
                         "desc_cliente": "FABIANO ALVES"
                     },
                     {
+                        "codigo_cliente": "50509",
+                        "desc_cliente": "FABIANO DE MORAES SILVA"
+                    },
+                    {
                         "codigo_cliente": "67092",
                         "desc_cliente": "FABIANO FACCINI"
                     },
@@ -62202,6 +62230,10 @@
                     {
                         "codigo_cliente": "67389",
                         "desc_cliente": "LUCAS MONTEIRO MALHEIROS"
+                    },
+                    {
+                        "codigo_cliente": "72014",
+                        "desc_cliente": "LUCAS OLIVEIRA"
                     },
                     {
                         "codigo_cliente": "51780",
@@ -65018,6 +65050,10 @@
                     {
                         "codigo_cliente": "65245",
                         "desc_cliente": "TAMIRES JUSTO MENGUE"
+                    },
+                    {
+                        "codigo_cliente": "50841",
+                        "desc_cliente": "TAMIRES MACHADO TEIXEIRA"
                     },
                     {
                         "codigo_cliente": "58759",

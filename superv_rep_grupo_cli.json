@@ -9970,6 +9970,10 @@
                         "desc_cliente": "SUPERMERCADO BARROZO LTDA"
                     },
                     {
+                        "codigo_cliente": "63237",
+                        "desc_cliente": "SUPERMERCADO CANOAS LTDA"
+                    },
+                    {
                         "codigo_cliente": "58425",
                         "desc_cliente": "SUPERMERCADO CURITIBA LTDA"
                     },
@@ -28414,6 +28418,10 @@
                         "desc_cliente": "CECHINEL & CECHINEL CASA DE CARNES LTDA"
                     },
                     {
+                        "codigo_cliente": "4115",
+                        "desc_cliente": "CICILIA TOMAZ MACHADO"
+                    },
+                    {
                         "codigo_cliente": "19229",
                         "desc_cliente": "COLONIAL FRUTAS E VERDURAS LTDA"
                     },
@@ -29994,6 +30002,10 @@
                     {
                         "codigo_cliente": "41420",
                         "desc_cliente": "POSTO MIOTTO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72013",
+                        "desc_cliente": "POSTO MIRIM LTDA"
                     },
                     {
                         "codigo_cliente": "62591",
@@ -62024,6 +62036,10 @@
                         "desc_cliente": "LIDIELI MUNIZ DA SILVA"
                     },
                     {
+                        "codigo_cliente": "72010",
+                        "desc_cliente": "LIGIA MARA KERCHENER DA SILVA"
+                    },
+                    {
                         "codigo_cliente": "51692",
                         "desc_cliente": "LILIANE ALMEIDA COSTA"
                     },
@@ -62246,6 +62262,10 @@
                     {
                         "codigo_cliente": "50843",
                         "desc_cliente": "LUCIANA MACHADO MARCOS"
+                    },
+                    {
+                        "codigo_cliente": "72011",
+                        "desc_cliente": "LUCIANA MARTINS"
                     },
                     {
                         "codigo_cliente": "66697",

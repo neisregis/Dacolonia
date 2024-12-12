@@ -5851,100 +5851,6 @@
                     }
                 ]
             },
-            "905": {
-                "116 - CENCOSUD GERAL": [
-                    {
-                        "codigo_cliente": "35739",
-                        "desc_cliente": "CENCOSUD BRASIL COMERCIAL LTDA"
-                    }
-                ],
-                "166 - JOSE WILSON SERGIPE": [
-                    {
-                        "codigo_cliente": "28782",
-                        "desc_cliente": "DISTRIBUIDORA DE CEREAIS TIO LUIZ LTDA"
-                    },
-                    {
-                        "codigo_cliente": "36983",
-                        "desc_cliente": "FASOUTO FARIA SOUTO COMERCIO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "28060",
-                        "desc_cliente": "SUPERMERCADOS SUMEPE LIMITADA"
-                    }
-                ],
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "69697",
-                        "desc_cliente": "KI DISTRIBUIDORA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "54553",
-                        "desc_cliente": "LL COMERCIO ATACADISTA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "66457",
-                        "desc_cliente": "MERVIL - MERCANTIL VIEIRA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "56485",
-                        "desc_cliente": "TREVO COMERCIO DE EMBALAGENS LTDA."
-                    }
-                ],
-                "221 - ARMAZEM MATEUS": [
-                    {
-                        "codigo_cliente": "45899",
-                        "desc_cliente": "MATEUS SUPERMERCADOS S.A"
-                    },
-                    {
-                        "codigo_cliente": "48396",
-                        "desc_cliente": "MATEUS SUPERMERCADOS S.A"
-                    },
-                    {
-                        "codigo_cliente": "60863",
-                        "desc_cliente": "MATEUS SUPERMERCADOS S.A."
-                    },
-                    {
-                        "codigo_cliente": "60864",
-                        "desc_cliente": "MATEUS SUPERMERCADOS S.A."
-                    },
-                    {
-                        "codigo_cliente": "45902",
-                        "desc_cliente": "MATEUS SUPERMERCADOS S.A - COHAMA"
-                    }
-                ],
-                "71 - SENDAS": [
-                    {
-                        "codigo_cliente": "47162",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 116"
-                    },
-                    {
-                        "codigo_cliente": "47166",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 147"
-                    },
-                    {
-                        "codigo_cliente": "47178",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 183"
-                    },
-                    {
-                        "codigo_cliente": "47186",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 251"
-                    },
-                    {
-                        "codigo_cliente": "60322",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 288"
-                    }
-                ],
-                "997 - SUPER SÃO LUCAS": [
-                    {
-                        "codigo_cliente": "54617",
-                        "desc_cliente": "SUPERMERCADO SAO LUCAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "54618",
-                        "desc_cliente": "SUPERMERCADO SAO LUCAS LTDA"
-                    }
-                ]
-            },
             "791": {
                 "117 - A.C.D.A": [
                     {
@@ -6598,6 +6504,32 @@
                     {
                         "codigo_cliente": "46012",
                         "desc_cliente": "DISLIMP ATACADISTA LTDA"
+                    }
+                ]
+            },
+            "1212": {
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "66457",
+                        "desc_cliente": "MERVIL - MERCANTIL VIEIRA LTDA"
+                    }
+                ],
+                "221 - ARMAZEM MATEUS": [
+                    {
+                        "codigo_cliente": "45899",
+                        "desc_cliente": "MATEUS SUPERMERCADOS S.A"
+                    },
+                    {
+                        "codigo_cliente": "60863",
+                        "desc_cliente": "MATEUS SUPERMERCADOS S.A."
+                    },
+                    {
+                        "codigo_cliente": "60864",
+                        "desc_cliente": "MATEUS SUPERMERCADOS S.A."
+                    },
+                    {
+                        "codigo_cliente": "45902",
+                        "desc_cliente": "MATEUS SUPERMERCADOS S.A - COHAMA"
                     }
                 ]
             },
@@ -42356,10 +42288,6 @@
                         "desc_cliente": "MERCADO CAUA LTDA - ME"
                     },
                     {
-                        "codigo_cliente": "72001",
-                        "desc_cliente": "SUPERMERCADO CAUA LTDA"
-                    },
-                    {
                         "codigo_cliente": "55174",
                         "desc_cliente": "SUPERMERCADO FREDERICO LTDA "
                     },
@@ -53712,6 +53640,80 @@
                     {
                         "codigo_cliente": "63408",
                         "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
+                    }
+                ]
+            },
+            "905": {
+                "116 - CENCOSUD GERAL": [
+                    {
+                        "codigo_cliente": "35739",
+                        "desc_cliente": "CENCOSUD BRASIL COMERCIAL LTDA"
+                    }
+                ],
+                "166 - JOSE WILSON SERGIPE": [
+                    {
+                        "codigo_cliente": "28782",
+                        "desc_cliente": "DISTRIBUIDORA DE CEREAIS TIO LUIZ LTDA"
+                    },
+                    {
+                        "codigo_cliente": "36983",
+                        "desc_cliente": "FASOUTO FARIA SOUTO COMERCIO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "28060",
+                        "desc_cliente": "SUPERMERCADOS SUMEPE LIMITADA"
+                    }
+                ],
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "69697",
+                        "desc_cliente": "KI DISTRIBUIDORA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "54553",
+                        "desc_cliente": "LL COMERCIO ATACADISTA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "56485",
+                        "desc_cliente": "TREVO COMERCIO DE EMBALAGENS LTDA."
+                    }
+                ],
+                "221 - ARMAZEM MATEUS": [
+                    {
+                        "codigo_cliente": "48396",
+                        "desc_cliente": "MATEUS SUPERMERCADOS S.A"
+                    }
+                ],
+                "71 - SENDAS": [
+                    {
+                        "codigo_cliente": "47162",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 116"
+                    },
+                    {
+                        "codigo_cliente": "47166",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 147"
+                    },
+                    {
+                        "codigo_cliente": "47178",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 183"
+                    },
+                    {
+                        "codigo_cliente": "47186",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 251"
+                    },
+                    {
+                        "codigo_cliente": "60322",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 288"
+                    }
+                ],
+                "997 - SUPER SÃO LUCAS": [
+                    {
+                        "codigo_cliente": "54617",
+                        "desc_cliente": "SUPERMERCADO SAO LUCAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "54618",
+                        "desc_cliente": "SUPERMERCADO SAO LUCAS LTDA"
                     }
                 ]
             },

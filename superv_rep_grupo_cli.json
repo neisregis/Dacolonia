@@ -10686,6 +10686,10 @@
                         "desc_cliente": "ALECRIM DOURADO PRODUTOS NATURAIS LTDA"
                     },
                     {
+                        "codigo_cliente": "55380",
+                        "desc_cliente": "ARMAZEM YN LTDA"
+                    },
+                    {
                         "codigo_cliente": "56869",
                         "desc_cliente": "AUTO POSTO 5 COMERCIO DE COMBUSTIVEIS LTDA"
                     },
@@ -42218,6 +42222,10 @@
                     {
                         "codigo_cliente": "36936",
                         "desc_cliente": "SUPERMERCADO BELLE VILLE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72001",
+                        "desc_cliente": "SUPERMERCADO CAUÃ LTDA"
                     },
                     {
                         "codigo_cliente": "37875",

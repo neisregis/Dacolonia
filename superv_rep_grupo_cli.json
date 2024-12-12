@@ -39830,10 +39830,6 @@
                         "desc_cliente": "R A DE PAULA ANDRADE COMERCIO DE LATICINIOS LTDA - ME"
                     },
                     {
-                        "codigo_cliente": "71844",
-                        "desc_cliente": "R A G ATACAREJO LTDA"
-                    },
-                    {
                         "codigo_cliente": "69792",
                         "desc_cliente": "RESTAURANTE CHEIRO DO CAMPO LTDA"
                     },
@@ -67806,6 +67802,10 @@
                         "desc_cliente": "ANIELLY COLUSSI OLIVA"
                     },
                     {
+                        "codigo_cliente": "55119",
+                        "desc_cliente": "ANNA BERTOLETTI"
+                    },
+                    {
                         "codigo_cliente": "49001",
                         "desc_cliente": "ANNA CAROLINA BARONE"
                     },
@@ -71178,6 +71178,10 @@
                         "desc_cliente": "HEMERSON RODRIGO SILVA SOARES"
                     },
                     {
+                        "codigo_cliente": "72003",
+                        "desc_cliente": "HENDRICK NOORDUIN FILHO"
+                    },
+                    {
                         "codigo_cliente": "67126",
                         "desc_cliente": "HENRIQUE CASTRO MARTINS"
                     },
@@ -71216,6 +71220,10 @@
                     {
                         "codigo_cliente": "54344",
                         "desc_cliente": "HUMBERTO ARANTES DE CARVALHO"
+                    },
+                    {
+                        "codigo_cliente": "72006",
+                        "desc_cliente": "HYAGO MOREIRA"
                     },
                     {
                         "codigo_cliente": "69333",
@@ -74196,6 +74204,10 @@
                     {
                         "codigo_cliente": "70694",
                         "desc_cliente": "MAYARA APARECIDA FIOROTTI"
+                    },
+                    {
+                        "codigo_cliente": "72004",
+                        "desc_cliente": "MAYARA CRISTINA ROSA DA SILVA"
                     },
                     {
                         "codigo_cliente": "68304",

@@ -26280,6 +26280,10 @@
                         "desc_cliente": "SUPERMERCADO SOBERANO LTDA"
                     },
                     {
+                        "codigo_cliente": "72015",
+                        "desc_cliente": "SUPERVI DISTRIBUIDOR DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "52045",
                         "desc_cliente": "VANDERLI TEIXEIRA SANTOS & CIA LTDA"
                     },
@@ -58154,6 +58158,10 @@
                     {
                         "codigo_cliente": "54155",
                         "desc_cliente": "CARLOS EDUARDO CORREA"
+                    },
+                    {
+                        "codigo_cliente": "72016",
+                        "desc_cliente": "CARLOS EDUARDO ECKERT"
                     },
                     {
                         "codigo_cliente": "68231",

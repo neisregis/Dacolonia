@@ -3366,6 +3366,10 @@
                         "desc_cliente": "ORGANIZACAO PANEFLORENCA LTDA"
                     },
                     {
+                        "codigo_cliente": "57900",
+                        "desc_cliente": "PARAISO DO GRANEL 3 LTDA"
+                    },
+                    {
                         "codigo_cliente": "70467",
                         "desc_cliente": "PDR COMERCIO DE ALIMENTOS LTDA"
                     },
@@ -3470,6 +3474,12 @@
                     {
                         "codigo_cliente": "44805",
                         "desc_cliente": "SUPERMERCADO NOVOS HORIZONTES LTDA."
+                    }
+                ],
+                "843 - COML DE PROD EBENEZER": [
+                    {
+                        "codigo_cliente": "48171",
+                        "desc_cliente": "COMERCIO DE PRODUTOS ALIMENTICIOS EBENEZER LTDA"
                     }
                 ]
             },
@@ -53659,68 +53669,6 @@
                     }
                 ]
             },
-            "939": {
-                "1059 - SACOLÃO CASTELO": [
-                    {
-                        "codigo_cliente": "58265",
-                        "desc_cliente": "SACOLAO CASTELO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "35630",
-                        "desc_cliente": "SACOLAO TANCREDO EIRELI"
-                    }
-                ],
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "60461",
-                        "desc_cliente": "EMPORIO SAUDE LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44190",
-                        "desc_cliente": "EMPORIO VERDE COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "48371",
-                        "desc_cliente": "FLORENCA GMM LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44054",
-                        "desc_cliente": "ORGANIZACAO PANEFLORENCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "57900",
-                        "desc_cliente": "PARAISO DO GRANEL 3 LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67400",
-                        "desc_cliente": "SUPERMECADO JOAO NOGUEIRA"
-                    },
-                    {
-                        "codigo_cliente": "47458",
-                        "desc_cliente": "SUPERMERCADOS CIDADE LTDA"
-                    }
-                ],
-                "636 - SUPERM. NOVO HORIZONTE": [
-                    {
-                        "codigo_cliente": "44804",
-                        "desc_cliente": "MERCEARIA NASCIMENTO NOVO HORIZONTE LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44814",
-                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE CATAGUASES LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44807",
-                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE NASCIMENTO LTDA."
-                    }
-                ],
-                "843 - COML DE PROD EBENEZER": [
-                    {
-                        "codigo_cliente": "48171",
-                        "desc_cliente": "COMERCIO DE PRODUTOS ALIMENTICIOS EBENEZER LTDA"
-                    }
-                ]
-            },
             "905": {
                 "116 - CENCOSUD GERAL": [
                     {
@@ -56202,6 +56150,10 @@
                     {
                         "codigo_cliente": "66790",
                         "desc_cliente": "SUPERMERCADO HIROTA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71804",
+                        "desc_cliente": "TOTAL DISTRIBUIDORA DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "24463",

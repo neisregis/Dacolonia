@@ -30602,10 +30602,6 @@
                         "desc_cliente": "CONVEM SUPERMERCADOS DE BRAGANCA LTDA."
                     },
                     {
-                        "codigo_cliente": "71824",
-                        "desc_cliente": "CONVEM SUPERMERCADOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "33854",
                         "desc_cliente": "IRMAOS SECCO CAMPINAS LTDA"
                     },
@@ -30987,10 +30983,6 @@
                     },
                     {
                         "codigo_cliente": "67832",
-                        "desc_cliente": "REDE ROFATTO DE SUPERMERCADOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71877",
                         "desc_cliente": "REDE ROFATTO DE SUPERMERCADOS LTDA"
                     },
                     {
@@ -65290,6 +65282,10 @@
                     {
                         "codigo_cliente": "68597",
                         "desc_cliente": "VAGNER JUNIOR ALVES"
+                    },
+                    {
+                        "codigo_cliente": "72064",
+                        "desc_cliente": "VALDEIR BARBOSA DO NASCIMENTO"
                     },
                     {
                         "codigo_cliente": "66501",

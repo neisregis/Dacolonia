@@ -18154,6 +18154,10 @@
                         "desc_cliente": "PANIFICADORA MAFRA LTDA"
                     },
                     {
+                        "codigo_cliente": "34257",
+                        "desc_cliente": "RIKATI PRODUTOS NATURAIS LTDA"
+                    },
+                    {
                         "codigo_cliente": "69398",
                         "desc_cliente": "SAO FRANCISCO COMERCIO DE ALIMENTOS E TRANSPORTE LTDA"
                     },
@@ -56200,10 +56204,6 @@
                         "desc_cliente": "SUPERMERCADO HIROTA LTDA"
                     },
                     {
-                        "codigo_cliente": "71804",
-                        "desc_cliente": "TOTAL DISTRIBUIDORA DE ALIMENTOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "24463",
                         "desc_cliente": "UNIAGRO INDUSTRIA E COMERCIO DE PRODUTOS ALIMENTICIOS L"
                     }
@@ -59592,6 +59592,10 @@
                         "desc_cliente": "ERICK VINICIUS SILVA DA SILVA "
                     },
                     {
+                        "codigo_cliente": "72060",
+                        "desc_cliente": "ERICO CLASEN"
+                    },
+                    {
                         "codigo_cliente": "71994",
                         "desc_cliente": "ERICO VIRGIAN CEZAR CUSTODIO"
                     },
@@ -59906,6 +59910,10 @@
                     {
                         "codigo_cliente": "56176",
                         "desc_cliente": "FERNANDO DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "72061",
+                        "desc_cliente": "FERNANDO DONATTO"
                     },
                     {
                         "codigo_cliente": "49755",
@@ -65714,6 +65722,10 @@
                     {
                         "codigo_cliente": "67505",
                         "desc_cliente": "YENNIFER OLIVEROS"
+                    },
+                    {
+                        "codigo_cliente": "72063",
+                        "desc_cliente": "YONE MARIA MARQUES"
                     },
                     {
                         "codigo_cliente": "71995",

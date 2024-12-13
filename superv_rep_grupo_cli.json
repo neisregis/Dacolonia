@@ -18912,6 +18912,10 @@
                         "desc_cliente": "FAZIONI SUPERMERCADO E ASSADOS LTDA"
                     },
                     {
+                        "codigo_cliente": "61190",
+                        "desc_cliente": "FAZZENDA HOTEIS LTDA"
+                    },
+                    {
                         "codigo_cliente": "70400",
                         "desc_cliente": "FELIX EMBALAGENS E FRIOS LTDA"
                     },
@@ -19190,6 +19194,10 @@
                         "desc_cliente": "ARMAZEM DO FIFO LTDA"
                     },
                     {
+                        "codigo_cliente": "43133",
+                        "desc_cliente": "ARMAZEM DO PRECO LOKO LTDA"
+                    },
+                    {
                         "codigo_cliente": "15267",
                         "desc_cliente": "ARMAZEM WEISE LTDA"
                     },
@@ -19316,6 +19324,10 @@
                     {
                         "codigo_cliente": "43984",
                         "desc_cliente": "MERCADO BERTOLI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "22488",
+                        "desc_cliente": "MERCADO CEDRO CENTRAL LTDA"
                     },
                     {
                         "codigo_cliente": "29746",
@@ -35651,6 +35663,10 @@
                     },
                     {
                         "codigo_cliente": "67993",
+                        "desc_cliente": "OLIVAS RESTAURANTES EMPRESARIAIS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72053",
                         "desc_cliente": "OLIVAS RESTAURANTES EMPRESARIAIS LTDA"
                     },
                     {

@@ -1545,240 +1545,6 @@
                     }
                 ]
             },
-            "858": {
-                "1059 - SACOLÃO CASTELO": [
-                    {
-                        "codigo_cliente": "58265",
-                        "desc_cliente": "SACOLAO CASTELO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "46577",
-                        "desc_cliente": "SACOLAO CASTELO LTDA."
-                    },
-                    {
-                        "codigo_cliente": "35630",
-                        "desc_cliente": "SACOLAO TANCREDO EIRELI"
-                    }
-                ],
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "66186",
-                        "desc_cliente": "52.757.777 JOSE GABRIEL PINTO"
-                    },
-                    {
-                        "codigo_cliente": "44472",
-                        "desc_cliente": "ARIFA E LIMA COMERCIO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "37434",
-                        "desc_cliente": "ARMAZEM DONA ALDA EIRELI"
-                    },
-                    {
-                        "codigo_cliente": "71370",
-                        "desc_cliente": "BURITTI COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67364",
-                        "desc_cliente": "COMERCIO DE FRIOS E LATICINIOS SAO JOAO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "57893",
-                        "desc_cliente": "DISTRIBUIDORA DE PAPEIS LAGOA SANTA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "46067",
-                        "desc_cliente": "EAC COMERCIO EIRELI"
-                    },
-                    {
-                        "codigo_cliente": "68510",
-                        "desc_cliente": "EMPORIO NERO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "60461",
-                        "desc_cliente": "EMPORIO SAUDE LTDA"
-                    },
-                    {
-                        "codigo_cliente": "45044",
-                        "desc_cliente": "EMPORIO VERDE 2 LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44190",
-                        "desc_cliente": "EMPORIO VERDE COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "64170",
-                        "desc_cliente": "FLOR DO TRIGO PANIFICADORA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "48371",
-                        "desc_cliente": "FLORENCA GMM LTDA"
-                    },
-                    {
-                        "codigo_cliente": "59676",
-                        "desc_cliente": "FTR DISTRIBUIDORA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "59086",
-                        "desc_cliente": "LATICINIOS PINOQUIO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "58142",
-                        "desc_cliente": "LEANDRO GONCALVES DOS SANTOS 07833647683"
-                    },
-                    {
-                        "codigo_cliente": "65971",
-                        "desc_cliente": "LIDER MANTIQUEIRA SUPERMECADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "65972",
-                        "desc_cliente": "LIDER MANTIQUEIRA SUPERMERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44556",
-                        "desc_cliente": "MERCADO FIT & GRANEL PRODUTOS NATURAIS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "59104",
-                        "desc_cliente": "MERCANTIL MENDES RESENDE LTDA."
-                    },
-                    {
-                        "codigo_cliente": "48418",
-                        "desc_cliente": "O M PRODUTOS NATURAIS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "52411",
-                        "desc_cliente": "ORGANIZACAO BRANDAO OLIVEIRA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44054",
-                        "desc_cliente": "ORGANIZACAO PANEFLORENCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "66892",
-                        "desc_cliente": "ORGANIZACAO PANEFLORENCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "57900",
-                        "desc_cliente": "PARAISO DO GRANEL 3 LTDA"
-                    },
-                    {
-                        "codigo_cliente": "70467",
-                        "desc_cliente": "PDR COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "66842",
-                        "desc_cliente": "PIMPOLHO FESTAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "45171",
-                        "desc_cliente": "QUINEN ROCA COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "52901",
-                        "desc_cliente": "SAN PIO MERCADO SAUDAVEL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "46579",
-                        "desc_cliente": "SANTA VITORIA DO QUILOMBO COM DE PROD NATURAIS EIRELI"
-                    },
-                    {
-                        "codigo_cliente": "44712",
-                        "desc_cliente": "SERGIO LUIZ BICALHO LOPES DE ASSIS"
-                    },
-                    {
-                        "codigo_cliente": "68425",
-                        "desc_cliente": "SUPERMECADO G10 LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67400",
-                        "desc_cliente": "SUPERMECADO JOAO NOGUEIRA"
-                    },
-                    {
-                        "codigo_cliente": "68011",
-                        "desc_cliente": "SUPERMECADO JOAO NOGUEIRA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "68171",
-                        "desc_cliente": "SUPERMECADO NOVO HORIZONTE CRISTINA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "66001",
-                        "desc_cliente": "SUPERMERCADO JOAO NOGUEIRA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67079",
-                        "desc_cliente": "SUPERMERCADO JOAO NOGUEIRA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "55070",
-                        "desc_cliente": "SUPERMERCADO NOVARAO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "47458",
-                        "desc_cliente": "SUPERMERCADOS CIDADE LTDA"
-                    },
-                    {
-                        "codigo_cliente": "56537",
-                        "desc_cliente": "SUPER VAREJAO CARACA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "55040",
-                        "desc_cliente": "VAREJAO BOA IDEIA COMERCIO ALIMENTICIOS LTDA"
-                    }
-                ],
-                "636 - SUPERM. NOVO HORIZONTE": [
-                    {
-                        "codigo_cliente": "44804",
-                        "desc_cliente": "MERCEARIA NASCIMENTO NOVO HORIZONTE LTDA"
-                    },
-                    {
-                        "codigo_cliente": "53872",
-                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE BOA ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44814",
-                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE CATAGUASES LTDA"
-                    },
-                    {
-                        "codigo_cliente": "48240",
-                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE JARDIM LAGUNA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44815",
-                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44811",
-                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE METROPOLITANO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44807",
-                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE NASCIMENTO LTDA."
-                    },
-                    {
-                        "codigo_cliente": "44813",
-                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE PLUS LOJA"
-                    },
-                    {
-                        "codigo_cliente": "59250",
-                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE RESSACA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44809",
-                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE VENEZA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44805",
-                        "desc_cliente": "SUPERMERCADO NOVOS HORIZONTES LTDA."
-                    }
-                ],
-                "843 - COML DE PROD EBENEZER": [
-                    {
-                        "codigo_cliente": "48171",
-                        "desc_cliente": "COMERCIO DE PRODUTOS ALIMENTICIOS EBENEZER LTDA"
-                    }
-                ]
-            },
             "1193": {
                 "1059 - SACOLÃO CASTELO": [
                     {
@@ -1872,6 +1638,26 @@
                     {
                         "codigo_cliente": "62646",
                         "desc_cliente": "ATALIBA PINHEIRO ESPIRITO SANTO"
+                    }
+                ]
+            },
+            "858": {
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "71370",
+                        "desc_cliente": "BURITTI COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44054",
+                        "desc_cliente": "ORGANIZACAO PANEFLORENCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "52901",
+                        "desc_cliente": "SAN PIO MERCADO SAUDAVEL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "56537",
+                        "desc_cliente": "SUPER VAREJAO CARACA LTDA"
                     }
                 ]
             }
@@ -3468,6 +3254,222 @@
                     {
                         "codigo_cliente": "54474",
                         "desc_cliente": "SUPERMERCADO ASA BRANCA LIMITADA"
+                    }
+                ]
+            },
+            "939": {
+                "1059 - SACOLÃO CASTELO": [
+                    {
+                        "codigo_cliente": "58265",
+                        "desc_cliente": "SACOLAO CASTELO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "46577",
+                        "desc_cliente": "SACOLAO CASTELO LTDA."
+                    },
+                    {
+                        "codigo_cliente": "35630",
+                        "desc_cliente": "SACOLAO TANCREDO EIRELI"
+                    }
+                ],
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "66186",
+                        "desc_cliente": "52.757.777 JOSE GABRIEL PINTO"
+                    },
+                    {
+                        "codigo_cliente": "44472",
+                        "desc_cliente": "ARIFA E LIMA COMERCIO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "37434",
+                        "desc_cliente": "ARMAZEM DONA ALDA EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "67364",
+                        "desc_cliente": "COMERCIO DE FRIOS E LATICINIOS SAO JOAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "57893",
+                        "desc_cliente": "DISTRIBUIDORA DE PAPEIS LAGOA SANTA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "46067",
+                        "desc_cliente": "EAC COMERCIO EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "68510",
+                        "desc_cliente": "EMPORIO NERO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "60461",
+                        "desc_cliente": "EMPORIO SAUDE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "45044",
+                        "desc_cliente": "EMPORIO VERDE 2 LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44190",
+                        "desc_cliente": "EMPORIO VERDE COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "64170",
+                        "desc_cliente": "FLOR DO TRIGO PANIFICADORA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "48371",
+                        "desc_cliente": "FLORENCA GMM LTDA"
+                    },
+                    {
+                        "codigo_cliente": "59676",
+                        "desc_cliente": "FTR DISTRIBUIDORA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "59086",
+                        "desc_cliente": "LATICINIOS PINOQUIO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "58142",
+                        "desc_cliente": "LEANDRO GONCALVES DOS SANTOS 07833647683"
+                    },
+                    {
+                        "codigo_cliente": "65971",
+                        "desc_cliente": "LIDER MANTIQUEIRA SUPERMECADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "65972",
+                        "desc_cliente": "LIDER MANTIQUEIRA SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44556",
+                        "desc_cliente": "MERCADO FIT & GRANEL PRODUTOS NATURAIS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "59104",
+                        "desc_cliente": "MERCANTIL MENDES RESENDE LTDA."
+                    },
+                    {
+                        "codigo_cliente": "48418",
+                        "desc_cliente": "O M PRODUTOS NATURAIS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "52411",
+                        "desc_cliente": "ORGANIZACAO BRANDAO OLIVEIRA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44054",
+                        "desc_cliente": "ORGANIZACAO PANEFLORENCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66892",
+                        "desc_cliente": "ORGANIZACAO PANEFLORENCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70467",
+                        "desc_cliente": "PDR COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66842",
+                        "desc_cliente": "PIMPOLHO FESTAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "45171",
+                        "desc_cliente": "QUINEN ROCA COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "46579",
+                        "desc_cliente": "SANTA VITORIA DO QUILOMBO COM DE PROD NATURAIS EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "44712",
+                        "desc_cliente": "SERGIO LUIZ BICALHO LOPES DE ASSIS"
+                    },
+                    {
+                        "codigo_cliente": "68425",
+                        "desc_cliente": "SUPERMECADO G10 LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67400",
+                        "desc_cliente": "SUPERMECADO JOAO NOGUEIRA"
+                    },
+                    {
+                        "codigo_cliente": "68011",
+                        "desc_cliente": "SUPERMECADO JOAO NOGUEIRA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "68171",
+                        "desc_cliente": "SUPERMECADO NOVO HORIZONTE CRISTINA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66001",
+                        "desc_cliente": "SUPERMERCADO JOAO NOGUEIRA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67079",
+                        "desc_cliente": "SUPERMERCADO JOAO NOGUEIRA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "55070",
+                        "desc_cliente": "SUPERMERCADO NOVARAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "47458",
+                        "desc_cliente": "SUPERMERCADOS CIDADE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "56537",
+                        "desc_cliente": "SUPER VAREJAO CARACA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "55040",
+                        "desc_cliente": "VAREJAO BOA IDEIA COMERCIO ALIMENTICIOS LTDA"
+                    }
+                ],
+                "636 - SUPERM. NOVO HORIZONTE": [
+                    {
+                        "codigo_cliente": "44804",
+                        "desc_cliente": "MERCEARIA NASCIMENTO NOVO HORIZONTE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "53872",
+                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE BOA ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44814",
+                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE CATAGUASES LTDA"
+                    },
+                    {
+                        "codigo_cliente": "48240",
+                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE JARDIM LAGUNA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44815",
+                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44811",
+                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE METROPOLITANO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44807",
+                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE NASCIMENTO LTDA."
+                    },
+                    {
+                        "codigo_cliente": "44813",
+                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE PLUS LOJA"
+                    },
+                    {
+                        "codigo_cliente": "59250",
+                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE RESSACA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44809",
+                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE VENEZA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44805",
+                        "desc_cliente": "SUPERMERCADO NOVOS HORIZONTES LTDA."
                     }
                 ]
             },
@@ -19238,6 +19240,10 @@
                         "desc_cliente": "DOCE VIDA DIABETES EIRELI"
                     },
                     {
+                        "codigo_cliente": "28986",
+                        "desc_cliente": "DOUTOR PEDRINHO ATACADISTA LTDA"
+                    },
+                    {
                         "codigo_cliente": "42479",
                         "desc_cliente": "ESTILO NATURAL PRODUTOS NATURAIS EIRELI"
                     },
@@ -19424,10 +19430,6 @@
                     {
                         "codigo_cliente": "29136",
                         "desc_cliente": "SUPERMERCADO VANS - EIRELI - ME"
-                    },
-                    {
-                        "codigo_cliente": "28986",
-                        "desc_cliente": "SUPERMERCADO VIVIANI LTDA"
                     },
                     {
                         "codigo_cliente": "56387",
@@ -26216,10 +26218,6 @@
                         "desc_cliente": "SUPERMERCADO SOBERANO LTDA"
                     },
                     {
-                        "codigo_cliente": "72015",
-                        "desc_cliente": "SUPERVI DISTRIBUIDOR DE ALIMENTOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "52045",
                         "desc_cliente": "VANDERLI TEIXEIRA SANTOS & CIA LTDA"
                     },
@@ -26301,6 +26299,10 @@
                     },
                     {
                         "codigo_cliente": "64294",
+                        "desc_cliente": "SUPERVI DISTRIBUIDOR DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72015",
                         "desc_cliente": "SUPERVI DISTRIBUIDOR DE ALIMENTOS LTDA"
                     }
                 ],
@@ -55913,6 +55915,80 @@
             }
         }
     },
+    "null": {
+        "representantes": {
+            "939": {
+                "1059 - SACOLÃO CASTELO": [
+                    {
+                        "codigo_cliente": "58265",
+                        "desc_cliente": "SACOLAO CASTELO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "35630",
+                        "desc_cliente": "SACOLAO TANCREDO EIRELI"
+                    }
+                ],
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "60461",
+                        "desc_cliente": "EMPORIO SAUDE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44190",
+                        "desc_cliente": "EMPORIO VERDE COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "48371",
+                        "desc_cliente": "FLORENCA GMM LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44054",
+                        "desc_cliente": "ORGANIZACAO PANEFLORENCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "57900",
+                        "desc_cliente": "PARAISO DO GRANEL 3 LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67400",
+                        "desc_cliente": "SUPERMECADO JOAO NOGUEIRA"
+                    },
+                    {
+                        "codigo_cliente": "47458",
+                        "desc_cliente": "SUPERMERCADOS CIDADE LTDA"
+                    }
+                ],
+                "636 - SUPERM. NOVO HORIZONTE": [
+                    {
+                        "codigo_cliente": "44804",
+                        "desc_cliente": "MERCEARIA NASCIMENTO NOVO HORIZONTE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44814",
+                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE CATAGUASES LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44807",
+                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE NASCIMENTO LTDA."
+                    }
+                ],
+                "843 - COML DE PROD EBENEZER": [
+                    {
+                        "codigo_cliente": "48171",
+                        "desc_cliente": "COMERCIO DE PRODUTOS ALIMENTICIOS EBENEZER LTDA"
+                    }
+                ]
+            },
+            "null": {
+                "null": [
+                    {
+                        "codigo_cliente": null,
+                        "desc_cliente": null
+                    }
+                ]
+            }
+        }
+    },
     "1018": {
         "representantes": {
             "1018": {
@@ -60654,6 +60730,10 @@
                         "desc_cliente": "IVOLNEI FERNADO ALOS GUILARD"
                     },
                     {
+                        "codigo_cliente": "72017",
+                        "desc_cliente": "IZABEL CRISTINA DA SILVA"
+                    },
+                    {
                         "codigo_cliente": "49467",
                         "desc_cliente": "IZABEL CRISTINA GUIMARAES"
                     },
@@ -60944,6 +61024,10 @@
                     {
                         "codigo_cliente": "51256",
                         "desc_cliente": "JESSICA MARIA SILVA MORGAN"
+                    },
+                    {
+                        "codigo_cliente": "72030",
+                        "desc_cliente": "JESSICA MOREIRA"
                     },
                     {
                         "codigo_cliente": "62744",
@@ -62488,6 +62572,10 @@
                     {
                         "codigo_cliente": "50311",
                         "desc_cliente": "LUIS FERNANDO OLIVEIRA GOMES"
+                    },
+                    {
+                        "codigo_cliente": "72026",
+                        "desc_cliente": "LUIS FLAMARION BOTH"
                     },
                     {
                         "codigo_cliente": "52233",
@@ -86856,18 +86944,6 @@
                     {
                         "codigo_cliente": "40355",
                         "desc_cliente": "VITOR HUGO ROCHA VIEIRA DA COSTA"
-                    }
-                ]
-            }
-        }
-    },
-    "null": {
-        "representantes": {
-            "null": {
-                "null": [
-                    {
-                        "codigo_cliente": null,
-                        "desc_cliente": null
                     }
                 ]
             }

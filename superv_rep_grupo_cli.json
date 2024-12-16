@@ -1330,10 +1330,6 @@
                         "desc_cliente": "SUPERMERCADO BERNARDAO LTDA"
                     },
                     {
-                        "codigo_cliente": "72111",
-                        "desc_cliente": "SUPERMERCADO BERNARDAO LTDA"
-                    },
-                    {
                         "codigo_cliente": "24723",
                         "desc_cliente": "SUPERMERCADO CAMPEAO DE ITUMBIARA LTDA"
                     },
@@ -1543,6 +1539,10 @@
                     },
                     {
                         "codigo_cliente": "66491",
+                        "desc_cliente": "SUPERMERCADO BERNARDAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72111",
                         "desc_cliente": "SUPERMERCADO BERNARDAO LTDA"
                     }
                 ],
@@ -51195,7 +51195,7 @@
                     },
                     {
                         "codigo_cliente": "72094",
-                        "desc_cliente": "COOPERATIVA MISTA YUCUMA-COOPERYUCUMA"
+                        "desc_cliente": "COOPERATIVA MISTA YUCUMA COOPERYUCUMA"
                     },
                     {
                         "codigo_cliente": "66424",
@@ -51367,7 +51367,7 @@
                     },
                     {
                         "codigo_cliente": "72093",
-                        "desc_cliente": "MOACIAR DAL PAS LTDA"
+                        "desc_cliente": "MOACIR DAL PAS LTDA"
                     },
                     {
                         "codigo_cliente": "10103",
@@ -57466,6 +57466,10 @@
                         "desc_cliente": "ALINE DA SILVA MACHADO"
                     },
                     {
+                        "codigo_cliente": "72113",
+                        "desc_cliente": "ALINE DA SILVA PACHECO"
+                    },
+                    {
                         "codigo_cliente": "51241",
                         "desc_cliente": "ALINE DE SOUZA KOLLEN"
                     },
@@ -62664,6 +62668,10 @@
                     {
                         "codigo_cliente": "52233",
                         "desc_cliente": "LUIS GUSTAVO MISSEL DA ROSA"
+                    },
+                    {
+                        "codigo_cliente": "72114",
+                        "desc_cliente": "LUIS HENRIQUE CABRAL"
                     },
                     {
                         "codigo_cliente": "53884",

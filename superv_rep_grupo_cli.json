@@ -33474,6 +33474,10 @@
                         "desc_cliente": "DONA BRANDS COM E DIST DE SUPLEMENTOS E ART ESPORTIVOS LTDA"
                     },
                     {
+                        "codigo_cliente": "72090",
+                        "desc_cliente": "EMPORIO BOCA DO MONTE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "21202",
                         "desc_cliente": "FABIO ROQUE DA CAS"
                     },
@@ -37882,6 +37886,12 @@
                     {
                         "codigo_cliente": "58307",
                         "desc_cliente": "CGX COMERCIO DE ALIMENTOS LTDA"
+                    }
+                ],
+                "1140 - JOYMARKET": [
+                    {
+                        "codigo_cliente": "54455",
+                        "desc_cliente": "JOYMARKET RECREIO LTDA"
                     }
                 ],
                 "1 - GERAL": [

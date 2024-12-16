@@ -2254,6 +2254,10 @@
                         "desc_cliente": "RESTAURANTE, HOTEL E LANCHONETE TIGRAO LTDA"
                     },
                     {
+                        "codigo_cliente": "68763",
+                        "desc_cliente": "ROHR E CIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "68746",
                         "desc_cliente": "SUL AMERICA DISTRIBUIDORA DE ALIMENTOS EIRELI"
                     },
@@ -51066,6 +51070,10 @@
                         "desc_cliente": "SUELEN DA SILVA RAMOS CEOLIN 01268480096"
                     },
                     {
+                        "codigo_cliente": "72115",
+                        "desc_cliente": "SUSELE ROCHA GAVIAO"
+                    },
+                    {
                         "codigo_cliente": "19464",
                         "desc_cliente": "TAMBARA COMERCIO E DISTRIBUICAO DE ALIMENTOS LTDA"
                     },
@@ -70108,6 +70116,10 @@
                     {
                         "codigo_cliente": "67773",
                         "desc_cliente": "ELIANE C. ISAU CANDIDO"
+                    },
+                    {
+                        "codigo_cliente": "71183",
+                        "desc_cliente": "ELIANE CYBULSKI STACHELSKI"
                     },
                     {
                         "codigo_cliente": "67810",

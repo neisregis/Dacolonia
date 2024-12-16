@@ -5542,6 +5542,10 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "43854",
+                        "desc_cliente": "ACCECON ATACADO E DISTRIBUIDORA DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "13661",
                         "desc_cliente": "ASSIS & PASSOS LTDA"
                     },
@@ -17488,6 +17492,10 @@
                     {
                         "codigo_cliente": "48164",
                         "desc_cliente": "RODINALDO HOLLUP 07231240941"
+                    },
+                    {
+                        "codigo_cliente": "54861",
+                        "desc_cliente": "SERTTO SUPERMERCADOS LTDA"
                     },
                     {
                         "codigo_cliente": "70685",
@@ -62626,6 +62634,10 @@
                         "desc_cliente": "LUIS WENTZ"
                     },
                     {
+                        "codigo_cliente": "72095",
+                        "desc_cliente": "LUIZA ENDZ"
+                    },
+                    {
                         "codigo_cliente": "60696",
                         "desc_cliente": "LUIZA GROTH DE MELO"
                     },
@@ -87120,6 +87132,10 @@
                     {
                         "codigo_cliente": "64868",
                         "desc_cliente": "AGROIMAGINA SPA"
+                    },
+                    {
+                        "codigo_cliente": "67989",
+                        "desc_cliente": "AL-FAJR AL-JADDED FOR GENERAL TRADE & IMPORTING"
                     },
                     {
                         "codigo_cliente": "33213",

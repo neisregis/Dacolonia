@@ -26498,6 +26498,16 @@
                         "desc_cliente": "PANIFICADORA SABOROSA LTDA"
                     }
                 ],
+                "1390 - CASARÃO": [
+                    {
+                        "codigo_cliente": "71335",
+                        "desc_cliente": "CASA GOIANA RESTAURANTE E COMERCIO DE PRODUTOS ALIMENTICIOS "
+                    },
+                    {
+                        "codigo_cliente": "40051",
+                        "desc_cliente": "EMPORIO CASARAO GOIANO REST E COM DE PRODUTOS LTDA"
+                    }
+                ],
                 "159 - CONQUISTA GOIÁS": [
                     {
                         "codigo_cliente": "25250",
@@ -26526,10 +26536,6 @@
                         "desc_cliente": "BRASIL SUL DISTRIBUIDORA COMERCIO E SERVICOS LTDA - ME"
                     },
                     {
-                        "codigo_cliente": "71335",
-                        "desc_cliente": "CASA GOIANA RESTAURANTE E COMERCIO DE PRODUTOS ALIMENTICIOS "
-                    },
-                    {
                         "codigo_cliente": "63851",
                         "desc_cliente": "COMERCIAL MIGOTTO LTDA"
                     },
@@ -26540,10 +26546,6 @@
                     {
                         "codigo_cliente": "23012",
                         "desc_cliente": "D'GUST TEMPEROS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "40051",
-                        "desc_cliente": "EMPORIO CASARAO GOIANO REST E COM DE PRODUTOS LTDA"
                     },
                     {
                         "codigo_cliente": "61204",
@@ -62976,6 +62978,10 @@
                         "desc_cliente": "MARCELO SONNTAG"
                     },
                     {
+                        "codigo_cliente": "56572",
+                        "desc_cliente": "MARCELO TRICH"
+                    },
+                    {
                         "codigo_cliente": "71716",
                         "desc_cliente": "MARCIA CARDOSO"
                     },
@@ -70104,6 +70110,10 @@
                         "desc_cliente": "ELAINE LUIZA FOSS MONTEMEZZO"
                     },
                     {
+                        "codigo_cliente": "45774",
+                        "desc_cliente": "ELCI HELENA SUSIN ZANOTTO"
+                    },
+                    {
                         "codigo_cliente": "66819",
                         "desc_cliente": "ELEIA BERTOLDO"
                     },
@@ -71474,6 +71484,10 @@
                     {
                         "codigo_cliente": "67367",
                         "desc_cliente": "GUILHERME LUIZ STELKO PEREIRA"
+                    },
+                    {
+                        "codigo_cliente": "72124",
+                        "desc_cliente": "GUILHERME MELIM FERREIRA"
                     },
                     {
                         "codigo_cliente": "68303",
@@ -76566,6 +76580,10 @@
                     {
                         "codigo_cliente": "66101",
                         "desc_cliente": "SABINE STREY GUTJAHR"
+                    },
+                    {
+                        "codigo_cliente": "72123",
+                        "desc_cliente": "SABRINA BARBOSA DINIZ"
                     },
                     {
                         "codigo_cliente": "68366",

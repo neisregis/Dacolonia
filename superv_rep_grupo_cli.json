@@ -1326,10 +1326,6 @@
                         "desc_cliente": "SUPERMERCADO BADIAO LTDA"
                     },
                     {
-                        "codigo_cliente": "72110",
-                        "desc_cliente": "SUPERMERCADO BERNARDAO LTDA"
-                    },
-                    {
                         "codigo_cliente": "24723",
                         "desc_cliente": "SUPERMERCADO CAMPEAO DE ITUMBIARA LTDA"
                     },
@@ -1539,6 +1535,10 @@
                     },
                     {
                         "codigo_cliente": "66491",
+                        "desc_cliente": "SUPERMERCADO BERNARDAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72110",
                         "desc_cliente": "SUPERMERCADO BERNARDAO LTDA"
                     },
                     {
@@ -2780,6 +2780,10 @@
                     {
                         "codigo_cliente": "67916",
                         "desc_cliente": "COMERCIAL GALA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72117",
+                        "desc_cliente": "COMERCIAL GALA LTDA"
                     }
                 ],
                 "1278 - ESTRELA DO VALE": [
@@ -2894,10 +2898,6 @@
                     {
                         "codigo_cliente": "48935",
                         "desc_cliente": "COMERCIAL EFYSA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72117",
-                        "desc_cliente": "COMERCIAL GALA LTDA"
                     },
                     {
                         "codigo_cliente": "41089",
@@ -16067,7 +16067,7 @@
                     },
                     {
                         "codigo_cliente": "72118",
-                        "desc_cliente": "RIKALU PIZZAS E SORVETE LTDA"
+                        "desc_cliente": "RIKALU PIZZAS E SORVETES LTDA"
                     },
                     {
                         "codigo_cliente": "14954",
@@ -19228,10 +19228,6 @@
                     {
                         "codigo_cliente": "53745",
                         "desc_cliente": "ARMAZEM DO FIFO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "43133",
-                        "desc_cliente": "ARMAZEM DO PRECO LOKO LTDA"
                     },
                     {
                         "codigo_cliente": "15267",
@@ -39458,16 +39454,6 @@
                         "desc_cliente": "A R SOLUCOES, COMERCIO  E SERVIÇOS LTDA"
                     }
                 ],
-                "1177 - MERCADO BELOT": [
-                    {
-                        "codigo_cliente": "28446",
-                        "desc_cliente": "MERCADO BELOT LTDA"
-                    },
-                    {
-                        "codigo_cliente": "28448",
-                        "desc_cliente": "MERCADO BELOT LTDA"
-                    }
-                ],
                 "1359 - MULTI ANGRA": [
                     {
                         "codigo_cliente": "70622",
@@ -39626,6 +39612,16 @@
                     {
                         "codigo_cliente": "59216",
                         "desc_cliente": "MINIMERCADO LIDER DE MANGARATIBA LTDA"
+                    }
+                ],
+                "1177 - MERCADO BELOT": [
+                    {
+                        "codigo_cliente": "28446",
+                        "desc_cliente": "MERCADO BELOT LTDA"
+                    },
+                    {
+                        "codigo_cliente": "28448",
+                        "desc_cliente": "MERCADO BELOT LTDA"
                     }
                 ],
                 "1197 - BARRA FESTA": [
@@ -69060,6 +69056,10 @@
                         "desc_cliente": "CESAR AUGUSTO LEAL DE MATTOS"
                     },
                     {
+                        "codigo_cliente": "72119",
+                        "desc_cliente": "CESAR FERREIRA DE ARAUJO"
+                    },
+                    {
                         "codigo_cliente": "66403",
                         "desc_cliente": "CESAR LUIZ ALTENHOFEN"
                     },
@@ -72736,6 +72736,10 @@
                         "desc_cliente": "KAREN GEBARA"
                     },
                     {
+                        "codigo_cliente": "72122",
+                        "desc_cliente": "KAREN PATRÍCIA LEISMANN DALFERTH"
+                    },
+                    {
                         "codigo_cliente": "66390",
                         "desc_cliente": "KAREN PEZZI MALICHESKI"
                     },
@@ -76278,6 +76282,10 @@
                     {
                         "codigo_cliente": "67869",
                         "desc_cliente": "RODRIGO COZAR SILVA"
+                    },
+                    {
+                        "codigo_cliente": "72120",
+                        "desc_cliente": "RODRIGO DAPPER"
                     },
                     {
                         "codigo_cliente": "71529",

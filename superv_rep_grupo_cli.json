@@ -6310,6 +6310,10 @@
                     {
                         "codigo_cliente": "71786",
                         "desc_cliente": "D J V JUNIOR RESTAURANTE"
+                    },
+                    {
+                        "codigo_cliente": "72133",
+                        "desc_cliente": "M. B. G. SUPERMERCADO LTDA"
                     }
                 ],
                 "821 - CAMPO VERDE": [
@@ -29134,10 +29138,6 @@
                         "desc_cliente": "NATALIA DA ROSA MESQUITA 08155297918"
                     },
                     {
-                        "codigo_cliente": "71934",
-                        "desc_cliente": "PARADA PEDRO PELANDA LTDA"
-                    },
-                    {
                         "codigo_cliente": "19086",
                         "desc_cliente": "PATINHAS SUPERMERCADO LTDA - ME"
                     },
@@ -33774,6 +33774,10 @@
                     {
                         "codigo_cliente": "65690",
                         "desc_cliente": "51.410.889 GABRIELA MARTINS FERENZ"
+                    },
+                    {
+                        "codigo_cliente": "62443",
+                        "desc_cliente": "52.978.336 ALEXANDRE DE OLIVEIRA OJEDA"
                     },
                     {
                         "codigo_cliente": "62530",
@@ -39522,10 +39526,6 @@
                         "desc_cliente": "ASSIS BUARQUE BAR E MERCEARIA LTDA"
                     },
                     {
-                        "codigo_cliente": "41598",
-                        "desc_cliente": "CEREAIS NOVA LIBERDADE DE RESENDE LTDA"
-                    },
-                    {
                         "codigo_cliente": "25833",
                         "desc_cliente": "COMERCIAL R D DE PRODUTOS ALIMENTICIOS LTDA"
                     },
@@ -39736,6 +39736,10 @@
                     {
                         "codigo_cliente": "27915",
                         "desc_cliente": "CEREAIS FLORIANO LTDA - EPP"
+                    },
+                    {
+                        "codigo_cliente": "41598",
+                        "desc_cliente": "CEREAIS NOVA LIBERDADE DE RESENDE LTDA"
                     },
                     {
                         "codigo_cliente": "71985",
@@ -48104,6 +48108,10 @@
                     {
                         "codigo_cliente": "46784",
                         "desc_cliente": "A E B RAPOSO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "34199",
+                        "desc_cliente": "CASA SANTA LUZIA IMPORTADORA LTDA"
                     },
                     {
                         "codigo_cliente": "66475",
@@ -65502,6 +65510,10 @@
                     {
                         "codigo_cliente": "72064",
                         "desc_cliente": "VALDEIR BARBOSA DO NASCIMENTO"
+                    },
+                    {
+                        "codigo_cliente": "72132",
+                        "desc_cliente": "VALDERES RODRIGUES DUARTE"
                     },
                     {
                         "codigo_cliente": "66501",

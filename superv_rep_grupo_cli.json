@@ -2896,6 +2896,10 @@
                         "desc_cliente": "COMERCIAL EFYSA LTDA"
                     },
                     {
+                        "codigo_cliente": "72117",
+                        "desc_cliente": "COMERCIAL GALA LTDA"
+                    },
+                    {
                         "codigo_cliente": "41089",
                         "desc_cliente": "COMERCIAL LUDIMARA LTDA"
                     },
@@ -41958,6 +41962,10 @@
                     {
                         "codigo_cliente": "22084",
                         "desc_cliente": "ANTONIO RESOLI DE OLIVEIRA"
+                    },
+                    {
+                        "codigo_cliente": "17484",
+                        "desc_cliente": "ARI COMERCIO E REPRESENTACOES DE GENEROS ALIM LTDA - ME"
                     },
                     {
                         "codigo_cliente": "14288",

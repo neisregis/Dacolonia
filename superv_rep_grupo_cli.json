@@ -29138,6 +29138,10 @@
                         "desc_cliente": "NATALIA DA ROSA MESQUITA 08155297918"
                     },
                     {
+                        "codigo_cliente": "71934",
+                        "desc_cliente": "PARADA PEDRO PELANDA LTDA"
+                    },
+                    {
                         "codigo_cliente": "19086",
                         "desc_cliente": "PATINHAS SUPERMERCADO LTDA - ME"
                     },
@@ -59756,6 +59760,10 @@
                         "desc_cliente": "EVANDRO DOS SANTOS"
                     },
                     {
+                        "codigo_cliente": "72136",
+                        "desc_cliente": "EVANDRO LUIS DIAS CARDOSO"
+                    },
+                    {
                         "codigo_cliente": "68220",
                         "desc_cliente": "EVANDRO ORTIZ TEIXEIRA"
                     },
@@ -62426,6 +62434,10 @@
                     {
                         "codigo_cliente": "69802",
                         "desc_cliente": "LUCAS CARDOSO"
+                    },
+                    {
+                        "codigo_cliente": "72135",
+                        "desc_cliente": "LUCAS DA SILVA"
                     },
                     {
                         "codigo_cliente": "68839",
@@ -65718,6 +65730,10 @@
                     {
                         "codigo_cliente": "67271",
                         "desc_cliente": "VINICIUS SERPA"
+                    },
+                    {
+                        "codigo_cliente": "72134",
+                        "desc_cliente": "VITHOR FERNANDES SOLANO"
                     },
                     {
                         "codigo_cliente": "70890",

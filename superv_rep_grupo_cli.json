@@ -8076,6 +8076,10 @@
                     {
                         "codigo_cliente": "34640",
                         "desc_cliente": "BATISTA & IZEPE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38826",
+                        "desc_cliente": "BATISTA & IZEPE LTDA"
                     }
                 ],
                 "88 - ATACADAO": [
@@ -18206,6 +18210,10 @@
                     {
                         "codigo_cliente": "34061",
                         "desc_cliente": "PANIFICADORA MAFRA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72139",
+                        "desc_cliente": "REDES DE POSTOS APOLO LTDA"
                     },
                     {
                         "codigo_cliente": "34257",

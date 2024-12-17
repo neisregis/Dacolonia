@@ -12500,6 +12500,10 @@
                         "desc_cliente": "STAR GULA LTDA"
                     },
                     {
+                        "codigo_cliente": "59855",
+                        "desc_cliente": "SUPERMERCADO CASTRO LTDA"
+                    },
+                    {
                         "codigo_cliente": "52863",
                         "desc_cliente": "SUPERMERCADO CENTRAL LTDA"
                     },
@@ -58596,6 +58600,10 @@
                         "desc_cliente": "CLAUDIA JANAINA DA SILVA SOARES"
                     },
                     {
+                        "codigo_cliente": "72129",
+                        "desc_cliente": "CLAUDIA MARIA COSTA"
+                    },
+                    {
                         "codigo_cliente": "52758",
                         "desc_cliente": "CLAUDIA MARIANE BONIFACIO CAMPANHONI"
                     },
@@ -63004,6 +63012,10 @@
                         "desc_cliente": "MARCIA LUDWIG"
                     },
                     {
+                        "codigo_cliente": "72131",
+                        "desc_cliente": "MARCIA LUISA DA SILVA"
+                    },
+                    {
                         "codigo_cliente": "51777",
                         "desc_cliente": "MARCIANO DA SILVA"
                     },
@@ -63310,6 +63322,10 @@
                     {
                         "codigo_cliente": "69953",
                         "desc_cliente": "MARINA TEODORA DOS SANTSO MARQUES"
+                    },
+                    {
+                        "codigo_cliente": "72130",
+                        "desc_cliente": "MARINEZ LUZ DA SILVA"
                     },
                     {
                         "codigo_cliente": "50938",
@@ -66416,6 +66432,10 @@
                     {
                         "codigo_cliente": "37524",
                         "desc_cliente": "FELIPE ALESSANDRO DE FREITAS"
+                    },
+                    {
+                        "codigo_cliente": "26066",
+                        "desc_cliente": "JOSE RAIMUNDO FERREIRA DE MEDEIROS"
                     },
                     {
                         "codigo_cliente": "35474",

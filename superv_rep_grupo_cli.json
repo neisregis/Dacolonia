@@ -33800,6 +33800,10 @@
                         "desc_cliente": "51.410.889 GABRIELA MARTINS FERENZ"
                     },
                     {
+                        "codigo_cliente": "72150",
+                        "desc_cliente": "52.702.570 GLECIANE VANDER VIS"
+                    },
+                    {
                         "codigo_cliente": "62443",
                         "desc_cliente": "52.978.336 ALEXANDRE DE OLIVEIRA OJEDA"
                     },
@@ -33962,10 +33966,6 @@
                     {
                         "codigo_cliente": "59083",
                         "desc_cliente": "GILMARA DA S. DA LUZ"
-                    },
-                    {
-                        "codigo_cliente": "72150",
-                        "desc_cliente": "GLACIANE VANDER VIS"
                     },
                     {
                         "codigo_cliente": "68696",
@@ -65070,6 +65070,10 @@
                     {
                         "codigo_cliente": "64061",
                         "desc_cliente": "SANDRO RAZIN"
+                    },
+                    {
+                        "codigo_cliente": "72153",
+                        "desc_cliente": "SANDRO VALDOIR ARAUJO"
                     },
                     {
                         "codigo_cliente": "51665",

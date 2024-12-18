@@ -18217,7 +18217,7 @@
                     },
                     {
                         "codigo_cliente": "72139",
-                        "desc_cliente": "REDES DE POSTOS APOLO LTDA"
+                        "desc_cliente": "REDE DE POSTOS APOLO LTDA"
                     },
                     {
                         "codigo_cliente": "34257",
@@ -69860,6 +69860,10 @@
                         "desc_cliente": "DEIVID RAGASSON MADUREIRA"
                     },
                     {
+                        "codigo_cliente": "72142",
+                        "desc_cliente": "DELCI VALLE DE CAMARGO"
+                    },
+                    {
                         "codigo_cliente": "69813",
                         "desc_cliente": "DELISE PELLIZZARO CONTRERAS"
                     },
@@ -70886,6 +70890,10 @@
                     {
                         "codigo_cliente": "68891",
                         "desc_cliente": "FERNANDA RODRIGUES MEDEIROS"
+                    },
+                    {
+                        "codigo_cliente": "64779",
+                        "desc_cliente": "FERNANDA ROSE"
                     },
                     {
                         "codigo_cliente": "67967",

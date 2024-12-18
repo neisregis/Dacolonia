@@ -20462,6 +20462,10 @@
                         "desc_cliente": "MARIA MARGARETE CARDOSO DA SILVA"
                     },
                     {
+                        "codigo_cliente": "72065",
+                        "desc_cliente": "MARIANA COMERCIO DE UTILIDADES LTDA"
+                    },
+                    {
                         "codigo_cliente": "45353",
                         "desc_cliente": "MARIANA DE OLIVEIRA VALIM KLIPPEL"
                     },
@@ -44874,10 +44878,6 @@
                         "desc_cliente": "ELIDO ANTONIO ANDRADES VIERO"
                     },
                     {
-                        "codigo_cliente": "23047",
-                        "desc_cliente": "ELIZETE MARIA BEVILACQUA"
-                    },
-                    {
                         "codigo_cliente": "58549",
                         "desc_cliente": "ELNI TERESINHA MARTINI 30375380078"
                     },
@@ -58128,6 +58128,10 @@
                         "desc_cliente": "BERNARDO EUFRAZIO"
                     },
                     {
+                        "codigo_cliente": "72161",
+                        "desc_cliente": "BERNARDO MELO DOS SANTOS"
+                    },
+                    {
                         "codigo_cliente": "67559",
                         "desc_cliente": "BERNARDO RODRIGUES"
                     },
@@ -65890,6 +65894,10 @@
                     {
                         "codigo_cliente": "68383",
                         "desc_cliente": "WAGNER DE FRAGA SILVEIRA"
+                    },
+                    {
+                        "codigo_cliente": "72158",
+                        "desc_cliente": "WAGNER RIBEIRO"
                     },
                     {
                         "codigo_cliente": "70125",

@@ -39822,6 +39822,10 @@
                         "desc_cliente": "JM ALIMENTOS  PARATY LTDA"
                     },
                     {
+                        "codigo_cliente": "72154",
+                        "desc_cliente": "J R RODIGUE MERCEARIA"
+                    },
+                    {
                         "codigo_cliente": "52226",
                         "desc_cliente": "KEZIA DO ESPIRITO SANTO GENUEL"
                     },
@@ -41114,14 +41118,6 @@
                     {
                         "codigo_cliente": "68397",
                         "desc_cliente": "56.239.769 MARTA DE CAMPOS GOMES"
-                    },
-                    {
-                        "codigo_cliente": "72002",
-                        "desc_cliente": "57.652.662 JANAINA DE VASCONCELOS MEREB"
-                    },
-                    {
-                        "codigo_cliente": "71936",
-                        "desc_cliente": "58.332.282 MARCELO PACHECO TORRES"
                     },
                     {
                         "codigo_cliente": "59494",

@@ -24036,6 +24036,10 @@
                         "desc_cliente": "ELIANE T. HEHN - ME"
                     },
                     {
+                        "codigo_cliente": "72157",
+                        "desc_cliente": "FABIANO AREND"
+                    },
+                    {
                         "codigo_cliente": "47804",
                         "desc_cliente": "FOOD & EXPERIENCE COMERCIO E SERVICOS DE GASTRONOMIA LTDA"
                     },
@@ -41448,10 +41452,6 @@
                         "desc_cliente": "JOSE LUIZ DUARTE ALANIS"
                     },
                     {
-                        "codigo_cliente": "72069",
-                        "desc_cliente": "JOSE MIRANDA DE OLIVEIRA"
-                    },
-                    {
                         "codigo_cliente": "43780",
                         "desc_cliente": "JULIANA MARIA RODRIGUES DA CUNHA"
                     },
@@ -54000,6 +54000,10 @@
                     {
                         "codigo_cliente": "40528",
                         "desc_cliente": "TALLINA COMERCIAL DE FRUTAS E VERDURAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72089",
+                        "desc_cliente": "ZENILDA REBOUCAS DE ALMEIDA LTDA"
                     }
                 ]
             }
@@ -57762,6 +57766,10 @@
                     {
                         "codigo_cliente": "63170",
                         "desc_cliente": "ANDERSON DOS SANTOS"
+                    },
+                    {
+                        "codigo_cliente": "72155",
+                        "desc_cliente": "ANDERSON KOLLER TAVARES"
                     },
                     {
                         "codigo_cliente": "51518",

@@ -56336,10 +56336,6 @@
             "820": {
                 "10 - CARREFOUR": [
                     {
-                        "codigo_cliente": "35311",
-                        "desc_cliente": "CARREFOUR COM E IND LTDA"
-                    },
-                    {
                         "codigo_cliente": "35309",
                         "desc_cliente": "CARREFOUR COMERCIO E INDUSTRIAL LTDA"
                     },
@@ -59210,6 +59206,10 @@
                     {
                         "codigo_cliente": "60657",
                         "desc_cliente": "DIOGENES DE JESUS MORAES"
+                    },
+                    {
+                        "codigo_cliente": "72144",
+                        "desc_cliente": "DIOGO EDUARDO DOS SANTOS"
                     },
                     {
                         "codigo_cliente": "51307",

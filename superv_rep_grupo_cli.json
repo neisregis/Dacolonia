@@ -20462,10 +20462,6 @@
                         "desc_cliente": "MARIA MARGARETE CARDOSO DA SILVA"
                     },
                     {
-                        "codigo_cliente": "72065",
-                        "desc_cliente": "MARIANA COMERCIO DE UTILIDADES LTDA"
-                    },
-                    {
                         "codigo_cliente": "45353",
                         "desc_cliente": "MARIANA DE OLIVEIRA VALIM KLIPPEL"
                     },
@@ -41124,6 +41120,14 @@
                         "desc_cliente": "56.239.769 MARTA DE CAMPOS GOMES"
                     },
                     {
+                        "codigo_cliente": "72002",
+                        "desc_cliente": "57.652.662 JANAINA DE VASCONCELOS MEREB"
+                    },
+                    {
+                        "codigo_cliente": "71936",
+                        "desc_cliente": "58.332.282 MARCELO PACHECO TORRES"
+                    },
+                    {
                         "codigo_cliente": "59494",
                         "desc_cliente": "ADOTE UM DOCE CONFEITARIA LTDA"
                     },
@@ -41450,6 +41454,10 @@
                     {
                         "codigo_cliente": "70285",
                         "desc_cliente": "JOSE LUIZ DUARTE ALANIS"
+                    },
+                    {
+                        "codigo_cliente": "72069",
+                        "desc_cliente": "JOSE MIRANDA DE OLIVEIRA"
                     },
                     {
                         "codigo_cliente": "43780",
@@ -59890,6 +59898,10 @@
                     {
                         "codigo_cliente": "56716",
                         "desc_cliente": "FABIANO MISTURINE "
+                    },
+                    {
+                        "codigo_cliente": "72159",
+                        "desc_cliente": "FABIANO ZANG"
                     },
                     {
                         "codigo_cliente": "67639",

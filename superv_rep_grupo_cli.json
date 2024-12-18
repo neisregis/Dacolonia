@@ -17554,6 +17554,10 @@
                         "desc_cliente": "SOMMAS COMBUSTIVEIS LTDA"
                     },
                     {
+                        "codigo_cliente": "5170",
+                        "desc_cliente": "SUPERMERCADO BITTENCOURT LTDA"
+                    },
+                    {
                         "codigo_cliente": "43987",
                         "desc_cliente": "SUPERMERCADO BOOZ LTDA"
                     },
@@ -42008,10 +42012,6 @@
                         "desc_cliente": "ANTONIO RESOLI DE OLIVEIRA"
                     },
                     {
-                        "codigo_cliente": "17484",
-                        "desc_cliente": "ARI COMERCIO E REPRESENTACOES DE GENEROS ALIM LTDA - ME"
-                    },
-                    {
                         "codigo_cliente": "14288",
                         "desc_cliente": "ARMAZEM RESTAURANTE IMIGRANTE LTDA"
                     },
@@ -61588,6 +61588,10 @@
                         "desc_cliente": "JOSE CARLOS ARTISMO"
                     },
                     {
+                        "codigo_cliente": "72152",
+                        "desc_cliente": "JOSE CARLOS SENCI"
+                    },
+                    {
                         "codigo_cliente": "70179",
                         "desc_cliente": "JOSE CARLOS VALENCIO"
                     },
@@ -61746,6 +61750,10 @@
                     {
                         "codigo_cliente": "66791",
                         "desc_cliente": "JUCIMAR CARLOS PEROZZO"
+                    },
+                    {
+                        "codigo_cliente": "72151",
+                        "desc_cliente": "JULIA DA ROSA"
                     },
                     {
                         "codigo_cliente": "65339",
@@ -68120,6 +68128,10 @@
                         "desc_cliente": "ANDREA ZARDO"
                     },
                     {
+                        "codigo_cliente": "72145",
+                        "desc_cliente": "ANDRE BACKES"
+                    },
+                    {
                         "codigo_cliente": "57282",
                         "desc_cliente": "ANDRE DOTTO"
                     },
@@ -70064,6 +70076,10 @@
                         "desc_cliente": "DRIELE DONADON"
                     },
                     {
+                        "codigo_cliente": "72146",
+                        "desc_cliente": "DULCE ABDALLA"
+                    },
+                    {
                         "codigo_cliente": "66531",
                         "desc_cliente": "DULCINEIA RIBEIRO DE ALMEIDA ZANOVELLO"
                     },
@@ -70346,6 +70362,10 @@
                     {
                         "codigo_cliente": "68816",
                         "desc_cliente": "ELLEN BEZERRA DE MELO"
+                    },
+                    {
+                        "codigo_cliente": "72148",
+                        "desc_cliente": "ELLEN JAQUELINE PAIXÃO RODRIGUES"
                     },
                     {
                         "codigo_cliente": "61783",
@@ -70938,6 +70958,10 @@
                     {
                         "codigo_cliente": "67579",
                         "desc_cliente": "FERNANDO HENRIQUE GOMES NUNES"
+                    },
+                    {
+                        "codigo_cliente": "72147",
+                        "desc_cliente": "FERNANDO NASCIMENTO"
                     },
                     {
                         "codigo_cliente": "64703",
@@ -73468,6 +73492,10 @@
                         "desc_cliente": "LUCAS FLACH BALDASSO"
                     },
                     {
+                        "codigo_cliente": "64111",
+                        "desc_cliente": "LUCAS HUSSAR"
+                    },
+                    {
                         "codigo_cliente": "71685",
                         "desc_cliente": "LUCAS LEAO SANTORO"
                     },
@@ -75726,6 +75754,10 @@
                     {
                         "codigo_cliente": "70137",
                         "desc_cliente": "PRISCILLA GABRIELLI ABREU"
+                    },
+                    {
+                        "codigo_cliente": "72149",
+                        "desc_cliente": "PRISCILLA PRESLEY COSTA AZEVEDO"
                     },
                     {
                         "codigo_cliente": "67759",

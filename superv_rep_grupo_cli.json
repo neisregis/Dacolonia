@@ -4506,22 +4506,6 @@
                         "desc_cliente": "A R FILHO & CIA LTDA"
                     },
                     {
-                        "codigo_cliente": "72163",
-                        "desc_cliente": "ATACADAO S/A"
-                    },
-                    {
-                        "codigo_cliente": "72164",
-                        "desc_cliente": "ATACADAO S/A"
-                    },
-                    {
-                        "codigo_cliente": "72165",
-                        "desc_cliente": "ATACADAO S/A"
-                    },
-                    {
-                        "codigo_cliente": "72166",
-                        "desc_cliente": "ATACADAO S/A"
-                    },
-                    {
                         "codigo_cliente": "46341",
                         "desc_cliente": "CDA-CENTRAL DE DISTRIBUICAO AZEVEDO LTDA"
                     },
@@ -5112,15 +5096,7 @@
                         "desc_cliente": "ATACADAO S/A"
                     },
                     {
-                        "codigo_cliente": "33880",
-                        "desc_cliente": "ATACADAO S/A"
-                    },
-                    {
                         "codigo_cliente": "34022",
-                        "desc_cliente": "ATACADAO S/A"
-                    },
-                    {
-                        "codigo_cliente": "37918",
                         "desc_cliente": "ATACADAO S/A"
                     },
                     {
@@ -5137,6 +5113,22 @@
                     },
                     {
                         "codigo_cliente": "39395",
+                        "desc_cliente": "ATACADAO S/A"
+                    },
+                    {
+                        "codigo_cliente": "72163",
+                        "desc_cliente": "ATACADAO S/A"
+                    },
+                    {
+                        "codigo_cliente": "72164",
+                        "desc_cliente": "ATACADAO S/A"
+                    },
+                    {
+                        "codigo_cliente": "72165",
+                        "desc_cliente": "ATACADAO S/A"
+                    },
+                    {
+                        "codigo_cliente": "72166",
                         "desc_cliente": "ATACADAO S/A"
                     },
                     {
@@ -44918,10 +44910,6 @@
                         "desc_cliente": "ELIDO ANTONIO ANDRADES VIERO"
                     },
                     {
-                        "codigo_cliente": "23047",
-                        "desc_cliente": "ELIZETE MARIA BEVILACQUA"
-                    },
-                    {
                         "codigo_cliente": "58549",
                         "desc_cliente": "ELNI TERESINHA MARTINI 30375380078"
                     },
@@ -53761,6 +53749,14 @@
                     },
                     {
                         "codigo_cliente": "33879",
+                        "desc_cliente": "ATACADAO S/A"
+                    },
+                    {
+                        "codigo_cliente": "33880",
+                        "desc_cliente": "ATACADAO S/A"
+                    },
+                    {
+                        "codigo_cliente": "37918",
                         "desc_cliente": "ATACADAO S/A"
                     },
                     {
@@ -64564,6 +64560,10 @@
                         "desc_cliente": "REGINALDO BARBOSA PEREIRA"
                     },
                     {
+                        "codigo_cliente": "72170",
+                        "desc_cliente": "REGINALDO BELLOLI"
+                    },
+                    {
                         "codigo_cliente": "70057",
                         "desc_cliente": "REGINALDO DE SOUZA"
                     },
@@ -69648,6 +69648,10 @@
                         "desc_cliente": "DAIANE RODRIGUES"
                     },
                     {
+                        "codigo_cliente": "72167",
+                        "desc_cliente": "DAIANE ZANOL DE NARDI"
+                    },
+                    {
                         "codigo_cliente": "68116",
                         "desc_cliente": "DAMIANA MOREIRA DE ANDRADE"
                     },
@@ -70370,6 +70374,10 @@
                     {
                         "codigo_cliente": "67010",
                         "desc_cliente": "ELIANE SETPA"
+                    },
+                    {
+                        "codigo_cliente": "72169",
+                        "desc_cliente": "ELIDE MONTEIRO MULLER"
                     },
                     {
                         "codigo_cliente": "53035",
@@ -77974,6 +77982,10 @@
                     {
                         "codigo_cliente": "68381",
                         "desc_cliente": "VITORIA FALCAO"
+                    },
+                    {
+                        "codigo_cliente": "72168",
+                        "desc_cliente": "VITORIA SCHWANTZ OLIVEIRA"
                     },
                     {
                         "codigo_cliente": "70243",

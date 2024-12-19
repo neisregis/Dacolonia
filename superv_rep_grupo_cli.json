@@ -25613,6 +25613,32 @@
                     }
                 ]
             },
+            "696": {
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "5312",
+                        "desc_cliente": "JORGE L R BORGES"
+                    }
+                ],
+                "3 - CIA.ZAFFARI": [
+                    {
+                        "codigo_cliente": "9354",
+                        "desc_cliente": "CIA.ZAFFARI COM.E INDUSTRIA-LJ 32"
+                    },
+                    {
+                        "codigo_cliente": "13700",
+                        "desc_cliente": "CIA.ZAFFARI COM.E INDUSTRIA-LJ 33"
+                    },
+                    {
+                        "codigo_cliente": "11106",
+                        "desc_cliente": "CIA.ZAFFARI COM.E INDUSTRIA-LJ 34"
+                    },
+                    {
+                        "codigo_cliente": "38370",
+                        "desc_cliente": "CIA. ZAFFARI COM. E INDUSTRIA - LJ 35"
+                    }
+                ]
+            },
             "469": {
                 "253 - ECONOMIX": [
                     {
@@ -25658,26 +25684,6 @@
                     {
                         "codigo_cliente": "19476",
                         "desc_cliente": "SUPERMERCADO ANDREA LTDA - EPP"
-                    }
-                ]
-            },
-            "696": {
-                "3 - CIA.ZAFFARI": [
-                    {
-                        "codigo_cliente": "9354",
-                        "desc_cliente": "CIA.ZAFFARI COM.E INDUSTRIA-LJ 32"
-                    },
-                    {
-                        "codigo_cliente": "13700",
-                        "desc_cliente": "CIA.ZAFFARI COM.E INDUSTRIA-LJ 33"
-                    },
-                    {
-                        "codigo_cliente": "11106",
-                        "desc_cliente": "CIA.ZAFFARI COM.E INDUSTRIA-LJ 34"
-                    },
-                    {
-                        "codigo_cliente": "38370",
-                        "desc_cliente": "CIA. ZAFFARI COM. E INDUSTRIA - LJ 35"
                     }
                 ]
             },
@@ -29634,6 +29640,10 @@
                     {
                         "codigo_cliente": "8595",
                         "desc_cliente": "PANIFICIO AGNET LTDA - EPP"
+                    },
+                    {
+                        "codigo_cliente": "56818",
+                        "desc_cliente": "PARADOURO ANITA GARIBALDI LTDA"
                     },
                     {
                         "codigo_cliente": "29604",
@@ -55186,10 +55196,6 @@
                 ],
                 "1 - GERAL": [
                     {
-                        "codigo_cliente": "72173",
-                        "desc_cliente": "3B MINI MERCADO E PADARIA LTDA"
-                    },
-                    {
                         "codigo_cliente": "30073",
                         "desc_cliente": "ARMAZEM NATURAL LTDA"
                     },
@@ -55293,6 +55299,10 @@
                 "795 - ARMAZEM 3": [
                     {
                         "codigo_cliente": "67444",
+                        "desc_cliente": "3B MINI MERCADO E PADARIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72173",
                         "desc_cliente": "3B MINI MERCADO E PADARIA LTDA"
                     },
                     {
@@ -58450,6 +58460,10 @@
                     {
                         "codigo_cliente": "68867",
                         "desc_cliente": "CARLOS GONZAGA ANDRADE"
+                    },
+                    {
+                        "codigo_cliente": "63428",
+                        "desc_cliente": "CARLOS HEITOR DA SILVA COUTO"
                     },
                     {
                         "codigo_cliente": "65763",
@@ -65318,6 +65332,10 @@
                     {
                         "codigo_cliente": "64280",
                         "desc_cliente": "SILVIO CESAR GARCIA "
+                    },
+                    {
+                        "codigo_cliente": "72178",
+                        "desc_cliente": "SILVIO LUIS CARDOSO"
                     },
                     {
                         "codigo_cliente": "63559",

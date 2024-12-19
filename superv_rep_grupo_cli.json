@@ -4510,6 +4510,18 @@
                         "desc_cliente": "ATACADAO S/A"
                     },
                     {
+                        "codigo_cliente": "72164",
+                        "desc_cliente": "ATACADAO S/A"
+                    },
+                    {
+                        "codigo_cliente": "72165",
+                        "desc_cliente": "ATACADAO S/A"
+                    },
+                    {
+                        "codigo_cliente": "72166",
+                        "desc_cliente": "ATACADAO S/A"
+                    },
+                    {
                         "codigo_cliente": "46341",
                         "desc_cliente": "CDA-CENTRAL DE DISTRIBUICAO AZEVEDO LTDA"
                     },
@@ -5148,6 +5160,10 @@
                         "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
                     },
                     {
+                        "codigo_cliente": "38550",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
+                    },
+                    {
                         "codigo_cliente": "64963",
                         "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
                     },
@@ -5161,6 +5177,10 @@
                     },
                     {
                         "codigo_cliente": "37876",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
+                    },
+                    {
+                        "codigo_cliente": "39738",
                         "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
                     },
                     {

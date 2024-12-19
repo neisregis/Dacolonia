@@ -12596,6 +12596,10 @@
                         "desc_cliente": "TIAGO CRUZ VILELA MINI - MERCADO"
                     },
                     {
+                        "codigo_cliente": "36411",
+                        "desc_cliente": "VALDINETE DE ANDRADE"
+                    },
+                    {
                         "codigo_cliente": "54569",
                         "desc_cliente": "VANESSA MAIARA GONCALVES RIBAS - MERCADO"
                     },
@@ -24114,6 +24118,10 @@
                     {
                         "codigo_cliente": "53039",
                         "desc_cliente": "MERCADO E AQUI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "48923",
+                        "desc_cliente": "MERCADO MULLER COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "49013",
@@ -44280,6 +44288,10 @@
                     {
                         "codigo_cliente": "40282",
                         "desc_cliente": "GABRIELA BERGER BARBOSA"
+                    },
+                    {
+                        "codigo_cliente": "31046",
+                        "desc_cliente": "GABRIEL RIBEIRO MARCONATTO 03007536081"
                     },
                     {
                         "codigo_cliente": "10215",
@@ -81476,6 +81488,10 @@
                         "desc_cliente": "VIA QUALITA SUPERMERCADO LTDA"
                     },
                     {
+                        "codigo_cliente": "72184",
+                        "desc_cliente": "VINICIUS DE MELLO LTDA"
+                    },
+                    {
                         "codigo_cliente": "67229",
                         "desc_cliente": "VIVIANE KLAUS DA SILVA ROCHA"
                     },
@@ -84700,6 +84716,10 @@
                         "desc_cliente": "M RANPANI & CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "72186",
+                        "desc_cliente": "M.S COMERCIO DE COMBUSYIVEIS LTDA - EPP"
+                    },
+                    {
                         "codigo_cliente": "58904",
                         "desc_cliente": "NARDI E NARDI SUPERMERCADO LTDA"
                     },
@@ -87178,6 +87198,10 @@
                     {
                         "codigo_cliente": "70789",
                         "desc_cliente": "R. DA S. FERREIRA - DROGARIA"
+                    },
+                    {
+                        "codigo_cliente": "72156",
+                        "desc_cliente": "R N DE S SILVA DISTRIBUIDORA & REPRESENTACOES DO BRASIL"
                     }
                 ]
             },

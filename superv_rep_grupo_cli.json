@@ -23298,6 +23298,10 @@
                         "desc_cliente": "JULIANE TEIXEIRA MACHADO"
                     },
                     {
+                        "codigo_cliente": "72062",
+                        "desc_cliente": "KAJUR COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "14670",
                         "desc_cliente": "KASA DEL DOCES COMERCIO DE DOCES LTDA"
                     },
@@ -24106,6 +24110,10 @@
                     {
                         "codigo_cliente": "48725",
                         "desc_cliente": "MERCADO BORTOLETTI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "53039",
+                        "desc_cliente": "MERCADO E AQUI LTDA"
                     },
                     {
                         "codigo_cliente": "49013",
@@ -25528,6 +25536,12 @@
                     {
                         "codigo_cliente": "34676",
                         "desc_cliente": "POSTO DE COMBUSTIVEIS PRIMAVERA LTDA"
+                    }
+                ],
+                "797 - FINK": [
+                    {
+                        "codigo_cliente": "72127",
+                        "desc_cliente": "MG FINK LTDA"
                     }
                 ],
                 "846 - SUPER IVOTI": [
@@ -34930,6 +34944,10 @@
                         "desc_cliente": "DAIANE FLORA CELLA"
                     },
                     {
+                        "codigo_cliente": "36752",
+                        "desc_cliente": "DAIANE FLORES CELLA"
+                    },
+                    {
                         "codigo_cliente": "67085",
                         "desc_cliente": "DAIANE FLORES CELLA"
                     },
@@ -44264,10 +44282,6 @@
                         "desc_cliente": "GABRIELA BERGER BARBOSA"
                     },
                     {
-                        "codigo_cliente": "31046",
-                        "desc_cliente": "GABRIEL RIBEIRO MARCONATTO 03007536081"
-                    },
-                    {
                         "codigo_cliente": "10215",
                         "desc_cliente": "GERIZA VASCONCELOS DE OLIVEIRA"
                     },
@@ -53476,6 +53490,10 @@
                     {
                         "codigo_cliente": "61376",
                         "desc_cliente": "A S COMERCIO DE ALIMENTOS SAUDAVEIS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72181",
+                        "desc_cliente": "COMERCIAL CENTRO SUL DE CEREAIS LTDA"
                     },
                     {
                         "codigo_cliente": "40548",

@@ -12540,10 +12540,6 @@
                         "desc_cliente": "STAR GULA LTDA"
                     },
                     {
-                        "codigo_cliente": "59855",
-                        "desc_cliente": "SUPERMERCADO CASTRO LTDA"
-                    },
-                    {
                         "codigo_cliente": "52863",
                         "desc_cliente": "SUPERMERCADO CENTRAL LTDA"
                     },
@@ -20265,6 +20261,10 @@
                 "1389 - SUPERBOM - RS": [
                     {
                         "codigo_cliente": "66066",
+                        "desc_cliente": "BOM MERCADO COM DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72185",
                         "desc_cliente": "BOM MERCADO COM DE ALIMENTOS LTDA"
                     },
                     {
@@ -57888,6 +57888,10 @@
                     {
                         "codigo_cliente": "70168",
                         "desc_cliente": "ANDRE DA SILVA KORALESKI"
+                    },
+                    {
+                        "codigo_cliente": "65235",
+                        "desc_cliente": "ANDRE DUTRA DE OLIVEIRA"
                     },
                     {
                         "codigo_cliente": "50714",

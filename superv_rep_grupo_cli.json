@@ -23298,10 +23298,6 @@
                         "desc_cliente": "JULIANE TEIXEIRA MACHADO"
                     },
                     {
-                        "codigo_cliente": "72062",
-                        "desc_cliente": "KAJUR COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "14670",
                         "desc_cliente": "KASA DEL DOCES COMERCIO DE DOCES LTDA"
                     },
@@ -24110,10 +24106,6 @@
                     {
                         "codigo_cliente": "48725",
                         "desc_cliente": "MERCADO BORTOLETTI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "53039",
-                        "desc_cliente": "MERCADO E AQUI LTDA"
                     },
                     {
                         "codigo_cliente": "49013",
@@ -25536,12 +25528,6 @@
                     {
                         "codigo_cliente": "34676",
                         "desc_cliente": "POSTO DE COMBUSTIVEIS PRIMAVERA LTDA"
-                    }
-                ],
-                "797 - FINK": [
-                    {
-                        "codigo_cliente": "72127",
-                        "desc_cliente": "MG FINK LTDA"
                     }
                 ],
                 "846 - SUPER IVOTI": [
@@ -41126,6 +41112,10 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "47563",
+                        "desc_cliente": "41.090.417 KIZE ARRIECHE DUTRA"
+                    },
+                    {
                         "codigo_cliente": "54624",
                         "desc_cliente": "49.403.844 MAICON DA SILVA PARULA"
                     },
@@ -41520,10 +41510,6 @@
                     {
                         "codigo_cliente": "32015",
                         "desc_cliente": "KATHLEEN MACHADO VENSKE 03778679007"
-                    },
-                    {
-                        "codigo_cliente": "47563",
-                        "desc_cliente": "KIZE ARRIECHE DUTRA 01291257098"
                     },
                     {
                         "codigo_cliente": "9551",

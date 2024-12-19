@@ -5084,6 +5084,10 @@
                         "desc_cliente": "ATACADAO S.A."
                     },
                     {
+                        "codigo_cliente": "72163",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
                         "codigo_cliente": "1045",
                         "desc_cliente": "ATACADAO S/A"
                     },
@@ -5113,22 +5117,6 @@
                     },
                     {
                         "codigo_cliente": "39395",
-                        "desc_cliente": "ATACADAO S/A"
-                    },
-                    {
-                        "codigo_cliente": "72163",
-                        "desc_cliente": "ATACADAO S/A"
-                    },
-                    {
-                        "codigo_cliente": "72164",
-                        "desc_cliente": "ATACADAO S/A"
-                    },
-                    {
-                        "codigo_cliente": "72165",
-                        "desc_cliente": "ATACADAO S/A"
-                    },
-                    {
-                        "codigo_cliente": "72166",
                         "desc_cliente": "ATACADAO S/A"
                     },
                     {
@@ -5209,6 +5197,18 @@
                     },
                     {
                         "codigo_cliente": "68473",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
+                    },
+                    {
+                        "codigo_cliente": "72164",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
+                    },
+                    {
+                        "codigo_cliente": "72165",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
+                    },
+                    {
+                        "codigo_cliente": "72166",
                         "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
                     }
                 ],
@@ -24004,6 +24004,10 @@
                         "desc_cliente": "249 DESIGN HOTEL LTDA"
                     },
                     {
+                        "codigo_cliente": "72157",
+                        "desc_cliente": "58.180.436 FABIANO AREND"
+                    },
+                    {
                         "codigo_cliente": "69226",
                         "desc_cliente": "A FABULOSA MAQUINA DE DOCES LTDA"
                     },
@@ -24062,10 +24066,6 @@
                     {
                         "codigo_cliente": "27364",
                         "desc_cliente": "ELIANE T. HEHN - ME"
-                    },
-                    {
-                        "codigo_cliente": "72157",
-                        "desc_cliente": "FABIANO AREND"
                     },
                     {
                         "codigo_cliente": "47804",
@@ -39863,7 +39863,7 @@
                     },
                     {
                         "codigo_cliente": "72154",
-                        "desc_cliente": "J R RODIGUE MERCEARIA"
+                        "desc_cliente": "J R RODRIGUES MERCEARIA"
                     },
                     {
                         "codigo_cliente": "52226",
@@ -61562,6 +61562,10 @@
                     {
                         "codigo_cliente": "55474",
                         "desc_cliente": "JORGE ALBERTO DOS SANTOS NUNES"
+                    },
+                    {
+                        "codigo_cliente": "72177",
+                        "desc_cliente": "JORGE ANTONIO COSTA"
                     },
                     {
                         "codigo_cliente": "66915",

@@ -28270,6 +28270,10 @@
                     {
                         "codigo_cliente": "71003",
                         "desc_cliente": "N. BEVILACQUA JUNIOR LTDA"
+                    },
+                    {
+                        "codigo_cliente": "43200",
+                        "desc_cliente": "WCTM SUPERMERCADO LTDA "
                     }
                 ],
                 "613 - N BEVILACQUA": [
@@ -55182,6 +55186,10 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "72173",
+                        "desc_cliente": "3B MINI MERCADO E PADARIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "30073",
                         "desc_cliente": "ARMAZEM NATURAL LTDA"
                     },
@@ -64948,6 +64956,10 @@
                         "desc_cliente": "ROSANE MARIA PEREIRA BRUM"
                     },
                     {
+                        "codigo_cliente": "72174",
+                        "desc_cliente": "ROSANE STACHLEWSKI"
+                    },
+                    {
                         "codigo_cliente": "69875",
                         "desc_cliente": "ROSANGELA ARAUJO DA SILVEIRA"
                     },
@@ -71636,6 +71648,10 @@
                         "desc_cliente": "GUILHERME AUGUSTO THOMAZ"
                     },
                     {
+                        "codigo_cliente": "72171",
+                        "desc_cliente": "GUILHERME AUGUSTO XAVIER"
+                    },
+                    {
                         "codigo_cliente": "55499",
                         "desc_cliente": "GUILHERME BALBAO RONCAGLIA"
                     },
@@ -77346,6 +77362,10 @@
                     {
                         "codigo_cliente": "70491",
                         "desc_cliente": "TANIA RANGEL"
+                    },
+                    {
+                        "codigo_cliente": "72172",
+                        "desc_cliente": "TANIA ROSANE LUCHESE"
                     },
                     {
                         "codigo_cliente": "68652",

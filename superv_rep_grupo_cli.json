@@ -4506,6 +4506,10 @@
                         "desc_cliente": "A R FILHO & CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "72163",
+                        "desc_cliente": "ATACADAO S/A"
+                    },
+                    {
                         "codigo_cliente": "46341",
                         "desc_cliente": "CDA-CENTRAL DE DISTRIBUICAO AZEVEDO LTDA"
                     },
@@ -4952,6 +4956,10 @@
                         "desc_cliente": "ATACADAO S.A."
                     },
                     {
+                        "codigo_cliente": "32091",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
                         "codigo_cliente": "32092",
                         "desc_cliente": "ATACADAO S.A."
                     },
@@ -4965,6 +4973,14 @@
                     },
                     {
                         "codigo_cliente": "32099",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "32100",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "32986",
                         "desc_cliente": "ATACADAO S.A."
                     },
                     {

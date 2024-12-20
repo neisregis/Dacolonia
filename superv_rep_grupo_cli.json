@@ -25966,6 +25966,10 @@
                         "desc_cliente": "JAO PRODUTOS PARA FESTAS LTDA - EPP"
                     },
                     {
+                        "codigo_cliente": "44956",
+                        "desc_cliente": "JOAO PRODUTOS PARA FESTAS LTDA"
+                    },
+                    {
                         "codigo_cliente": "58818",
                         "desc_cliente": "KING FRIOS COMERCIO DISTRIBUIDOR DE FRIOS LTDA"
                     },
@@ -48258,6 +48262,10 @@
                         "desc_cliente": "A E B RAPOSO & CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "34199",
+                        "desc_cliente": "CASA SANTA LUZIA IMPORTADORA LTDA"
+                    },
+                    {
                         "codigo_cliente": "66475",
                         "desc_cliente": "DISTRIBUIDORA AJLM LTDA"
                     },
@@ -51384,10 +51392,6 @@
                         "desc_cliente": "CONVENIENCIA GRION LTDA"
                     },
                     {
-                        "codigo_cliente": "72094",
-                        "desc_cliente": "COOPERATIVA MISTA YUCUMA COOPERYUCUMA"
-                    },
-                    {
                         "codigo_cliente": "66424",
                         "desc_cliente": "DENTI MERCADO EXPRESS LTDA"
                     },
@@ -51554,10 +51558,6 @@
                     {
                         "codigo_cliente": "17383",
                         "desc_cliente": "MINI MERCADO CAPELARI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72093",
-                        "desc_cliente": "MOACIR DAL PAS LTDA"
                     },
                     {
                         "codigo_cliente": "10103",
@@ -61270,6 +61270,10 @@
                     {
                         "codigo_cliente": "68806",
                         "desc_cliente": "JEAN CARLOS DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "72199",
+                        "desc_cliente": "JEAN CARLOS DOS SANTOS"
                     },
                     {
                         "codigo_cliente": "51146",
@@ -79058,10 +79062,6 @@
                         "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
                     },
                     {
-                        "codigo_cliente": "71974",
-                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
-                    },
-                    {
                         "codigo_cliente": "21110",
                         "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
                     },
@@ -81604,10 +81604,6 @@
                     {
                         "codigo_cliente": "10895",
                         "desc_cliente": "VIA QUALITA SUPERMERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72184",
-                        "desc_cliente": "VINICIUS DE MELLO LTDA"
                     },
                     {
                         "codigo_cliente": "67229",
@@ -87304,6 +87300,10 @@
                     {
                         "codigo_cliente": "71668",
                         "desc_cliente": "COMERCIO DE MEDICAMENTOS FAFENIX LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72196",
+                        "desc_cliente": "K THALIS BASTOS DOS SANTOS"
                     },
                     {
                         "codigo_cliente": "71407",

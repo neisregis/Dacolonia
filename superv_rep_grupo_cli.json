@@ -55392,6 +55392,10 @@
                         "desc_cliente": "3B MINI MERCADO E PADARIA LTDA"
                     },
                     {
+                        "codigo_cliente": "72173",
+                        "desc_cliente": "3B MINI MERCADO E PADARIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "34990",
                         "desc_cliente": "SUPERMERCADO ARMAZEM 3 EIRELI"
                     }
@@ -58842,6 +58846,10 @@
                     {
                         "codigo_cliente": "68023",
                         "desc_cliente": "CLAUDIO HENRIQUE DUARTE"
+                    },
+                    {
+                        "codigo_cliente": "72202",
+                        "desc_cliente": "CLAUDIO ILDOMAR PRATES"
                     },
                     {
                         "codigo_cliente": "65834",
@@ -64940,6 +64948,10 @@
                         "desc_cliente": "RODRIGO CERVELIN"
                     },
                     {
+                        "codigo_cliente": "50671",
+                        "desc_cliente": "RODRIGO CLOSTER PAIM DOS SANTOS"
+                    },
+                    {
                         "codigo_cliente": "66552",
                         "desc_cliente": "RODRIGO COCOLINE"
                     },
@@ -65766,6 +65778,10 @@
                     {
                         "codigo_cliente": "62377",
                         "desc_cliente": "TIAGO SOARES DOS SANTOS"
+                    },
+                    {
+                        "codigo_cliente": "72201",
+                        "desc_cliente": "TIAGO TAVARES AMARAL"
                     },
                     {
                         "codigo_cliente": "64526",

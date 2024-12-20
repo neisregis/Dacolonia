@@ -3948,24 +3948,12 @@
                         "desc_cliente": "ATACADAO S.A."
                     },
                     {
-                        "codigo_cliente": "37148",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
                         "codigo_cliente": "42679",
                         "desc_cliente": "ATACADAO S.A."
                     },
                     {
                         "codigo_cliente": "47601",
                         "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "53309",
-                        "desc_cliente": "WMB SUPERMERCADOS DO BRASIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "48934",
-                        "desc_cliente": "WMB SUPERMERCADOS DO BRASIL LTDA. "
                     },
                     {
                         "codigo_cliente": "69950",
@@ -4294,6 +4282,60 @@
                     {
                         "codigo_cliente": "44274",
                         "desc_cliente": "SUPERMERCADOS SO FESTA LTDA"
+                    }
+                ],
+                "88 - ATACADAO": [
+                    {
+                        "codigo_cliente": "34842",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "34843",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "34845",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "34846",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "34847",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "34855",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "37148",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "47601",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "53309",
+                        "desc_cliente": "WMB SUPERMERCADOS DO BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "48934",
+                        "desc_cliente": "WMB SUPERMERCADOS DO BRASIL LTDA. "
+                    },
+                    {
+                        "codigo_cliente": "69950",
+                        "desc_cliente": "WMS SUPERMERCADOS  DO BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66026",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69967",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASILLTDA"
                     }
                 ]
             },
@@ -70290,6 +70332,10 @@
                         "desc_cliente": "EDUARDO ALVES PRANDINI"
                     },
                     {
+                        "codigo_cliente": "65570",
+                        "desc_cliente": "EDUARDO BORGES KRAEMER"
+                    },
+                    {
                         "codigo_cliente": "68221",
                         "desc_cliente": "EDUARDO DALLA LANA BAGGIO"
                     },
@@ -70660,6 +70706,10 @@
                     {
                         "codigo_cliente": "63384",
                         "desc_cliente": "E SILVA"
+                    },
+                    {
+                        "codigo_cliente": "72182",
+                        "desc_cliente": "ESTELA MACHADO DA FONTOURA "
                     },
                     {
                         "codigo_cliente": "71519",
@@ -72584,6 +72634,10 @@
                     {
                         "codigo_cliente": "70776",
                         "desc_cliente": "JOSE CANDIDO DE VASCONCELOS GUIMARAES"
+                    },
+                    {
+                        "codigo_cliente": "72183",
+                        "desc_cliente": "JOSE CARLOS CRUZ OROSCO"
                     },
                     {
                         "codigo_cliente": "70544",
@@ -75090,6 +75144,10 @@
                         "desc_cliente": "MICHELLE LOIOLA SILVA TERRA"
                     },
                     {
+                        "codigo_cliente": "62689",
+                        "desc_cliente": "MICHELLE STEDILE"
+                    },
+                    {
                         "codigo_cliente": "68129",
                         "desc_cliente": "MICHEL VIVIANO DOS SANTOS"
                     },
@@ -76912,6 +76970,10 @@
                     {
                         "codigo_cliente": "66261",
                         "desc_cliente": "SAMUEL JOSE TIRLONI"
+                    },
+                    {
+                        "codigo_cliente": "72188",
+                        "desc_cliente": "SAMUEL NERILO"
                     },
                     {
                         "codigo_cliente": "72087",
@@ -84733,7 +84795,7 @@
                     },
                     {
                         "codigo_cliente": "72186",
-                        "desc_cliente": "M.S COMERCIO DE COMBUSYIVEIS LTDA - EPP"
+                        "desc_cliente": "M. S. COMERCIO DE COMBUSTIVEIS LTDA"
                     },
                     {
                         "codigo_cliente": "58904",

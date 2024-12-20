@@ -6491,6 +6491,24 @@
                     }
                 ]
             },
+            "1191": {
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "31878",
+                        "desc_cliente": "ANCORA DISTRIBUIDORA DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70649",
+                        "desc_cliente": "UNIFORCA DIST IMP E EXP DE MERCADO"
+                    }
+                ],
+                "221 - ARMAZEM MATEUS": [
+                    {
+                        "codigo_cliente": "55116",
+                        "desc_cliente": "ARMAZEM MATEUS S.A."
+                    }
+                ]
+            },
             "646": {
                 "1 - GERAL": [
                     {
@@ -6716,20 +6734,6 @@
                     {
                         "codigo_cliente": "22678",
                         "desc_cliente": "SUPRILEV - COMERCIO E DISTRIBUICAO LTDA - EPP"
-                    }
-                ]
-            },
-            "1191": {
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "70649",
-                        "desc_cliente": "UNIFORCA DIST IMP E EXP DE MERCADO"
-                    }
-                ],
-                "221 - ARMAZEM MATEUS": [
-                    {
-                        "codigo_cliente": "55116",
-                        "desc_cliente": "ARMAZEM MATEUS S.A."
                     }
                 ]
             },

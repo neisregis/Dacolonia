@@ -53604,6 +53604,10 @@
                         "desc_cliente": "ARMAZEM MATEUS S.A"
                     },
                     {
+                        "codigo_cliente": "43566",
+                        "desc_cliente": "MATEUS SUPERMERCADOS S A"
+                    },
+                    {
                         "codigo_cliente": "48395",
                         "desc_cliente": "MATEUS SUPERMERCADOS S A"
                     },
@@ -58818,6 +58822,10 @@
                     {
                         "codigo_cliente": "65834",
                         "desc_cliente": "CLAUDIO LUIS DA ROSA MINEIRO"
+                    },
+                    {
+                        "codigo_cliente": "72190",
+                        "desc_cliente": "CLAUDIOMIR KUHN"
                     },
                     {
                         "codigo_cliente": "71915",
@@ -65894,6 +65902,10 @@
                     {
                         "codigo_cliente": "69983",
                         "desc_cliente": "VICTORIA VASCONCELOS BARCELOS"
+                    },
+                    {
+                        "codigo_cliente": "72189",
+                        "desc_cliente": "VICTOR MANOEL TERRA"
                     },
                     {
                         "codigo_cliente": "51036",

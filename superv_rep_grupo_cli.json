@@ -16152,10 +16152,6 @@
                         "desc_cliente": "R G SUPERMERCADO"
                     },
                     {
-                        "codigo_cliente": "72118",
-                        "desc_cliente": "RIKALU PIZZAS E SORVETES LTDA"
-                    },
-                    {
                         "codigo_cliente": "14954",
                         "desc_cliente": "ROSELI J. B. KNORST - ME"
                     },
@@ -27838,6 +27834,10 @@
                     {
                         "codigo_cliente": "58385",
                         "desc_cliente": "MARINA ALVES CHAVES"
+                    },
+                    {
+                        "codigo_cliente": "34463",
+                        "desc_cliente": "MARTINS RABELO E SIQUEIRA LTDA"
                     },
                     {
                         "codigo_cliente": "41942",
@@ -53616,6 +53616,14 @@
                         "desc_cliente": "MATEUS SUPERMERCADOS S A"
                     },
                     {
+                        "codigo_cliente": "55182",
+                        "desc_cliente": "MATEUS SUPERMERCADOS S A"
+                    },
+                    {
+                        "codigo_cliente": "55183",
+                        "desc_cliente": "MATEUS SUPERMERCADOS S A"
+                    },
+                    {
                         "codigo_cliente": "48955",
                         "desc_cliente": "MATEUS SUPERMERCADOS S.A"
                     },
@@ -59994,6 +60002,10 @@
                     {
                         "codigo_cliente": "51612",
                         "desc_cliente": "EZEQUIEL KRECH FERREIRA"
+                    },
+                    {
+                        "codigo_cliente": "72191",
+                        "desc_cliente": "EZEQUIEL RAUPP"
                     },
                     {
                         "codigo_cliente": "67622",

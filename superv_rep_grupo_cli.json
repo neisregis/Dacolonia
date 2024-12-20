@@ -28332,6 +28332,10 @@
                         "desc_cliente": "L.A. DA SILVA ATACADISTA"
                     },
                     {
+                        "codigo_cliente": "72203",
+                        "desc_cliente": "MERCEARIA EXTRA  LTDA"
+                    },
+                    {
                         "codigo_cliente": "71003",
                         "desc_cliente": "N. BEVILACQUA JUNIOR LTDA"
                     },
@@ -63358,6 +63362,10 @@
                     {
                         "codigo_cliente": "68894",
                         "desc_cliente": "MARCO ANTONIO GONSALVES"
+                    },
+                    {
+                        "codigo_cliente": "72204",
+                        "desc_cliente": "MARCO ANTONIO LINO BENFICA"
                     },
                     {
                         "codigo_cliente": "65850",

@@ -16152,6 +16152,10 @@
                         "desc_cliente": "R G SUPERMERCADO"
                     },
                     {
+                        "codigo_cliente": "72118",
+                        "desc_cliente": "RIKALU PIZZAS E SORVETES LTDA"
+                    },
+                    {
                         "codigo_cliente": "14954",
                         "desc_cliente": "ROSELI J. B. KNORST - ME"
                     },
@@ -48254,10 +48258,6 @@
                         "desc_cliente": "A E B RAPOSO & CIA LTDA"
                     },
                     {
-                        "codigo_cliente": "34199",
-                        "desc_cliente": "CASA SANTA LUZIA IMPORTADORA LTDA"
-                    },
-                    {
                         "codigo_cliente": "66475",
                         "desc_cliente": "DISTRIBUIDORA AJLM LTDA"
                     },
@@ -57412,6 +57412,10 @@
                         "desc_cliente": "ADELSON DURAND DA COSTA"
                     },
                     {
+                        "codigo_cliente": "72193",
+                        "desc_cliente": "ADEMIR CEZAR FERREIRA"
+                    },
+                    {
                         "codigo_cliente": "66246",
                         "desc_cliente": "ADILSON GOULART DE ALMEIDA"
                     },
@@ -58648,6 +58652,10 @@
                         "desc_cliente": "CASSIA LOPES"
                     },
                     {
+                        "codigo_cliente": "72192",
+                        "desc_cliente": "CASSIA MARQUES DOS SANTOS"
+                    },
+                    {
                         "codigo_cliente": "69084",
                         "desc_cliente": "CASSIANO HEIDRICH"
                     },
@@ -59650,6 +59658,10 @@
                     {
                         "codigo_cliente": "67326",
                         "desc_cliente": "EDUARDO COSTA MATOS"
+                    },
+                    {
+                        "codigo_cliente": "72195",
+                        "desc_cliente": "EDUARDO DA SILVA MORINEL"
                     },
                     {
                         "codigo_cliente": "68953",
@@ -62286,6 +62298,10 @@
                     {
                         "codigo_cliente": "52328",
                         "desc_cliente": "LAURO ANTONIO DA SILVA SOUZA"
+                    },
+                    {
+                        "codigo_cliente": "72194",
+                        "desc_cliente": "LAURO BRAUN"
                     },
                     {
                         "codigo_cliente": "68576",

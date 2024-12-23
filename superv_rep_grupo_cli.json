@@ -17676,10 +17676,6 @@
                         "desc_cliente": "VIVENDA EXPRESS LTDA"
                     },
                     {
-                        "codigo_cliente": "48548",
-                        "desc_cliente": "VLADIMIR SOUZA DA ROCHA 00244306095"
-                    },
-                    {
                         "codigo_cliente": "63256",
                         "desc_cliente": "YGEIA COMERCIO DE ALIMENTOS LTDA"
                     }
@@ -20500,10 +20496,6 @@
                         "desc_cliente": "IGOR DIAS BARBOSA"
                     },
                     {
-                        "codigo_cliente": "71328",
-                        "desc_cliente": "JESSICA DE MATOS PEREIRA 02174123002"
-                    },
-                    {
                         "codigo_cliente": "60727",
                         "desc_cliente": "J SOSIN MINIMERCADO"
                     },
@@ -20781,10 +20773,6 @@
                     }
                 ],
                 "1 - GERAL": [
-                    {
-                        "codigo_cliente": "71564",
-                        "desc_cliente": "57.101.619 MARLI DE LOURDES GUEDES"
-                    },
                     {
                         "codigo_cliente": "52968",
                         "desc_cliente": "ADILSON LUIZ LUNKES LANGER 71187138053"
@@ -22524,12 +22512,6 @@
                         "desc_cliente": "SUPERMERCADO HAAG LTDA"
                     }
                 ],
-                "79 - ANDREAZZA": [
-                    {
-                        "codigo_cliente": "65422",
-                        "desc_cliente": "IRMAOS ANDREAZZA LTDA"
-                    }
-                ],
                 "899 - SUPER COMPANY": [
                     {
                         "codigo_cliente": "33987",
@@ -22990,10 +22972,6 @@
                     {
                         "codigo_cliente": "8660",
                         "desc_cliente": "MERCADO ROSTIROLLA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "28837",
-                        "desc_cliente": "MERCADO SCARIOT E SALVADOR LTDA - EPP"
                     },
                     {
                         "codigo_cliente": "57311",
@@ -24264,6 +24242,12 @@
                     {
                         "codigo_cliente": "46523",
                         "desc_cliente": "VIP SUPERMERCADO LTDA"
+                    }
+                ],
+                "79 - ANDREAZZA": [
+                    {
+                        "codigo_cliente": "65422",
+                        "desc_cliente": "IRMAOS ANDREAZZA LTDA"
                     }
                 ]
             },
@@ -29702,10 +29686,6 @@
                     {
                         "codigo_cliente": "26085",
                         "desc_cliente": "PANIFICADORA E MERCEARIA THALITA LTDA - ME"
-                    },
-                    {
-                        "codigo_cliente": "8595",
-                        "desc_cliente": "PANIFICIO AGNET LTDA - EPP"
                     },
                     {
                         "codigo_cliente": "56818",
@@ -51634,10 +51614,6 @@
                     {
                         "codigo_cliente": "13412",
                         "desc_cliente": "SONIA M. P. O. MARCA"
-                    },
-                    {
-                        "codigo_cliente": "35366",
-                        "desc_cliente": "STEFANELLO & PELLEGRIN LTDA"
                     },
                     {
                         "codigo_cliente": "7489",

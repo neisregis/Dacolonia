@@ -6386,10 +6386,6 @@
                 ],
                 "1 - GERAL": [
                     {
-                        "codigo_cliente": "71786",
-                        "desc_cliente": "D J V JUNIOR RESTAURANTE"
-                    },
-                    {
                         "codigo_cliente": "72133",
                         "desc_cliente": "M. B. G. SUPERMERCADO LTDA"
                     }
@@ -9450,10 +9446,6 @@
                     {
                         "codigo_cliente": "18375",
                         "desc_cliente": "SUPER SUL MIX SUPERMERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "70444",
-                        "desc_cliente": "TSF IMPORTACAO E EXPORTACAO LTDA"
                     },
                     {
                         "codigo_cliente": "51940",
@@ -85170,10 +85162,6 @@
                         "desc_cliente": "MASTER FRIOS COMERCIAL DE ALIMENTOS LTDA"
                     },
                     {
-                        "codigo_cliente": "62603",
-                        "desc_cliente": "MBR ATACADISTA DE ALIMENTOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "45068",
                         "desc_cliente": "MERCONORTE GENEROS ALIMENTICIOS LTDA"
                     },
@@ -85646,10 +85634,6 @@
                     {
                         "codigo_cliente": "66035",
                         "desc_cliente": "ELL COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71738",
-                        "desc_cliente": "EMPORIO COMERCIO DE HORTIFRUTI LTDA"
                     },
                     {
                         "codigo_cliente": "66635",

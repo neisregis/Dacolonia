@@ -24875,7 +24875,7 @@
                     },
                     {
                         "codigo_cliente": "72212",
-                        "desc_cliente": "HENRI G.VALCARENGHI LTDA"
+                        "desc_cliente": "HENRI G VALCARENGHI LTDA"
                     },
                     {
                         "codigo_cliente": "27401",
@@ -58744,6 +58744,10 @@
                         "desc_cliente": "CHIRLEI COIMBRA"
                     },
                     {
+                        "codigo_cliente": "72214",
+                        "desc_cliente": "CHRISTIAN FORTES"
+                    },
+                    {
                         "codigo_cliente": "57143",
                         "desc_cliente": "CINTHIA FERNANDA SANTOS MARTINS"
                     },
@@ -60422,6 +60426,10 @@
                     {
                         "codigo_cliente": "67380",
                         "desc_cliente": "GABRIELA LETTI  MULLER"
+                    },
+                    {
+                        "codigo_cliente": "72213",
+                        "desc_cliente": "GABRIELA MELOS VIEIRA"
                     },
                     {
                         "codigo_cliente": "64256",

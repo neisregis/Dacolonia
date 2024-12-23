@@ -24874,6 +24874,10 @@
                         "desc_cliente": "ELISANDRO DE SOUZA E CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "72212",
+                        "desc_cliente": "HENRI G.VALCARENGHI LTDA"
+                    },
+                    {
                         "codigo_cliente": "27401",
                         "desc_cliente": "J & J FAGUNDES COMERCIO DE ALIMENTOS LTDA - ME"
                     },
@@ -51172,6 +51176,10 @@
                         "desc_cliente": "MIRIA ELISANA VIEIRA OLEQUES"
                     },
                     {
+                        "codigo_cliente": "62541",
+                        "desc_cliente": "M. M. COMERCIO E REPRESENTACOES LTDA"
+                    },
+                    {
                         "codigo_cliente": "23697",
                         "desc_cliente": "MULTI SUGESTOES EMBALAGENS LTDA"
                     },
@@ -59272,6 +59280,10 @@
                         "desc_cliente": "DENISE FRAGA GUIMARAES"
                     },
                     {
+                        "codigo_cliente": "72211",
+                        "desc_cliente": "DENISE LIMA DA SILVA"
+                    },
+                    {
                         "codigo_cliente": "55520",
                         "desc_cliente": "DENISE NEVES DA SILVA RODRIGUES "
                     },
@@ -66728,6 +66740,10 @@
                     {
                         "codigo_cliente": "65566",
                         "desc_cliente": "LUCAS SANTOS SOUZA"
+                    },
+                    {
+                        "codigo_cliente": "71425",
+                        "desc_cliente": "MARCELO LOPES"
                     },
                     {
                         "codigo_cliente": "65431",

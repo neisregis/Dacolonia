@@ -28314,6 +28314,10 @@
                     {
                         "codigo_cliente": "55210",
                         "desc_cliente": "MERCEARIA EXTRA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72203",
+                        "desc_cliente": "MERCEARIA EXTRA LTDA"
                     }
                 ],
                 "1314 - SUPER MACHADO - MT": [
@@ -28334,10 +28338,6 @@
                     {
                         "codigo_cliente": "68334",
                         "desc_cliente": "L.A. DA SILVA ATACADISTA"
-                    },
-                    {
-                        "codigo_cliente": "72203",
-                        "desc_cliente": "MERCEARIA EXTRA  LTDA"
                     },
                     {
                         "codigo_cliente": "71003",

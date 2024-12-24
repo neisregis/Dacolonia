@@ -24874,10 +24874,6 @@
                         "desc_cliente": "ELISANDRO DE SOUZA E CIA LTDA"
                     },
                     {
-                        "codigo_cliente": "72212",
-                        "desc_cliente": "HENRI G VALCARENGHI LTDA"
-                    },
-                    {
                         "codigo_cliente": "27401",
                         "desc_cliente": "J & J FAGUNDES COMERCIO DE ALIMENTOS LTDA - ME"
                     },
@@ -24932,6 +24928,12 @@
                     {
                         "codigo_cliente": "58998",
                         "desc_cliente": "SUPERMERCADO ZEFA LTDA"
+                    }
+                ],
+                "403 - DIVINA TERRA": [
+                    {
+                        "codigo_cliente": "72212",
+                        "desc_cliente": "HENRI G VALCARENGHI LTDA"
                     }
                 ],
                 "47 - NOVO VAREJO (ANTIGO UNISUPER )": [

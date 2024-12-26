@@ -20786,6 +20786,10 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "71564",
+                        "desc_cliente": "57.101.619 MARLI DE LOURDES GUEDES"
+                    },
+                    {
                         "codigo_cliente": "52968",
                         "desc_cliente": "ADILSON LUIZ LUNKES LANGER 71187138053"
                     },

@@ -212,10 +212,6 @@
                         "desc_cliente": "SUPERMERCADOS BH COMERCIO DE ALIMENTOS S/A"
                     },
                     {
-                        "codigo_cliente": "55659",
-                        "desc_cliente": "SUPERMERCADOS BH COMERCIO DE ALIMENTOS S/A"
-                    },
-                    {
                         "codigo_cliente": "55660",
                         "desc_cliente": "SUPERMERCADOS BH COMERCIO DE ALIMENTOS S/A"
                     },
@@ -3928,48 +3924,8 @@
                 ],
                 "88 - ATACADAO": [
                     {
-                        "codigo_cliente": "34842",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "34843",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "34845",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "34846",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "34847",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "34855",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
                         "codigo_cliente": "42679",
                         "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "47601",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "69950",
-                        "desc_cliente": "WMS SUPERMERCADOS  DO BRASIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "66026",
-                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69967",
-                        "desc_cliente": "WMS SUPERMERCADOS DO BRASILLTDA"
                     }
                 ],
                 "904 - ROMA PLUS": [

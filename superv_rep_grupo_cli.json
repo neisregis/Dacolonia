@@ -3706,40 +3706,6 @@
                         "desc_cliente": "ORGANIZACOES SUPER COMPRAS LTDA"
                     }
                 ],
-                "1319 - SUPER PARANAIBA": [
-                    {
-                        "codigo_cliente": "68630",
-                        "desc_cliente": "ARMAZEN E MERCEARIA PARANAIBA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "68647",
-                        "desc_cliente": "COMERCIAL PARANAIBA DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "68487",
-                        "desc_cliente": "PARANAIBA FORTALEZA SUPERMERCADOS LTDA."
-                    },
-                    {
-                        "codigo_cliente": "68646",
-                        "desc_cliente": "PARANAIBA LAGOA SANTA VARZEA SUPERMERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "68645",
-                        "desc_cliente": "PARANAIBA SAO BENEDITO ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "68649",
-                        "desc_cliente": "SUPERMERCADO PARANAIBA BELA VISTA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "68498",
-                        "desc_cliente": "VAREJAO LEBLON LTDA"
-                    },
-                    {
-                        "codigo_cliente": "68580",
-                        "desc_cliente": "VAREJAO PARANAIBA LTDA"
-                    }
-                ],
                 "1325 - SUPER LUNA - (P/ CONTROLE FINANCEIRO)": [
                     {
                         "codigo_cliente": "60383",
@@ -3814,10 +3780,6 @@
                         "desc_cliente": "MARTMIX ATACAREJO LTDA"
                     },
                     {
-                        "codigo_cliente": "68799",
-                        "desc_cliente": "NACIONAL PARANAIBA ALIMENTOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "52583",
                         "desc_cliente": "NOBILE COMERCIO DE ALIMENTOS E BEBIDAS LTDA"
                     },
@@ -3850,36 +3812,8 @@
                         "desc_cliente": "PANIFICADORA E CONFEITARIA FREITAS E OLIVEIRA LTDA"
                     },
                     {
-                        "codigo_cliente": "68740",
-                        "desc_cliente": "PARANAIBA CENTRO SUPERMERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "70328",
-                        "desc_cliente": "PARANAIBA GUANABARA ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "68663",
-                        "desc_cliente": "PARANAIBA LAGOA SANTA SUPERMERCADOS LTDA."
-                    },
-                    {
-                        "codigo_cliente": "70025",
-                        "desc_cliente": "PARANAIBA PEDRO LEOPOLDO ALIMENTOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "68671",
                         "desc_cliente": "PARANAIBA RIBEIRO DE ABREU SUPERMERCADOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "68802",
-                        "desc_cliente": "PARANAIBA RIO BRANCO SUPERMERCADOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "68677",
-                        "desc_cliente": "PARANAIBA SERRA VERDE SUPERMERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "68792",
-                        "desc_cliente": "PARANAIBA TUPI SUPERMERCADOS LTDA"
                     },
                     {
                         "codigo_cliente": "68798",
@@ -3914,20 +3848,8 @@
                         "desc_cliente": "SUPERMERCADO CANAA IPE AMARELO LTDA"
                     },
                     {
-                        "codigo_cliente": "69673",
-                        "desc_cliente": "SUPERMERCADO PARANAIBA JARDIM ITAU LTDA."
-                    },
-                    {
-                        "codigo_cliente": "70194",
-                        "desc_cliente": "SUPERMERCADO PARANAIBA SANTA LUZIA LTDA"
-                    },
-                    {
                         "codigo_cliente": "60112",
                         "desc_cliente": "SUPERMERCADO PEJOAL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71679",
-                        "desc_cliente": "VAREJAO PLANALTO LTDA"
                     }
                 ],
                 "88 - ATACADAO": [
@@ -4161,6 +4083,152 @@
                     }
                 ]
             },
+            "1148": {
+                "1319 - SUPER PARANAIBA": [
+                    {
+                        "codigo_cliente": "68630",
+                        "desc_cliente": "ARMAZEN E MERCEARIA PARANAIBA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "68647",
+                        "desc_cliente": "COMERCIAL PARANAIBA DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "68487",
+                        "desc_cliente": "PARANAIBA FORTALEZA SUPERMERCADOS LTDA."
+                    },
+                    {
+                        "codigo_cliente": "68646",
+                        "desc_cliente": "PARANAIBA LAGOA SANTA VARZEA SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "68645",
+                        "desc_cliente": "PARANAIBA SAO BENEDITO ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "68649",
+                        "desc_cliente": "SUPERMERCADO PARANAIBA BELA VISTA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "68498",
+                        "desc_cliente": "VAREJAO LEBLON LTDA"
+                    },
+                    {
+                        "codigo_cliente": "68580",
+                        "desc_cliente": "VAREJAO PARANAIBA LTDA"
+                    }
+                ],
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "66521",
+                        "desc_cliente": "LATICINIOS ITA INDUSTRIA E COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "68799",
+                        "desc_cliente": "NACIONAL PARANAIBA ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "68740",
+                        "desc_cliente": "PARANAIBA CENTRO SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70328",
+                        "desc_cliente": "PARANAIBA GUANABARA ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "68663",
+                        "desc_cliente": "PARANAIBA LAGOA SANTA SUPERMERCADOS LTDA."
+                    },
+                    {
+                        "codigo_cliente": "70025",
+                        "desc_cliente": "PARANAIBA PEDRO LEOPOLDO ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "68802",
+                        "desc_cliente": "PARANAIBA RIO BRANCO SUPERMERCADOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "68677",
+                        "desc_cliente": "PARANAIBA SERRA VERDE SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "68792",
+                        "desc_cliente": "PARANAIBA TUPI SUPERMERCADOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69673",
+                        "desc_cliente": "SUPERMERCADO PARANAIBA JARDIM ITAU LTDA."
+                    },
+                    {
+                        "codigo_cliente": "70194",
+                        "desc_cliente": "SUPERMERCADO PARANAIBA SANTA LUZIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71679",
+                        "desc_cliente": "VAREJAO PLANALTO LTDA"
+                    }
+                ],
+                "723 - SÓ FESTA": [
+                    {
+                        "codigo_cliente": "44274",
+                        "desc_cliente": "SUPERMERCADOS SO FESTA LTDA"
+                    }
+                ],
+                "88 - ATACADAO": [
+                    {
+                        "codigo_cliente": "34842",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "34843",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "34845",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "34846",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "34847",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "34855",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "37148",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "47601",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "53309",
+                        "desc_cliente": "WMB SUPERMERCADOS DO BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "48934",
+                        "desc_cliente": "WMB SUPERMERCADOS DO BRASIL LTDA. "
+                    },
+                    {
+                        "codigo_cliente": "69950",
+                        "desc_cliente": "WMS SUPERMERCADOS  DO BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66026",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69967",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASILLTDA"
+                    }
+                ]
+            },
             "1150": {
                 "1364 - COMERCIAL CARIACICA": [
                     {
@@ -4276,74 +4344,6 @@
                     {
                         "codigo_cliente": "27173",
                         "desc_cliente": "MAIOLINI SUPERMERCADOS LTDA"
-                    }
-                ]
-            },
-            "1148": {
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "66521",
-                        "desc_cliente": "LATICINIOS ITA INDUSTRIA E COMERCIO DE ALIMENTOS LTDA"
-                    }
-                ],
-                "723 - SÓ FESTA": [
-                    {
-                        "codigo_cliente": "44274",
-                        "desc_cliente": "SUPERMERCADOS SO FESTA LTDA"
-                    }
-                ],
-                "88 - ATACADAO": [
-                    {
-                        "codigo_cliente": "34842",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "34843",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "34845",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "34846",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "34847",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "34855",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "37148",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "47601",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "53309",
-                        "desc_cliente": "WMB SUPERMERCADOS DO BRASIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "48934",
-                        "desc_cliente": "WMB SUPERMERCADOS DO BRASIL LTDA. "
-                    },
-                    {
-                        "codigo_cliente": "69950",
-                        "desc_cliente": "WMS SUPERMERCADOS  DO BRASIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "66026",
-                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69967",
-                        "desc_cliente": "WMS SUPERMERCADOS DO BRASILLTDA"
                     }
                 ]
             },
@@ -24044,6 +24044,10 @@
                         "desc_cliente": "249 DESIGN HOTEL LTDA"
                     },
                     {
+                        "codigo_cliente": "72157",
+                        "desc_cliente": "58.180.436 FABIANO AREND"
+                    },
+                    {
                         "codigo_cliente": "69226",
                         "desc_cliente": "A FABULOSA MAQUINA DE DOCES LTDA"
                     },
@@ -24104,6 +24108,10 @@
                         "desc_cliente": "ELIANE T. HEHN - ME"
                     },
                     {
+                        "codigo_cliente": "47804",
+                        "desc_cliente": "FOOD & EXPERIENCE COMERCIO E SERVICOS DE GASTRONOMIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "52952",
                         "desc_cliente": "GILMAR KLEIN"
                     },
@@ -24146,6 +24154,10 @@
                     {
                         "codigo_cliente": "53039",
                         "desc_cliente": "MERCADO E AQUI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "48923",
+                        "desc_cliente": "MERCADO MULLER COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "49013",
@@ -60918,6 +60930,10 @@
                         "desc_cliente": "HELSIO LUNGEN"
                     },
                     {
+                        "codigo_cliente": "72231",
+                        "desc_cliente": "HENRIQUE ADAMI"
+                    },
+                    {
                         "codigo_cliente": "50771",
                         "desc_cliente": "HENRIQUE DOS SANTOS DUARTE"
                     },
@@ -67914,6 +67930,10 @@
                         "desc_cliente": "ALICE EMANOELLE FRANCA"
                     },
                     {
+                        "codigo_cliente": "72215",
+                        "desc_cliente": "ALICE FARIAS DE ARAUJO MARQUES"
+                    },
+                    {
                         "codigo_cliente": "67806",
                         "desc_cliente": "ALICE F PEDOTTE"
                     },
@@ -68448,6 +68468,10 @@
                     {
                         "codigo_cliente": "47394",
                         "desc_cliente": "ANDRE FUENTES"
+                    },
+                    {
+                        "codigo_cliente": "72220",
+                        "desc_cliente": "ANDRÉ HIDESADA BRUZZI TANAKA "
                     },
                     {
                         "codigo_cliente": "71688",
@@ -70974,6 +70998,10 @@
                         "desc_cliente": "FABIANA PINTO COSTA PIMENTEL"
                     },
                     {
+                        "codigo_cliente": "72208",
+                        "desc_cliente": "FABIANA REBELLO"
+                    },
+                    {
                         "codigo_cliente": "70041",
                         "desc_cliente": "FABIANA WILLERS COBALCHINI"
                     },
@@ -71276,6 +71304,10 @@
                     {
                         "codigo_cliente": "69936",
                         "desc_cliente": "FERNANDA YURIE MURAKAMI BUZO"
+                    },
+                    {
+                        "codigo_cliente": "72198",
+                        "desc_cliente": "FERNANDO DE MELLO LIMA "
                     },
                     {
                         "codigo_cliente": "71780",
@@ -71916,6 +71948,10 @@
                     {
                         "codigo_cliente": "71826",
                         "desc_cliente": "GUILHERME FERREIRA ZICA"
+                    },
+                    {
+                        "codigo_cliente": "72222",
+                        "desc_cliente": "GUILHERME FRAGA STUMPF"
                     },
                     {
                         "codigo_cliente": "63738",
@@ -73748,6 +73784,10 @@
                     {
                         "codigo_cliente": "68725",
                         "desc_cliente": "LINDA INES PETRY"
+                    },
+                    {
+                        "codigo_cliente": "72223",
+                        "desc_cliente": "LINE FABRIS"
                     },
                     {
                         "codigo_cliente": "62963",
@@ -76752,6 +76792,10 @@
                     {
                         "codigo_cliente": "69851",
                         "desc_cliente": "RODOLFO GUIMARAES"
+                    },
+                    {
+                        "codigo_cliente": "72209",
+                        "desc_cliente": "RODOLFO MACIEL VITORETI"
                     },
                     {
                         "codigo_cliente": "66655",

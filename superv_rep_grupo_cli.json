@@ -2706,6 +2706,10 @@
                         "desc_cliente": "SUPERMERCADOS BH COMERCIO DE ALIMENTOS S/A"
                     },
                     {
+                        "codigo_cliente": "71811",
+                        "desc_cliente": "SUPERMERCADOS BH COMERCIO DE ALIMENTOS SA"
+                    },
+                    {
                         "codigo_cliente": "55615",
                         "desc_cliente": "SUPERMERCADOS BHCOMERCIO DE ALIMENTOS S/A"
                     },
@@ -6500,6 +6504,10 @@
                     {
                         "codigo_cliente": "31878",
                         "desc_cliente": "ANCORA DISTRIBUIDORA DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72228",
+                        "desc_cliente": "Kalzone Industria e Comercio Ltda"
                     },
                     {
                         "codigo_cliente": "70649",
@@ -61752,6 +61760,10 @@
                     {
                         "codigo_cliente": "67871",
                         "desc_cliente": "JORGE DA SILVA BORGES"
+                    },
+                    {
+                        "codigo_cliente": "72229",
+                        "desc_cliente": "JORGE DIAS"
                     },
                     {
                         "codigo_cliente": "69352",

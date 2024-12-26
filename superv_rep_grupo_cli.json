@@ -39845,7 +39845,7 @@
                     },
                     {
                         "codigo_cliente": "40525",
-                        "desc_cliente": "ARMAZÉM DO ZÉ LTDA"
+                        "desc_cliente": "ARMAZEM DO ZE LTDA"
                     },
                     {
                         "codigo_cliente": "72239",
@@ -56400,6 +56400,12 @@
                         "desc_cliente": "PHD COMERCIO E DISTRIBUICAO DE PRODUTOS ALIMENTICIOS LTDA"
                     }
                 ],
+                "10 - CARREFOUR": [
+                    {
+                        "codigo_cliente": "27153",
+                        "desc_cliente": "CARREFOUR COMERCIO E INDUSTRIA LTDA"
+                    }
+                ],
                 "1220 - YOKI - PGTO VIA TED": [
                     {
                         "codigo_cliente": "64961",
@@ -58516,6 +58522,10 @@
                     {
                         "codigo_cliente": "66618",
                         "desc_cliente": "CARLA FERREIRA"
+                    },
+                    {
+                        "codigo_cliente": "72241",
+                        "desc_cliente": "CARLA HEIDRICH"
                     },
                     {
                         "codigo_cliente": "51418",

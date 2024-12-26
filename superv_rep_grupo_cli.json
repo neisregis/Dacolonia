@@ -212,6 +212,10 @@
                         "desc_cliente": "SUPERMERCADOS BH COMERCIO DE ALIMENTOS S/A"
                     },
                     {
+                        "codigo_cliente": "55659",
+                        "desc_cliente": "SUPERMERCADOS BH COMERCIO DE ALIMENTOS S/A"
+                    },
+                    {
                         "codigo_cliente": "55660",
                         "desc_cliente": "SUPERMERCADOS BH COMERCIO DE ALIMENTOS S/A"
                     },
@@ -3924,8 +3928,48 @@
                 ],
                 "88 - ATACADAO": [
                     {
+                        "codigo_cliente": "34842",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "34843",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "34845",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "34846",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "34847",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "34855",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
                         "codigo_cliente": "42679",
                         "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "47601",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "69950",
+                        "desc_cliente": "WMS SUPERMERCADOS  DO BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66026",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69967",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASILLTDA"
                     }
                 ],
                 "904 - ROMA PLUS": [
@@ -58130,6 +58174,10 @@
                         "desc_cliente": "ANTONIO MARCOS BITENCOURT FREITAS"
                     },
                     {
+                        "codigo_cliente": "72225",
+                        "desc_cliente": "ANTONIO MARCOS DOS SANTOS"
+                    },
+                    {
                         "codigo_cliente": "67779",
                         "desc_cliente": "ANTONIO PADILHA SETTER"
                     },
@@ -68086,6 +68134,10 @@
                         "desc_cliente": "ANA CAROLINA GOUVEIA BRANDI MOURAO"
                     },
                     {
+                        "codigo_cliente": "72221",
+                        "desc_cliente": "ANA CAROLINA TORINO"
+                    },
+                    {
                         "codigo_cliente": "47901",
                         "desc_cliente": "ANA CELIA ALTRAN"
                     },
@@ -68584,6 +68636,10 @@
                     {
                         "codigo_cliente": "72025",
                         "desc_cliente": "ANTONIO MARCOS SEGA"
+                    },
+                    {
+                        "codigo_cliente": "72210",
+                        "desc_cliente": "ANTONIO VASCONCELOS"
                     },
                     {
                         "codigo_cliente": "68877",
@@ -72758,6 +72814,10 @@
                         "desc_cliente": "JOSEPH GEORGES SLEIMAN"
                     },
                     {
+                        "codigo_cliente": "72207",
+                        "desc_cliente": "JOSE ROBERTO CAMARGO CAMPOS"
+                    },
+                    {
                         "codigo_cliente": "62284",
                         "desc_cliente": "JOSE ROBERTO DA SILVA"
                     },
@@ -74642,6 +74702,10 @@
                         "desc_cliente": "MARIA HELENA RIBEIRO BARNABE"
                     },
                     {
+                        "codigo_cliente": "62084",
+                        "desc_cliente": "MARIA HELGA MOREIRA DA ROSA"
+                    },
+                    {
                         "codigo_cliente": "70705",
                         "desc_cliente": "MARIA INES MURARI"
                     },
@@ -75272,6 +75336,10 @@
                     {
                         "codigo_cliente": "68337",
                         "desc_cliente": "MIRIAN L M S KRENCHINSKI"
+                    },
+                    {
+                        "codigo_cliente": "72197",
+                        "desc_cliente": "MIRIAN SETSUKO TAMASHIRO"
                     },
                     {
                         "codigo_cliente": "70470",
@@ -76080,6 +76148,10 @@
                     {
                         "codigo_cliente": "71088",
                         "desc_cliente": "RAFAEL ANTONIO HEY"
+                    },
+                    {
+                        "codigo_cliente": "72224",
+                        "desc_cliente": "RAFAELA PEREIRA DOS SANTOS"
                     },
                     {
                         "codigo_cliente": "70322",
@@ -77368,6 +77440,10 @@
                     {
                         "codigo_cliente": "71483",
                         "desc_cliente": "STELLA R SANCHEZ"
+                    },
+                    {
+                        "codigo_cliente": "72206",
+                        "desc_cliente": "STEPHANIE DONADI"
                     },
                     {
                         "codigo_cliente": "71189",

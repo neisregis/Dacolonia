@@ -64182,6 +64182,10 @@
                         "desc_cliente": "NEURI MATTOS DO NASCIMENTO"
                     },
                     {
+                        "codigo_cliente": "72226",
+                        "desc_cliente": "NEUSA MARIA SBRUZZI"
+                    },
+                    {
                         "codigo_cliente": "65275",
                         "desc_cliente": "NEUSA MARLI TORRES DOS REIS FERRAZ"
                     },
@@ -65620,6 +65624,10 @@
                     {
                         "codigo_cliente": "68805",
                         "desc_cliente": "SUZANA VALNINA DO NASCIMENTO"
+                    },
+                    {
+                        "codigo_cliente": "72227",
+                        "desc_cliente": "SUZIANI TIBOLLA"
                     },
                     {
                         "codigo_cliente": "65930",

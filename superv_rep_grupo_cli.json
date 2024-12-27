@@ -61860,6 +61860,10 @@
                         "desc_cliente": "JOSE ALCIONE TRESOLDI "
                     },
                     {
+                        "codigo_cliente": "72249",
+                        "desc_cliente": "JOSE ALEXANDRO POOL"
+                    },
+                    {
                         "codigo_cliente": "36812",
                         "desc_cliente": "JOSE AMARILDO DA ROCHA & CIA LTDA"
                     },
@@ -62578,6 +62582,10 @@
                     {
                         "codigo_cliente": "66375",
                         "desc_cliente": "LEONARDO RODRIGUES BONIFACIO"
+                    },
+                    {
+                        "codigo_cliente": "72248",
+                        "desc_cliente": "LEONARDO SANTIS"
                     },
                     {
                         "codigo_cliente": "68936",

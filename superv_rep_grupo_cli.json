@@ -6507,7 +6507,7 @@
                     },
                     {
                         "codigo_cliente": "72228",
-                        "desc_cliente": "Kalzone Industria e Comercio Ltda"
+                        "desc_cliente": "KALZONE INDUSTRIA E COMERCIO LTDA"
                     },
                     {
                         "codigo_cliente": "70649",
@@ -63864,6 +63864,10 @@
                         "desc_cliente": "MATHEUS SILVEIRA"
                     },
                     {
+                        "codigo_cliente": "72246",
+                        "desc_cliente": "MATHEUS SOARES VIEIRA"
+                    },
+                    {
                         "codigo_cliente": "51475",
                         "desc_cliente": "MATHEUS SOUZA DA SILVA"
                     },
@@ -69032,6 +69036,10 @@
                         "desc_cliente": "CAMILA DE FATIMA VAZ DE CARVALHO"
                     },
                     {
+                        "codigo_cliente": "72244",
+                        "desc_cliente": "CAMILA DE MATOS"
+                    },
+                    {
                         "codigo_cliente": "65986",
                         "desc_cliente": "CAMILA DE SOUZA"
                     },
@@ -73620,6 +73628,10 @@
                         "desc_cliente": "LAURA FINK"
                     },
                     {
+                        "codigo_cliente": "72234",
+                        "desc_cliente": "LAURA GARCIA"
+                    },
+                    {
                         "codigo_cliente": "69483",
                         "desc_cliente": "LAURA LEIKO IDE"
                     },
@@ -76678,6 +76690,10 @@
                     {
                         "codigo_cliente": "68067",
                         "desc_cliente": "RICARDO BEZ CLAUMANN"
+                    },
+                    {
+                        "codigo_cliente": "72243",
+                        "desc_cliente": "RICARDO CAMPOS TRIGUEIRO"
                     },
                     {
                         "codigo_cliente": "66970",

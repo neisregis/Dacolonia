@@ -57976,6 +57976,10 @@
                         "desc_cliente": "ANDERSON DOS SANTOS"
                     },
                     {
+                        "codigo_cliente": "72242",
+                        "desc_cliente": "ANDERSON GELATTI ROCHA"
+                    },
+                    {
                         "codigo_cliente": "72155",
                         "desc_cliente": "ANDERSON KOLLER TAVARES"
                     },
@@ -72674,6 +72678,10 @@
                     {
                         "codigo_cliente": "69121",
                         "desc_cliente": "JESSICA DOTTO VIZZOTTO"
+                    },
+                    {
+                        "codigo_cliente": "72237",
+                        "desc_cliente": "JÉSSICA GUIMARÃES ALVARENGA"
                     },
                     {
                         "codigo_cliente": "70039",

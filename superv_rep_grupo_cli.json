@@ -8008,6 +8008,10 @@
                         "desc_cliente": "SEMPREBOM COMERCIO DE PRODUTOS NATURAIS LTDA"
                     },
                     {
+                        "codigo_cliente": "40421",
+                        "desc_cliente": "S.H. DE ARAUJO & CIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "21503",
                         "desc_cliente": "S. SHINNAI & CIA LTDA."
                     },
@@ -45967,6 +45971,10 @@
                     }
                 ],
                 "345 - UILSON APARECIDO ULI": [
+                    {
+                        "codigo_cliente": "46785",
+                        "desc_cliente": "UILSON APARECIDO ULIAN & CIA LTDA"
+                    },
                     {
                         "codigo_cliente": "33745",
                         "desc_cliente": "UILSON APARECIDO ULIAN & CIA LTDA EM RECUPERACAO JUDICI"

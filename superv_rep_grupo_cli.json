@@ -31443,7 +31443,7 @@
                     },
                     {
                         "codigo_cliente": "64956",
-                        "desc_cliente": "MINI MERCADO MENDONCA LTDA"
+                        "desc_cliente": "MINI MERCADO MENDONÇA LTDA"
                     },
                     {
                         "codigo_cliente": "64310",
@@ -58332,6 +58332,10 @@
                         "desc_cliente": "BEATRIZ PEIXOTO DA SILVA"
                     },
                     {
+                        "codigo_cliente": "47118",
+                        "desc_cliente": "BEATRIZ RODRIGUES"
+                    },
+                    {
                         "codigo_cliente": "50402",
                         "desc_cliente": "BEAUVAIS SINVIL"
                     },
@@ -69570,6 +69574,10 @@
                     {
                         "codigo_cliente": "72072",
                         "desc_cliente": "CELINA DO CARMO TEIXEIRA DE SOUZA"
+                    },
+                    {
+                        "codigo_cliente": "72254",
+                        "desc_cliente": "CELSO BOPP"
                     },
                     {
                         "codigo_cliente": "68062",

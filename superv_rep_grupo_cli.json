@@ -3398,10 +3398,6 @@
                         "desc_cliente": "ORGANIZACAO PANEFLORENCA LTDA"
                     },
                     {
-                        "codigo_cliente": "57900",
-                        "desc_cliente": "PARAISO DO GRANEL 3 LTDA"
-                    },
-                    {
                         "codigo_cliente": "70467",
                         "desc_cliente": "PDR COMERCIO DE ALIMENTOS LTDA"
                     },
@@ -4126,6 +4122,10 @@
                     {
                         "codigo_cliente": "68799",
                         "desc_cliente": "NACIONAL PARANAIBA ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "57900",
+                        "desc_cliente": "PARAISO DO GRANEL 3 LTDA"
                     },
                     {
                         "codigo_cliente": "68740",

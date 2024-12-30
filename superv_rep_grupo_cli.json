@@ -18302,10 +18302,6 @@
                         "desc_cliente": "PANIFICADORA MAFRA LTDA"
                     },
                     {
-                        "codigo_cliente": "72139",
-                        "desc_cliente": "REDE DE POSTOS APOLO LTDA"
-                    },
-                    {
                         "codigo_cliente": "34257",
                         "desc_cliente": "RIKATI PRODUTOS NATURAIS LTDA"
                     },
@@ -18356,6 +18352,12 @@
                     {
                         "codigo_cliente": "15316",
                         "desc_cliente": "Z.A. FRUTAS E VERDURAS LTDA ME"
+                    }
+                ],
+                "233 - REDE POLO": [
+                    {
+                        "codigo_cliente": "72139",
+                        "desc_cliente": "REDE DE POSTOS APOLO LTDA"
                     }
                 ],
                 "281 - DOCA PADARIA": [

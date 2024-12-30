@@ -59550,6 +59550,10 @@
                         "desc_cliente": "DIONATA PEIXOTO DA SILVA"
                     },
                     {
+                        "codigo_cliente": "72263",
+                        "desc_cliente": "DIONES LIMA"
+                    },
+                    {
                         "codigo_cliente": "51494",
                         "desc_cliente": "DIOVANA FRANCISCO DE OLIVEIRA"
                     },
@@ -74526,12 +74530,12 @@
                         "desc_cliente": "MARCELLE GOES"
                     },
                     {
-                        "codigo_cliente": "70752",
-                        "desc_cliente": "MARCELLE NUNES"
-                    },
-                    {
                         "codigo_cliente": "71777",
                         "desc_cliente": "MARCELLO LOCATELLI"
+                    },
+                    {
+                        "codigo_cliente": "70752",
+                        "desc_cliente": "MARCELLUS NUNES"
                     },
                     {
                         "codigo_cliente": "56197",

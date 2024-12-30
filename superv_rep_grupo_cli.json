@@ -8460,6 +8460,10 @@
                         "desc_cliente": "R G CAMPANER & CIA LTDA EPP"
                     },
                     {
+                        "codigo_cliente": "49019",
+                        "desc_cliente": "RONQUI & MAGAN LTDA"
+                    },
+                    {
                         "codigo_cliente": "40790",
                         "desc_cliente": "RUFINI ALIMENTOS LTDA"
                     },
@@ -8748,10 +8752,6 @@
                     {
                         "codigo_cliente": "48925",
                         "desc_cliente": "RONQUI ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "49019",
-                        "desc_cliente": "RONQUI & MAGAN LTDA"
                     },
                     {
                         "codigo_cliente": "44906",
@@ -64896,6 +64896,10 @@
                         "desc_cliente": "REJANE MARIA JASKULSKI"
                     },
                     {
+                        "codigo_cliente": "28183",
+                        "desc_cliente": "REJANE TURK"
+                    },
+                    {
                         "codigo_cliente": "67239",
                         "desc_cliente": "RENAN AGUSTO SANTOS RODRIGUES"
                     },
@@ -68400,6 +68404,10 @@
                         "desc_cliente": "ANA PAULA ARAUJO"
                     },
                     {
+                        "codigo_cliente": "72258",
+                        "desc_cliente": "ANA PAULA BAGNARA"
+                    },
+                    {
                         "codigo_cliente": "67004",
                         "desc_cliente": "ANA PAULA BANATI PERLES DE CARVALHO"
                     },
@@ -68566,6 +68574,10 @@
                     {
                         "codigo_cliente": "57282",
                         "desc_cliente": "ANDRE DOTTO"
+                    },
+                    {
+                        "codigo_cliente": "43117",
+                        "desc_cliente": "ANDRE FELIPE MALUCHE"
                     },
                     {
                         "codigo_cliente": "47394",
@@ -72108,6 +72120,10 @@
                         "desc_cliente": "GUILHERME POZZER MERLO"
                     },
                     {
+                        "codigo_cliente": "72256",
+                        "desc_cliente": "GUILHERME RODRIGUES BUZO"
+                    },
+                    {
                         "codigo_cliente": "66225",
                         "desc_cliente": "GUILHERME RODRIGUES RIBEIRO"
                     },
@@ -73854,6 +73870,10 @@
                     {
                         "codigo_cliente": "70250",
                         "desc_cliente": "LIEGE MENEZES DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "72255",
+                        "desc_cliente": "LIGIA MERLO MARQUES"
                     },
                     {
                         "codigo_cliente": "47253",
@@ -76864,6 +76884,10 @@
                         "desc_cliente": "ROBERTO DE AZEVEDO SODRE"
                     },
                     {
+                        "codigo_cliente": "72257",
+                        "desc_cliente": "ROBERTO DE LUNA FREIRE JUNIOR"
+                    },
+                    {
                         "codigo_cliente": "66902",
                         "desc_cliente": "ROBERTO ESMAEL RIBAS"
                     },
@@ -78554,6 +78578,10 @@
                     {
                         "codigo_cliente": "67701",
                         "desc_cliente": "WELLINGTON BRUNO LIMA"
+                    },
+                    {
+                        "codigo_cliente": "72259",
+                        "desc_cliente": "WENDEL SILVA TELES"
                     },
                     {
                         "codigo_cliente": "70748",

@@ -54880,6 +54880,10 @@
                         "desc_cliente": "ALICE DOS SANTOS MEDEIROS "
                     },
                     {
+                        "codigo_cliente": "72290",
+                        "desc_cliente": "ALICE SIMONE DIAS"
+                    },
+                    {
                         "codigo_cliente": "69539",
                         "desc_cliente": "ALINE BIANQUIN CARDOSO"
                     },
@@ -58762,6 +58766,10 @@
                     {
                         "codigo_cliente": "65339",
                         "desc_cliente": "JULIA DE OLIVEIRA CORREA"
+                    },
+                    {
+                        "codigo_cliente": "70723",
+                        "desc_cliente": "JULIANA ARACI MARQUES DEMARE"
                     },
                     {
                         "codigo_cliente": "58501",

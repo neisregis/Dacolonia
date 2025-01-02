@@ -38680,10 +38680,6 @@
                         "desc_cliente": "R P PAGNUSAT"
                     },
                     {
-                        "codigo_cliente": "28171",
-                        "desc_cliente": "SUPERMERCADO LUCAS FORTE LTDA ME - ME"
-                    },
-                    {
                         "codigo_cliente": "28762",
                         "desc_cliente": "SUPERMERCADOS SEROPEDICA LTDA"
                     },
@@ -56810,6 +56806,10 @@
                     {
                         "codigo_cliente": "66064",
                         "desc_cliente": "ELIAS NERES COMERCIAL DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72289",
+                        "desc_cliente": "ELISA DEVIT"
                     },
                     {
                         "codigo_cliente": "61689",

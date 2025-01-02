@@ -40390,10 +40390,6 @@
                         "desc_cliente": "17.324.707 REJANE BEATRIZ FERNANDES VALVERDE"
                     },
                     {
-                        "codigo_cliente": "51936",
-                        "desc_cliente": "17.333.904 LTDA"
-                    },
-                    {
                         "codigo_cliente": "58990",
                         "desc_cliente": "50.047.418 CARLOS ROBERTO DUTRA GOMES"
                     },
@@ -40520,10 +40516,6 @@
                     {
                         "codigo_cliente": "52630",
                         "desc_cliente": "DIONIS DOS SANTOS MADRUGA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72012",
-                        "desc_cliente": "DISQUEFARMA MEDICAMENTOS E PERFUMARIA LTDA"
                     },
                     {
                         "codigo_cliente": "33596",
@@ -43096,10 +43088,6 @@
                     {
                         "codigo_cliente": "39401",
                         "desc_cliente": "QUITANDA MARKET LTDA"
-                    },
-                    {
-                        "codigo_cliente": "58555",
-                        "desc_cliente": "REGIS ALBERTO CORREA"
                     },
                     {
                         "codigo_cliente": "58686",
@@ -59256,6 +59244,10 @@
                         "desc_cliente": "LIANDRO BRUHN DA SILVA"
                     },
                     {
+                        "codigo_cliente": "72283",
+                        "desc_cliente": "LIANE SILVA"
+                    },
+                    {
                         "codigo_cliente": "63689",
                         "desc_cliente": "LICIANE MONTEIRO DE MATOS"
                     },
@@ -61270,6 +61262,10 @@
                     {
                         "codigo_cliente": "68075",
                         "desc_cliente": "RENAN LOPES"
+                    },
+                    {
+                        "codigo_cliente": "72284",
+                        "desc_cliente": "RENAN OURIQUE"
                     },
                     {
                         "codigo_cliente": "68698",
@@ -77916,10 +77912,6 @@
                         "desc_cliente": "GISLAINE APARECIDA DOS SANTOS ZENNI - ME"
                     },
                     {
-                        "codigo_cliente": "58641",
-                        "desc_cliente": "G. R. ASSESSORIA ESPORTIVA LTDA"
-                    },
-                    {
                         "codigo_cliente": "23921",
                         "desc_cliente": "HAMUD,HAMUD & CIA LTDA"
                     },
@@ -80022,10 +80014,6 @@
                         "desc_cliente": "DOCE FEST LTDA - ME"
                     },
                     {
-                        "codigo_cliente": "32909",
-                        "desc_cliente": "EDSON BATISTA"
-                    },
-                    {
                         "codigo_cliente": "40992",
                         "desc_cliente": "EMPORIO GREEN NATURE LTDA"
                     },
@@ -80556,10 +80544,6 @@
                     {
                         "codigo_cliente": "62055",
                         "desc_cliente": "EMBAIXADA CEREALISTA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71223",
-                        "desc_cliente": "F1000 ATACADISTA DE UTILIDADES LTDA"
                     },
                     {
                         "codigo_cliente": "71899",

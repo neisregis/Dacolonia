@@ -30162,42 +30162,6 @@
                         "desc_cliente": "CARREFOUR COMERCIO E INDUSTRIA LTDA"
                     }
                 ],
-                "1272 - SANTO COMERCIO - SP": [
-                    {
-                        "codigo_cliente": "66578",
-                        "desc_cliente": "R. P. SANTO COMERCIO DE GENEROS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "66579",
-                        "desc_cliente": "R. P. SANTO COMERCIO DE GENEROS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "66580",
-                        "desc_cliente": "R. P. SANTO COMERCIO DE GENEROS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "66581",
-                        "desc_cliente": "R. P. SANTO COMERCIO DE GENEROS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "66582",
-                        "desc_cliente": "R. P. SANTO COMERCIO DE GENEROS ALIMENTICIOS LTDA"
-                    }
-                ],
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "35339",
-                        "desc_cliente": "J. B. FERREIRA & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "8697",
-                        "desc_cliente": "LILIANE CIDES MARCAL 27076219867"
-                    },
-                    {
-                        "codigo_cliente": "28833",
-                        "desc_cliente": "SUPERMERCADO PRECITO LTDA"
-                    }
-                ],
                 "31 - MASTER ATS": [
                     {
                         "codigo_cliente": "27520",
@@ -30216,16 +30180,6 @@
                     {
                         "codigo_cliente": "29694",
                         "desc_cliente": "COMPANHIA ZAFFARI COMERCIO E INDUSTRIA"
-                    }
-                ],
-                "42 - BERGAMINI": [
-                    {
-                        "codigo_cliente": "26523",
-                        "desc_cliente": "SUPERMERCADOS BERGAMINI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "5655",
-                        "desc_cliente": "SUPERMERCADOS BERGAMINI LTDA"
                     }
                 ],
                 "69 - SONDA": [
@@ -30788,138 +30742,6 @@
                     {
                         "codigo_cliente": "69445",
                         "desc_cliente": "MIXTER ATACADO E VAREJO DE GENEROS ALIMENTICIOS LTDA"
-                    }
-                ]
-            },
-            "738": {
-                "150 - VIOLETA": [
-                    {
-                        "codigo_cliente": "27130",
-                        "desc_cliente": "COMERCIO DE ALIMENTOS VIOLETA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "68317",
-                        "desc_cliente": "COMERCIO DE HORTIFRUTI DONA NONECA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "27128",
-                        "desc_cliente": "MERCADO VIOLETA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "28575",
-                        "desc_cliente": "MERCADO VIOLETA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "30049",
-                        "desc_cliente": "MERCADO VIOLETA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "35991",
-                        "desc_cliente": "MERCADO VIOLETA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38895",
-                        "desc_cliente": "MERCADO VIOLETA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "43526",
-                        "desc_cliente": "MERCADO VIOLETA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "58143",
-                        "desc_cliente": "MERCADO VIOLETA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "60582",
-                        "desc_cliente": "MERCADO VIOLETA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "27129",
-                        "desc_cliente": "SUPERMERCADO VIOLETA ITABERABA LTDA - EPP"
-                    }
-                ],
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "32170",
-                        "desc_cliente": "CENTRO DE DISTRIBUICAO BUTANTA LTDA."
-                    },
-                    {
-                        "codigo_cliente": "32173",
-                        "desc_cliente": "CENTRO DE DISTRIBUICAO DE ALIMENTOS PENHA EIRELI"
-                    },
-                    {
-                        "codigo_cliente": "32174",
-                        "desc_cliente": "CENTRO DE DISTRIBUICAO DE ALIMENTOS PENHA EIRELI"
-                    },
-                    {
-                        "codigo_cliente": "32171",
-                        "desc_cliente": "CENTRO DE DISTRIBUICAO DE ALIMENTOS PINHEIROS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "65446",
-                        "desc_cliente": "DISTRIBUIDORA J JOTAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "55112",
-                        "desc_cliente": "HDN COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "30848",
-                        "desc_cliente": "HOZUMI MOROKAWA COTIA - ME"
-                    },
-                    {
-                        "codigo_cliente": "47604",
-                        "desc_cliente": "KIO COMERCIAL AGRICOLA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "34689",
-                        "desc_cliente": "LAPA HORTIFRUTIGRANJEIRO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "63800",
-                        "desc_cliente": "LOJAO PAGUE MENOS PRODUTOS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "33784",
-                        "desc_cliente": "MERCADINHO LODETTI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "64376",
-                        "desc_cliente": "MERCADINHO STEVEN LTDA"
-                    },
-                    {
-                        "codigo_cliente": "66141",
-                        "desc_cliente": "M.J.LOPES - COMERCIO DE PRODUTOS ALIMENTICIOS LTDA."
-                    },
-                    {
-                        "codigo_cliente": "55111",
-                        "desc_cliente": "NELSON KIOSHI NAKADA COMERCIAL AGRICOLA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "32273",
-                        "desc_cliente": "RITA DE CASSIA CORREA PACHECO"
-                    },
-                    {
-                        "codigo_cliente": "53240",
-                        "desc_cliente": "SACOLAO GRANJA VIANA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "47603",
-                        "desc_cliente": "SACOLAO VILA DAS MERCES LTDA"
-                    },
-                    {
-                        "codigo_cliente": "28508",
-                        "desc_cliente": "SUPERMERCADO OURINHOS LTDA"
-                    }
-                ],
-                "331 - DIAS PASTORINHO SP": [
-                    {
-                        "codigo_cliente": "23964",
-                        "desc_cliente": "DIAS PASTORINHO S A COMERCIO E INDUSTRIA"
-                    },
-                    {
-                        "codigo_cliente": "32889",
-                        "desc_cliente": "DIAS PASTORINHO S/A COMERCIO E INDUSTRIA"
                     }
                 ]
             }
@@ -46672,6 +46494,28 @@
                 ]
             },
             "872": {
+                "1272 - SANTO COMERCIO - SP": [
+                    {
+                        "codigo_cliente": "66578",
+                        "desc_cliente": "R. P. SANTO COMERCIO DE GENEROS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66579",
+                        "desc_cliente": "R. P. SANTO COMERCIO DE GENEROS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66580",
+                        "desc_cliente": "R. P. SANTO COMERCIO DE GENEROS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66581",
+                        "desc_cliente": "R. P. SANTO COMERCIO DE GENEROS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66582",
+                        "desc_cliente": "R. P. SANTO COMERCIO DE GENEROS ALIMENTICIOS LTDA"
+                    }
+                ],
                 "1 - GERAL": [
                     {
                         "codigo_cliente": "46784",
@@ -46706,8 +46550,16 @@
                         "desc_cliente": "FAZENDINHA DOCES E SALGADOS LTDA"
                     },
                     {
+                        "codigo_cliente": "35339",
+                        "desc_cliente": "J. B. FERREIRA & CIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "32957",
                         "desc_cliente": "JJGG - DISTRIBUIDORA ASSIS ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "8697",
+                        "desc_cliente": "LILIANE CIDES MARCAL 27076219867"
                     },
                     {
                         "codigo_cliente": "47598",
@@ -46722,6 +46574,10 @@
                         "desc_cliente": "SUPERMERCADO MAIS MIX LTDA"
                     },
                     {
+                        "codigo_cliente": "28833",
+                        "desc_cliente": "SUPERMERCADO PRECITO LTDA"
+                    },
+                    {
                         "codigo_cliente": "13383",
                         "desc_cliente": "SUPERMERCADO YONETA LT"
                     },
@@ -46732,6 +46588,16 @@
                     {
                         "codigo_cliente": "46019",
                         "desc_cliente": "VIA PORTO DISTRIBUIDORA DE PRODUTOS EIRELI"
+                    }
+                ],
+                "42 - BERGAMINI": [
+                    {
+                        "codigo_cliente": "26523",
+                        "desc_cliente": "SUPERMERCADOS BERGAMINI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "5655",
+                        "desc_cliente": "SUPERMERCADOS BERGAMINI LTDA"
                     }
                 ],
                 "705 - JORDMIX - SP": [
@@ -46746,6 +46612,138 @@
                     {
                         "codigo_cliente": "39159",
                         "desc_cliente": "COMERCIAL DE ALIMENTOS JORDMIX LTDA ( LJ 1)"
+                    }
+                ]
+            },
+            "738": {
+                "150 - VIOLETA": [
+                    {
+                        "codigo_cliente": "27130",
+                        "desc_cliente": "COMERCIO DE ALIMENTOS VIOLETA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "68317",
+                        "desc_cliente": "COMERCIO DE HORTIFRUTI DONA NONECA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "27128",
+                        "desc_cliente": "MERCADO VIOLETA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "28575",
+                        "desc_cliente": "MERCADO VIOLETA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "30049",
+                        "desc_cliente": "MERCADO VIOLETA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "35991",
+                        "desc_cliente": "MERCADO VIOLETA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38895",
+                        "desc_cliente": "MERCADO VIOLETA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "43526",
+                        "desc_cliente": "MERCADO VIOLETA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "58143",
+                        "desc_cliente": "MERCADO VIOLETA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "60582",
+                        "desc_cliente": "MERCADO VIOLETA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "27129",
+                        "desc_cliente": "SUPERMERCADO VIOLETA ITABERABA LTDA - EPP"
+                    }
+                ],
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "32170",
+                        "desc_cliente": "CENTRO DE DISTRIBUICAO BUTANTA LTDA."
+                    },
+                    {
+                        "codigo_cliente": "32173",
+                        "desc_cliente": "CENTRO DE DISTRIBUICAO DE ALIMENTOS PENHA EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "32174",
+                        "desc_cliente": "CENTRO DE DISTRIBUICAO DE ALIMENTOS PENHA EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "32171",
+                        "desc_cliente": "CENTRO DE DISTRIBUICAO DE ALIMENTOS PINHEIROS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "65446",
+                        "desc_cliente": "DISTRIBUIDORA J JOTAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "55112",
+                        "desc_cliente": "HDN COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "30848",
+                        "desc_cliente": "HOZUMI MOROKAWA COTIA - ME"
+                    },
+                    {
+                        "codigo_cliente": "47604",
+                        "desc_cliente": "KIO COMERCIAL AGRICOLA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "34689",
+                        "desc_cliente": "LAPA HORTIFRUTIGRANJEIRO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "63800",
+                        "desc_cliente": "LOJAO PAGUE MENOS PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "33784",
+                        "desc_cliente": "MERCADINHO LODETTI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "64376",
+                        "desc_cliente": "MERCADINHO STEVEN LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66141",
+                        "desc_cliente": "M.J.LOPES - COMERCIO DE PRODUTOS ALIMENTICIOS LTDA."
+                    },
+                    {
+                        "codigo_cliente": "55111",
+                        "desc_cliente": "NELSON KIOSHI NAKADA COMERCIAL AGRICOLA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "32273",
+                        "desc_cliente": "RITA DE CASSIA CORREA PACHECO"
+                    },
+                    {
+                        "codigo_cliente": "53240",
+                        "desc_cliente": "SACOLAO GRANJA VIANA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "47603",
+                        "desc_cliente": "SACOLAO VILA DAS MERCES LTDA"
+                    },
+                    {
+                        "codigo_cliente": "28508",
+                        "desc_cliente": "SUPERMERCADO OURINHOS LTDA"
+                    }
+                ],
+                "331 - DIAS PASTORINHO SP": [
+                    {
+                        "codigo_cliente": "23964",
+                        "desc_cliente": "DIAS PASTORINHO S A COMERCIO E INDUSTRIA"
+                    },
+                    {
+                        "codigo_cliente": "32889",
+                        "desc_cliente": "DIAS PASTORINHO S/A COMERCIO E INDUSTRIA"
                     }
                 ]
             },
@@ -47176,98 +47174,6 @@
                     {
                         "codigo_cliente": "57065",
                         "desc_cliente": "SUPERMERCADO ROSSI NEW LTDA"
-                    }
-                ]
-            },
-            "1074": {
-                "422 - COMERCIAL ESPERANÇA": [
-                    {
-                        "codigo_cliente": "38270",
-                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38271",
-                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38273",
-                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38274",
-                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38275",
-                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38276",
-                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38277",
-                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38278",
-                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38279",
-                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38280",
-                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38284",
-                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "70170",
-                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "42882",
-                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA."
-                    },
-                    {
-                        "codigo_cliente": "38272",
-                        "desc_cliente": "ATACADO E AUTO SERVIÇO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38281",
-                        "desc_cliente": "ATACADO E AUTO SERVIÇO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38282",
-                        "desc_cliente": "ATACADO E AUTO SERVIÇO ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38268",
-                        "desc_cliente": "ATACADO E AUTO SERVIÇO ESPERANÇA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38269",
-                        "desc_cliente": "COMERCIAL ESPERANCA ATACADISTA IMPORTACAO E EXPORTACAO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "47061",
-                        "desc_cliente": "COMERCIAL ESPERANCA ATACADISTA IMPORTACAO E EXPORTACAO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "59912",
-                        "desc_cliente": "COMERCIAL ESPERANCA ATACADISTA IMPORTACAO E EXPORTACAO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "60799",
-                        "desc_cliente": "COMERCIAL ESPERANCA ATACADISTA IMPORTACAO E EXPORTACAO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69613",
-                        "desc_cliente": "COMERCIAL ESPERANCA ATACADISTA IMPORTACAO E EXPORTACAO LTDA"
                     }
                 ]
             }
@@ -74636,6 +74542,98 @@
                     {
                         "codigo_cliente": "33190",
                         "desc_cliente": "SENDAS DISTRIBUIDORA S/A"
+                    }
+                ]
+            },
+            "1074": {
+                "422 - COMERCIAL ESPERANÇA": [
+                    {
+                        "codigo_cliente": "38270",
+                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38271",
+                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38273",
+                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38274",
+                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38275",
+                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38276",
+                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38277",
+                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38278",
+                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38279",
+                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38280",
+                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38284",
+                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70170",
+                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "42882",
+                        "desc_cliente": "ATACADO E AUTO SERVICO ESPERANCA LTDA."
+                    },
+                    {
+                        "codigo_cliente": "38272",
+                        "desc_cliente": "ATACADO E AUTO SERVIÇO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38281",
+                        "desc_cliente": "ATACADO E AUTO SERVIÇO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38282",
+                        "desc_cliente": "ATACADO E AUTO SERVIÇO ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38268",
+                        "desc_cliente": "ATACADO E AUTO SERVIÇO ESPERANÇA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38269",
+                        "desc_cliente": "COMERCIAL ESPERANCA ATACADISTA IMPORTACAO E EXPORTACAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "47061",
+                        "desc_cliente": "COMERCIAL ESPERANCA ATACADISTA IMPORTACAO E EXPORTACAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "59912",
+                        "desc_cliente": "COMERCIAL ESPERANCA ATACADISTA IMPORTACAO E EXPORTACAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "60799",
+                        "desc_cliente": "COMERCIAL ESPERANCA ATACADISTA IMPORTACAO E EXPORTACAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69613",
+                        "desc_cliente": "COMERCIAL ESPERANCA ATACADISTA IMPORTACAO E EXPORTACAO LTDA"
                     }
                 ]
             }

@@ -44510,6 +44510,10 @@
                 ],
                 "1093 - SUPER COLINA": [
                     {
+                        "codigo_cliente": "59316",
+                        "desc_cliente": "MARILIA CAVALCANTE MEIRA"
+                    },
+                    {
                         "codigo_cliente": "59315",
                         "desc_cliente": "SUPERMERCADO COLINA ILHABELA LTDA"
                     },

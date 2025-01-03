@@ -6228,11 +6228,23 @@
                         "desc_cliente": "KALZONE INDUSTRIA E COMERCIO LTDA"
                     },
                     {
+                        "codigo_cliente": "72297",
+                        "desc_cliente": "Supermercado Moranguinho LTDA"
+                    },
+                    {
                         "codigo_cliente": "72271",
                         "desc_cliente": "SUPERMERCADO MORANGUINHO LTDA"
                     },
                     {
+                        "codigo_cliente": "72273",
+                        "desc_cliente": "SUPERMERCADO MORANGUINHO LTDA"
+                    },
+                    {
                         "codigo_cliente": "72275",
+                        "desc_cliente": "SUPERMERCADO MORANGUINHO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72276",
                         "desc_cliente": "SUPERMERCADO MORANGUINHO LTDA"
                     },
                     {
@@ -58888,6 +58900,10 @@
                     {
                         "codigo_cliente": "62050",
                         "desc_cliente": "JUNIOR PEREIRA DOS SANTOS FILHO"
+                    },
+                    {
+                        "codigo_cliente": "72298",
+                        "desc_cliente": "JURACI PIRES"
                     },
                     {
                         "codigo_cliente": "67860",

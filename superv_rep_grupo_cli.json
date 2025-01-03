@@ -52600,6 +52600,10 @@
                         "desc_cliente": "DC COMERCIO DE BALAS E CHOCOLATES LTDA"
                     },
                     {
+                        "codigo_cliente": "72285",
+                        "desc_cliente": "FORT GULA LTDA"
+                    },
+                    {
                         "codigo_cliente": "28164",
                         "desc_cliente": "GALE DISTRIBUIDORA LTDA - ME"
                     },
@@ -52618,10 +52622,6 @@
                     {
                         "codigo_cliente": "46089",
                         "desc_cliente": "MARIA NUTS COMERCIO DE PRODUTOS E ALIMENTOS NATURAIS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72285",
-                        "desc_cliente": "MAXI  GULA"
                     },
                     {
                         "codigo_cliente": "11944",

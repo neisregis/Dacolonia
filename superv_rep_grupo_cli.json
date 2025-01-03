@@ -53752,6 +53752,24 @@
                         "desc_cliente": "SODEXO DO BRASIL COML SA"
                     }
                 ],
+                "429 - AMAZON": [
+                    {
+                        "codigo_cliente": "69607",
+                        "desc_cliente": "AMAZON SERVICOS DE VAREJO DO BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69608",
+                        "desc_cliente": "AMAZON SERVICOS DE VAREJO DO BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "37197",
+                        "desc_cliente": "AMAZON SERVICOS DE VAREJO DO BRASIL LTDA."
+                    },
+                    {
+                        "codigo_cliente": "69609",
+                        "desc_cliente": "AMAZON SERVICOS DE VAREJO DO BRASIL LTDA."
+                    }
+                ],
                 "72 - CIA BRASILEIRA": [
                     {
                         "codigo_cliente": "31220",

@@ -40836,6 +40836,10 @@
                         "desc_cliente": "SUPERMERCADO PRECO BOM LTDA"
                     },
                     {
+                        "codigo_cliente": "1426",
+                        "desc_cliente": "SUPERMERCADO PRECO BOM LTDA"
+                    },
+                    {
                         "codigo_cliente": "38529",
                         "desc_cliente": "SUPER ONZE COMÉRCIO VAREJISTA EIRELI"
                     },
@@ -52638,6 +52642,10 @@
                         "desc_cliente": "DC COMERCIO DE BALAS E CHOCOLATES LTDA"
                     },
                     {
+                        "codigo_cliente": "72285",
+                        "desc_cliente": "FORT GULA LTDA"
+                    },
+                    {
                         "codigo_cliente": "28164",
                         "desc_cliente": "GALE DISTRIBUIDORA LTDA - ME"
                     },
@@ -53784,12 +53792,6 @@
                     {
                         "codigo_cliente": "10051",
                         "desc_cliente": "SODEXO DO BRASIL COML SA"
-                    }
-                ],
-                "429 - AMAZON": [
-                    {
-                        "codigo_cliente": "69609",
-                        "desc_cliente": "AMAZON SERVICOS DE VAREJO DO BRASIL LTDA."
                     }
                 ],
                 "72 - CIA BRASILEIRA": [

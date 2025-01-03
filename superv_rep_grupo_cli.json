@@ -21634,6 +21634,10 @@
                         "desc_cliente": "ARMAZEM VILMAR-JESUS LTDA"
                     },
                     {
+                        "codigo_cliente": "72306",
+                        "desc_cliente": "ARMAZEN ESQUINAO  LTDA"
+                    },
+                    {
                         "codigo_cliente": "60558",
                         "desc_cliente": "ARTE DO PAO PADARIA E CONFEITARIA LTDA"
                     },
@@ -56728,6 +56732,10 @@
                     {
                         "codigo_cliente": "67599",
                         "desc_cliente": "EDSON RODRIGUES AZEVEDO"
+                    },
+                    {
+                        "codigo_cliente": "72307",
+                        "desc_cliente": "EDSON SOUZA"
                     },
                     {
                         "codigo_cliente": "68239",

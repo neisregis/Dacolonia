@@ -5893,6 +5893,62 @@
                     }
                 ]
             },
+            "1191": {
+                "1391 - SUPERMERCADO MORANGUINHO": [
+                    {
+                        "codigo_cliente": "72296",
+                        "desc_cliente": "Supermercado Moranguinho LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72297",
+                        "desc_cliente": "Supermercado Moranguinho LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72271",
+                        "desc_cliente": "SUPERMERCADO MORANGUINHO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72272",
+                        "desc_cliente": "SUPERMERCADO MORANGUINHO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72273",
+                        "desc_cliente": "SUPERMERCADO MORANGUINHO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72274",
+                        "desc_cliente": "SUPERMERCADO MORANGUINHO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72275",
+                        "desc_cliente": "SUPERMERCADO MORANGUINHO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72276",
+                        "desc_cliente": "SUPERMERCADO MORANGUINHO LTDA"
+                    }
+                ],
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "31878",
+                        "desc_cliente": "ANCORA DISTRIBUIDORA DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72228",
+                        "desc_cliente": "KALZONE INDUSTRIA E COMERCIO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70649",
+                        "desc_cliente": "UNIFORCA DIST IMP E EXP DE MERCADO"
+                    }
+                ],
+                "221 - ARMAZEM MATEUS": [
+                    {
+                        "codigo_cliente": "55116",
+                        "desc_cliente": "ARMAZEM MATEUS S.A."
+                    }
+                ]
+            },
             "510": {
                 "14 - REDE FORT": [
                     {
@@ -6214,48 +6270,6 @@
                     {
                         "codigo_cliente": "28313",
                         "desc_cliente": "HARA E HARA LTDA - ME"
-                    }
-                ]
-            },
-            "1191": {
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "31878",
-                        "desc_cliente": "ANCORA DISTRIBUIDORA DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72228",
-                        "desc_cliente": "KALZONE INDUSTRIA E COMERCIO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72297",
-                        "desc_cliente": "Supermercado Moranguinho LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72271",
-                        "desc_cliente": "SUPERMERCADO MORANGUINHO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72273",
-                        "desc_cliente": "SUPERMERCADO MORANGUINHO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72275",
-                        "desc_cliente": "SUPERMERCADO MORANGUINHO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72276",
-                        "desc_cliente": "SUPERMERCADO MORANGUINHO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "70649",
-                        "desc_cliente": "UNIFORCA DIST IMP E EXP DE MERCADO"
-                    }
-                ],
-                "221 - ARMAZEM MATEUS": [
-                    {
-                        "codigo_cliente": "55116",
-                        "desc_cliente": "ARMAZEM MATEUS S.A."
                     }
                 ]
             },
@@ -55076,6 +55090,10 @@
                     {
                         "codigo_cliente": "50755",
                         "desc_cliente": "ANA CLAUDIA PACHECO MARQUES"
+                    },
+                    {
+                        "codigo_cliente": "61459",
+                        "desc_cliente": "ANA CLAUDIA PEREIRA DA SILVA"
                     },
                     {
                         "codigo_cliente": "64985",

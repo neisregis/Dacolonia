@@ -5900,14 +5900,6 @@
             "1191": {
                 "1391 - SUPERMERCADO MORANGUINHO": [
                     {
-                        "codigo_cliente": "72296",
-                        "desc_cliente": "Supermercado Moranguinho LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72297",
-                        "desc_cliente": "Supermercado Moranguinho LTDA"
-                    },
-                    {
                         "codigo_cliente": "72271",
                         "desc_cliente": "SUPERMERCADO MORANGUINHO LTDA"
                     },
@@ -5929,6 +5921,14 @@
                     },
                     {
                         "codigo_cliente": "72276",
+                        "desc_cliente": "SUPERMERCADO MORANGUINHO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72296",
+                        "desc_cliente": "SUPERMERCADO MORANGUINHO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72297",
                         "desc_cliente": "SUPERMERCADO MORANGUINHO LTDA"
                     }
                 ],
@@ -52638,10 +52638,6 @@
                         "desc_cliente": "DC COMERCIO DE BALAS E CHOCOLATES LTDA"
                     },
                     {
-                        "codigo_cliente": "72285",
-                        "desc_cliente": "FORT GULA LTDA"
-                    },
-                    {
                         "codigo_cliente": "28164",
                         "desc_cliente": "GALE DISTRIBUIDORA LTDA - ME"
                     },
@@ -53791,18 +53787,6 @@
                     }
                 ],
                 "429 - AMAZON": [
-                    {
-                        "codigo_cliente": "69607",
-                        "desc_cliente": "AMAZON SERVICOS DE VAREJO DO BRASIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69608",
-                        "desc_cliente": "AMAZON SERVICOS DE VAREJO DO BRASIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "37197",
-                        "desc_cliente": "AMAZON SERVICOS DE VAREJO DO BRASIL LTDA."
-                    },
                     {
                         "codigo_cliente": "69609",
                         "desc_cliente": "AMAZON SERVICOS DE VAREJO DO BRASIL LTDA."

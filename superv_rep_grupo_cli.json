@@ -38080,6 +38080,10 @@
                         "desc_cliente": "CENTRAL MCMT COMERCIO DE FRUTAS LTDA"
                     },
                     {
+                        "codigo_cliente": "62839",
+                        "desc_cliente": "CEREAIS E MERCEARIA ESTRELA DO IPE LTDA"
+                    },
+                    {
                         "codigo_cliente": "57094",
                         "desc_cliente": "COMERCIAL MILANO BRASIL LTDA"
                     },
@@ -40726,6 +40730,10 @@
                     {
                         "codigo_cliente": "53822",
                         "desc_cliente": "LISANDRA HORNKE KLUG"
+                    },
+                    {
+                        "codigo_cliente": "42731",
+                        "desc_cliente": "LIZANDRA DEVANTIER ZILMER"
                     },
                     {
                         "codigo_cliente": "34208",
@@ -60464,6 +60472,10 @@
                     {
                         "codigo_cliente": "68033",
                         "desc_cliente": "MAURICIO BALTEZAN RIBEIRO"
+                    },
+                    {
+                        "codigo_cliente": "72321",
+                        "desc_cliente": "MAURICIO BELMONTE DA SILVA"
                     },
                     {
                         "codigo_cliente": "59505",

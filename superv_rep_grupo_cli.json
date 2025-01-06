@@ -5806,12 +5806,6 @@
                         "desc_cliente": "SDB COMERCIO DE ALIMENTOS LTDA"
                     }
                 ],
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "72133",
-                        "desc_cliente": "M. B. G. SUPERMERCADO LTDA"
-                    }
-                ],
                 "821 - CAMPO VERDE": [
                     {
                         "codigo_cliente": "37664",
@@ -17864,6 +17858,10 @@
                     {
                         "codigo_cliente": "45060",
                         "desc_cliente": "MULTI GULA COMERCIO PENHA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72323",
+                        "desc_cliente": "MUNDO DA VARIEDADES LTDA"
                     },
                     {
                         "codigo_cliente": "70633",
@@ -32178,10 +32176,6 @@
                         "desc_cliente": "51.410.889 GABRIELA MARTINS FERENZ"
                     },
                     {
-                        "codigo_cliente": "72150",
-                        "desc_cliente": "52.702.570 GLECIANE VANDER VIS"
-                    },
-                    {
                         "codigo_cliente": "62443",
                         "desc_cliente": "52.978.336 ALEXANDRE DE OLIVEIRA OJEDA"
                     },
@@ -41358,10 +41352,6 @@
                     {
                         "codigo_cliente": "4292",
                         "desc_cliente": "COMERCIAL FERREIRA DE ALIMENTOS LTDA - EPP"
-                    },
-                    {
-                        "codigo_cliente": "72070",
-                        "desc_cliente": "COMERCIO E MERCADO SENANDES LTDA"
                     },
                     {
                         "codigo_cliente": "33573",

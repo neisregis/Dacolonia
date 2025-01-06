@@ -40728,10 +40728,6 @@
                         "desc_cliente": "LISANDRA HORNKE KLUG"
                     },
                     {
-                        "codigo_cliente": "42731",
-                        "desc_cliente": "LIZANDRA DEVANTIER ZILMER"
-                    },
-                    {
                         "codigo_cliente": "34208",
                         "desc_cliente": "LLS NATURAIS LTDA ME"
                     },
@@ -54302,10 +54298,6 @@
                         "desc_cliente": "EXPRESSO SAO MIGUEL S/A"
                     },
                     {
-                        "codigo_cliente": "72318",
-                        "desc_cliente": "EXPRESSO SAO MIGUEL S/A"
-                    },
-                    {
                         "codigo_cliente": "55762",
                         "desc_cliente": "G&C TRANSPORTES E LOGISTICA LTDA"
                     },
@@ -67012,6 +67004,10 @@
                     {
                         "codigo_cliente": "63384",
                         "desc_cliente": "E SILVA"
+                    },
+                    {
+                        "codigo_cliente": "72314",
+                        "desc_cliente": "ESTELA GUIMARAES CARDOSO ROCHA"
                     },
                     {
                         "codigo_cliente": "72182",

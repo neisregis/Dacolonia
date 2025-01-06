@@ -54294,6 +54294,10 @@
                         "desc_cliente": "EXPRESSO SAO MIGUEL S/A"
                     },
                     {
+                        "codigo_cliente": "72318",
+                        "desc_cliente": "EXPRESSO SAO MIGUEL S/A"
+                    },
+                    {
                         "codigo_cliente": "55762",
                         "desc_cliente": "G&C TRANSPORTES E LOGISTICA LTDA"
                     },
@@ -66262,6 +66266,10 @@
                         "desc_cliente": "DANIELE AZAVEDO CORREA"
                     },
                     {
+                        "codigo_cliente": "72317",
+                        "desc_cliente": "DANIELE CENTA"
+                    },
+                    {
                         "codigo_cliente": "69543",
                         "desc_cliente": "DANIEL ELIAS DE OLIVEIRA"
                     },
@@ -70528,6 +70536,10 @@
                     {
                         "codigo_cliente": "68658",
                         "desc_cliente": "MARIA CELIA RUBENS"
+                    },
+                    {
+                        "codigo_cliente": "64120",
+                        "desc_cliente": "MARIA CLARA"
                     },
                     {
                         "codigo_cliente": "67209",

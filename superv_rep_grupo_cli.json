@@ -42392,6 +42392,10 @@
                         "desc_cliente": "PADARIA DOTTA LTDA"
                     },
                     {
+                        "codigo_cliente": "37967",
+                        "desc_cliente": "PADARIA NOVA LTDA ME"
+                    },
+                    {
                         "codigo_cliente": "39341",
                         "desc_cliente": "POSTO BATOVI COML RS COMBUSTIVEIS E DERIVADOS LTDA"
                     },
@@ -57924,6 +57928,10 @@
                         "desc_cliente": "HUMBERTO LUIZ KUNERT"
                     },
                     {
+                        "codigo_cliente": "72325",
+                        "desc_cliente": "HYAN OLIVEIRA"
+                    },
+                    {
                         "codigo_cliente": "70601",
                         "desc_cliente": "IAGO SOLANO DIAS"
                     },
@@ -62074,6 +62082,10 @@
                     {
                         "codigo_cliente": "69232",
                         "desc_cliente": "SOLANGE FATIMA DOS SANTOS"
+                    },
+                    {
+                        "codigo_cliente": "72324",
+                        "desc_cliente": "SONI ADRIANE RIBEIRO"
                     },
                     {
                         "codigo_cliente": "69685",

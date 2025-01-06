@@ -3106,6 +3106,10 @@
                         "desc_cliente": "SUPERMERCADO PARANAIBA SANTA LUZIA LTDA"
                     },
                     {
+                        "codigo_cliente": "72319",
+                        "desc_cliente": "TERNEIRO EMPREENDIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "71679",
                         "desc_cliente": "VAREJAO PLANALTO LTDA"
                     }
@@ -33234,6 +33238,10 @@
                     {
                         "codigo_cliente": "9355",
                         "desc_cliente": "EMERSON JONATAN FORTES GONCALVES"
+                    },
+                    {
+                        "codigo_cliente": "72320",
+                        "desc_cliente": "EMPORIO NATURAL FACHINI"
                     },
                     {
                         "codigo_cliente": "36517",

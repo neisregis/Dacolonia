@@ -33238,10 +33238,6 @@
                         "desc_cliente": "EMERSON JONATAN FORTES GONCALVES"
                     },
                     {
-                        "codigo_cliente": "72320",
-                        "desc_cliente": "EMPORIO NATURAL FACHINI"
-                    },
-                    {
                         "codigo_cliente": "36517",
                         "desc_cliente": "ENOR SELAU FERREIRA"
                     },
@@ -33416,6 +33412,10 @@
                     {
                         "codigo_cliente": "64390",
                         "desc_cliente": "RG COM VAREJISTA DE MERCADORIAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72320",
+                        "desc_cliente": "ROSINEIA KOUTZUN"
                     },
                     {
                         "codigo_cliente": "67816",
@@ -57478,6 +57478,10 @@
                     {
                         "codigo_cliente": "72213",
                         "desc_cliente": "GABRIELA MELOS VIEIRA"
+                    },
+                    {
+                        "codigo_cliente": "72327",
+                        "desc_cliente": "GABRIELA OLIVEIRA"
                     },
                     {
                         "codigo_cliente": "71978",

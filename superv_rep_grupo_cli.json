@@ -3543,7 +3543,7 @@
                     }
                 ]
             },
-            "1045": {
+            "861": {
                 "1043 - LAVAGNOLI": [
                     {
                         "codigo_cliente": "55109",
@@ -3582,6 +3582,12 @@
                     {
                         "codigo_cliente": "58237",
                         "desc_cliente": "REDE MARTINS FACIL LTDA"
+                    }
+                ],
+                "1321 - REALMAR - PGTO VIA TED": [
+                    {
+                        "codigo_cliente": "5400",
+                        "desc_cliente": "REALMAR DISTRIBUIDORA LTDA"
                     }
                 ],
                 "1331 - OBA SUPERMERCADOS - ES": [
@@ -3684,6 +3690,86 @@
                     {
                         "codigo_cliente": "54087",
                         "desc_cliente": "SUPERMERCADOS CASAGRANDE LTDA"
+                    }
+                ],
+                "401 - PERIM": [
+                    {
+                        "codigo_cliente": "35027",
+                        "desc_cliente": "ITAPOA SUPERMERCADO LTDA."
+                    }
+                ],
+                "406 - DRIFT COMERCIO": [
+                    {
+                        "codigo_cliente": "24284",
+                        "desc_cliente": "DRIFT COMÃ©RCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "45998",
+                        "desc_cliente": "DRIFT COM DE ALIMENTOS S/A"
+                    },
+                    {
+                        "codigo_cliente": "24286",
+                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38544",
+                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38545",
+                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "22008",
+                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS S/A."
+                    },
+                    {
+                        "codigo_cliente": "23971",
+                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS S/A"
+                    },
+                    {
+                        "codigo_cliente": "23973",
+                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS S/A"
+                    },
+                    {
+                        "codigo_cliente": "24285",
+                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS S/A"
+                    },
+                    {
+                        "codigo_cliente": "24287",
+                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS S/A"
+                    },
+                    {
+                        "codigo_cliente": "24288",
+                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS S/A"
+                    },
+                    {
+                        "codigo_cliente": "22038",
+                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS S/A."
+                    },
+                    {
+                        "codigo_cliente": "22045",
+                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS S/A."
+                    },
+                    {
+                        "codigo_cliente": "22053",
+                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS S/A."
+                    },
+                    {
+                        "codigo_cliente": "42578",
+                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS S/A."
+                    },
+                    {
+                        "codigo_cliente": "48008",
+                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS S/A."
+                    },
+                    {
+                        "codigo_cliente": "58311",
+                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS S/A."
+                    },
+                    {
+                        "codigo_cliente": "70436",
+                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS S/A."
                     }
                 ],
                 "902 - ORIUNDI": [
@@ -4153,91 +4239,11 @@
                     }
                 ]
             },
-            "861": {
-                "1321 - REALMAR - PGTO VIA TED": [
+            "1045": {
+                "203 - SUP.CASA GRANDE": [
                     {
-                        "codigo_cliente": "5400",
-                        "desc_cliente": "REALMAR DISTRIBUIDORA LTDA"
-                    }
-                ],
-                "401 - PERIM": [
-                    {
-                        "codigo_cliente": "35027",
-                        "desc_cliente": "ITAPOA SUPERMERCADO LTDA."
-                    }
-                ],
-                "406 - DRIFT COMERCIO": [
-                    {
-                        "codigo_cliente": "24284",
-                        "desc_cliente": "DRIFT COMÃ©RCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "45998",
-                        "desc_cliente": "DRIFT COM DE ALIMENTOS S/A"
-                    },
-                    {
-                        "codigo_cliente": "24286",
-                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38544",
-                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "38545",
-                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "22008",
-                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS S/A."
-                    },
-                    {
-                        "codigo_cliente": "23971",
-                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS S/A"
-                    },
-                    {
-                        "codigo_cliente": "23973",
-                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS S/A"
-                    },
-                    {
-                        "codigo_cliente": "24285",
-                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS S/A"
-                    },
-                    {
-                        "codigo_cliente": "24287",
-                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS S/A"
-                    },
-                    {
-                        "codigo_cliente": "24288",
-                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS S/A"
-                    },
-                    {
-                        "codigo_cliente": "22038",
-                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS S/A."
-                    },
-                    {
-                        "codigo_cliente": "22045",
-                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS S/A."
-                    },
-                    {
-                        "codigo_cliente": "22053",
-                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS S/A."
-                    },
-                    {
-                        "codigo_cliente": "42578",
-                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS S/A."
-                    },
-                    {
-                        "codigo_cliente": "48008",
-                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS S/A."
-                    },
-                    {
-                        "codigo_cliente": "58311",
-                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS S/A."
-                    },
-                    {
-                        "codigo_cliente": "70436",
-                        "desc_cliente": "DRIFT COMERCIO DE ALIMENTOS S/A."
+                        "codigo_cliente": "19132",
+                        "desc_cliente": "SUPERMERCADOS CASAGRANDE LTDA"
                     }
                 ]
             },
@@ -16678,6 +16684,10 @@
                         "desc_cliente": "MERCADO CAIO 2 LTDA"
                     },
                     {
+                        "codigo_cliente": "62793",
+                        "desc_cliente": "MERCADO FOLMER LTDA"
+                    },
+                    {
                         "codigo_cliente": "62859",
                         "desc_cliente": "MERCADO GULA DO BRASIL COMERCIO DE ALIMENTOS LTDA"
                     },
@@ -22888,6 +22898,10 @@
                     {
                         "codigo_cliente": "49133",
                         "desc_cliente": "ALEXANDRE J BERTI "
+                    },
+                    {
+                        "codigo_cliente": "61824",
+                        "desc_cliente": "ALPEN COM DE SORVETES LTDA"
                     },
                     {
                         "codigo_cliente": "67833",
@@ -55930,6 +55944,10 @@
                     {
                         "codigo_cliente": "70913",
                         "desc_cliente": "CECILIA DORNELES"
+                    },
+                    {
+                        "codigo_cliente": "72328",
+                        "desc_cliente": "CECILIA MARCOLIN"
                     },
                     {
                         "codigo_cliente": "69917",

@@ -19362,6 +19362,16 @@
                         "desc_cliente": "BOM MERCADO COMERCIO DE ALIMENTOS LTDA"
                     }
                 ],
+                "1392 - SUPER NOVO": [
+                    {
+                        "codigo_cliente": "72340",
+                        "desc_cliente": "SUPER NOVO COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72341",
+                        "desc_cliente": "SUPER NOVO COMERCIO DE ALIMENTOS LTDA"
+                    }
+                ],
                 "1 - GERAL": [
                     {
                         "codigo_cliente": "52710",
@@ -19658,14 +19668,6 @@
                     {
                         "codigo_cliente": "25573",
                         "desc_cliente": "SUPERMERCADOS VEM QUE TEM LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72340",
-                        "desc_cliente": "SUPER NOVO COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72341",
-                        "desc_cliente": "SUPER NOVO COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "61460",
@@ -30248,12 +30250,6 @@
                 ]
             },
             "762": {
-                "1086 - DAKI": [
-                    {
-                        "codigo_cliente": "58081",
-                        "desc_cliente": "DAKI CD BARUERI LTDA."
-                    }
-                ],
                 "10 - CARREFOUR": [
                     {
                         "codigo_cliente": "27153",
@@ -35382,10 +35378,6 @@
                     {
                         "codigo_cliente": "17568",
                         "desc_cliente": "TINOCO & MENDONCA AUTO SERVICOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69412",
-                        "desc_cliente": "TINOCO MENDONCA LAGOS LTDA"
                     }
                 ],
                 "184 - VIEIRA LOPES": [
@@ -35412,32 +35404,8 @@
                         "desc_cliente": "ALEMAO DA ROCA LANCHONETE E RESTAURANTE LTDA"
                     },
                     {
-                        "codigo_cliente": "39702",
-                        "desc_cliente": "AMIGAOZAO DISTRIBUIDORA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "34491",
-                        "desc_cliente": "ANGRA DISTRIBUICAO DE ALIMENTOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "35224",
                         "desc_cliente": "ARMAZEM FSL DE ARARUAMA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "46662",
-                        "desc_cliente": "ARRAIAL DO CABO SUPERMERCADO EIRELI"
-                    },
-                    {
-                        "codigo_cliente": "41207",
-                        "desc_cliente": "AV DUTRA COMERCIO DE GENEROS ALIMENTICIOS"
-                    },
-                    {
-                        "codigo_cliente": "58169",
-                        "desc_cliente": "A.W. PRODUTOS DIETETICOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "41222",
-                        "desc_cliente": "BARAO DO RIO BRANCO PADARIA E CONFEITARIA LTDA ME"
                     },
                     {
                         "codigo_cliente": "65746",
@@ -35456,10 +35424,6 @@
                         "desc_cliente": "CLD COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
-                        "codigo_cliente": "41763",
-                        "desc_cliente": "CNG COMERCIO VAREJISTA DE PRODUTOS ALIMENTICIOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "21069",
                         "desc_cliente": "COMERCIAL RANCHO ZEGNO LTDA"
                     },
@@ -35470,10 +35434,6 @@
                     {
                         "codigo_cliente": "30551",
                         "desc_cliente": "COMERCIO DE LATICINIOS DA VOVO ARMINDA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "53682",
-                        "desc_cliente": "CONTROLE COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "72046",
@@ -35490,10 +35450,6 @@
                     {
                         "codigo_cliente": "28366",
                         "desc_cliente": "DELICIAS DO RANCHO ZEGNO LTDA - ME"
-                    },
-                    {
-                        "codigo_cliente": "53502",
-                        "desc_cliente": "DISTRIBUIDORA G MARKET LTDA"
                     },
                     {
                         "codigo_cliente": "39343",
@@ -35516,20 +35472,8 @@
                         "desc_cliente": "FRUI VITA SUPLEMENTOS E PRODUTOS NATURAIS LTDA"
                     },
                     {
-                        "codigo_cliente": "47560",
-                        "desc_cliente": "JC COMERCIAL DE PRODUTOS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "40011",
-                        "desc_cliente": "J. C. KNUPP COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "18831",
                         "desc_cliente": "J. L. S. GOULART HOTEL - ME"
-                    },
-                    {
-                        "codigo_cliente": "40012",
-                        "desc_cliente": "JOAO VITOR KNUPP DA SILVEIRA"
                     },
                     {
                         "codigo_cliente": "66709",
@@ -35568,10 +35512,6 @@
                         "desc_cliente": "MASCATE EMPORIO LTDA"
                     },
                     {
-                        "codigo_cliente": "17032",
-                        "desc_cliente": "M DA SILVA MOREIRA M E - ME"
-                    },
-                    {
                         "codigo_cliente": "54812",
                         "desc_cliente": "MERCADO MARINHO DA ALDEIA LTDA"
                     },
@@ -35600,16 +35540,8 @@
                         "desc_cliente": "N. FERREIRA DE MOURA LANCHONETE ME"
                     },
                     {
-                        "codigo_cliente": "44206",
-                        "desc_cliente": "N. G. GUIMARAES COM. VAREJ. DE MERCADORIAS EM GERAL LTDA"
-                    },
-                    {
                         "codigo_cliente": "29733",
                         "desc_cliente": "NL FONTES DISTRIBUIDORA DE PRODUTOS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "17927",
-                        "desc_cliente": "N L GUIMARAES BAR E MERCEARIA"
                     },
                     {
                         "codigo_cliente": "24901",
@@ -35640,10 +35572,6 @@
                         "desc_cliente": "RC ORGANIZACAO DE FESTA LTDA"
                     },
                     {
-                        "codigo_cliente": "58487",
-                        "desc_cliente": "REDE HIPER GRAOS RIO DAS OSTRAS LTDA"
-                    },
-                    {
                         "codigo_cliente": "67175",
                         "desc_cliente": "RESTAURANTE E LANCHONETE GAROTAS DO SUL LTDA"
                     },
@@ -35666,10 +35594,6 @@
                     {
                         "codigo_cliente": "21162",
                         "desc_cliente": "RESTAURANTE POUSADA DOS CARRETEIROS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "61790",
-                        "desc_cliente": "RICARDO I DA SILVA ALVES  LTDA"
                     },
                     {
                         "codigo_cliente": "22625",
@@ -35710,10 +35634,6 @@
                     {
                         "codigo_cliente": "20643",
                         "desc_cliente": "TOP GREEN HORTIFRUITGRANGEIROS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44468",
-                        "desc_cliente": "VILEFORT COMERCIO LTDA"
                     },
                     {
                         "codigo_cliente": "24328",
@@ -35774,10 +35694,6 @@
                         "desc_cliente": "REDE HIPER DOCE CENTRO EIRELI"
                     },
                     {
-                        "codigo_cliente": "35265",
-                        "desc_cliente": "REDE HIPER DOCE DE CABO FRIO EIRELI"
-                    },
-                    {
                         "codigo_cliente": "35260",
                         "desc_cliente": "REDE HIPER DOCE RODOVIARIA II COMERCIO EIRELI"
                     },
@@ -35800,12 +35716,6 @@
                         "desc_cliente": "CASAS GUANABARA COMESTIVEIS LTDA"
                     }
                 ],
-                "800 - GREEN FRUIT": [
-                    {
-                        "codigo_cliente": "29664",
-                        "desc_cliente": "GREEN FRUIT NOVO MILENIO HORTIFRUTIGRANJEIROS LTDA"
-                    }
-                ],
                 "819 - BOMFRIOS": [
                     {
                         "codigo_cliente": "32052",
@@ -35816,17 +35726,7 @@
                         "desc_cliente": "BOMFRIOS PRIME SUPERMERCADOS LTDA"
                     }
                 ],
-                "851 - TERE FRUTAS": [
-                    {
-                        "codigo_cliente": "17565",
-                        "desc_cliente": "TERE FRUTAS COMERCIO DE ALIMENTOS E PANIFICACAO LTDA"
-                    }
-                ],
                 "936 - V&R - RJ": [
-                    {
-                        "codigo_cliente": "35307",
-                        "desc_cliente": "C & R SUPERMERCADO DE CABO FRIO LTDA"
-                    },
                     {
                         "codigo_cliente": "31940",
                         "desc_cliente": "C & R SUPERMERCADO PONTA NEGRA LTDA - EPP"
@@ -35850,16 +35750,6 @@
                     {
                         "codigo_cliente": "53186",
                         "desc_cliente": "V&R MINIMERCADO PORTO DA ROCA LTDA"
-                    }
-                ],
-                "951 - REDE AVISTÃO": [
-                    {
-                        "codigo_cliente": "26080",
-                        "desc_cliente": "CLASSICOS COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "26436",
-                        "desc_cliente": "CLASSICOS COMERCIO DE ALIMENTOS LTDA"
                     }
                 ]
             },
@@ -36696,6 +36586,12 @@
                         "desc_cliente": "CABRAL FAZOLI PRODUTOS ALIMENTICIOS LTDA"
                     }
                 ],
+                "1352 - SUPER TINOCO": [
+                    {
+                        "codigo_cliente": "69412",
+                        "desc_cliente": "TINOCO MENDONCA LAGOS LTDA"
+                    }
+                ],
                 "1 - GERAL": [
                     {
                         "codigo_cliente": "57073",
@@ -36722,6 +36618,14 @@
                         "desc_cliente": "ALIANCA SUPERMERCADO LTDA"
                     },
                     {
+                        "codigo_cliente": "39702",
+                        "desc_cliente": "AMIGAOZAO DISTRIBUIDORA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "34491",
+                        "desc_cliente": "ANGRA DISTRIBUICAO DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "42940",
                         "desc_cliente": "AREAL GRAOS E CEREAIS LTDA "
                     },
@@ -36738,12 +36642,28 @@
                         "desc_cliente": "ARMAZEM DEFANTI E VELASCO LTDA"
                     },
                     {
+                        "codigo_cliente": "46662",
+                        "desc_cliente": "ARRAIAL DO CABO SUPERMERCADO EIRELI"
+                    },
+                    {
                         "codigo_cliente": "35986",
                         "desc_cliente": "AUTO SERVICO CORDEIRENSE LTDA"
                     },
                     {
                         "codigo_cliente": "40782",
                         "desc_cliente": "AUTO SERVICO PINHEIRO NETO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "41207",
+                        "desc_cliente": "AV DUTRA COMERCIO DE GENEROS ALIMENTICIOS"
+                    },
+                    {
+                        "codigo_cliente": "58169",
+                        "desc_cliente": "A.W. PRODUTOS DIETETICOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "41222",
+                        "desc_cliente": "BARAO DO RIO BRANCO PADARIA E CONFEITARIA LTDA ME"
                     },
                     {
                         "codigo_cliente": "65096",
@@ -36770,8 +36690,16 @@
                         "desc_cliente": "CHURRASCARIA E LANCHONETE GALEGAO LTDA M E"
                     },
                     {
+                        "codigo_cliente": "41763",
+                        "desc_cliente": "CNG COMERCIO VAREJISTA DE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "40835",
                         "desc_cliente": "COMERCIAL REDE TAVARES EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "53682",
+                        "desc_cliente": "CONTROLE COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "39690",
@@ -36788,6 +36716,10 @@
                     {
                         "codigo_cliente": "61352",
                         "desc_cliente": "C R R S JUNIOR SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "53502",
+                        "desc_cliente": "DISTRIBUIDORA G MARKET LTDA"
                     },
                     {
                         "codigo_cliente": "59432",
@@ -36858,6 +36790,14 @@
                         "desc_cliente": "J A DA COSTA TORRES COMERCIO DE DOCES E BEBIDAS"
                     },
                     {
+                        "codigo_cliente": "47560",
+                        "desc_cliente": "JC COMERCIAL DE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "40011",
+                        "desc_cliente": "J. C. KNUPP COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "41155",
                         "desc_cliente": "J. CLAUDIO MACHADO"
                     },
@@ -36872,6 +36812,10 @@
                     {
                         "codigo_cliente": "40198",
                         "desc_cliente": "J. E. SARDINHA DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "40012",
+                        "desc_cliente": "JOAO VITOR KNUPP DA SILVEIRA"
                     },
                     {
                         "codigo_cliente": "35660",
@@ -36900,6 +36844,10 @@
                     {
                         "codigo_cliente": "49140",
                         "desc_cliente": "M.C.L. LOURENÇO DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "17032",
+                        "desc_cliente": "M DA SILVA MOREIRA M E - ME"
                     },
                     {
                         "codigo_cliente": "40539",
@@ -36936,6 +36884,14 @@
                     {
                         "codigo_cliente": "40615",
                         "desc_cliente": "NELIO R VIANA FILHO EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "44206",
+                        "desc_cliente": "N. G. GUIMARAES COM. VAREJ. DE MERCADORIAS EM GERAL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "17927",
+                        "desc_cliente": "N L GUIMARAES BAR E MERCEARIA"
                     },
                     {
                         "codigo_cliente": "58584",
@@ -36978,6 +36934,10 @@
                         "desc_cliente": "R. A. PESSANHA MERCEARIA "
                     },
                     {
+                        "codigo_cliente": "58487",
+                        "desc_cliente": "REDE HIPER GRAOS RIO DAS OSTRAS LTDA"
+                    },
+                    {
                         "codigo_cliente": "40617",
                         "desc_cliente": "RESTAURANTE PEDRA AZUL DE CAMPOS LTDA"
                     },
@@ -36988,6 +36948,10 @@
                     {
                         "codigo_cliente": "44538",
                         "desc_cliente": "RIBEIRO & AZEREDO AUTO SERVICO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "61790",
+                        "desc_cliente": "RICARDO I DA SILVA ALVES  LTDA"
                     },
                     {
                         "codigo_cliente": "57749",
@@ -37042,8 +37006,18 @@
                         "desc_cliente": "VENTURA & OLIVEIRA COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "44468",
+                        "desc_cliente": "VILEFORT COMERCIO LTDA"
+                    },
+                    {
                         "codigo_cliente": "3675",
                         "desc_cliente": "ZAZUTI COMERCIAL LTDA"
+                    }
+                ],
+                "390 - HIPER DOCE RJ": [
+                    {
+                        "codigo_cliente": "35265",
+                        "desc_cliente": "REDE HIPER DOCE DE CABO FRIO EIRELI"
                     }
                 ],
                 "391 - REDE ECONOMIA RJ": [
@@ -37078,6 +37052,10 @@
                         "desc_cliente": "GREEN F.N.M. HORTIFRUTIGRANJEIROS LTDA"
                     },
                     {
+                        "codigo_cliente": "29664",
+                        "desc_cliente": "GREEN FRUIT NOVO MILENIO HORTIFRUTIGRANJEIROS LTDA"
+                    },
+                    {
                         "codigo_cliente": "38506",
                         "desc_cliente": "GREEN FRUIT NOVO MILENIO HORTIFRUTIGRANJEIROS LTDA"
                     }
@@ -37108,12 +37086,32 @@
                     {
                         "codigo_cliente": "18914",
                         "desc_cliente": "TERE FRUTAS COM. DE ALIM. E PANIF. LTDA"
+                    },
+                    {
+                        "codigo_cliente": "17565",
+                        "desc_cliente": "TERE FRUTAS COMERCIO DE ALIMENTOS E PANIFICACAO LTDA"
                     }
                 ],
                 "918 - BAZAR ECCARD": [
                     {
                         "codigo_cliente": "40749",
                         "desc_cliente": "BAZAR ECCARD DE SOUZA LTDA"
+                    }
+                ],
+                "936 - V&R - RJ": [
+                    {
+                        "codigo_cliente": "35307",
+                        "desc_cliente": "C & R SUPERMERCADO DE CABO FRIO LTDA"
+                    }
+                ],
+                "951 - REDE AVISTÃO": [
+                    {
+                        "codigo_cliente": "26080",
+                        "desc_cliente": "CLASSICOS COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "26436",
+                        "desc_cliente": "CLASSICOS COMERCIO DE ALIMENTOS LTDA"
                     }
                 ],
                 "984 - RELUZ": [
@@ -37772,6 +37770,10 @@
                     {
                         "codigo_cliente": "71985",
                         "desc_cliente": "CLAUDEMIR MATTEI"
+                    },
+                    {
+                        "codigo_cliente": "70259",
+                        "desc_cliente": "COMERCIAL SURUBI LTDA"
                     },
                     {
                         "codigo_cliente": "28945",
@@ -38740,10 +38742,6 @@
                     {
                         "codigo_cliente": "25833",
                         "desc_cliente": "COMERCIAL R D DE PRODUTOS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "70259",
-                        "desc_cliente": "COMERCIAL SURUBI LTDA"
                     },
                     {
                         "codigo_cliente": "45539",
@@ -42436,10 +42434,6 @@
                     {
                         "codigo_cliente": "40380",
                         "desc_cliente": "PADARIA DOTTA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "37967",
-                        "desc_cliente": "PADARIA NOVA LTDA ME"
                     },
                     {
                         "codigo_cliente": "39341",
@@ -53754,6 +53748,12 @@
                         "desc_cliente": "PHD COMERCIO E DISTRIBUICAO DE PRODUTOS ALIMENTICIOS LTDA"
                     }
                 ],
+                "1086 - DAKI": [
+                    {
+                        "codigo_cliente": "58081",
+                        "desc_cliente": "DAKI CD BARUERI LTDA."
+                    }
+                ],
                 "10 - CARREFOUR": [
                     {
                         "codigo_cliente": "27153",
@@ -57044,6 +57044,10 @@
                     {
                         "codigo_cliente": "67558",
                         "desc_cliente": "ELTON BATISTA RIEDEL"
+                    },
+                    {
+                        "codigo_cliente": "72346",
+                        "desc_cliente": "ELTON DE SOUZA"
                     },
                     {
                         "codigo_cliente": "67152",
@@ -83170,6 +83174,12 @@
                     {
                         "codigo_cliente": "66789",
                         "desc_cliente": "SUMMIT3S ALLIANCE AND DISTRIBUTION LLC"
+                    }
+                ],
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "72339",
+                        "desc_cliente": "AL HADAF AL WADEH"
                     }
                 ]
             }

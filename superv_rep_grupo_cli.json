@@ -5812,6 +5812,12 @@
                         "desc_cliente": "SDB COMERCIO DE ALIMENTOS LTDA"
                     }
                 ],
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "72133",
+                        "desc_cliente": "M. B. G. SUPERMERCADO LTDA"
+                    }
+                ],
                 "821 - CAMPO VERDE": [
                     {
                         "codigo_cliente": "37664",
@@ -42000,6 +42006,10 @@
                         "desc_cliente": "46.643.796 MICHEL FAGUNDES LEAL"
                     },
                     {
+                        "codigo_cliente": "62154",
+                        "desc_cliente": "50.181.499 DANIELA GOMES RODRIGUES ARAUJO"
+                    },
+                    {
                         "codigo_cliente": "61140",
                         "desc_cliente": "52.430.507 MARCELIA NUNES GOROSITO CANALS"
                     },
@@ -42434,6 +42444,10 @@
                     {
                         "codigo_cliente": "40380",
                         "desc_cliente": "PADARIA DOTTA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "37967",
+                        "desc_cliente": "PADARIA NOVA LTDA ME"
                     },
                     {
                         "codigo_cliente": "39341",
@@ -43907,6 +43921,10 @@
                 "1323 - ALIMAX": [
                     {
                         "codigo_cliente": "68782",
+                        "desc_cliente": "ALIMENTARE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69117",
                         "desc_cliente": "ALIMENTARE PRODUTOS ALIMENTICIOS LTDA"
                     }
                 ],

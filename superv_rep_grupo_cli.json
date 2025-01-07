@@ -14540,6 +14540,10 @@
                         "desc_cliente": "COOPERATIVA AGROINDUSTRIAL ALFA"
                     },
                     {
+                        "codigo_cliente": "35267",
+                        "desc_cliente": "COOPERATIVA AGROINDUSTRIAL ALFA"
+                    },
+                    {
                         "codigo_cliente": "42745",
                         "desc_cliente": "COOPERATIVA AGROINDUSTRIAL ALFA"
                     }
@@ -17838,6 +17842,10 @@
                     {
                         "codigo_cliente": "57812",
                         "desc_cliente": "MARCIANA CARVALHO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72348",
+                        "desc_cliente": "MEISTER WILLI PADARIA E CONFEITARIA LTDA"
                     },
                     {
                         "codigo_cliente": "64474",
@@ -22506,6 +22514,10 @@
                     {
                         "codigo_cliente": "18798",
                         "desc_cliente": "A. SOUZA MUNIZ - ME"
+                    },
+                    {
+                        "codigo_cliente": "72349",
+                        "desc_cliente": "ATACADO CENTRAL FRUTAS E VERDURAS LTDA"
                     },
                     {
                         "codigo_cliente": "71452",

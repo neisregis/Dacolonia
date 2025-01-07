@@ -15068,6 +15068,10 @@
                         "desc_cliente": "FRUTEIRA SCHNEIDER LTDA"
                     },
                     {
+                        "codigo_cliente": "40147",
+                        "desc_cliente": "GIBA MERCADO E ACOUGUE LTDA"
+                    },
+                    {
                         "codigo_cliente": "41707",
                         "desc_cliente": "GILBERTO RIGO & CIA LTDA"
                     },
@@ -19654,6 +19658,14 @@
                     {
                         "codigo_cliente": "25573",
                         "desc_cliente": "SUPERMERCADOS VEM QUE TEM LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72340",
+                        "desc_cliente": "SUPER NOVO COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72341",
+                        "desc_cliente": "SUPER NOVO COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "61460",
@@ -29620,7 +29632,15 @@
                         "desc_cliente": "LOJAO ORRU LTDA"
                     },
                     {
+                        "codigo_cliente": "69045",
+                        "desc_cliente": "LOJAO ORRU LTDA"
+                    },
+                    {
                         "codigo_cliente": "69046",
+                        "desc_cliente": "LOJAO ORRU LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69050",
                         "desc_cliente": "LOJAO ORRU LTDA"
                     },
                     {

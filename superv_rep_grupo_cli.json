@@ -39618,6 +39618,10 @@
                         "desc_cliente": "SUPERMERCADO WD LTDA"
                     },
                     {
+                        "codigo_cliente": "72332",
+                        "desc_cliente": "SUPERMERCADO WD LTDA"
+                    },
+                    {
                         "codigo_cliente": "26790",
                         "desc_cliente": "SUPERMERCADO ZANETTE LTDA - EPP"
                     },
@@ -46881,7 +46885,7 @@
                     },
                     {
                         "codigo_cliente": "72331",
-                        "desc_cliente": "DOCURAS DOS PIETUGAS LTDA"
+                        "desc_cliente": "DOCURAS DOS PORTUGAS LTDA"
                     },
                     {
                         "codigo_cliente": "71096",
@@ -59332,6 +59336,10 @@
                     {
                         "codigo_cliente": "69154",
                         "desc_cliente": "LEONARDO MIGUEL SIVARDI"
+                    },
+                    {
+                        "codigo_cliente": "72333",
+                        "desc_cliente": "LEONARDO NAZARIO"
                     },
                     {
                         "codigo_cliente": "64175",

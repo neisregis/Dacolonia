@@ -66664,6 +66664,10 @@
                         "desc_cliente": "EDSON JONER CORTE"
                     },
                     {
+                        "codigo_cliente": "72322",
+                        "desc_cliente": "EDUARDA COUTINHO"
+                    },
+                    {
                         "codigo_cliente": "71771",
                         "desc_cliente": "EDUARDA LIA AMARAL ZANCHET"
                     },
@@ -72286,6 +72290,10 @@
                     {
                         "codigo_cliente": "69480",
                         "desc_cliente": "RENATO MARCONDES DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "72326",
+                        "desc_cliente": "RENATO MELO"
                     },
                     {
                         "codigo_cliente": "60349",

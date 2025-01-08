@@ -9864,6 +9864,10 @@
                         "desc_cliente": "MARIA DULCE FROEHLICH & CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "40664",
+                        "desc_cliente": "MARIA EDUARDA DOS SANTOS "
+                    },
+                    {
                         "codigo_cliente": "52820",
                         "desc_cliente": "MARKET11 COMERCIO VAREJISTA LTDA"
                     },
@@ -29994,6 +29998,10 @@
                         "desc_cliente": "EMBALAGEM FACIL SUPRIMENTOS EIRELI"
                     },
                     {
+                        "codigo_cliente": "72377",
+                        "desc_cliente": "EMPORIO DA SERRA COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "71126",
                         "desc_cliente": "ENIMA SUPERMERCADO LTDA"
                     },
@@ -42198,6 +42206,10 @@
                         "desc_cliente": "DALCIONE SILVA BISOGNIN"
                     },
                     {
+                        "codigo_cliente": "62154",
+                        "desc_cliente": "DANIELA GOMES RODRIGUES ARAUJO LTDA"
+                    },
+                    {
                         "codigo_cliente": "52708",
                         "desc_cliente": "D. DE J. G. MARTINS & CIA LTDA"
                     },
@@ -48904,6 +48916,10 @@
                         "desc_cliente": "ROSELAINE BAPTISTA ANDRADE"
                     },
                     {
+                        "codigo_cliente": "72356",
+                        "desc_cliente": "ROSIMERI RODRIGUES NASCIMENTO ALMEIDA"
+                    },
+                    {
                         "codigo_cliente": "24152",
                         "desc_cliente": "ROSINARA GONCALVES BORGES"
                     },
@@ -50934,15 +50950,7 @@
                         "desc_cliente": "UFFA REDE DE LOJAS DE PROXIMIDADE LTDA"
                     },
                     {
-                        "codigo_cliente": "70984",
-                        "desc_cliente": "UFFA REDE DE LOJAS DE PROXIMIDADE LTDA"
-                    },
-                    {
                         "codigo_cliente": "71784",
-                        "desc_cliente": "UFFA REDE DE LOJAS DE PROXIMIDADE LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71785",
                         "desc_cliente": "UFFA REDE DE LOJAS DE PROXIMIDADE LTDA"
                     }
                 ]
@@ -54954,6 +54962,10 @@
                         "desc_cliente": "AITOR ESTUANE"
                     },
                     {
+                        "codigo_cliente": "72371",
+                        "desc_cliente": "AJARIBM PINTO"
+                    },
+                    {
                         "codigo_cliente": "70830",
                         "desc_cliente": "ALAN FILIPE RODRIGUES DE MEDEIROS"
                     },
@@ -55798,6 +55810,10 @@
                         "desc_cliente": "CALUDINEI DA SILVA"
                     },
                     {
+                        "codigo_cliente": "72374",
+                        "desc_cliente": "CAMILA BEDUWN"
+                    },
+                    {
                         "codigo_cliente": "72269",
                         "desc_cliente": "CAMILA BIMA ALANO"
                     },
@@ -56636,6 +56652,10 @@
                     {
                         "codigo_cliente": "50631",
                         "desc_cliente": "DIEGO AVILA DE AVILA"
+                    },
+                    {
+                        "codigo_cliente": "72373",
+                        "desc_cliente": "DIEGO BEDUWN"
                     },
                     {
                         "codigo_cliente": "68570",
@@ -58450,6 +58470,10 @@
                         "desc_cliente": "JEFERSON BRUN DA SILVA"
                     },
                     {
+                        "codigo_cliente": "72378",
+                        "desc_cliente": "JEFERSON DANIEL SILVA"
+                    },
+                    {
                         "codigo_cliente": "64959",
                         "desc_cliente": "JEFERSON DA SILVA"
                     },
@@ -58844,6 +58868,10 @@
                     {
                         "codigo_cliente": "38413",
                         "desc_cliente": "JORGE LUIZ SOUZA FERREIRA"
+                    },
+                    {
+                        "codigo_cliente": "72376",
+                        "desc_cliente": "JOSCELI MACHADO ALVES"
                     },
                     {
                         "codigo_cliente": "51415",
@@ -62274,6 +62302,10 @@
                         "desc_cliente": "SOELCI CASTOLDI"
                     },
                     {
+                        "codigo_cliente": "72372",
+                        "desc_cliente": "SOELEN DERAWANZ STORSCH"
+                    },
+                    {
                         "codigo_cliente": "59728",
                         "desc_cliente": "SOLANGE BASEGGIO "
                     },
@@ -62796,6 +62828,10 @@
                     {
                         "codigo_cliente": "50237",
                         "desc_cliente": "VITOR MATHEUS NAZARIO DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "52243",
+                        "desc_cliente": "VITOR OLIVEIRA GIRARD"
                     },
                     {
                         "codigo_cliente": "66933",
@@ -75653,6 +75689,14 @@
                 "948 - REDE UFFA": [
                     {
                         "codigo_cliente": "57877",
+                        "desc_cliente": "UFFA REDE DE LOJAS DE PROXIMIDADE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70984",
+                        "desc_cliente": "UFFA REDE DE LOJAS DE PROXIMIDADE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71785",
                         "desc_cliente": "UFFA REDE DE LOJAS DE PROXIMIDADE LTDA"
                     }
                 ]

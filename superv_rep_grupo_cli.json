@@ -23084,6 +23084,10 @@
                         "desc_cliente": "PORTO D'ORO PADARIA E RESTAURANTE LTDA"
                     },
                     {
+                        "codigo_cliente": "45446",
+                        "desc_cliente": "QUALITY COMERCIAL DE COMBUSTIVEIS LTDA"
+                    },
+                    {
                         "codigo_cliente": "49093",
                         "desc_cliente": "R BORGES"
                     },
@@ -48412,6 +48416,10 @@
                         "desc_cliente": "32.377.583 VALDIR CAMPANELLI BOAVENTURA"
                     },
                     {
+                        "codigo_cliente": "68837",
+                        "desc_cliente": "35.541.022 ROSIMERI RODRIGUES NASCIMENTO ALMEIDA"
+                    },
+                    {
                         "codigo_cliente": "68234",
                         "desc_cliente": "36.749.113 DOUGLAS MELLO DA SILVEIRA"
                     },
@@ -48878,10 +48886,6 @@
                     {
                         "codigo_cliente": "60043",
                         "desc_cliente": "ROSELAINE BAPTISTA ANDRADE"
-                    },
-                    {
-                        "codigo_cliente": "68837",
-                        "desc_cliente": "ROSIMERI  RODRIGUES NASCIMENTO"
                     },
                     {
                         "codigo_cliente": "24152",
@@ -54576,6 +54580,10 @@
                     {
                         "codigo_cliente": "69992",
                         "desc_cliente": "ISIS GOMES DOS REIS"
+                    },
+                    {
+                        "codigo_cliente": "72353",
+                        "desc_cliente": "JANGO MANOEL SILVA"
                     },
                     {
                         "codigo_cliente": "44873",
@@ -62976,6 +62984,10 @@
                         "desc_cliente": "JAMUR ANTONIO MORAVSKI "
                     },
                     {
+                        "codigo_cliente": "72353",
+                        "desc_cliente": "JANGO MANOEL SILVA"
+                    },
+                    {
                         "codigo_cliente": "44873",
                         "desc_cliente": "JEISON SELMAR DOS SANTOS"
                     },
@@ -64912,6 +64924,10 @@
                         "desc_cliente": "ANDREA MORAES DE OLIVEIRA MELO"
                     },
                     {
+                        "codigo_cliente": "72350",
+                        "desc_cliente": "ANDREA PAOLA BLUM"
+                    },
+                    {
                         "codigo_cliente": "71361",
                         "desc_cliente": "ANDREA PELLEGRINELLO"
                     },
@@ -64958,6 +64974,10 @@
                     {
                         "codigo_cliente": "67307",
                         "desc_cliente": "ANDREIA LUISA ROSA NERY"
+                    },
+                    {
+                        "codigo_cliente": "72351",
+                        "desc_cliente": "ANDREI ALVES"
                     },
                     {
                         "codigo_cliente": "64771",
@@ -65382,6 +65402,10 @@
                     {
                         "codigo_cliente": "52112",
                         "desc_cliente": "BRUNO GARIM SOARES"
+                    },
+                    {
+                        "codigo_cliente": "72334",
+                        "desc_cliente": "BRUNO RIBEIRO SILVA DE CARVALHO"
                     },
                     {
                         "codigo_cliente": "54431",
@@ -70442,6 +70466,10 @@
                     {
                         "codigo_cliente": "67011",
                         "desc_cliente": "MARCELE MICHELOTTO"
+                    },
+                    {
+                        "codigo_cliente": "72335",
+                        "desc_cliente": "MARCELLA SANTOS SARTO"
                     },
                     {
                         "codigo_cliente": "70762",
@@ -83158,6 +83186,10 @@
                         "desc_cliente": "AL-FAJR AL-JADDED FOR GENERAL TRADE & IMPORTING"
                     },
                     {
+                        "codigo_cliente": "72339",
+                        "desc_cliente": "AL HADAF AL WADEH"
+                    },
+                    {
                         "codigo_cliente": "33213",
                         "desc_cliente": "BRUMADO S.A."
                     },
@@ -83212,12 +83244,6 @@
                     {
                         "codigo_cliente": "66789",
                         "desc_cliente": "SUMMIT3S ALLIANCE AND DISTRIBUTION LLC"
-                    }
-                ],
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "72339",
-                        "desc_cliente": "AL HADAF AL WADEH"
                     }
                 ]
             }

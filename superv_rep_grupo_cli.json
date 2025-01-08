@@ -3934,6 +3934,10 @@
                         "desc_cliente": "GIOVANA NUNES JUSTI"
                     },
                     {
+                        "codigo_cliente": "70999",
+                        "desc_cliente": "G&M COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "69281",
                         "desc_cliente": "IPAMAR COMERCIAL LTDA"
                     },
@@ -4230,12 +4234,6 @@
                     {
                         "codigo_cliente": "54940",
                         "desc_cliente": "QUITANDA COMERCIO DE ALIMENTOS LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "70999",
-                        "desc_cliente": "G&M COMERCIO DE ALIMENTOS LTDA"
                     }
                 ]
             },
@@ -34470,6 +34468,10 @@
                         "desc_cliente": "FERRAGEM E BAZAR FRANCIS LTDA"
                     },
                     {
+                        "codigo_cliente": "65716",
+                        "desc_cliente": "FRUTEIRA E MERCADO SO ALEGRIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "68506",
                         "desc_cliente": "INES CAUMO"
                     },
@@ -37764,6 +37766,10 @@
                     {
                         "codigo_cliente": "42321",
                         "desc_cliente": "ALMEIDA LUCAS MINI MERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72381",
+                        "desc_cliente": "ARMAZEM DO VISCONDE COM DE PROD ALIM LTDA"
                     },
                     {
                         "codigo_cliente": "40525",
@@ -46504,6 +46510,10 @@
                     {
                         "codigo_cliente": "66347",
                         "desc_cliente": "COMERCIAL MARUKAI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71931",
+                        "desc_cliente": "DIA DISTRIBUICAO E IMPORTACAO AFOGADOS LTDA"
                     },
                     {
                         "codigo_cliente": "59414",
@@ -55418,6 +55428,10 @@
                         "desc_cliente": "ANDRE LUIS OSORIO DA CUNHA"
                     },
                     {
+                        "codigo_cliente": "72379",
+                        "desc_cliente": "ANDRE MARTINS VIEIRA"
+                    },
+                    {
                         "codigo_cliente": "64663",
                         "desc_cliente": "ANDRE MOCELLIN "
                     },
@@ -61376,6 +61390,10 @@
                     {
                         "codigo_cliente": "54115",
                         "desc_cliente": "PEDRO HENRIQUE CARDOSO"
+                    },
+                    {
+                        "codigo_cliente": "72380",
+                        "desc_cliente": "PEDRO HENRIQUE RAMOS DOS SANTOS"
                     },
                     {
                         "codigo_cliente": "65884",

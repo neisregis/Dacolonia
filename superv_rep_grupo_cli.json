@@ -10838,6 +10838,10 @@
                         "desc_cliente": "MERCADINHO B&P - COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "54528",
+                        "desc_cliente": "MERCADO SULBOX LTDA"
+                    },
+                    {
                         "codigo_cliente": "60241",
                         "desc_cliente": "MERCASOL COMERCIO DE ALIMENTOS LTDA"
                     },
@@ -40435,7 +40439,7 @@
                     },
                     {
                         "codigo_cliente": "34070",
-                        "desc_cliente": "VGA COMERCIO DE PRODUTOS ALIMENTICIOS NATURAIS EIRELI"
+                        "desc_cliente": "VGA COMERCIO DE PRODUTOS ALIMENTICIOS NATURAIS LTDA"
                     },
                     {
                         "codigo_cliente": "4077",
@@ -48676,10 +48680,6 @@
                         "desc_cliente": "GRACIELA P. P. DA SILVA & DANIEL E. PETROCELLI LTDA"
                     },
                     {
-                        "codigo_cliente": "23780",
-                        "desc_cliente": "HAMILTON CAMBRAIA DUTRA - ME"
-                    },
-                    {
                         "codigo_cliente": "68666",
                         "desc_cliente": "HENRIQUE DE LEMOS FORQUIM"
                     },
@@ -48814,6 +48814,10 @@
                     {
                         "codigo_cliente": "69135",
                         "desc_cliente": "MAURO MOTTA COM DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "23780",
+                        "desc_cliente": "MERCADO DUTRA LTDA"
                     },
                     {
                         "codigo_cliente": "56446",
@@ -78960,6 +78964,10 @@
                     {
                         "codigo_cliente": "43910",
                         "desc_cliente": "MERCADO CALABRESI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72360",
+                        "desc_cliente": "MERCADO E ACOUGUE BARROS MARLY LOPES"
                     },
                     {
                         "codigo_cliente": "44092",

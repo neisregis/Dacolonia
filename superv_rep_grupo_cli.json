@@ -10838,10 +10838,6 @@
                         "desc_cliente": "MERCADINHO B&P - COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
-                        "codigo_cliente": "54528",
-                        "desc_cliente": "MERCADO SULBOX LTDA"
-                    },
-                    {
                         "codigo_cliente": "60241",
                         "desc_cliente": "MERCASOL COMERCIO DE ALIMENTOS LTDA"
                     },
@@ -22502,6 +22498,10 @@
                     {
                         "codigo_cliente": "65503",
                         "desc_cliente": "53.201.425 LILIAN PEREIRA DA SILVA TRESSOLDI"
+                    },
+                    {
+                        "codigo_cliente": "72359",
+                        "desc_cliente": "ALANA SOUZA DOS SANTOS"
                     },
                     {
                         "codigo_cliente": "3123",
@@ -51728,6 +51728,10 @@
                         "desc_cliente": "AGRO COMERCIAL KORB LTDA - ME"
                     },
                     {
+                        "codigo_cliente": "37538",
+                        "desc_cliente": "ALBENEIR JOSE FRANCISCO KONS COMERCIO"
+                    },
+                    {
                         "codigo_cliente": "39950",
                         "desc_cliente": "ALTANIR GERMANO DA SILVA"
                     },
@@ -63052,6 +63056,10 @@
                     {
                         "codigo_cliente": "47565",
                         "desc_cliente": "MATEUS PACHECO SIQUEIRA"
+                    },
+                    {
+                        "codigo_cliente": "61804",
+                        "desc_cliente": "MAURICIO BORBA CARDOSO"
                     },
                     {
                         "codigo_cliente": "44682",

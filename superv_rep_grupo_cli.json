@@ -22496,16 +22496,16 @@
                         "desc_cliente": "26.125.430 ALINE BERNARDES SILVEIRA"
                     },
                     {
+                        "codigo_cliente": "72359",
+                        "desc_cliente": "49.034.410 ALANA SOUZA DOS SANTOS"
+                    },
+                    {
                         "codigo_cliente": "69777",
                         "desc_cliente": "51.994.623 GABRIEL DE ALMEIDA MACHADO"
                     },
                     {
                         "codigo_cliente": "65503",
                         "desc_cliente": "53.201.425 LILIAN PEREIRA DA SILVA TRESSOLDI"
-                    },
-                    {
-                        "codigo_cliente": "72359",
-                        "desc_cliente": "ALANA SOUZA DOS SANTOS"
                     },
                     {
                         "codigo_cliente": "3123",
@@ -27353,6 +27353,10 @@
                     },
                     {
                         "codigo_cliente": "29607",
+                        "desc_cliente": "HORTIFRUTI ALDO E EMPORIO DOS GRAOS FONTANA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72357",
                         "desc_cliente": "HORTIFRUTI ALDO E EMPORIO DOS GRAOS FONTANA LTDA"
                     },
                     {
@@ -34992,6 +34996,10 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "64630",
+                        "desc_cliente": "ADEGA PINHEIRO COM DE BEBIDAS LTDA"
+                    },
+                    {
                         "codigo_cliente": "31374",
                         "desc_cliente": "J.P RAMOS ARMARINHO EIRELI -ME"
                     },
@@ -35016,10 +35024,6 @@
                     {
                         "codigo_cliente": "71793",
                         "desc_cliente": "57.906.393 NARA MARIA DUTRA KRUEL"
-                    },
-                    {
-                        "codigo_cliente": "64630",
-                        "desc_cliente": "ADEGA PINHEIRO COM DE BEBIDAS LTDA"
                     },
                     {
                         "codigo_cliente": "44373",
@@ -36148,6 +36152,10 @@
                     {
                         "codigo_cliente": "69981",
                         "desc_cliente": "ALFA MARKET SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "30207",
+                        "desc_cliente": "ARMAZEM DO TRIGO COMERCIO DE PRODUTOS NATURAIS LTDA"
                     },
                     {
                         "codigo_cliente": "60049",
@@ -37799,7 +37807,7 @@
                     },
                     {
                         "codigo_cliente": "72362",
-                        "desc_cliente": "CEREAIS L M A LTDA"
+                        "desc_cliente": "CEREAIS L.M.A. LTDA"
                     },
                     {
                         "codigo_cliente": "41598",
@@ -51796,6 +51804,10 @@
                         "desc_cliente": "DEISE CRISTINA DE SOUZA MAIA 05295457990"
                     },
                     {
+                        "codigo_cliente": "19999",
+                        "desc_cliente": "DIDIOS CONVENIENCIAS EIRELI"
+                    },
+                    {
                         "codigo_cliente": "37129",
                         "desc_cliente": "EMPORIO FARIAS E JUNCKES LTDA"
                     },
@@ -61668,6 +61680,10 @@
                     {
                         "codigo_cliente": "72107",
                         "desc_cliente": "ROBERTO GONÇALVES DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "72365",
+                        "desc_cliente": "ROBERTO JOSE DA SILVA"
                     },
                     {
                         "codigo_cliente": "55695",
@@ -78974,6 +78990,10 @@
                         "desc_cliente": "MARCOS ROBERTO SCHULZ  MERCADO - EIRELI"
                     },
                     {
+                        "codigo_cliente": "72360",
+                        "desc_cliente": "MARLY LOPES - MERCADO"
+                    },
+                    {
                         "codigo_cliente": "30696",
                         "desc_cliente": "MAYERS COMERCIO E INDUSTRIA DE ESPECIARIAS EIRELI - ME"
                     },
@@ -78984,10 +79004,6 @@
                     {
                         "codigo_cliente": "43910",
                         "desc_cliente": "MERCADO CALABRESI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72360",
-                        "desc_cliente": "MERCADO E ACOUGUE BARROS MARLY LOPES"
                     },
                     {
                         "codigo_cliente": "44092",

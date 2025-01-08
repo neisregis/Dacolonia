@@ -35090,6 +35090,10 @@
                         "desc_cliente": "DELICIAS BR MANIA CONVENIENCIAS LTDA"
                     },
                     {
+                        "codigo_cliente": "72370",
+                        "desc_cliente": "DF FRUTEIRA E MERCADO"
+                    },
+                    {
                         "codigo_cliente": "56195",
                         "desc_cliente": "FABRICIA CRISTINA HESS"
                     },
@@ -42044,10 +42048,6 @@
                     {
                         "codigo_cliente": "62912",
                         "desc_cliente": "46.643.796 MICHEL FAGUNDES LEAL"
-                    },
-                    {
-                        "codigo_cliente": "62154",
-                        "desc_cliente": "50.181.499 DANIELA GOMES RODRIGUES ARAUJO"
                     },
                     {
                         "codigo_cliente": "61140",
@@ -52276,8 +52276,16 @@
                         "desc_cliente": "JANA RESTAURANTE LTDA"
                     },
                     {
+                        "codigo_cliente": "72366",
+                        "desc_cliente": "JC COM DE ARTESANATOS LTDA ( MATRIZ )"
+                    },
+                    {
                         "codigo_cliente": "31966",
                         "desc_cliente": "JCM COMERCIO DE FRUTAS E VERDURAS EIRELI - ME"
+                    },
+                    {
+                        "codigo_cliente": "72367",
+                        "desc_cliente": "JS COM DE ARTESANATO LTDA"
                     },
                     {
                         "codigo_cliente": "34921",
@@ -56772,6 +56780,10 @@
                     {
                         "codigo_cliente": "68421",
                         "desc_cliente": "DORACI MARIO TELES DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "72368",
+                        "desc_cliente": "DORIS HELENA DELAROCHA LADEIRA"
                     },
                     {
                         "codigo_cliente": "72363",
@@ -62614,6 +62626,10 @@
                         "desc_cliente": "VALTER JUNIOR"
                     },
                     {
+                        "codigo_cliente": "72369",
+                        "desc_cliente": "VALTER PINIDO DO NASCIMENTO"
+                    },
+                    {
                         "codigo_cliente": "66700",
                         "desc_cliente": "VANDA CONCEÇAO DA SILVEIRA"
                     },
@@ -63398,6 +63414,10 @@
                     {
                         "codigo_cliente": "65431",
                         "desc_cliente": "PALOMA CLAUDINO DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "66970",
+                        "desc_cliente": "RICARDO DE LA ROCHA LADEIRA"
                     },
                     {
                         "codigo_cliente": "68366",

@@ -22964,6 +22964,10 @@
                         "desc_cliente": "BAZAR DA SORTE LTDA"
                     },
                     {
+                        "codigo_cliente": "33907",
+                        "desc_cliente": "BELTRAME & KLEIN LTDA"
+                    },
+                    {
                         "codigo_cliente": "41050",
                         "desc_cliente": "CANTINHO SAUDAVEL COM DE PROD NATURAIS LTDA"
                     },
@@ -37792,6 +37796,10 @@
                     {
                         "codigo_cliente": "27915",
                         "desc_cliente": "CEREAIS FLORIANO LTDA - EPP"
+                    },
+                    {
+                        "codigo_cliente": "72362",
+                        "desc_cliente": "CEREAIS L M A LTDA"
                     },
                     {
                         "codigo_cliente": "41598",
@@ -55866,6 +55874,10 @@
                         "desc_cliente": "CARLOS AUGUSTO DA SILVA"
                     },
                     {
+                        "codigo_cliente": "72364",
+                        "desc_cliente": "CARLOS BRUN"
+                    },
+                    {
                         "codigo_cliente": "65855",
                         "desc_cliente": "CARLOS CESAR BRAGA"
                     },
@@ -56112,6 +56124,10 @@
                     {
                         "codigo_cliente": "60659",
                         "desc_cliente": "CLARAH SEIXAS"
+                    },
+                    {
+                        "codigo_cliente": "66563",
+                        "desc_cliente": "CLARICE DOS SANTOS GONÇALVES"
                     },
                     {
                         "codigo_cliente": "69115",
@@ -56744,6 +56760,10 @@
                     {
                         "codigo_cliente": "68421",
                         "desc_cliente": "DORACI MARIO TELES DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "72363",
+                        "desc_cliente": "DOUGLAS ALTARUGIO"
                     },
                     {
                         "codigo_cliente": "68690",

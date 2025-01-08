@@ -15708,6 +15708,10 @@
                         "desc_cliente": "ANTONIO CARLOS FOSCARINI"
                     },
                     {
+                        "codigo_cliente": "72385",
+                        "desc_cliente": "ANTONIOLLI SUPERMERCADO"
+                    },
+                    {
                         "codigo_cliente": "70974",
                         "desc_cliente": "AUTO POSTO NOSSA SENHORA DE LOURDES LTDA"
                     },
@@ -15766,6 +15770,10 @@
                     {
                         "codigo_cliente": "40962",
                         "desc_cliente": "CLAUDEMIR DE ARAUJO MERCEARIA"
+                    },
+                    {
+                        "codigo_cliente": "72384",
+                        "desc_cliente": "CLAUDIA GENOVEVA NOVASKI DECKER ME"
                     },
                     {
                         "codigo_cliente": "40950",
@@ -16426,6 +16434,10 @@
                     {
                         "codigo_cliente": "41495",
                         "desc_cliente": "TTANI SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72383",
+                        "desc_cliente": "VALDEMIR  PEDRO  VIDEIRA"
                     },
                     {
                         "codigo_cliente": "53677",
@@ -22868,6 +22880,10 @@
                     {
                         "codigo_cliente": "15359",
                         "desc_cliente": "SUPERSAM SUPERMERCADOS - EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "72382",
+                        "desc_cliente": "TM DE SOUZA"
                     },
                     {
                         "codigo_cliente": "63392",

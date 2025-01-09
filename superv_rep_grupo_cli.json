@@ -29186,6 +29186,10 @@
                         "desc_cliente": "CAMARGO & MENDES CAFETERIA LTDA"
                     },
                     {
+                        "codigo_cliente": "72299",
+                        "desc_cliente": "CAMPOS GOMES DISTRIBUIDORA LTDA"
+                    },
+                    {
                         "codigo_cliente": "56109",
                         "desc_cliente": "CHOKDOCE COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
                     },
@@ -42418,6 +42422,10 @@
                     {
                         "codigo_cliente": "18127",
                         "desc_cliente": "IRIA MARIA MARQUES DOS SANTOS"
+                    },
+                    {
+                        "codigo_cliente": "39519",
+                        "desc_cliente": "JACIELE PRESTES GODINHO"
                     },
                     {
                         "codigo_cliente": "35497",
@@ -58556,6 +58564,10 @@
                         "desc_cliente": "JANDIR NUNES SIQUEIRA"
                     },
                     {
+                        "codigo_cliente": "72411",
+                        "desc_cliente": "JANE CIRNE"
+                    },
+                    {
                         "codigo_cliente": "66844",
                         "desc_cliente": "JANETE DA ROSA FRAGA"
                     },
@@ -61514,6 +61526,10 @@
                     {
                         "codigo_cliente": "68240",
                         "desc_cliente": "PAULO ROBERTO VIEIRA"
+                    },
+                    {
+                        "codigo_cliente": "72412",
+                        "desc_cliente": "PAULO SERGIO GONÇALVES"
                     },
                     {
                         "codigo_cliente": "49857",

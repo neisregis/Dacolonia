@@ -36590,6 +36590,10 @@
                         "desc_cliente": "PONTAL DELICIAS DOCES E BISCOITOS LTDA"
                     },
                     {
+                        "codigo_cliente": "53419",
+                        "desc_cliente": "PROSPERITY MERCADO LTDA"
+                    },
+                    {
                         "codigo_cliente": "56591",
                         "desc_cliente": "RBSO MINIMERCADO LTDA"
                     },
@@ -61900,6 +61904,10 @@
                         "desc_cliente": "RODRIGO ANTONIOLLI"
                     },
                     {
+                        "codigo_cliente": "72403",
+                        "desc_cliente": "RODRIGO CARVALHO ESPINDOLA"
+                    },
+                    {
                         "codigo_cliente": "70003",
                         "desc_cliente": "RODRIGO CERVELIN"
                     },
@@ -63142,6 +63150,10 @@
                     {
                         "codigo_cliente": "67285",
                         "desc_cliente": "ALBERTO VARGAS DOMENISKI"
+                    },
+                    {
+                        "codigo_cliente": "57574",
+                        "desc_cliente": "ARTEMUS ARCANJO JORGE DE VAZ DOS SANTOS 01873035098"
                     },
                     {
                         "codigo_cliente": "55016",
@@ -77476,6 +77488,10 @@
                     {
                         "codigo_cliente": "23370",
                         "desc_cliente": "GIACOMELLI & FIOREZE LTDA - ME"
+                    },
+                    {
+                        "codigo_cliente": "72404",
+                        "desc_cliente": "GILBERTO BENDER DA SILVEIRA ME"
                     },
                     {
                         "codigo_cliente": "24020",

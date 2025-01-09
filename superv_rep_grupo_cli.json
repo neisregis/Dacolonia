@@ -1402,6 +1402,10 @@
                         "desc_cliente": "SUPERMERCADO ESKYNAO LTDA"
                     },
                     {
+                        "codigo_cliente": "72399",
+                        "desc_cliente": "SUPERMERCADO MODELO CENTRAL LTDA - FILIAL TABULEIRO"
+                    },
+                    {
                         "codigo_cliente": "60653",
                         "desc_cliente": "SUPERMERCADO NOVA ERA UBAENSE LTDA"
                     },
@@ -35144,6 +35148,10 @@
                         "desc_cliente": "COMERCIAL DE ALIMENTOS 3 MENINAS LTDA"
                     },
                     {
+                        "codigo_cliente": "52606",
+                        "desc_cliente": "CORES E FESTAS COM DE ARTS PARA FESTAS LTDA"
+                    },
+                    {
                         "codigo_cliente": "21461",
                         "desc_cliente": "DALLA SUPRE COM DE ALIMENTOS LTDA"
                     },
@@ -35762,6 +35770,56 @@
                     {
                         "codigo_cliente": "21166",
                         "desc_cliente": "ZOOP COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
+                    }
+                ],
+                "232 - MULTIMARKET": [
+                    {
+                        "codigo_cliente": "26368",
+                        "desc_cliente": "G.M.A.P. SUPERMERCADOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "68660",
+                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A"
+                    },
+                    {
+                        "codigo_cliente": "71235",
+                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A"
+                    },
+                    {
+                        "codigo_cliente": "55666",
+                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A."
+                    },
+                    {
+                        "codigo_cliente": "68648",
+                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A."
+                    },
+                    {
+                        "codigo_cliente": "68650",
+                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A."
+                    },
+                    {
+                        "codigo_cliente": "68653",
+                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A."
+                    },
+                    {
+                        "codigo_cliente": "68662",
+                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A."
+                    },
+                    {
+                        "codigo_cliente": "68664",
+                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A."
+                    },
+                    {
+                        "codigo_cliente": "68667",
+                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A."
+                    },
+                    {
+                        "codigo_cliente": "68669",
+                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A."
+                    },
+                    {
+                        "codigo_cliente": "70047",
+                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A."
                     }
                 ],
                 "248 - GRAL - RJ": [
@@ -38976,56 +39034,6 @@
                     {
                         "codigo_cliente": "56374",
                         "desc_cliente": "SUPERMERCADO ECONOMICO JJ LTDA"
-                    }
-                ],
-                "232 - MULTIMARKET": [
-                    {
-                        "codigo_cliente": "26368",
-                        "desc_cliente": "G.M.A.P. SUPERMERCADOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "68660",
-                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A"
-                    },
-                    {
-                        "codigo_cliente": "71235",
-                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A"
-                    },
-                    {
-                        "codigo_cliente": "55666",
-                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A."
-                    },
-                    {
-                        "codigo_cliente": "68648",
-                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A."
-                    },
-                    {
-                        "codigo_cliente": "68650",
-                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A."
-                    },
-                    {
-                        "codigo_cliente": "68653",
-                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A."
-                    },
-                    {
-                        "codigo_cliente": "68662",
-                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A."
-                    },
-                    {
-                        "codigo_cliente": "68664",
-                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A."
-                    },
-                    {
-                        "codigo_cliente": "68667",
-                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A."
-                    },
-                    {
-                        "codigo_cliente": "68669",
-                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A."
-                    },
-                    {
-                        "codigo_cliente": "70047",
-                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A."
                     }
                 ],
                 "597 - MIX CERTO ": [
@@ -55668,6 +55676,10 @@
                         "desc_cliente": "ANTONIO VILMAR DE MELO FREITAS"
                     },
                     {
+                        "codigo_cliente": "72396",
+                        "desc_cliente": "ANTONI SOARES SILVEIRA"
+                    },
+                    {
                         "codigo_cliente": "68308",
                         "desc_cliente": "ARCENIO NERI DA SILVA"
                     },
@@ -61290,6 +61302,10 @@
                     {
                         "codigo_cliente": "62258",
                         "desc_cliente": "PAOLA VAS DE MELO"
+                    },
+                    {
+                        "codigo_cliente": "72398",
+                        "desc_cliente": "PAOLA VITORIA DE OLIVEIRA RODRIGUES"
                     },
                     {
                         "codigo_cliente": "66925",

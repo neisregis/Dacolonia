@@ -10518,6 +10518,12 @@
                         "desc_cliente": "CIA BEAL DE ALIMENTOS"
                     }
                 ],
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "72414",
+                        "desc_cliente": "CARREFOUR COMERCIO E INDUSTRIA LTDA"
+                    }
+                ],
                 "547 - SUPERMERCADO RECANTO": [
                     {
                         "codigo_cliente": "15491",
@@ -46648,6 +46654,10 @@
                         "desc_cliente": "EMPORIO NATURALLE CANASTRA LTDA"
                     },
                     {
+                        "codigo_cliente": "72397",
+                        "desc_cliente": "EMPORIO SABORNUT PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "37291",
                         "desc_cliente": "EMPORIO TENDA ORGANICA LTDA"
                     },
@@ -47188,6 +47198,10 @@
                     {
                         "codigo_cliente": "69596",
                         "desc_cliente": "TOP MAGIC COMERCIO DE DOCES E PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72413",
+                        "desc_cliente": "UTILIDADES YANXIN"
                     },
                     {
                         "codigo_cliente": "69294",

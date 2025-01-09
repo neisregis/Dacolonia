@@ -1374,6 +1374,10 @@
                         "desc_cliente": "IRMAOS TEIXEIRA DE CARVALHO LTDA"
                     },
                     {
+                        "codigo_cliente": "20714",
+                        "desc_cliente": "J.E.A. REZENDE E CIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "59097",
                         "desc_cliente": "MEGA GAMA DISTRIBUIDORA LTDA"
                     },
@@ -1504,8 +1508,16 @@
                         "desc_cliente": "LINHARES & CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "45494",
+                        "desc_cliente": "MERCADO CARVALHO LTDA - FILIAL"
+                    },
+                    {
                         "codigo_cliente": "45493",
                         "desc_cliente": "MERCADO CARVALHO LTDA - MATRIZ"
+                    },
+                    {
+                        "codigo_cliente": "48018",
+                        "desc_cliente": "MINASMAIS SUPERMERCADOS JF LTDA"
                     },
                     {
                         "codigo_cliente": "45507",
@@ -1524,8 +1536,20 @@
                         "desc_cliente": "SUPERMERCADO MODELO CENTRAL LTDA"
                     },
                     {
+                        "codigo_cliente": "55424",
+                        "desc_cliente": "SUPERMERCADO MODELO CENTRAL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "52652",
+                        "desc_cliente": "SUPERMERCADO OPA RN LTDA"
+                    },
+                    {
                         "codigo_cliente": "45500",
                         "desc_cliente": "SUPERMERCADO PAIS & FILHOS RIOBRANQUENSE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "45176",
+                        "desc_cliente": "SUPERMERCADO TRES IRMAOS LTDA"
                     }
                 ],
                 "919 - LEPAGUS - MG": [
@@ -23030,6 +23054,10 @@
                         "desc_cliente": "ELIANE T. HEHN - ME"
                     },
                     {
+                        "codigo_cliente": "53850",
+                        "desc_cliente": "ELIAS RF MERCADO LTDA"
+                    },
+                    {
                         "codigo_cliente": "47804",
                         "desc_cliente": "FOOD & EXPERIENCE COMERCIO E SERVICOS DE GASTRONOMIA LTDA"
                     },
@@ -35262,6 +35290,10 @@
                     {
                         "codigo_cliente": "44453",
                         "desc_cliente": "RAFAELA BUENO TONIAL 04488957064"
+                    },
+                    {
+                        "codigo_cliente": "46130",
+                        "desc_cliente": "R E MENGUE"
                     },
                     {
                         "codigo_cliente": "46340",
@@ -50756,6 +50788,10 @@
                         "desc_cliente": "COMERCIO DE ALIMENTOS LP LTDA"
                     },
                     {
+                        "codigo_cliente": "72395",
+                        "desc_cliente": "DESTAQUE AUTO POSTO COMERCIO DE COMBUSTIVEIS LTDA"
+                    },
+                    {
                         "codigo_cliente": "58808",
                         "desc_cliente": "DIONE M S BARATER"
                     },
@@ -57572,6 +57608,10 @@
                         "desc_cliente": "FERNANDO DA SILVA"
                     },
                     {
+                        "codigo_cliente": "58749",
+                        "desc_cliente": "FERNANDO DE OLIVEIRA "
+                    },
+                    {
                         "codigo_cliente": "72061",
                         "desc_cliente": "FERNANDO DONATTO"
                     },
@@ -58158,6 +58198,10 @@
                     {
                         "codigo_cliente": "59853",
                         "desc_cliente": "HERIK SANTOS DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "72393",
+                        "desc_cliente": "HERON DOS SANTOS SILVEIRA"
                     },
                     {
                         "codigo_cliente": "68458",
@@ -58810,6 +58854,10 @@
                     {
                         "codigo_cliente": "69219",
                         "desc_cliente": "JOEL COSTA"
+                    },
+                    {
+                        "codigo_cliente": "72394",
+                        "desc_cliente": "JOEL LEANDRO"
                     },
                     {
                         "codigo_cliente": "59252",

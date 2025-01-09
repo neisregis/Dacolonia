@@ -14514,6 +14514,10 @@
                     {
                         "codigo_cliente": "71799",
                         "desc_cliente": "GRIFFO SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71800",
+                        "desc_cliente": "GRIFFO SUPERMERCADO LTDA"
                     }
                 ],
                 "575 - PARADA DA GULA": [
@@ -17828,6 +17832,10 @@
                     {
                         "codigo_cliente": "70400",
                         "desc_cliente": "FELIX EMBALAGENS E FRIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72401",
+                        "desc_cliente": "GESSICA MATIAS LOPES"
                     },
                     {
                         "codigo_cliente": "70079",
@@ -35328,6 +35336,10 @@
                         "desc_cliente": "SUPERMERCADO MFK LTDA"
                     },
                     {
+                        "codigo_cliente": "72402",
+                        "desc_cliente": "SUPERMERCADO MINUTO ATILIO SUPERTTI LTDA"
+                    },
+                    {
                         "codigo_cliente": "71156",
                         "desc_cliente": "SUPERMERCADO MUNHOZ LTDA"
                     },
@@ -43356,6 +43368,10 @@
                     {
                         "codigo_cliente": "51962",
                         "desc_cliente": "RESTAURANTE DI GIORDANA TERMAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "23092",
+                        "desc_cliente": "RESTAURANTE SCARCHI LTDA"
                     },
                     {
                         "codigo_cliente": "18223",
@@ -62894,6 +62910,10 @@
                     {
                         "codigo_cliente": "67726",
                         "desc_cliente": "VINICIUS DE MELO MACHADO"
+                    },
+                    {
+                        "codigo_cliente": "51279",
+                        "desc_cliente": "VINICIUS GOMES DE OLIVEIRA"
                     },
                     {
                         "codigo_cliente": "70229",

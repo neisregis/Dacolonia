@@ -14482,6 +14482,10 @@
                     {
                         "codigo_cliente": "37002",
                         "desc_cliente": "GRIFFO SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71799",
+                        "desc_cliente": "GRIFFO SUPERMERCADO LTDA"
                     }
                 ],
                 "575 - PARADA DA GULA": [
@@ -15648,6 +15652,10 @@
                         "desc_cliente": "51.766.967 THAIARA BERTE"
                     },
                     {
+                        "codigo_cliente": "72383",
+                        "desc_cliente": "54.043.126 VALDEMIR PEDRO VIEIRA"
+                    },
+                    {
                         "codigo_cliente": "41298",
                         "desc_cliente": "ADEMAR SUBTIL DA TRINDADE"
                     },
@@ -15706,10 +15714,6 @@
                     {
                         "codigo_cliente": "40769",
                         "desc_cliente": "ANTONIO CARLOS FOSCARINI"
-                    },
-                    {
-                        "codigo_cliente": "72385",
-                        "desc_cliente": "ANTONIOLLI SUPERMERCADO"
                     },
                     {
                         "codigo_cliente": "70974",
@@ -15773,7 +15777,7 @@
                     },
                     {
                         "codigo_cliente": "72384",
-                        "desc_cliente": "CLAUDIA GENOVEVA NOVASKI DECKER ME"
+                        "desc_cliente": "CLAUDIA GENOVEVA NOVAKOSKI DECKER"
                     },
                     {
                         "codigo_cliente": "40950",
@@ -15982,6 +15986,10 @@
                     {
                         "codigo_cliente": "40694",
                         "desc_cliente": "JOAO PAULO BOM"
+                    },
+                    {
+                        "codigo_cliente": "72385",
+                        "desc_cliente": "JOCELIA MARIA RIBAS ANTONIOLLI"
                     },
                     {
                         "codigo_cliente": "40732",
@@ -16434,10 +16442,6 @@
                     {
                         "codigo_cliente": "41495",
                         "desc_cliente": "TTANI SUPERMERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72383",
-                        "desc_cliente": "VALDEMIR  PEDRO  VIDEIRA"
                     },
                     {
                         "codigo_cliente": "53677",
@@ -22883,7 +22887,7 @@
                     },
                     {
                         "codigo_cliente": "72382",
-                        "desc_cliente": "TM DE SOUZA"
+                        "desc_cliente": "T M DE SOUZA"
                     },
                     {
                         "codigo_cliente": "63392",
@@ -25838,6 +25842,10 @@
                     {
                         "codigo_cliente": "55992",
                         "desc_cliente": "VICENTE DE PAULO LIMA NEVES"
+                    },
+                    {
+                        "codigo_cliente": "63424",
+                        "desc_cliente": "VILELA & LEITE LTDA"
                     },
                     {
                         "codigo_cliente": "56129",
@@ -35117,7 +35125,7 @@
                     },
                     {
                         "codigo_cliente": "72370",
-                        "desc_cliente": "DF FRUTEIRA E MERCADO"
+                        "desc_cliente": "DF FRUTEIRA E MERCADO LTDA"
                     },
                     {
                         "codigo_cliente": "56195",
@@ -37785,7 +37793,7 @@
                     },
                     {
                         "codigo_cliente": "72381",
-                        "desc_cliente": "ARMAZEM DO VISCONDE COM DE PROD ALIM LTDA"
+                        "desc_cliente": "ARMAZEM DO VISCONDE COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
                     },
                     {
                         "codigo_cliente": "40525",
@@ -52315,7 +52323,7 @@
                     },
                     {
                         "codigo_cliente": "72366",
-                        "desc_cliente": "JC COM DE ARTESANATOS LTDA ( MATRIZ )"
+                        "desc_cliente": "JC COMERCIO DE ARTESANATOS LTDA"
                     },
                     {
                         "codigo_cliente": "31966",
@@ -52323,7 +52331,7 @@
                     },
                     {
                         "codigo_cliente": "72367",
-                        "desc_cliente": "JS COM DE ARTESANATO LTDA"
+                        "desc_cliente": "JM COMERCIO DE ARTESANATOS LTDA"
                     },
                     {
                         "codigo_cliente": "34921",

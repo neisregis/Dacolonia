@@ -1402,10 +1402,6 @@
                         "desc_cliente": "SUPERMERCADO ESKYNAO LTDA"
                     },
                     {
-                        "codigo_cliente": "72399",
-                        "desc_cliente": "SUPERMERCADO MODELO CENTRAL LTDA - FILIAL TABULEIRO"
-                    },
-                    {
                         "codigo_cliente": "60653",
                         "desc_cliente": "SUPERMERCADO NOVA ERA UBAENSE LTDA"
                     },
@@ -1541,6 +1537,10 @@
                     },
                     {
                         "codigo_cliente": "55424",
+                        "desc_cliente": "SUPERMERCADO MODELO CENTRAL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72399",
                         "desc_cliente": "SUPERMERCADO MODELO CENTRAL LTDA"
                     },
                     {
@@ -21712,6 +21712,10 @@
                         "desc_cliente": "50.894.613 SANDRA HOFFMANN DA SILVA"
                     },
                     {
+                        "codigo_cliente": "72392",
+                        "desc_cliente": "58.063.364 FERNANDO ARGENTA"
+                    },
+                    {
                         "codigo_cliente": "64717",
                         "desc_cliente": "ABASTECEDORA ANA RECH LTDA"
                     },
@@ -21850,10 +21854,6 @@
                     {
                         "codigo_cliente": "57569",
                         "desc_cliente": "EVA TERESINHA CAMARGO DE AGUIAR - MINIMERCADO"
-                    },
-                    {
-                        "codigo_cliente": "72392",
-                        "desc_cliente": "FERNANDO ARGENTA"
                     },
                     {
                         "codigo_cliente": "58122",
@@ -50797,7 +50797,7 @@
                     },
                     {
                         "codigo_cliente": "72395",
-                        "desc_cliente": "DESTAQUE AUTO POSTO COMERCIO DE COMBUSTIVEIS LTDA"
+                        "desc_cliente": "DESTAQUE AUTO POSTO COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES"
                     },
                     {
                         "codigo_cliente": "58808",
@@ -58614,6 +58614,10 @@
                     {
                         "codigo_cliente": "67328",
                         "desc_cliente": "JEFERSSON ARAUJO DIAS"
+                    },
+                    {
+                        "codigo_cliente": "72400",
+                        "desc_cliente": "JEFERSSON DOS SANTOS HOLKEM"
                     },
                     {
                         "codigo_cliente": "56570",

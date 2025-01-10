@@ -5249,192 +5249,6 @@
                     }
                 ]
             },
-            "944": {
-                "10 - CARREFOUR": [
-                    {
-                        "codigo_cliente": "35310",
-                        "desc_cliente": "CARREFOUR COMERCIO E INDUSTRIA LTDA"
-                    }
-                ],
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "33028",
-                        "desc_cliente": "BRASORT COMERCIO DE ALIMENTOS EIRELI"
-                    },
-                    {
-                        "codigo_cliente": "58379",
-                        "desc_cliente": "GABRIELLA SANTOS COUTINHO DE OLIVEIRA 04892279455"
-                    },
-                    {
-                        "codigo_cliente": "68543",
-                        "desc_cliente": "M. B. RODRIGUES DE CASTRO PRODUCAO DE COOKIES ARTESANAIS"
-                    },
-                    {
-                        "codigo_cliente": "62770",
-                        "desc_cliente": "NUTRALLE INDUSTRIA E COMERCIO DE ALIMENTOS LTDA"
-                    }
-                ],
-                "221 - ARMAZEM MATEUS": [
-                    {
-                        "codigo_cliente": "48445",
-                        "desc_cliente": "ARMAZEM MATEUS S.A."
-                    },
-                    {
-                        "codigo_cliente": "59994",
-                        "desc_cliente": "ARMAZEM MATEUS S.A."
-                    },
-                    {
-                        "codigo_cliente": "64569",
-                        "desc_cliente": "MATEUS SUPERMERCADOS S.A."
-                    }
-                ],
-                "701 - DMA ATACADO": [
-                    {
-                        "codigo_cliente": "41999",
-                        "desc_cliente": "DMA DISTRIBUIDORA S/A"
-                    },
-                    {
-                        "codigo_cliente": "42001",
-                        "desc_cliente": "DMA DISTRIBUIDORA S/A"
-                    },
-                    {
-                        "codigo_cliente": "45234",
-                        "desc_cliente": "DMA DISTRIBUIDORA S/A"
-                    }
-                ],
-                "71 - SENDAS": [
-                    {
-                        "codigo_cliente": "65661",
-                        "desc_cliente": "SENDAS ATACADISTA SA lj 207"
-                    },
-                    {
-                        "codigo_cliente": "39771",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A - DEP 911"
-                    },
-                    {
-                        "codigo_cliente": "65734",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A Lj 044"
-                    },
-                    {
-                        "codigo_cliente": "65733",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A Lj 046"
-                    },
-                    {
-                        "codigo_cliente": "65638",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 076"
-                    },
-                    {
-                        "codigo_cliente": "65641",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 077"
-                    },
-                    {
-                        "codigo_cliente": "65643",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 083"
-                    },
-                    {
-                        "codigo_cliente": "65639",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 091"
-                    },
-                    {
-                        "codigo_cliente": "65640",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 107"
-                    },
-                    {
-                        "codigo_cliente": "65642",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A  lj 109"
-                    },
-                    {
-                        "codigo_cliente": "65644",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 114"
-                    },
-                    {
-                        "codigo_cliente": "65646",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 119"
-                    },
-                    {
-                        "codigo_cliente": "65707",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 120"
-                    },
-                    {
-                        "codigo_cliente": "65648",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 138"
-                    },
-                    {
-                        "codigo_cliente": "65645",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 152"
-                    },
-                    {
-                        "codigo_cliente": "65647",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 163"
-                    },
-                    {
-                        "codigo_cliente": "65649",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 179"
-                    },
-                    {
-                        "codigo_cliente": "65657",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 198"
-                    },
-                    {
-                        "codigo_cliente": "65659",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 204"
-                    },
-                    {
-                        "codigo_cliente": "65662",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 238"
-                    },
-                    {
-                        "codigo_cliente": "47185",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 250"
-                    },
-                    {
-                        "codigo_cliente": "65663",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 262"
-                    },
-                    {
-                        "codigo_cliente": "65664",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA SA lj 268"
-                    },
-                    {
-                        "codigo_cliente": "65671",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 284"
-                    },
-                    {
-                        "codigo_cliente": "65651",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 289"
-                    },
-                    {
-                        "codigo_cliente": "65652",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 290"
-                    },
-                    {
-                        "codigo_cliente": "65653",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA SA lj 298"
-                    },
-                    {
-                        "codigo_cliente": "65655",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 300"
-                    },
-                    {
-                        "codigo_cliente": "65708",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A Lj 305"
-                    },
-                    {
-                        "codigo_cliente": "65656",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 333"
-                    }
-                ],
-                "88 - ATACADAO": [
-                    {
-                        "codigo_cliente": "38550",
-                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "39738",
-                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
-                    }
-                ]
-            },
             "791": {
                 "117 - A.C.D.A": [
                     {
@@ -6406,6 +6220,186 @@
                     {
                         "codigo_cliente": "54241",
                         "desc_cliente": "SUPERMERCADO DUDA LTDA"
+                    }
+                ]
+            },
+            "944": {
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "33028",
+                        "desc_cliente": "BRASORT COMERCIO DE ALIMENTOS EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "58379",
+                        "desc_cliente": "GABRIELLA SANTOS COUTINHO DE OLIVEIRA 04892279455"
+                    },
+                    {
+                        "codigo_cliente": "68543",
+                        "desc_cliente": "M. B. RODRIGUES DE CASTRO PRODUCAO DE COOKIES ARTESANAIS"
+                    },
+                    {
+                        "codigo_cliente": "62770",
+                        "desc_cliente": "NUTRALLE INDUSTRIA E COMERCIO DE ALIMENTOS LTDA"
+                    }
+                ],
+                "221 - ARMAZEM MATEUS": [
+                    {
+                        "codigo_cliente": "48445",
+                        "desc_cliente": "ARMAZEM MATEUS S.A."
+                    },
+                    {
+                        "codigo_cliente": "59994",
+                        "desc_cliente": "ARMAZEM MATEUS S.A."
+                    },
+                    {
+                        "codigo_cliente": "64569",
+                        "desc_cliente": "MATEUS SUPERMERCADOS S.A."
+                    }
+                ],
+                "701 - DMA ATACADO": [
+                    {
+                        "codigo_cliente": "41999",
+                        "desc_cliente": "DMA DISTRIBUIDORA S/A"
+                    },
+                    {
+                        "codigo_cliente": "42001",
+                        "desc_cliente": "DMA DISTRIBUIDORA S/A"
+                    },
+                    {
+                        "codigo_cliente": "45234",
+                        "desc_cliente": "DMA DISTRIBUIDORA S/A"
+                    }
+                ],
+                "71 - SENDAS": [
+                    {
+                        "codigo_cliente": "65661",
+                        "desc_cliente": "SENDAS ATACADISTA SA lj 207"
+                    },
+                    {
+                        "codigo_cliente": "39771",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A - DEP 911"
+                    },
+                    {
+                        "codigo_cliente": "65734",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A Lj 044"
+                    },
+                    {
+                        "codigo_cliente": "65733",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A Lj 046"
+                    },
+                    {
+                        "codigo_cliente": "65638",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 076"
+                    },
+                    {
+                        "codigo_cliente": "65641",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 077"
+                    },
+                    {
+                        "codigo_cliente": "65643",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 083"
+                    },
+                    {
+                        "codigo_cliente": "65639",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 091"
+                    },
+                    {
+                        "codigo_cliente": "65640",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 107"
+                    },
+                    {
+                        "codigo_cliente": "65642",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A  lj 109"
+                    },
+                    {
+                        "codigo_cliente": "65644",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 114"
+                    },
+                    {
+                        "codigo_cliente": "65646",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 119"
+                    },
+                    {
+                        "codigo_cliente": "65707",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 120"
+                    },
+                    {
+                        "codigo_cliente": "65648",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 138"
+                    },
+                    {
+                        "codigo_cliente": "65645",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 152"
+                    },
+                    {
+                        "codigo_cliente": "65647",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 163"
+                    },
+                    {
+                        "codigo_cliente": "65649",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 179"
+                    },
+                    {
+                        "codigo_cliente": "65657",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 198"
+                    },
+                    {
+                        "codigo_cliente": "65659",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 204"
+                    },
+                    {
+                        "codigo_cliente": "65662",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 238"
+                    },
+                    {
+                        "codigo_cliente": "47185",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 250"
+                    },
+                    {
+                        "codigo_cliente": "65663",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 262"
+                    },
+                    {
+                        "codigo_cliente": "65664",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA SA lj 268"
+                    },
+                    {
+                        "codigo_cliente": "65671",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 284"
+                    },
+                    {
+                        "codigo_cliente": "65651",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 289"
+                    },
+                    {
+                        "codigo_cliente": "65652",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 290"
+                    },
+                    {
+                        "codigo_cliente": "65653",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA SA lj 298"
+                    },
+                    {
+                        "codigo_cliente": "65655",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 300"
+                    },
+                    {
+                        "codigo_cliente": "65708",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A Lj 305"
+                    },
+                    {
+                        "codigo_cliente": "65656",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 333"
+                    }
+                ],
+                "88 - ATACADAO": [
+                    {
+                        "codigo_cliente": "38550",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "39738",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
                     }
                 ]
             },
@@ -16756,10 +16750,6 @@
                         "desc_cliente": "MERCADO BRAUN LTDA"
                     },
                     {
-                        "codigo_cliente": "72315",
-                        "desc_cliente": "MERCADO CAIO 2 LTDA"
-                    },
-                    {
                         "codigo_cliente": "62793",
                         "desc_cliente": "MERCADO FOLMER LTDA"
                     },
@@ -17742,10 +17732,6 @@
                         "desc_cliente": "49.441.659 MARINES LINHARES DE CAMARGO"
                     },
                     {
-                        "codigo_cliente": "72401",
-                        "desc_cliente": "55.254.341 GESSICA MATIAS LOPES"
-                    },
-                    {
                         "codigo_cliente": "44089",
                         "desc_cliente": "AB HORTIFRUTI PRODUTOS COLONIAIS"
                     },
@@ -17910,10 +17896,6 @@
                         "desc_cliente": "MARCIANA CARVALHO LTDA"
                     },
                     {
-                        "codigo_cliente": "72348",
-                        "desc_cliente": "MEISTER WILLI PADARIA E CONFEITARIA LTDA"
-                    },
-                    {
                         "codigo_cliente": "64474",
                         "desc_cliente": "MERCADO ARAUJO LTDA"
                     },
@@ -17956,10 +17938,6 @@
                     {
                         "codigo_cliente": "45060",
                         "desc_cliente": "MULTI GULA COMERCIO PENHA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72323",
-                        "desc_cliente": "MUNDO DA VARIEDADES LTDA"
                     },
                     {
                         "codigo_cliente": "70633",
@@ -26420,6 +26398,10 @@
                         "desc_cliente": "SANTO PANE ALIMENTOS TODA HORA LTDA"
                     },
                     {
+                        "codigo_cliente": "64740",
+                        "desc_cliente": "SM SUPERMERCADOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "41980",
                         "desc_cliente": "SOUZA COMERCIO VAREJISTA DE ALIMENTOS E UTILIDADES - LTDA"
                     },
@@ -29782,10 +29764,6 @@
                         "desc_cliente": "LOJAO ORRU LTDA"
                     },
                     {
-                        "codigo_cliente": "69050",
-                        "desc_cliente": "LOJAO ORRU LTDA"
-                    },
-                    {
                         "codigo_cliente": "69051",
                         "desc_cliente": "LOJAO ORRU LTDA"
                     },
@@ -30090,10 +30068,6 @@
                     {
                         "codigo_cliente": "48098",
                         "desc_cliente": "EMBALAGEM FACIL SUPRIMENTOS EIRELI"
-                    },
-                    {
-                        "codigo_cliente": "72377",
-                        "desc_cliente": "EMPORIO DA SERRA COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
                     },
                     {
                         "codigo_cliente": "71126",
@@ -30810,10 +30784,6 @@
                     {
                         "codigo_cliente": "66811",
                         "desc_cliente": "LEANDRO BALTAZAR - ACOUGUE"
-                    },
-                    {
-                        "codigo_cliente": "44888",
-                        "desc_cliente": "LUANA MARIA GONCALVES DOS SANTOS 22165958881"
                     },
                     {
                         "codigo_cliente": "48327",
@@ -42606,6 +42576,10 @@
                     {
                         "codigo_cliente": "18328",
                         "desc_cliente": "MERCEARIA VIVA VIDA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "41421",
+                        "desc_cliente": "MINIMERCADO DIAS OLIVEIRA LTDA"
                     },
                     {
                         "codigo_cliente": "33441",

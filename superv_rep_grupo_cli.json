@@ -9810,6 +9810,10 @@
                         "desc_cliente": "CMD COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "44787",
+                        "desc_cliente": "COMERCIO DE ALIMENTOS GULA MIX LTDA"
+                    },
+                    {
                         "codigo_cliente": "40247",
                         "desc_cliente": "COMERCIO DE HORTIFUTIGRANJEIROS FLORIANO - LTDA"
                     },
@@ -54828,6 +54832,10 @@
                     {
                         "codigo_cliente": "60944",
                         "desc_cliente": "LUCIANO GARCIA DA SILVA 02176571096"
+                    },
+                    {
+                        "codigo_cliente": "48399",
+                        "desc_cliente": "LUCI TERESINHA DA SILVA FERNANDES"
                     },
                     {
                         "codigo_cliente": "62049",

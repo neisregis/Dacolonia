@@ -34690,6 +34690,10 @@
                         "desc_cliente": "PRA TI BAZAR E UTILIDADES LTDA"
                     },
                     {
+                        "codigo_cliente": "72416",
+                        "desc_cliente": "PRIX SUPERMERCADOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "71455",
                         "desc_cliente": "R. E. COMERCIO DE ARMARINHO LTDA"
                     },
@@ -83635,6 +83639,10 @@
         "representantes": {
             "922": {
                 "151 - EXPORTAÇÃO": [
+                    {
+                        "codigo_cliente": "72437",
+                        "desc_cliente": "ACSA INTERNATIONAL SPA"
+                    },
                     {
                         "codigo_cliente": "64868",
                         "desc_cliente": "AGROIMAGINA SPA"

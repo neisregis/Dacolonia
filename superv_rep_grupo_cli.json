@@ -21392,6 +21392,10 @@
                         "desc_cliente": "M3 COM DE ALIMENTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "72423",
+                        "desc_cliente": "MAILSON DAIGO DOS SANTOS"
+                    },
+                    {
                         "codigo_cliente": "34109",
                         "desc_cliente": "MARIA DE LURDES NOLL MARQUES"
                     },
@@ -54678,6 +54682,10 @@
                     {
                         "codigo_cliente": "33041",
                         "desc_cliente": "VISTO TRANSPORTES LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72425",
+                        "desc_cliente": "V M RAMOS & CIA LT"
                     }
                 ],
                 "337 - VENDA BALCÃO": [
@@ -65722,6 +65730,10 @@
                     {
                         "codigo_cliente": "70929",
                         "desc_cliente": "BRUNA ROSSOL"
+                    },
+                    {
+                        "codigo_cliente": "72419",
+                        "desc_cliente": "BRUNA SIMOES"
                     },
                     {
                         "codigo_cliente": "71629",

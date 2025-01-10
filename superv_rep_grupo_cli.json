@@ -34684,10 +34684,6 @@
                         "desc_cliente": "PRA TI BAZAR E UTILIDADES LTDA"
                     },
                     {
-                        "codigo_cliente": "72416",
-                        "desc_cliente": "PRIX SUPERMERCADOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "71455",
                         "desc_cliente": "R. E. COMERCIO DE ARMARINHO LTDA"
                     },
@@ -60936,6 +60932,10 @@
                         "desc_cliente": "MAYSA ROCHA DA SILVA"
                     },
                     {
+                        "codigo_cliente": "72427",
+                        "desc_cliente": "MELISSA COSTA RIBEIRO"
+                    },
+                    {
                         "codigo_cliente": "51498",
                         "desc_cliente": "MICAEL ALMEIDA COSTA"
                     },
@@ -62678,6 +62678,10 @@
                     {
                         "codigo_cliente": "67402",
                         "desc_cliente": "TATIANA ABREU DA SILVEIRA"
+                    },
+                    {
+                        "codigo_cliente": "72429",
+                        "desc_cliente": "TATIANA DE VALE"
                     },
                     {
                         "codigo_cliente": "68311",
@@ -64870,6 +64874,10 @@
                     {
                         "codigo_cliente": "68161",
                         "desc_cliente": "ALINE STRUMPFNER"
+                    },
+                    {
+                        "codigo_cliente": "72421",
+                        "desc_cliente": "ALINE TATIANE DOS SANTOS"
                     },
                     {
                         "codigo_cliente": "70767",
@@ -69240,6 +69248,10 @@
                         "desc_cliente": "JOAO MIGUELL DEBACKER"
                     },
                     {
+                        "codigo_cliente": "72420",
+                        "desc_cliente": "JOAO PAULO DOS SANTOS"
+                    },
+                    {
                         "codigo_cliente": "71487",
                         "desc_cliente": "JOAO PAULO FERNANDES"
                     },
@@ -70186,6 +70198,10 @@
                     {
                         "codigo_cliente": "67168",
                         "desc_cliente": "LETICIA MESQUITA ROSSITO"
+                    },
+                    {
+                        "codigo_cliente": "72424",
+                        "desc_cliente": "LETICIA PERES"
                     },
                     {
                         "codigo_cliente": "69512",

@@ -22572,6 +22572,10 @@
                         "desc_cliente": "26.125.430 ALINE BERNARDES SILVEIRA"
                     },
                     {
+                        "codigo_cliente": "72359",
+                        "desc_cliente": "49.034.410 ALANA SOUZA DOS SANTOS"
+                    },
+                    {
                         "codigo_cliente": "69777",
                         "desc_cliente": "51.994.623 GABRIEL DE ALMEIDA MACHADO"
                     },
@@ -22938,6 +22942,10 @@
                     {
                         "codigo_cliente": "15359",
                         "desc_cliente": "SUPERSAM SUPERMERCADOS - EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "72382",
+                        "desc_cliente": "T M DE SOUZA"
                     },
                     {
                         "codigo_cliente": "63392",
@@ -35178,6 +35186,10 @@
                         "desc_cliente": "COMERCIAL DE ALIMENTOS 3 MENINAS LTDA"
                     },
                     {
+                        "codigo_cliente": "52606",
+                        "desc_cliente": "CORES E FESTAS COM DE ARTS PARA FESTAS LTDA"
+                    },
+                    {
                         "codigo_cliente": "21461",
                         "desc_cliente": "DALLA SUPRE COM DE ALIMENTOS LTDA"
                     },
@@ -35192,6 +35204,10 @@
                     {
                         "codigo_cliente": "19380",
                         "desc_cliente": "DELICIAS BR MANIA CONVENIENCIAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72370",
+                        "desc_cliente": "DF FRUTEIRA E MERCADO LTDA"
                     },
                     {
                         "codigo_cliente": "56195",
@@ -35348,6 +35364,10 @@
                     {
                         "codigo_cliente": "1909",
                         "desc_cliente": "SUPERMERCADO MFK LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72402",
+                        "desc_cliente": "SUPERMERCADO MINUTO ATILIO SUPERTTI LTDA"
                     },
                     {
                         "codigo_cliente": "71156",
@@ -42246,6 +42266,10 @@
                         "desc_cliente": "BARBOZA & PINTO LTDA"
                     },
                     {
+                        "codigo_cliente": "7574",
+                        "desc_cliente": "BATOVI COMERCIAL DE REFEICOES LTDA - EPP"
+                    },
+                    {
                         "codigo_cliente": "62615",
                         "desc_cliente": "BELLA GULLA ALIMENTOS LTDA"
                     },
@@ -49052,6 +49076,10 @@
                         "desc_cliente": "ROSELAINE BAPTISTA ANDRADE"
                     },
                     {
+                        "codigo_cliente": "72356",
+                        "desc_cliente": "ROSIMERI RODRIGUES NASCIMENTO ALMEIDA"
+                    },
+                    {
                         "codigo_cliente": "24152",
                         "desc_cliente": "ROSINARA GONCALVES BORGES"
                     },
@@ -51892,6 +51920,10 @@
                         "desc_cliente": "AGRO COMERCIAL KORB LTDA - ME"
                     },
                     {
+                        "codigo_cliente": "37538",
+                        "desc_cliente": "ALBENEIR JOSE FRANCISCO KONS COMERCIO"
+                    },
+                    {
                         "codigo_cliente": "39950",
                         "desc_cliente": "ALTANIR GERMANO DA SILVA"
                     },
@@ -51942,6 +51974,10 @@
                     {
                         "codigo_cliente": "37303",
                         "desc_cliente": "DEISE CRISTINA DE SOUZA MAIA 05295457990"
+                    },
+                    {
+                        "codigo_cliente": "19999",
+                        "desc_cliente": "DIDIOS CONVENIENCIAS EIRELI"
                     },
                     {
                         "codigo_cliente": "37129",
@@ -52412,8 +52448,16 @@
                         "desc_cliente": "JANA RESTAURANTE LTDA"
                     },
                     {
+                        "codigo_cliente": "72366",
+                        "desc_cliente": "JC COMERCIO DE ARTESANATOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "31966",
                         "desc_cliente": "JCM COMERCIO DE FRUTAS E VERDURAS EIRELI - ME"
+                    },
+                    {
+                        "codigo_cliente": "72367",
+                        "desc_cliente": "JM COMERCIO DE ARTESANATOS LTDA"
                     },
                     {
                         "codigo_cliente": "34921",
@@ -52724,6 +52768,10 @@
                     {
                         "codigo_cliente": "29972",
                         "desc_cliente": "DIRETO DO CAMPO COLONINHA EIRELI - EPP"
+                    },
+                    {
+                        "codigo_cliente": "42739",
+                        "desc_cliente": "VICTOR BRESCIANI CRISTOVAO 13655609965"
                     }
                 ],
                 "663 - MERCADO E AÇOUGUE COLINA": [
@@ -81208,6 +81256,10 @@
                         "desc_cliente": "SEMPRE DISTRIBUICAO DE ALIMENTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "71772",
+                        "desc_cliente": "SOL NASCENTE ATACADO & VAREJO LTDA"
+                    },
+                    {
                         "codigo_cliente": "69643",
                         "desc_cliente": "SUPER HIPER GIRO COMERCIAL DE ALIMENTOS LTDA"
                     },
@@ -81480,6 +81532,10 @@
                     {
                         "codigo_cliente": "62106",
                         "desc_cliente": "CHOKOMELK DOCES, CONFEITARIA E FESTAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72422",
+                        "desc_cliente": "COMERCIAL DE ALIMENTOS MINEIRINHO LTDA"
                     },
                     {
                         "codigo_cliente": "63222",

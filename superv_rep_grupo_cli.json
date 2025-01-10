@@ -22052,6 +22052,10 @@
                         "desc_cliente": "NATALIA T. RODRIGUES QUEIJARIA LTDA."
                     },
                     {
+                        "codigo_cliente": "57676",
+                        "desc_cliente": "NOBRESTILO - COMERCIO DE VESTUARIO LTDA"
+                    },
+                    {
                         "codigo_cliente": "12258",
                         "desc_cliente": "PADARIA AVENIDA DO PAO LTDA"
                     },
@@ -23156,10 +23160,6 @@
                     {
                         "codigo_cliente": "52119",
                         "desc_cliente": "MINIMERCADO TRAJANO EIRELI "
-                    },
-                    {
-                        "codigo_cliente": "57676",
-                        "desc_cliente": "NOBRESTILO - COMERCIO DE VESTUARIO LTDA"
                     },
                     {
                         "codigo_cliente": "61997",

@@ -35636,6 +35636,10 @@
                         "desc_cliente": "FRUI VITA SUPLEMENTOS E PRODUTOS NATURAIS LTDA"
                     },
                     {
+                        "codigo_cliente": "72435",
+                        "desc_cliente": "G.M.A.P SUPERMERCADOS S.A"
+                    },
+                    {
                         "codigo_cliente": "18831",
                         "desc_cliente": "J. L. S. GOULART HOTEL - ME"
                     },
@@ -57484,6 +57488,10 @@
                         "desc_cliente": "EVERTON ALVES DA SILVA"
                     },
                     {
+                        "codigo_cliente": "72434",
+                        "desc_cliente": "EVERTON ANTONIO PEDRI"
+                    },
+                    {
                         "codigo_cliente": "54487",
                         "desc_cliente": "EVERTON LUCAS DA ROSA"
                     },
@@ -61048,6 +61056,10 @@
                         "desc_cliente": "MOACIR BACCARIN"
                     },
                     {
+                        "codigo_cliente": "52385",
+                        "desc_cliente": "MOACIR FRANCISCO FERREIRA"
+                    },
+                    {
                         "codigo_cliente": "71918",
                         "desc_cliente": "MOISES DE ANTONI DOS SANTOS"
                     },
@@ -62102,6 +62114,10 @@
                     {
                         "codigo_cliente": "67388",
                         "desc_cliente": "RONALDO SANTOS DE BARCELOS"
+                    },
+                    {
+                        "codigo_cliente": "50203",
+                        "desc_cliente": "RONEI DA SILVA RODRIGUES"
                     },
                     {
                         "codigo_cliente": "65070",

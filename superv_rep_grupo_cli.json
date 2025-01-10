@@ -10354,6 +10354,10 @@
             "887": {
                 "10 - CARREFOUR": [
                     {
+                        "codigo_cliente": "72414",
+                        "desc_cliente": "CARREFOUR COMERCIO E INDUSTRIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "10483",
                         "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
                     }
@@ -10520,12 +10524,6 @@
                     {
                         "codigo_cliente": "36070",
                         "desc_cliente": "CIA BEAL DE ALIMENTOS"
-                    }
-                ],
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "72414",
-                        "desc_cliente": "CARREFOUR COMERCIO E INDUSTRIA LTDA"
                     }
                 ],
                 "547 - SUPERMERCADO RECANTO": [
@@ -17740,6 +17738,10 @@
                         "desc_cliente": "49.441.659 MARINES LINHARES DE CAMARGO"
                     },
                     {
+                        "codigo_cliente": "72401",
+                        "desc_cliente": "55.254.341 GESSICA MATIAS LOPES"
+                    },
+                    {
                         "codigo_cliente": "44089",
                         "desc_cliente": "AB HORTIFRUTI PRODUTOS COLONIAIS"
                     },
@@ -17842,10 +17844,6 @@
                     {
                         "codigo_cliente": "70400",
                         "desc_cliente": "FELIX EMBALAGENS E FRIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72401",
-                        "desc_cliente": "GESSICA MATIAS LOPES"
                     },
                     {
                         "codigo_cliente": "70079",
@@ -40789,7 +40787,7 @@
                     },
                     {
                         "codigo_cliente": "72409",
-                        "desc_cliente": "DAVID WILLIAN LUBKE JESKE ME SHOPPING"
+                        "desc_cliente": "DAVID WILLIAM LUBKE JESKE"
                     },
                     {
                         "codigo_cliente": "48515",
@@ -43409,7 +43407,7 @@
                     },
                     {
                         "codigo_cliente": "23092",
-                        "desc_cliente": "RESTAURANTE SCARCHI LTDA"
+                        "desc_cliente": "REST SCARCHI LTDA"
                     },
                     {
                         "codigo_cliente": "18223",
@@ -47209,7 +47207,7 @@
                     },
                     {
                         "codigo_cliente": "72413",
-                        "desc_cliente": "UTILIDADES YANXIN"
+                        "desc_cliente": "UTILIDADES YANXIN LTDA"
                     },
                     {
                         "codigo_cliente": "69294",
@@ -65966,6 +65964,10 @@
                         "desc_cliente": "CARLOS ALBERTO TAVARES"
                     },
                     {
+                        "codigo_cliente": "72417",
+                        "desc_cliente": "CARLOS ALBERTO VERISSIMO DE MENDONCA"
+                    },
+                    {
                         "codigo_cliente": "72101",
                         "desc_cliente": "CARLOS BARBOSA BUGIA"
                     },
@@ -71212,6 +71214,10 @@
                     {
                         "codigo_cliente": "69768",
                         "desc_cliente": "MARIANA FRANKIN PERUZZO"
+                    },
+                    {
+                        "codigo_cliente": "63383",
+                        "desc_cliente": "MARIANA FRITSCH"
                     },
                     {
                         "codigo_cliente": "65421",
@@ -77561,7 +77567,7 @@
                     },
                     {
                         "codigo_cliente": "72404",
-                        "desc_cliente": "GILBERTO BENDER DA SILVEIRA ME"
+                        "desc_cliente": "GILBERTO BENDER DA SILVEIRA"
                     },
                     {
                         "codigo_cliente": "24020",

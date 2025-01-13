@@ -9930,10 +9930,6 @@
                         "desc_cliente": "MERCEARIA DA GULA LTDA"
                     },
                     {
-                        "codigo_cliente": "33316",
-                        "desc_cliente": "MERCEARIA EMPORIO SAO JOSE EIRELI - ME"
-                    },
-                    {
                         "codigo_cliente": "59481",
                         "desc_cliente": "MERCEARIA JABOTI CURITIBA LTDA"
                     },
@@ -11646,10 +11642,6 @@
                         "desc_cliente": "CUNHA & RODRIGUES COMERCIO DE ALIMENTOS LTDA ME"
                     },
                     {
-                        "codigo_cliente": "33102",
-                        "desc_cliente": "CWB COMERCIO DE ARMARINHOS EIRELI"
-                    },
-                    {
                         "codigo_cliente": "64367",
                         "desc_cliente": "DANBOX DISTRIBUIDORA E COM. DE EMBALAGENS LTDA"
                     },
@@ -11780,10 +11772,6 @@
                     {
                         "codigo_cliente": "37641",
                         "desc_cliente": "MERCADO WENCESLAU LTDA"
-                    },
-                    {
-                        "codigo_cliente": "33101",
-                        "desc_cliente": "MERCEARIA EMPORIO SAO JOSE EIRELI"
                     },
                     {
                         "codigo_cliente": "65437",
@@ -12098,6 +12086,10 @@
                         "desc_cliente": "COMERCIO DE PRODUTOS ALIMENTICIOS NEIVERTH LTDA"
                     },
                     {
+                        "codigo_cliente": "33102",
+                        "desc_cliente": "CWB COMERCIO DE ARMARINHOS EIRELI"
+                    },
+                    {
                         "codigo_cliente": "37392",
                         "desc_cliente": "DANIELE CECHET - FRANGO & FRIOS"
                     },
@@ -12232,6 +12224,14 @@
                     {
                         "codigo_cliente": "17373",
                         "desc_cliente": "MERCATAL SUPERCADOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "33101",
+                        "desc_cliente": "MERCEARIA EMPORIO SAO JOSE EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "33316",
+                        "desc_cliente": "MERCEARIA EMPORIO SAO JOSE EIRELI - ME"
                     },
                     {
                         "codigo_cliente": "66816",
@@ -53460,6 +53460,10 @@
                         "desc_cliente": "RODRIGO DA SILVA OLIVEIRA 02259898912"
                     },
                     {
+                        "codigo_cliente": "22801",
+                        "desc_cliente": "ROSINEIA MARIA DE MELO BALDANCA"
+                    },
+                    {
                         "codigo_cliente": "6450",
                         "desc_cliente": "ROZANI APARECIDA KNAUL ME"
                     },
@@ -58386,6 +58390,10 @@
                         "desc_cliente": "HENRIQUE GUERRA LUCA"
                     },
                     {
+                        "codigo_cliente": "63599",
+                        "desc_cliente": "HENRIQUE MARTINICORENA"
+                    },
+                    {
                         "codigo_cliente": "67826",
                         "desc_cliente": "HENRIQUE RAMOS"
                     },
@@ -59166,6 +59174,10 @@
                         "desc_cliente": "JORGE LUIS DA SILVA"
                     },
                     {
+                        "codigo_cliente": "72465",
+                        "desc_cliente": "JORGE LUIS MARQUES"
+                    },
+                    {
                         "codigo_cliente": "69870",
                         "desc_cliente": "JORGE LUIS PRESOTTO"
                     },
@@ -59360,6 +59372,10 @@
                     {
                         "codigo_cliente": "67611",
                         "desc_cliente": "JUAREZ FERNANDO GOMES"
+                    },
+                    {
+                        "codigo_cliente": "72464",
+                        "desc_cliente": "JUCELIO NUNES MAIA"
                     },
                     {
                         "codigo_cliente": "66791",

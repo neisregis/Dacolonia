@@ -7398,6 +7398,10 @@
                         "desc_cliente": "ONOFRE PIZZANI & CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "72430",
+                        "desc_cliente": "PADARIA E CONFEITARIA BRASIL LTDA"
+                    },
+                    {
                         "codigo_cliente": "44140",
                         "desc_cliente": "PAULO MENDES MARTELI"
                     },
@@ -19366,7 +19370,15 @@
                 ],
                 "10 - CARREFOUR": [
                     {
+                        "codigo_cliente": "4848",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
+                    },
+                    {
                         "codigo_cliente": "4855",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "4864",
                         "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
                     }
                 ],
@@ -20911,10 +20923,6 @@
                     },
                     {
                         "codigo_cliente": "28805",
-                        "desc_cliente": "BCR COMERCIO DE COMBUSTIVEIS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44830",
                         "desc_cliente": "BCR COMERCIO DE COMBUSTIVEIS LTDA"
                     },
                     {
@@ -34696,10 +34704,6 @@
                         "desc_cliente": "PRA TI BAZAR E UTILIDADES LTDA"
                     },
                     {
-                        "codigo_cliente": "72416",
-                        "desc_cliente": "PRIX SUPERMERCADOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "71455",
                         "desc_cliente": "R. E. COMERCIO DE ARMARINHO LTDA"
                     },
@@ -34806,6 +34810,10 @@
                     {
                         "codigo_cliente": "26750",
                         "desc_cliente": "LAIDEXS SUPERMERCADOS EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "72416",
+                        "desc_cliente": "PRIX SUPERMERCADOS LTDA"
                     }
                 ],
                 "766 - SUPER MAGGI BORGES": [
@@ -35648,10 +35656,6 @@
                         "desc_cliente": "FRUI VITA SUPLEMENTOS E PRODUTOS NATURAIS LTDA"
                     },
                     {
-                        "codigo_cliente": "72435",
-                        "desc_cliente": "G.M.A.P SUPERMERCADOS S.A"
-                    },
-                    {
                         "codigo_cliente": "18831",
                         "desc_cliente": "J. L. S. GOULART HOTEL - ME"
                     },
@@ -35875,6 +35879,10 @@
                     },
                     {
                         "codigo_cliente": "70047",
+                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A."
+                    },
+                    {
+                        "codigo_cliente": "72435",
                         "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A."
                     }
                 ],
@@ -40847,7 +40855,7 @@
                     },
                     {
                         "codigo_cliente": "72438",
-                        "desc_cliente": "ELISANE DIAS FARIAS MARTINS LTDA"
+                        "desc_cliente": "ELISANE DIAS DE FARIAS MARTINS LTDA"
                     },
                     {
                         "codigo_cliente": "44226",
@@ -40960,6 +40968,10 @@
                     {
                         "codigo_cliente": "61267",
                         "desc_cliente": "KATIA MAILAN KRAUSE"
+                    },
+                    {
+                        "codigo_cliente": "60702",
+                        "desc_cliente": "LAURA REJANE SILVEIRA ALVES"
                     },
                     {
                         "codigo_cliente": "43081",
@@ -43443,7 +43455,7 @@
                     },
                     {
                         "codigo_cliente": "23092",
-                        "desc_cliente": "REST SCARCHI LTDA"
+                        "desc_cliente": "RESTAURANTE SCARCHI LTDA"
                     },
                     {
                         "codigo_cliente": "18223",
@@ -81404,6 +81416,10 @@
                     {
                         "codigo_cliente": "62055",
                         "desc_cliente": "EMBAIXADA CEREALISTA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71223",
+                        "desc_cliente": "F1000 ATACADISTA DE UTILIDADES LTDA"
                     },
                     {
                         "codigo_cliente": "71899",

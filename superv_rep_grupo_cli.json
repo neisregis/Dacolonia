@@ -27982,6 +27982,10 @@
                         "desc_cliente": "F. E. CAFE E RESTAURANTE LTDA"
                     },
                     {
+                        "codigo_cliente": "35234",
+                        "desc_cliente": "FRUTEIRA NOVAK EIRELI"
+                    },
+                    {
                         "codigo_cliente": "66345",
                         "desc_cliente": "GTI SERVICOS LTDA"
                     },
@@ -47250,6 +47254,10 @@
                     {
                         "codigo_cliente": "69305",
                         "desc_cliente": "MINIMERCADO L M ALVES LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72467",
+                        "desc_cliente": "M.M.PEREIRA VARIEDADE"
                     },
                     {
                         "codigo_cliente": "69503",

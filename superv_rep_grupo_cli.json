@@ -22372,6 +22372,10 @@
                         "desc_cliente": "LALUZ VARIEDADES LTDA"
                     },
                     {
+                        "codigo_cliente": "72451",
+                        "desc_cliente": "LINKE  COMERCIO DE ALMENTOS"
+                    },
+                    {
                         "codigo_cliente": "69540",
                         "desc_cliente": "LOCATELLI BASEGIO CONTE & SBARDELOTTO LTDA"
                     },
@@ -23017,6 +23021,10 @@
                     }
                 ],
                 "1 - GERAL": [
+                    {
+                        "codigo_cliente": "72330",
+                        "desc_cliente": "44.929.839 PATRICIA ANDREIA BELING TEGNER"
+                    },
                     {
                         "codigo_cliente": "72157",
                         "desc_cliente": "58.180.436 FABIANO AREND"
@@ -62188,6 +62196,10 @@
                     {
                         "codigo_cliente": "67379",
                         "desc_cliente": "ROSA AIME"
+                    },
+                    {
+                        "codigo_cliente": "72450",
+                        "desc_cliente": "ROSA MARIA DA SILVA ROSA SOARES"
                     },
                     {
                         "codigo_cliente": "68983",

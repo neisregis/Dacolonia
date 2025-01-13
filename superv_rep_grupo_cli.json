@@ -25902,10 +25902,6 @@
                         "desc_cliente": "SUPERMERCADO DONA EMILIA LTDA"
                     },
                     {
-                        "codigo_cliente": "61417",
-                        "desc_cliente": "SUPERMERCADO KIPALANY LTDA"
-                    },
-                    {
                         "codigo_cliente": "58289",
                         "desc_cliente": "SUPERMERCADO SOUZA LIMA LTDA"
                     },
@@ -42514,6 +42510,10 @@
                         "desc_cliente": "IRIA MARIA MARQUES DOS SANTOS"
                     },
                     {
+                        "codigo_cliente": "39519",
+                        "desc_cliente": "JACIELE PRESTES GODINHO"
+                    },
+                    {
                         "codigo_cliente": "35497",
                         "desc_cliente": "JANICI MARCONATTO FELIPETO 34510796072"
                     },
@@ -43482,6 +43482,10 @@
                     {
                         "codigo_cliente": "51962",
                         "desc_cliente": "RESTAURANTE DI GIORDANA TERMAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "23092",
+                        "desc_cliente": "RESTAURANTE SCARCHI LTDA"
                     },
                     {
                         "codigo_cliente": "18223",
@@ -46712,10 +46716,6 @@
                     {
                         "codigo_cliente": "66347",
                         "desc_cliente": "COMERCIAL MARUKAI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71931",
-                        "desc_cliente": "DIA DISTRIBUICAO E IMPORTACAO AFOGADOS LTDA"
                     },
                     {
                         "codigo_cliente": "59414",

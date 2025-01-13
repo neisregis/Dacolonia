@@ -20360,6 +20360,10 @@
                         "desc_cliente": "EMPORIOMIX COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "26889",
+                        "desc_cliente": "EXPERT RESTAURANTES EMPRESARIAIS LTDA"
+                    },
+                    {
                         "codigo_cliente": "15776",
                         "desc_cliente": "FAQUI E CIA LTDA EPP"
                     },
@@ -23124,6 +23128,10 @@
                     {
                         "codigo_cliente": "48608",
                         "desc_cliente": "I T TRENTINI"
+                    },
+                    {
+                        "codigo_cliente": "63665",
+                        "desc_cliente": "IVAINI I. SANDER FLORICULTURA"
                     },
                     {
                         "codigo_cliente": "33949",
@@ -26810,6 +26818,10 @@
                     {
                         "codigo_cliente": "72386",
                         "desc_cliente": "WELINTON RODRIGUES RIBEIRO"
+                    },
+                    {
+                        "codigo_cliente": "72460",
+                        "desc_cliente": "WILSON MARQUES DE LIMA LTDA"
                     }
                 ],
                 "688 - PADOVANI E PEDROSO - GO": [
@@ -57702,6 +57714,10 @@
                         "desc_cliente": "FABRICIO SANTOS"
                     },
                     {
+                        "codigo_cliente": "52088",
+                        "desc_cliente": "FABRICIO SCHMITT"
+                    },
+                    {
                         "codigo_cliente": "51582",
                         "desc_cliente": "FATIMA BERENICE PERASSOLO ALMEIDA"
                     },
@@ -57904,6 +57920,10 @@
                     {
                         "codigo_cliente": "68909",
                         "desc_cliente": "FRANCISCO FERREIRA"
+                    },
+                    {
+                        "codigo_cliente": "72459",
+                        "desc_cliente": "FRANCISCO LUCAS DE OLIVEIRA QUEIROZ"
                     },
                     {
                         "codigo_cliente": "67823",
@@ -61972,6 +61992,10 @@
                     {
                         "codigo_cliente": "50993",
                         "desc_cliente": "RIAN SILVA DOS SANTOS"
+                    },
+                    {
+                        "codigo_cliente": "72461",
+                        "desc_cliente": "RICARDO DALENOGARE"
                     },
                     {
                         "codigo_cliente": "67436",

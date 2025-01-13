@@ -42514,10 +42514,6 @@
                         "desc_cliente": "IRIA MARIA MARQUES DOS SANTOS"
                     },
                     {
-                        "codigo_cliente": "39519",
-                        "desc_cliente": "JACIELE PRESTES GODINHO"
-                    },
-                    {
                         "codigo_cliente": "35497",
                         "desc_cliente": "JANICI MARCONATTO FELIPETO 34510796072"
                     },
@@ -43486,10 +43482,6 @@
                     {
                         "codigo_cliente": "51962",
                         "desc_cliente": "RESTAURANTE DI GIORDANA TERMAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "23092",
-                        "desc_cliente": "RESTAURANTE SCARCHI LTDA"
                     },
                     {
                         "codigo_cliente": "18223",
@@ -55086,6 +55078,10 @@
                         "desc_cliente": "ADAO ANDRADE DA SILVA"
                     },
                     {
+                        "codigo_cliente": "65236",
+                        "desc_cliente": "ADAO BELARMINDO DE CAMPOS"
+                    },
+                    {
                         "codigo_cliente": "61890",
                         "desc_cliente": "ADELAIS MARIA SOUZA DA SILVA "
                     },
@@ -60434,6 +60430,10 @@
                         "desc_cliente": "MANOELLA SILVEIRA DE SOUZA"
                     },
                     {
+                        "codigo_cliente": "72462",
+                        "desc_cliente": "MANOEL RAIMUNDO BARROS CAVALEIRO DE MACEDO"
+                    },
+                    {
                         "codigo_cliente": "67717",
                         "desc_cliente": "MANOEL RIBEIRO"
                     },
@@ -61852,6 +61852,10 @@
                     {
                         "codigo_cliente": "58577",
                         "desc_cliente": "RAPHAEL TORRES NUNES"
+                    },
+                    {
+                        "codigo_cliente": "72463",
+                        "desc_cliente": "RAQUEL DA SILVA DOS SANTOS RODRIGUES"
                     },
                     {
                         "codigo_cliente": "71957",

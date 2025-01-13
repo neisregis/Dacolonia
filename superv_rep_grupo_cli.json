@@ -5803,6 +5803,104 @@
                     }
                 ]
             },
+            "646": {
+                "1393 - BARATÃO - TO": [
+                    {
+                        "codigo_cliente": "33100",
+                        "desc_cliente": "ATACADAO BARATAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69506",
+                        "desc_cliente": "BARATAO ATACADISTA DE ALIMENTOS LTDA"
+                    }
+                ],
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "8830",
+                        "desc_cliente": "GIGANTE ATACADO E DISTRIBUIDORA DE ALIMENTOS S/A"
+                    },
+                    {
+                        "codigo_cliente": "60471",
+                        "desc_cliente": "PEDRO MINI BOX LTDA"
+                    },
+                    {
+                        "codigo_cliente": "26094",
+                        "desc_cliente": "QUARTETTO SUPERMERCADOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "48160",
+                        "desc_cliente": "RCM COM. DE PROD. ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "26374",
+                        "desc_cliente": "VMJ COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66936",
+                        "desc_cliente": "VT PANIFICACAO E SORVETERIA LTDA"
+                    }
+                ],
+                "630 - BRASIL MAX ATACADO": [
+                    {
+                        "codigo_cliente": "48816",
+                        "desc_cliente": "P.S.RODRIGUES"
+                    }
+                ],
+                "71 - SENDAS": [
+                    {
+                        "codigo_cliente": "34862",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 176"
+                    },
+                    {
+                        "codigo_cliente": "47010",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 320"
+                    }
+                ],
+                "88 - ATACADAO": [
+                    {
+                        "codigo_cliente": "31901",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "32127",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "38290",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "52429",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "66327",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66329",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66328",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
+                    },
+                    {
+                        "codigo_cliente": "67831",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
+                    }
+                ],
+                "965 - DUDA": [
+                    {
+                        "codigo_cliente": "48048",
+                        "desc_cliente": "SUPERMERCADO DUDA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "54241",
+                        "desc_cliente": "SUPERMERCADO DUDA LTDA"
+                    }
+                ]
+            },
             "510": {
                 "14 - REDE FORT": [
                     {
@@ -6124,102 +6222,6 @@
                     {
                         "codigo_cliente": "28313",
                         "desc_cliente": "HARA E HARA LTDA - ME"
-                    }
-                ]
-            },
-            "646": {
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "33100",
-                        "desc_cliente": "ATACADAO BARATAO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69506",
-                        "desc_cliente": "BARATAO ATACADISTA DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "8830",
-                        "desc_cliente": "GIGANTE ATACADO E DISTRIBUIDORA DE ALIMENTOS S/A"
-                    },
-                    {
-                        "codigo_cliente": "60471",
-                        "desc_cliente": "PEDRO MINI BOX LTDA"
-                    },
-                    {
-                        "codigo_cliente": "26094",
-                        "desc_cliente": "QUARTETTO SUPERMERCADOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "48160",
-                        "desc_cliente": "RCM COM. DE PROD. ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "26374",
-                        "desc_cliente": "VMJ COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "66936",
-                        "desc_cliente": "VT PANIFICACAO E SORVETERIA LTDA"
-                    }
-                ],
-                "630 - BRASIL MAX ATACADO": [
-                    {
-                        "codigo_cliente": "48816",
-                        "desc_cliente": "P.S.RODRIGUES"
-                    }
-                ],
-                "71 - SENDAS": [
-                    {
-                        "codigo_cliente": "34862",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 176"
-                    },
-                    {
-                        "codigo_cliente": "47010",
-                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 320"
-                    }
-                ],
-                "88 - ATACADAO": [
-                    {
-                        "codigo_cliente": "31901",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "32127",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "38290",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "52429",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "66327",
-                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "66329",
-                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "66328",
-                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
-                    },
-                    {
-                        "codigo_cliente": "67831",
-                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
-                    }
-                ],
-                "965 - DUDA": [
-                    {
-                        "codigo_cliente": "48048",
-                        "desc_cliente": "SUPERMERCADO DUDA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "54241",
-                        "desc_cliente": "SUPERMERCADO DUDA LTDA"
                     }
                 ]
             },
@@ -55724,6 +55726,10 @@
                         "desc_cliente": "ANILVO FISCHVORN"
                     },
                     {
+                        "codigo_cliente": "72443",
+                        "desc_cliente": "ANNI MIRRIE FARIAS"
+                    },
+                    {
                         "codigo_cliente": "67459",
                         "desc_cliente": "ANSELMO ALEXANDRE"
                     },
@@ -63704,6 +63710,10 @@
                         "desc_cliente": "SERGIO ALBUQUERQUE JUNIOR"
                     },
                     {
+                        "codigo_cliente": "46572",
+                        "desc_cliente": "SIMONE EUFRASIO ALVES"
+                    },
+                    {
                         "codigo_cliente": "45657",
                         "desc_cliente": "TAINA BIZ SARTOR"
                     },
@@ -68996,6 +69006,10 @@
                         "desc_cliente": "ITAMIR LOURDES CALLAI MACHADO"
                     },
                     {
+                        "codigo_cliente": "72441",
+                        "desc_cliente": "IVAN CARLOS TEIXEIRA"
+                    },
+                    {
                         "codigo_cliente": "68277",
                         "desc_cliente": "IVO BASEI"
                     },
@@ -73184,6 +73198,10 @@
                         "desc_cliente": "RODRIGO SOARES DE SOUZA MARQUES"
                     },
                     {
+                        "codigo_cliente": "59554",
+                        "desc_cliente": "ROGERIO ANTONIO ROSA GUIMARAES"
+                    },
+                    {
                         "codigo_cliente": "71439",
                         "desc_cliente": "ROGERIO DE FREITAS GOMES"
                     },
@@ -73509,7 +73527,7 @@
                     },
                     {
                         "codigo_cliente": "49257",
-                        "desc_cliente": "SERGIO AUGUSTO V. MONTIPO"
+                        "desc_cliente": "SERGIO AUGUSTO MONTIPO"
                     },
                     {
                         "codigo_cliente": "43563",
@@ -73898,6 +73916,10 @@
                     {
                         "codigo_cliente": "68336",
                         "desc_cliente": "TANISE LAUREANO PACHECO"
+                    },
+                    {
+                        "codigo_cliente": "72442",
+                        "desc_cliente": "TARCISIO M M BRAGA"
                     },
                     {
                         "codigo_cliente": "64810",

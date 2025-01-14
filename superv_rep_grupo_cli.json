@@ -22725,7 +22725,7 @@
                     },
                     {
                         "codigo_cliente": "72473",
-                        "desc_cliente": "ESTRIBO HOTEL ESTANCIA LTDA"
+                        "desc_cliente": "ESTRIBO HOTEL ESTANCIA LTDA."
                     },
                     {
                         "codigo_cliente": "24185",
@@ -57136,6 +57136,10 @@
                         "desc_cliente": "DIVA CONCEICAO ADAM"
                     },
                     {
+                        "codigo_cliente": "72483",
+                        "desc_cliente": "DIVO JOSE MARTINS"
+                    },
+                    {
                         "codigo_cliente": "68421",
                         "desc_cliente": "DORACI MARIO TELES DA SILVA"
                     },
@@ -60666,6 +60670,10 @@
                     {
                         "codigo_cliente": "66839",
                         "desc_cliente": "MARCIO LUIS MENÇA"
+                    },
+                    {
+                        "codigo_cliente": "72485",
+                        "desc_cliente": "MARCIO MACHADO PEIXOTO"
                     },
                     {
                         "codigo_cliente": "71912",
@@ -76094,6 +76102,10 @@
                     {
                         "codigo_cliente": "37657",
                         "desc_cliente": "REJANE KLEIN"
+                    },
+                    {
+                        "codigo_cliente": "72484",
+                        "desc_cliente": "RESTAURANTE DA MATA LTDA"
                     },
                     {
                         "codigo_cliente": "38561",

@@ -28013,7 +28013,7 @@
                     },
                     {
                         "codigo_cliente": "28973",
-                        "desc_cliente": "JC - COMERCIO ATACADISTA DE ALIMENTOS LTDA - ME"
+                        "desc_cliente": "JC - COMERCIO ATACADISTA DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "44637",
@@ -35278,6 +35278,10 @@
                     {
                         "codigo_cliente": "67193",
                         "desc_cliente": "GARAGEM BELEM LTDA"
+                    },
+                    {
+                        "codigo_cliente": "59988",
+                        "desc_cliente": "IGET BARRA GARDEN COM DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "34448",
@@ -70100,6 +70104,10 @@
                         "desc_cliente": "KATIA REGINA LIEBL"
                     },
                     {
+                        "codigo_cliente": "58529",
+                        "desc_cliente": "KATIA REICHMANN"
+                    },
+                    {
                         "codigo_cliente": "69831",
                         "desc_cliente": "KATIA RONDI"
                     },
@@ -70886,6 +70894,10 @@
                     {
                         "codigo_cliente": "70036",
                         "desc_cliente": "LUIZ CARLOS BEVILACQUA"
+                    },
+                    {
+                        "codigo_cliente": "72476",
+                        "desc_cliente": "LUIZ FELIPE ABREU BEVILACQUA"
                     },
                     {
                         "codigo_cliente": "67840",
@@ -73230,6 +73242,10 @@
                     {
                         "codigo_cliente": "71689",
                         "desc_cliente": "ROBERTO FOREST"
+                    },
+                    {
+                        "codigo_cliente": "72475",
+                        "desc_cliente": "ROBERTO MAKTAS SCHNAIDER"
                     },
                     {
                         "codigo_cliente": "65702",
@@ -81530,6 +81546,10 @@
                     {
                         "codigo_cliente": "69263",
                         "desc_cliente": "CASA BRASILIA UTILIDADES DO LAR LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71223",
+                        "desc_cliente": "F1000 ATACADISTA DE UTILIDADES LTDA"
                     }
                 ],
                 "1 - GERAL": [
@@ -81588,10 +81608,6 @@
                     {
                         "codigo_cliente": "62055",
                         "desc_cliente": "EMBAIXADA CEREALISTA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71223",
-                        "desc_cliente": "F1000 ATACADISTA DE UTILIDADES LTDA"
                     },
                     {
                         "codigo_cliente": "71899",

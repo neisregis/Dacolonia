@@ -16166,6 +16166,10 @@
                         "desc_cliente": "MERCADO A L LTDA"
                     },
                     {
+                        "codigo_cliente": "63478",
+                        "desc_cliente": "MERCADO AVENIDA CENTRAL LTDA"
+                    },
+                    {
                         "codigo_cliente": "202",
                         "desc_cliente": "MERCADO BARCAROLO LTDA - ME"
                     },
@@ -38230,6 +38234,10 @@
                         "desc_cliente": "MORAIS CRUZ MERCEARIA LTDA"
                     },
                     {
+                        "codigo_cliente": "72486",
+                        "desc_cliente": "NELIS NELSON ROSA DE OLIVEIRA"
+                    },
+                    {
                         "codigo_cliente": "72292",
                         "desc_cliente": "NELSON ROBERTO DE CARVALHO LTDA"
                     },
@@ -47354,6 +47362,10 @@
                         "desc_cliente": "SURREAL COMERCIO DE VARIEDADES LTDA"
                     },
                     {
+                        "codigo_cliente": "72489",
+                        "desc_cliente": "TEM DE TUDO COMRRCIO DE VARIEDADS LTDA"
+                    },
+                    {
                         "codigo_cliente": "69596",
                         "desc_cliente": "TOP MAGIC COMERCIO DE DOCES E PRODUTOS ALIMENTICIOS LTDA"
                     },
@@ -53016,6 +53028,10 @@
                     {
                         "codigo_cliente": "65363",
                         "desc_cliente": "55.161.755 LUCIANO OLIVEIRA DE SOUZA"
+                    },
+                    {
+                        "codigo_cliente": "72439",
+                        "desc_cliente": "57.143.259 DANIEL MANOEL CONSTANTE"
                     },
                     {
                         "codigo_cliente": "37293",

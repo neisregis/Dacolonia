@@ -36098,6 +36098,10 @@
                         "desc_cliente": "HELENA COMERCIO E MERCEARIA LTDA"
                     },
                     {
+                        "codigo_cliente": "34852",
+                        "desc_cliente": "NITEROIENSE DISTRIBUIDORA DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "32524",
                         "desc_cliente": "NOVA EMPORIO DO SERTAO DE MINAS EIRELI"
                     },
@@ -40640,6 +40644,10 @@
                         "desc_cliente": "PARODE & PAIRE COMERCIAL LTDA - ME"
                     },
                     {
+                        "codigo_cliente": "72488",
+                        "desc_cliente": "PAULA ANDRESA DE PAULA LUMERTZ"
+                    },
+                    {
                         "codigo_cliente": "35602",
                         "desc_cliente": "PAULO REGIS BRUM DE BRUM"
                     },
@@ -42544,6 +42552,10 @@
                         "desc_cliente": "GLAUCI HELENA DA FONSECA NUNES"
                     },
                     {
+                        "codigo_cliente": "72477",
+                        "desc_cliente": "GRAZIELE FONTOURA MORAES"
+                    },
+                    {
                         "codigo_cliente": "33341",
                         "desc_cliente": "GUEDES & KHATIB LTDA"
                     },
@@ -43338,12 +43350,12 @@
                         "desc_cliente": "LAIR DA SILVA RIBAS"
                     },
                     {
-                        "codigo_cliente": "45166",
-                        "desc_cliente": "LEANDRO JOSIEL DA SILVA 93572514053"
-                    },
-                    {
                         "codigo_cliente": "43368",
                         "desc_cliente": "L GOMES DA SILVA & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "45166",
+                        "desc_cliente": "L. J. DA SILVA & K. DE O. ARAUJO LTDA"
                     },
                     {
                         "codigo_cliente": "59659",

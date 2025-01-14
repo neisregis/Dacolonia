@@ -17868,6 +17868,10 @@
                         "desc_cliente": "FAMILIA CAMARGO MERCADO LTDA"
                     },
                     {
+                        "codigo_cliente": "72478",
+                        "desc_cliente": "FAMILIA FORMENTO SUPERMERCADO LTDA"
+                    },
+                    {
                         "codigo_cliente": "69221",
                         "desc_cliente": "FAZIONI SUPERMERCADO E ASSADOS LTDA"
                     },
@@ -36710,6 +36714,10 @@
                         "desc_cliente": "PONTAL DELICIAS DOCES E BISCOITOS LTDA"
                     },
                     {
+                        "codigo_cliente": "53419",
+                        "desc_cliente": "PROSPERITY MERCADO LTDA"
+                    },
+                    {
                         "codigo_cliente": "56591",
                         "desc_cliente": "RBSO MINIMERCADO LTDA"
                     },
@@ -37698,6 +37706,10 @@
                         "desc_cliente": "MERCATTO DO GRAO LANCHES LTDA"
                     },
                     {
+                        "codigo_cliente": "44726",
+                        "desc_cliente": "MERCEARIA ESTRELA DE INHOAIBA LTDA"
+                    },
+                    {
                         "codigo_cliente": "51989",
                         "desc_cliente": "MERCEARIA FLOR DO JARDIM NOVO LTDA"
                     },
@@ -38176,6 +38188,10 @@
                     {
                         "codigo_cliente": "52616",
                         "desc_cliente": "MERCADO PANAINO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72457",
+                        "desc_cliente": "MERCADO PRAIA BRAVA DE ANGRA DOS REIS LTDA"
                     },
                     {
                         "codigo_cliente": "48276",
@@ -48542,6 +48558,10 @@
                     {
                         "codigo_cliente": "70000",
                         "desc_cliente": "POSTO PIZZOLOTTO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72479",
+                        "desc_cliente": "POSTOS REDETRI LTDA"
                     },
                     {
                         "codigo_cliente": "71327",

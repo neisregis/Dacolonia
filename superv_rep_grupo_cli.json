@@ -2828,6 +2828,12 @@
                         "desc_cliente": "ORGANIZACOES SUPER COMPRAS LTDA"
                     }
                 ],
+                "1319 - SUPER PARANAIBA": [
+                    {
+                        "codigo_cliente": "68580",
+                        "desc_cliente": "VAREJAO PARANAIBA LTDA"
+                    }
+                ],
                 "1325 - SUPER LUNA - (P/ CONTROLE FINANCEIRO)": [
                     {
                         "codigo_cliente": "60383",
@@ -12292,6 +12298,10 @@
                         "desc_cliente": "R ZAMPROGNA ALIMENTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "47950",
+                        "desc_cliente": "S H GUERRA UTILIDADES DOMESTICAS LTDA"
+                    },
+                    {
                         "codigo_cliente": "33153",
                         "desc_cliente": "SOLIMAR SUPERMERCADOS LTDA"
                     },
@@ -13972,10 +13982,6 @@
                         "desc_cliente": "ELISANDRO BOITO 03379611905"
                     },
                     {
-                        "codigo_cliente": "66943",
-                        "desc_cliente": "ESAGH REPRESENTACOES COMERCIAIS LTDA"
-                    },
-                    {
                         "codigo_cliente": "19571",
                         "desc_cliente": "EUGELASIO BAESSO"
                     },
@@ -14134,6 +14140,12 @@
                     {
                         "codigo_cliente": "35382",
                         "desc_cliente": "ALA COMERCIO DE ALIMENTOS LTDA"
+                    }
+                ],
+                "784 - VENDEDOR/REPRESENTANTE": [
+                    {
+                        "codigo_cliente": "66943",
+                        "desc_cliente": "ESAGH REPRESENTACOES COMERCIAIS LTDA"
                     }
                 ],
                 "905 - MOURA COMERCIO": [
@@ -52174,6 +52186,10 @@
                         "desc_cliente": "POSTO MAR DAS PEDRAS LTDA"
                     },
                     {
+                        "codigo_cliente": "57093",
+                        "desc_cliente": "POSTO MAR DAS PEDRAS LTDA"
+                    },
+                    {
                         "codigo_cliente": "57973",
                         "desc_cliente": "PRADO SUPERMERCADO LTDA"
                     },
@@ -62994,6 +63010,10 @@
                     {
                         "codigo_cliente": "51319",
                         "desc_cliente": "VAGNER DA SILVA FONTOURA"
+                    },
+                    {
+                        "codigo_cliente": "72474",
+                        "desc_cliente": "VAGNER FAGUNDES"
                     },
                     {
                         "codigo_cliente": "68597",
@@ -81636,6 +81656,10 @@
                     {
                         "codigo_cliente": "63414",
                         "desc_cliente": "LF ITAPACI ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "68403",
+                        "desc_cliente": "MENDONCA E ALVES ATACAREJO LTDA"
                     },
                     {
                         "codigo_cliente": "68427",

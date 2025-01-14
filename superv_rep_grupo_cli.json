@@ -10206,6 +10206,10 @@
                         "desc_cliente": "MERCADO NOSSA SENHORA IMACULADA CONCEICAO LTDA"
                     },
                     {
+                        "codigo_cliente": "12350",
+                        "desc_cliente": "MINI MERCADO QUITI LTDA"
+                    },
+                    {
                         "codigo_cliente": "44280",
                         "desc_cliente": "MRP DISTRIBUIDORA LTDA"
                     },
@@ -24904,6 +24908,10 @@
                         "desc_cliente": "M A COMERCIO DE PRODUTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "42928",
+                        "desc_cliente": "MEGA PAO ALIMENTOS EIRELI"
+                    },
+                    {
                         "codigo_cliente": "53956",
                         "desc_cliente": "MERCADAO FRIOS E EMBALAGENS COMERCIAL LTDA"
                     },
@@ -35696,14 +35704,6 @@
                         "desc_cliente": "COMERCIO DE LATICINIOS DA VOVO ARMINDA LTDA"
                     },
                     {
-                        "codigo_cliente": "72046",
-                        "desc_cliente": "CONTROLE COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "12144",
-                        "desc_cliente": "CRIS MAR MERCADO LTDA"
-                    },
-                    {
                         "codigo_cliente": "53973",
                         "desc_cliente": "C & R SUPERMERCADO GOMES DE MADRESSILVA LTDA"
                     },
@@ -35722,10 +35722,6 @@
                     {
                         "codigo_cliente": "27556",
                         "desc_cliente": "FIDELIS DISTRIBUIDORA DE PRODUTOS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "58016",
-                        "desc_cliente": "FRUITWAY HORTIFRUTI LTDA"
                     },
                     {
                         "codigo_cliente": "72162",
@@ -35978,20 +35974,12 @@
                         "desc_cliente": "BISCOITOS ITABORAI COMERCIO DE DOCES - EIRELI - EPP"
                     },
                     {
-                        "codigo_cliente": "53010",
-                        "desc_cliente": "CATETE COMERCIO DE DOCES E BISCOITOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "30630",
                         "desc_cliente": "CB ALCANTARA COMERCIO DE DOCES EIRELI"
                     },
                     {
                         "codigo_cliente": "30631",
                         "desc_cliente": "DELICIAS DE ALCANTARA COMERCIO DE DOCES LTDA"
-                    },
-                    {
-                        "codigo_cliente": "53003",
-                        "desc_cliente": "LUPE COMERCIO DE DOCES E BISCOITOS LTDA"
                     },
                     {
                         "codigo_cliente": "56800",
@@ -36490,6 +36478,10 @@
                         "desc_cliente": "CORREA HORTIFRUTI ANIL LTDA"
                     },
                     {
+                        "codigo_cliente": "12144",
+                        "desc_cliente": "CRIS MAR MERCADO LTDA"
+                    },
+                    {
                         "codigo_cliente": "34323",
                         "desc_cliente": "DALAPA COMERCIO DE ALIMENTOS LTDA"
                     },
@@ -36516,6 +36508,10 @@
                     {
                         "codigo_cliente": "54140",
                         "desc_cliente": "FLA RESTAURANTE 1 LTDA"
+                    },
+                    {
+                        "codigo_cliente": "58016",
+                        "desc_cliente": "FRUITWAY HORTIFRUTI LTDA"
                     },
                     {
                         "codigo_cliente": "63630",
@@ -36762,8 +36758,16 @@
                 ],
                 "265 - Casa do Biscoito": [
                     {
+                        "codigo_cliente": "53010",
+                        "desc_cliente": "CATETE COMERCIO DE DOCES E BISCOITOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "61714",
                         "desc_cliente": "CENTRAL DO BISCOITO COMERCIO DE DOCES E BISCOITOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "53003",
+                        "desc_cliente": "LUPE COMERCIO DE DOCES E BISCOITOS LTDA"
                     }
                 ],
                 "322 - DA HORTA": [
@@ -37021,6 +37025,10 @@
                     },
                     {
                         "codigo_cliente": "53682",
+                        "desc_cliente": "CONTROLE COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72046",
                         "desc_cliente": "CONTROLE COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
@@ -38064,6 +38072,10 @@
                     {
                         "codigo_cliente": "63437",
                         "desc_cliente": "BAR E RESTAURANTE POINT DA DIRETORIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72487",
+                        "desc_cliente": "BAR E RESTAURANTE TRINDADE DE PARATY LTDA ME"
                     },
                     {
                         "codigo_cliente": "52296",

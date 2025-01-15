@@ -19422,10 +19422,6 @@
                 ],
                 "10 - CARREFOUR": [
                     {
-                        "codigo_cliente": "4848",
-                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
-                    },
-                    {
                         "codigo_cliente": "4855",
                         "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
                     },
@@ -21386,10 +21382,6 @@
                 ],
                 "1 - GERAL": [
                     {
-                        "codigo_cliente": "72423",
-                        "desc_cliente": "37.879.581 MAILSON DAIGO DOS SANTOS"
-                    },
-                    {
                         "codigo_cliente": "45514",
                         "desc_cliente": "ADEMACRO DISTRIB DE PROD ALIMENT LTDA"
                     },
@@ -22744,10 +22736,6 @@
                         "desc_cliente": "DORA GIRLENE FLORENTINO 61323420010"
                     },
                     {
-                        "codigo_cliente": "46901",
-                        "desc_cliente": "FERNANDA TRESPACH DOS SANTOS 02687123013"
-                    },
-                    {
                         "codigo_cliente": "24185",
                         "desc_cliente": "FERNANDES FERNANDES & FERNANDES LTDA"
                     },
@@ -23088,10 +23076,6 @@
                         "desc_cliente": "12.745.456 FABIANA DE OLIVEIRA LEAL"
                     },
                     {
-                        "codigo_cliente": "72330",
-                        "desc_cliente": "44.929.839 PATRICIA ANDREIA BELING TEGNER"
-                    },
-                    {
                         "codigo_cliente": "72157",
                         "desc_cliente": "58.180.436 FABIANO AREND"
                     },
@@ -23190,10 +23174,6 @@
                     {
                         "codigo_cliente": "48608",
                         "desc_cliente": "I T TRENTINI"
-                    },
-                    {
-                        "codigo_cliente": "63665",
-                        "desc_cliente": "IVAINI I. SANDER FLORICULTURA"
                     },
                     {
                         "codigo_cliente": "33949",
@@ -28527,6 +28507,10 @@
                     },
                     {
                         "codigo_cliente": "42603",
+                        "desc_cliente": "MERCADO VERDE PRAIA DO ROSA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72504",
                         "desc_cliente": "MERCADO VERDE PRAIA DO ROSA LTDA"
                     },
                     {
@@ -35340,10 +35324,6 @@
                         "desc_cliente": "GARAGEM BELEM LTDA"
                     },
                     {
-                        "codigo_cliente": "59988",
-                        "desc_cliente": "IGET BARRA GARDEN COM DE ALIMENTOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "34448",
                         "desc_cliente": "JANUARIO ZERBES"
                     },
@@ -38224,6 +38204,10 @@
                     {
                         "codigo_cliente": "28372",
                         "desc_cliente": "MABELA MERCEARIA LTDA - EPP"
+                    },
+                    {
+                        "codigo_cliente": "54041",
+                        "desc_cliente": "MCS ABREU MERCEARIA LTDA"
                     },
                     {
                         "codigo_cliente": "70027",
@@ -57976,6 +57960,10 @@
                         "desc_cliente": "FERNANDO GUIMARAES"
                     },
                     {
+                        "codigo_cliente": "31221",
+                        "desc_cliente": "FERNANDO LUZARDO"
+                    },
+                    {
                         "codigo_cliente": "70431",
                         "desc_cliente": "FERNANDO MACHADO SOUZA"
                     },
@@ -57998,6 +57986,10 @@
                     {
                         "codigo_cliente": "60211",
                         "desc_cliente": "FERNANDO SEVERO RODRIGUES"
+                    },
+                    {
+                        "codigo_cliente": "62532",
+                        "desc_cliente": "FERNANDO SILVA DA SILVA"
                     },
                     {
                         "codigo_cliente": "57037",
@@ -62350,6 +62342,10 @@
                     {
                         "codigo_cliente": "70013",
                         "desc_cliente": "RODRIGO MALLMAMM"
+                    },
+                    {
+                        "codigo_cliente": "72505",
+                        "desc_cliente": "RODRIGO MANOEL TRINADADE"
                     },
                     {
                         "codigo_cliente": "70083",
@@ -78672,6 +78668,10 @@
                         "desc_cliente": "EZEQUIEL DE VARGAS"
                     },
                     {
+                        "codigo_cliente": "16322",
+                        "desc_cliente": "FORTUNA & CIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "36612",
                         "desc_cliente": "G.A. CARNIEL SUPERMERCADO"
                     },
@@ -82002,6 +82002,10 @@
                     {
                         "codigo_cliente": "66035",
                         "desc_cliente": "ELL COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71738",
+                        "desc_cliente": "EMPORIO COMERCIO DE HORTIFRUTI LTDA"
                     },
                     {
                         "codigo_cliente": "66635",

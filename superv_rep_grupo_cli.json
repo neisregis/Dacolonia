@@ -22744,8 +22744,8 @@
                         "desc_cliente": "DORA GIRLENE FLORENTINO 61323420010"
                     },
                     {
-                        "codigo_cliente": "72473",
-                        "desc_cliente": "ESTRIBO HOTEL ESTANCIA LTDA."
+                        "codigo_cliente": "46901",
+                        "desc_cliente": "FERNANDA TRESPACH DOS SANTOS 02687123013"
                     },
                     {
                         "codigo_cliente": "24185",
@@ -48212,6 +48212,10 @@
                         "desc_cliente": "AUTO POSTO MENEGHINI LTDA"
                     },
                     {
+                        "codigo_cliente": "53866",
+                        "desc_cliente": "BRASATTO COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "34077",
                         "desc_cliente": "COOP CENTRAL DA AGRICULTURA FAMILIAR LTDA UNICOOPER"
                     },
@@ -48554,6 +48558,10 @@
                     {
                         "codigo_cliente": "64398",
                         "desc_cliente": "MISSIO & WEBER LTDA"
+                    },
+                    {
+                        "codigo_cliente": "65075",
+                        "desc_cliente": "MIX REAL COMERCIO DE BIJUTERIAS E BAZAR LTDA"
                     },
                     {
                         "codigo_cliente": "69695",
@@ -78658,6 +78666,10 @@
                     {
                         "codigo_cliente": "66876",
                         "desc_cliente": "K. P. PEGORARO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "64163",
+                        "desc_cliente": "MC AGROPECUARIA CHIMARRAO LTDA"
                     },
                     {
                         "codigo_cliente": "24311",

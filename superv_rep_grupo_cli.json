@@ -6956,6 +6956,10 @@
                         "desc_cliente": "SUPERMERCADO SUBTIL LTDA."
                     },
                     {
+                        "codigo_cliente": "44016",
+                        "desc_cliente": "TAIS CARLA ARCHANGELO NOGUEIRA SUPERMERCADO"
+                    },
+                    {
                         "codigo_cliente": "63011",
                         "desc_cliente": "TAIS ISABELLE DOS SANTOS  LTDA"
                     },
@@ -47206,6 +47210,10 @@
                     {
                         "codigo_cliente": "47603",
                         "desc_cliente": "SACOLAO VILA DAS MERCES LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72491",
+                        "desc_cliente": "SUPERMERCADO 100M LTDA"
                     },
                     {
                         "codigo_cliente": "28508",

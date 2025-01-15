@@ -60832,6 +60832,10 @@
                         "desc_cliente": "MARCOS SARAIVA"
                     },
                     {
+                        "codigo_cliente": "72501",
+                        "desc_cliente": "MARCO TULIO CADORIN"
+                    },
+                    {
                         "codigo_cliente": "50349",
                         "desc_cliente": "MARIA CERLI SILVA LOPES"
                     },
@@ -62186,6 +62190,10 @@
                     {
                         "codigo_cliente": "66935",
                         "desc_cliente": "RICARDO GIEMRA"
+                    },
+                    {
+                        "codigo_cliente": "72502",
+                        "desc_cliente": "RICARDO LUIS DE BRITO"
                     },
                     {
                         "codigo_cliente": "67118",

@@ -23084,6 +23084,10 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "72468",
+                        "desc_cliente": "12.745.456 FABIANA DE OLIVEIRA LEAL"
+                    },
+                    {
                         "codigo_cliente": "72330",
                         "desc_cliente": "44.929.839 PATRICIA ANDREIA BELING TEGNER"
                     },

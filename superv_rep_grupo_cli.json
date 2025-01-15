@@ -38054,6 +38054,10 @@
                         "desc_cliente": "14.228.701 KARLA DE ABREU HONORIO TERRA"
                     },
                     {
+                        "codigo_cliente": "72486",
+                        "desc_cliente": "49.260.386 NELIS NELSON ROSA DE OLIVEIRA"
+                    },
+                    {
                         "codigo_cliente": "60075",
                         "desc_cliente": "50.447.824 DANIELE CARRASCOSO GOMES"
                     },
@@ -38099,7 +38103,7 @@
                     },
                     {
                         "codigo_cliente": "72487",
-                        "desc_cliente": "BAR E RESTAURANTE TRINDADE DE PARATY LTDA ME"
+                        "desc_cliente": "BAR E RESTAURANTE TRINDADE DE PARATY LTDA"
                     },
                     {
                         "codigo_cliente": "52296",
@@ -38248,10 +38252,6 @@
                     {
                         "codigo_cliente": "57898",
                         "desc_cliente": "MORAIS CRUZ MERCEARIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72486",
-                        "desc_cliente": "NELIS NELSON ROSA DE OLIVEIRA"
                     },
                     {
                         "codigo_cliente": "72292",
@@ -40464,6 +40464,10 @@
                         "desc_cliente": "DIMARZARI PANETTERIA E CONFEITARIA - EIRELI"
                     },
                     {
+                        "codigo_cliente": "72488",
+                        "desc_cliente": "DIVINA FRUTEIRA LTDA"
+                    },
+                    {
                         "codigo_cliente": "47276",
                         "desc_cliente": "DSL COM DE COMB LTDA"
                     },
@@ -40666,10 +40670,6 @@
                     {
                         "codigo_cliente": "29571",
                         "desc_cliente": "PARODE & PAIRE COMERCIAL LTDA - ME"
-                    },
-                    {
-                        "codigo_cliente": "72488",
-                        "desc_cliente": "PAULA ANDRESA DE PAULA LUMERTZ"
                     },
                     {
                         "codigo_cliente": "35602",
@@ -47383,7 +47383,7 @@
                     },
                     {
                         "codigo_cliente": "72489",
-                        "desc_cliente": "TEM DE TUDO COMRRCIO DE VARIEDADS LTDA"
+                        "desc_cliente": "TEM DE TUDO COMERCIO DE VARIEDADES SP LTDA"
                     },
                     {
                         "codigo_cliente": "69596",
@@ -55232,6 +55232,10 @@
                         "desc_cliente": "ADEMIR CEZAR FERREIRA"
                     },
                     {
+                        "codigo_cliente": "72495",
+                        "desc_cliente": "ADEMIR SEBASTIAO MEDEIROS RODRIGUES"
+                    },
+                    {
                         "codigo_cliente": "55675",
                         "desc_cliente": "ADRIANA DOS SANTOS DORNELES"
                     },
@@ -58278,6 +58282,10 @@
                     {
                         "codigo_cliente": "61215",
                         "desc_cliente": "GILMAR BELMONTE"
+                    },
+                    {
+                        "codigo_cliente": "72496",
+                        "desc_cliente": "GILMAR FONSCECA DUARTE"
                     },
                     {
                         "codigo_cliente": "63465",
@@ -66572,6 +66580,10 @@
                         "desc_cliente": "CECILIA VERGARA SOUVESTRE"
                     },
                     {
+                        "codigo_cliente": "72500",
+                        "desc_cliente": "CELESTINO GIOVANNI APA"
+                    },
+                    {
                         "codigo_cliente": "71765",
                         "desc_cliente": "CELIA MENDES CORREA"
                     },
@@ -68740,6 +68752,10 @@
                         "desc_cliente": "GIOVANI BERTOLAZI BRAZIL"
                     },
                     {
+                        "codigo_cliente": "72499",
+                        "desc_cliente": "GIOVANI JUNIOR"
+                    },
+                    {
                         "codigo_cliente": "70542",
                         "desc_cliente": "GIOVANI RIBEIRO DA SILVA"
                     },
@@ -69274,6 +69290,10 @@
                     {
                         "codigo_cliente": "68277",
                         "desc_cliente": "IVO BASEI"
+                    },
+                    {
+                        "codigo_cliente": "72498",
+                        "desc_cliente": "IVONILDA BUENAVIDES DA SILVA"
                     },
                     {
                         "codigo_cliente": "57381",
@@ -76185,7 +76205,7 @@
                     },
                     {
                         "codigo_cliente": "72484",
-                        "desc_cliente": "RESTAURANTE DA MATA LTDA"
+                        "desc_cliente": "RESTAURANTE E LANCHERIA DA MATA LTDA"
                     },
                     {
                         "codigo_cliente": "38561",

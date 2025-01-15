@@ -7242,6 +7242,10 @@
                         "desc_cliente": "DONA LOURDES SUPERMERCADOS LTDA"
                     },
                     {
+                        "codigo_cliente": "46820",
+                        "desc_cliente": "DROGARIA BOM PRECO DE MANDAGUARI LTDA"
+                    },
+                    {
                         "codigo_cliente": "39406",
                         "desc_cliente": "ELAINE CASSIMIRO RODRIGUES MACEDO EIRELI"
                     },
@@ -10632,6 +10636,10 @@
                     {
                         "codigo_cliente": "37646",
                         "desc_cliente": "ANDRADE E RIBEIRO SUPERMERCADO LTDA - ME"
+                    },
+                    {
+                        "codigo_cliente": "60362",
+                        "desc_cliente": "ANDRADE MERCADO LTDA"
                     },
                     {
                         "codigo_cliente": "48423",
@@ -19422,6 +19430,10 @@
                 ],
                 "10 - CARREFOUR": [
                     {
+                        "codigo_cliente": "4848",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
+                    },
+                    {
                         "codigo_cliente": "4855",
                         "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
                     },
@@ -21382,6 +21394,10 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "72423",
+                        "desc_cliente": "37.879.581 MAILSON DAIGO DOS SANTOS"
+                    },
+                    {
                         "codigo_cliente": "45514",
                         "desc_cliente": "ADEMACRO DISTRIB DE PROD ALIMENT LTDA"
                     },
@@ -22736,6 +22752,10 @@
                         "desc_cliente": "DORA GIRLENE FLORENTINO 61323420010"
                     },
                     {
+                        "codigo_cliente": "46901",
+                        "desc_cliente": "FERNANDA TRESPACH DOS SANTOS 02687123013"
+                    },
+                    {
                         "codigo_cliente": "24185",
                         "desc_cliente": "FERNANDES FERNANDES & FERNANDES LTDA"
                     },
@@ -23076,6 +23096,10 @@
                         "desc_cliente": "12.745.456 FABIANA DE OLIVEIRA LEAL"
                     },
                     {
+                        "codigo_cliente": "72330",
+                        "desc_cliente": "44.929.839 PATRICIA ANDREIA BELING TEGNER"
+                    },
+                    {
                         "codigo_cliente": "72157",
                         "desc_cliente": "58.180.436 FABIANO AREND"
                     },
@@ -23174,6 +23198,10 @@
                     {
                         "codigo_cliente": "48608",
                         "desc_cliente": "I T TRENTINI"
+                    },
+                    {
+                        "codigo_cliente": "63665",
+                        "desc_cliente": "IVAINI I. SANDER FLORICULTURA"
                     },
                     {
                         "codigo_cliente": "33949",
@@ -28388,6 +28416,10 @@
                     {
                         "codigo_cliente": "41940",
                         "desc_cliente": "A L MARCELINO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72507",
+                        "desc_cliente": "ANDREIA PRUDENTE DE OLIVEIRA"
                     },
                     {
                         "codigo_cliente": "28415",
@@ -35324,6 +35356,10 @@
                         "desc_cliente": "GARAGEM BELEM LTDA"
                     },
                     {
+                        "codigo_cliente": "59988",
+                        "desc_cliente": "IGET BARRA GARDEN COM DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "34448",
                         "desc_cliente": "JANUARIO ZERBES"
                     },
@@ -35714,6 +35750,10 @@
                     {
                         "codigo_cliente": "30551",
                         "desc_cliente": "COMERCIO DE LATICINIOS DA VOVO ARMINDA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72046",
+                        "desc_cliente": "CONTROLE COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "53973",
@@ -55452,6 +55492,10 @@
                         "desc_cliente": "ALEX DOS SANTOS STEINMETZ"
                     },
                     {
+                        "codigo_cliente": "60533",
+                        "desc_cliente": "ALEX FREIBERGER DOS SANTOS "
+                    },
+                    {
                         "codigo_cliente": "65935",
                         "desc_cliente": "ALEX KERN"
                     },
@@ -60736,6 +60780,10 @@
                         "desc_cliente": "MARCIANO DA SILVA"
                     },
                     {
+                        "codigo_cliente": "72509",
+                        "desc_cliente": "MARCIANO LUCAS E SILVA"
+                    },
+                    {
                         "codigo_cliente": "69899",
                         "desc_cliente": "MARCIELEN DA SILVA ROSA"
                     },
@@ -60910,6 +60958,10 @@
                     {
                         "codigo_cliente": "66923",
                         "desc_cliente": "MARIA ISABEL JARDIM DOS SANTOS"
+                    },
+                    {
+                        "codigo_cliente": "72508",
+                        "desc_cliente": "MARIA JUSSARA SOUZA"
                     },
                     {
                         "codigo_cliente": "70455",

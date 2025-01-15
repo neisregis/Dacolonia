@@ -35444,6 +35444,10 @@
                         "desc_cliente": "MTM COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "72458",
+                        "desc_cliente": "NICKOLAS ANTONIO COSTA CAPRIO DA SILVA"
+                    },
+                    {
                         "codigo_cliente": "15376",
                         "desc_cliente": "PAULO ROBERTO PINHEIRO RIBEIRO"
                     },
@@ -36436,6 +36440,10 @@
                     {
                         "codigo_cliente": "65417",
                         "desc_cliente": "45.215.744 MOACIR PEREIRA DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "63747",
+                        "desc_cliente": "A BELA DA VILA MERCEARIA LTDA"
                     },
                     {
                         "codigo_cliente": "54717",
@@ -59396,6 +59404,10 @@
                         "desc_cliente": "JOSE CARLOS ARTISMO"
                     },
                     {
+                        "codigo_cliente": "72497",
+                        "desc_cliente": "JOSE CARLOS LIMA"
+                    },
+                    {
                         "codigo_cliente": "72152",
                         "desc_cliente": "JOSE CARLOS SENCI"
                     },
@@ -78555,6 +78567,10 @@
             },
             "1053": {
                 "1 - GERAL": [
+                    {
+                        "codigo_cliente": "61057",
+                        "desc_cliente": "52.268.392 BRAULIO CHRESTANI"
+                    },
                     {
                         "codigo_cliente": "71900",
                         "desc_cliente": "52.491.157 DAIANE DA SILVA TELES"

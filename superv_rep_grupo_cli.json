@@ -34680,6 +34680,10 @@
                         "desc_cliente": "ALVIETE SCHEFFER MARTINS MARQUES 72847930078"
                     },
                     {
+                        "codigo_cliente": "72516",
+                        "desc_cliente": "ANITA MACIEL BIEDZICKI"
+                    },
+                    {
                         "codigo_cliente": "38130",
                         "desc_cliente": "AUTO POSTO 118 LTDA"
                     },
@@ -34702,6 +34706,10 @@
                     {
                         "codigo_cliente": "65249",
                         "desc_cliente": "CLAUDIA ALESSANDRA SILVEIRA MACIEL"
+                    },
+                    {
+                        "codigo_cliente": "23372",
+                        "desc_cliente": "COMERCIAL SILVA II DE PRODUTOS ALIMENTICIOS LTDA"
                     },
                     {
                         "codigo_cliente": "46299",
@@ -47380,6 +47388,10 @@
                     {
                         "codigo_cliente": "70428",
                         "desc_cliente": "LOJAO DO REAL N E S SAO RAFAEL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72517",
+                        "desc_cliente": "M A DE LIMA LTDA"
                     },
                     {
                         "codigo_cliente": "70008",

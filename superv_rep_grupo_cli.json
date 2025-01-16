@@ -1982,6 +1982,10 @@
                         "desc_cliente": "COMERCIAL AVENIDA DE PIRAPORA LTDA"
                     },
                     {
+                        "codigo_cliente": "59544",
+                        "desc_cliente": "COMERCIAL DE ALIMENTOS NOGUEIRA LTDA"
+                    },
+                    {
                         "codigo_cliente": "48935",
                         "desc_cliente": "COMERCIAL EFYSA LTDA"
                     },
@@ -2000,6 +2004,10 @@
                     {
                         "codigo_cliente": "36092",
                         "desc_cliente": "COMERCIAL SUPER SAL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "45187",
+                        "desc_cliente": "COMERCIO DE ALIMENTOS NOGUEIRA E FREITAS EIRELI"
                     },
                     {
                         "codigo_cliente": "35556",
@@ -7242,6 +7250,10 @@
                         "desc_cliente": "DONA LOURDES SUPERMERCADOS LTDA"
                     },
                     {
+                        "codigo_cliente": "46820",
+                        "desc_cliente": "DROGARIA BOM PRECO DE MANDAGUARI LTDA"
+                    },
+                    {
                         "codigo_cliente": "39406",
                         "desc_cliente": "ELAINE CASSIMIRO RODRIGUES MACEDO EIRELI"
                     },
@@ -11336,6 +11348,10 @@
                     {
                         "codigo_cliente": "3318",
                         "desc_cliente": "J.C.LOUREIRO NETO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72490",
+                        "desc_cliente": "JENSEN CARDOSO LTDA"
                     },
                     {
                         "codigo_cliente": "70921",
@@ -30294,6 +30310,10 @@
                         "desc_cliente": "MINI MERCADO MENDONÇA LTDA"
                     },
                     {
+                        "codigo_cliente": "72524",
+                        "desc_cliente": "MM ESPADA COMERCIO DE ARTIGOS PARA FESTA"
+                    },
+                    {
                         "codigo_cliente": "64310",
                         "desc_cliente": "PIOVESAN DOCES LTDA"
                     },
@@ -45408,6 +45428,10 @@
                         "desc_cliente": "ELIANE DE FATIMA DOS SANTOS"
                     },
                     {
+                        "codigo_cliente": "72523",
+                        "desc_cliente": "EMPORIO BAREQUECABA LTDA"
+                    },
+                    {
                         "codigo_cliente": "53117",
                         "desc_cliente": "EMPORIO CBS FRUTAS, DOCES, QUEIJOS E MERCEARIA LTDA"
                     },
@@ -59666,6 +59690,10 @@
                         "desc_cliente": "JULIA DE OLIVEIRA CORREA"
                     },
                     {
+                        "codigo_cliente": "72526",
+                        "desc_cliente": "JULIA DOS SANTOS ROCHA"
+                    },
+                    {
                         "codigo_cliente": "70723",
                         "desc_cliente": "JULIANA ARACI MARQUES DEMARE"
                     },
@@ -61864,6 +61892,10 @@
                     {
                         "codigo_cliente": "57533",
                         "desc_cliente": "PATRICIO CESAR PIRES DE SENA "
+                    },
+                    {
+                        "codigo_cliente": "72525",
+                        "desc_cliente": "PATRICK VEIGA DA SILVEIRA"
                     },
                     {
                         "codigo_cliente": "68111",

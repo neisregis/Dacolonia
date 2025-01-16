@@ -23294,6 +23294,10 @@
                         "desc_cliente": "ORACI DE FREITAS"
                     },
                     {
+                        "codigo_cliente": "59101",
+                        "desc_cliente": "PADARIA E CONFEITARIA TIA LOLA LTDA"
+                    },
+                    {
                         "codigo_cliente": "65393",
                         "desc_cliente": "PORTO D'ORO PADARIA E RESTAURANTE LTDA"
                     },
@@ -30292,6 +30296,10 @@
                     {
                         "codigo_cliente": "68190",
                         "desc_cliente": "J. VIEIRA ATACADISTA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72528",
+                        "desc_cliente": "LEVE & MEL EMPORIO LTDA"
                     },
                     {
                         "codigo_cliente": "63455",

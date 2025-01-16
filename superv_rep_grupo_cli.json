@@ -9447,7 +9447,7 @@
                     },
                     {
                         "codigo_cliente": "42304",
-                        "desc_cliente": "GIOVANNA CARLA DE CANDIDO DANTE"
+                        "desc_cliente": "GIOVANNA CARLA DE CANDIDO DANTE EMPORIO LTDA"
                     },
                     {
                         "codigo_cliente": "70690",
@@ -9896,6 +9896,10 @@
                         "desc_cliente": "FASEH COMERCIO DE PRODUTOS NATURAIS LTDA"
                     },
                     {
+                        "codigo_cliente": "72539",
+                        "desc_cliente": "FRUTAL HORTIFRUTI"
+                    },
+                    {
                         "codigo_cliente": "65241",
                         "desc_cliente": "GARCIA LTDA"
                     },
@@ -9994,6 +9998,10 @@
                     {
                         "codigo_cliente": "36945",
                         "desc_cliente": "RM NEGRELLI COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72506",
+                        "desc_cliente": "SACOLAO DE FRUTAS E VERDURAS LORENZETTI LTDA"
                     },
                     {
                         "codigo_cliente": "71545",
@@ -22242,6 +22250,10 @@
                         "desc_cliente": "SACOLAO OASIS COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
                     },
                     {
+                        "codigo_cliente": "57251",
+                        "desc_cliente": "SAPOLANDIA UTILIDADES LTDA"
+                    },
+                    {
                         "codigo_cliente": "58451",
                         "desc_cliente": "SUPERMERCADO 273 LTDA"
                     },
@@ -23118,6 +23130,10 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "72468",
+                        "desc_cliente": "12.745.456 FABIANA DE OLIVEIRA LEAL"
+                    },
+                    {
                         "codigo_cliente": "72330",
                         "desc_cliente": "44.929.839 PATRICIA ANDREIA BELING TEGNER"
                     },
@@ -23164,6 +23180,10 @@
                     {
                         "codigo_cliente": "41050",
                         "desc_cliente": "CANTINHO SAUDAVEL COM DE PROD NATURAIS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72503",
+                        "desc_cliente": "COLINA LAGOS HOTEL LTDA"
                     },
                     {
                         "codigo_cliente": "32114",
@@ -34724,6 +34744,10 @@
                     {
                         "codigo_cliente": "65249",
                         "desc_cliente": "CLAUDIA ALESSANDRA SILVEIRA MACIEL"
+                    },
+                    {
+                        "codigo_cliente": "23372",
+                        "desc_cliente": "COMERCIAL SILVA II DE PRODUTOS ALIMENTICIOS LTDA"
                     },
                     {
                         "codigo_cliente": "46299",
@@ -55778,6 +55802,10 @@
                         "desc_cliente": "ANA ELISETE NAZARIO DOS SANTOS"
                     },
                     {
+                        "codigo_cliente": "72536",
+                        "desc_cliente": "ANAJARA ESTEL BARZEIRO"
+                    },
+                    {
                         "codigo_cliente": "55937",
                         "desc_cliente": "ANA LUCIA DA SILVA "
                     },
@@ -56994,6 +57022,10 @@
                         "desc_cliente": "DANIEL ALMEIDA"
                     },
                     {
+                        "codigo_cliente": "72537",
+                        "desc_cliente": "DANIELA MACHADO COSTA"
+                    },
+                    {
                         "codigo_cliente": "65692",
                         "desc_cliente": "DANIELA ROSA"
                     },
@@ -58040,6 +58072,10 @@
                     {
                         "codigo_cliente": "61458",
                         "desc_cliente": "FERNANDA CARDOSO"
+                    },
+                    {
+                        "codigo_cliente": "72538",
+                        "desc_cliente": "FERNANDA CORREIA PIMENTAO"
                     },
                     {
                         "codigo_cliente": "69758",
@@ -60172,6 +60208,10 @@
                     {
                         "codigo_cliente": "69551",
                         "desc_cliente": "LEONARDO SILVA DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "61667",
+                        "desc_cliente": "LEONARDO VARGAS PIRES "
                     },
                     {
                         "codigo_cliente": "68907",
@@ -64204,6 +64244,10 @@
                         "desc_cliente": "PALOMA CLAUDINO DA SILVA"
                     },
                     {
+                        "codigo_cliente": "69035",
+                        "desc_cliente": "RAFAEL DALPIAZ DA ROSA"
+                    },
+                    {
                         "codigo_cliente": "66970",
                         "desc_cliente": "RICARDO DE LA ROCHA LADEIRA"
                     },
@@ -65620,6 +65664,10 @@
                     {
                         "codigo_cliente": "70033",
                         "desc_cliente": "ANA LUISA SANTOS BOES"
+                    },
+                    {
+                        "codigo_cliente": "72533",
+                        "desc_cliente": "ANA LUIZA SAMPAIO DA COSTA"
                     },
                     {
                         "codigo_cliente": "71675",
@@ -71876,6 +71924,10 @@
                     {
                         "codigo_cliente": "69091",
                         "desc_cliente": "MARIANA RODRIGUES LIMA HENNING"
+                    },
+                    {
+                        "codigo_cliente": "72535",
+                        "desc_cliente": "MARIANA SACILOTO"
                     },
                     {
                         "codigo_cliente": "69704",

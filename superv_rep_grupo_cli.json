@@ -23118,10 +23118,6 @@
                 ],
                 "1 - GERAL": [
                     {
-                        "codigo_cliente": "72468",
-                        "desc_cliente": "12.745.456 FABIANA DE OLIVEIRA LEAL"
-                    },
-                    {
                         "codigo_cliente": "72330",
                         "desc_cliente": "44.929.839 PATRICIA ANDREIA BELING TEGNER"
                     },
@@ -23168,10 +23164,6 @@
                     {
                         "codigo_cliente": "41050",
                         "desc_cliente": "CANTINHO SAUDAVEL COM DE PROD NATURAIS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72503",
-                        "desc_cliente": "COLINA LAGOS HOTEL LTDA"
                     },
                     {
                         "codigo_cliente": "32114",
@@ -25711,6 +25703,10 @@
                     },
                     {
                         "codigo_cliente": "45415",
+                        "desc_cliente": "CABRAL E MAIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "46398",
                         "desc_cliente": "CABRAL E MAIA LTDA"
                     },
                     {
@@ -34730,10 +34726,6 @@
                         "desc_cliente": "CLAUDIA ALESSANDRA SILVEIRA MACIEL"
                     },
                     {
-                        "codigo_cliente": "23372",
-                        "desc_cliente": "COMERCIAL SILVA II DE PRODUTOS ALIMENTICIOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "46299",
                         "desc_cliente": "COML BIELAVSKI LTDA"
                     },
@@ -38358,6 +38350,10 @@
                     {
                         "codigo_cliente": "72292",
                         "desc_cliente": "NELSON ROBERTO DE CARVALHO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72529",
+                        "desc_cliente": "NIVALDO RC JUNIOR LTDA"
                     },
                     {
                         "codigo_cliente": "68196",
@@ -47446,6 +47442,10 @@
                     {
                         "codigo_cliente": "71492",
                         "desc_cliente": "MERCADO MIX AZUL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72534",
+                        "desc_cliente": "MERCADO NOVA GERACAO ITAIM LTDA"
                     },
                     {
                         "codigo_cliente": "49197",
@@ -59294,6 +59294,10 @@
                         "desc_cliente": "JOAO PAULO DA SILVA SANTOS"
                     },
                     {
+                        "codigo_cliente": "72532",
+                        "desc_cliente": "JOAO PAULO RAMOS"
+                    },
+                    {
                         "codigo_cliente": "50836",
                         "desc_cliente": "JOAO PEDRO DA ROSA SILVA"
                     },
@@ -63652,6 +63656,10 @@
                     {
                         "codigo_cliente": "70056",
                         "desc_cliente": "WILLIAN DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "72527",
+                        "desc_cliente": "WILLIAN ESCOLAR"
                     },
                     {
                         "codigo_cliente": "68316",

@@ -17981,7 +17981,7 @@
                     },
                     {
                         "codigo_cliente": "72513",
-                        "desc_cliente": "LOURDES MARIA MAFRA"
+                        "desc_cliente": "LOURDES MARIA MAFRA 57181187953"
                     },
                     {
                         "codigo_cliente": "59486",
@@ -28440,6 +28440,10 @@
                         "desc_cliente": "54.938.953 JOSUE SILVEIRA TOME"
                     },
                     {
+                        "codigo_cliente": "72507",
+                        "desc_cliente": "57.189.614 ANDREIA PRUDENTE DE OLIVEIRA"
+                    },
+                    {
                         "codigo_cliente": "61419",
                         "desc_cliente": "ALANA CARVALHO GONCALVES 07230903947"
                     },
@@ -28450,10 +28454,6 @@
                     {
                         "codigo_cliente": "41940",
                         "desc_cliente": "A L MARCELINO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72507",
-                        "desc_cliente": "ANDREIA PRUDENTE DE OLIVEIRA"
                     },
                     {
                         "codigo_cliente": "28415",
@@ -28572,11 +28572,11 @@
                         "desc_cliente": "MERCADO TREVO ROSA LTDA - ME"
                     },
                     {
-                        "codigo_cliente": "42603",
-                        "desc_cliente": "MERCADO VERDE PRAIA DO ROSA LTDA"
+                        "codigo_cliente": "72504",
+                        "desc_cliente": "MERCADO VERDE DA PRAIA DO ROSA LTDA"
                     },
                     {
-                        "codigo_cliente": "72504",
+                        "codigo_cliente": "42603",
                         "desc_cliente": "MERCADO VERDE PRAIA DO ROSA LTDA"
                     },
                     {
@@ -31215,7 +31215,7 @@
                     },
                     {
                         "codigo_cliente": "72518",
-                        "desc_cliente": "DELAMAR MACHADO E CIA LTADA"
+                        "desc_cliente": "DELAMAR MACHADO & CIA LTDA"
                     },
                     {
                         "codigo_cliente": "17078",
@@ -34678,6 +34678,10 @@
                         "desc_cliente": "57.267.009 GENUIR BARIVIERA"
                     },
                     {
+                        "codigo_cliente": "72516",
+                        "desc_cliente": "58.685.184 ANITA MASIEL BIEDZICKI"
+                    },
+                    {
                         "codigo_cliente": "67972",
                         "desc_cliente": "ADILSON ENGEL RICARDO"
                     },
@@ -34692,10 +34696,6 @@
                     {
                         "codigo_cliente": "36191",
                         "desc_cliente": "ALVIETE SCHEFFER MARTINS MARQUES 72847930078"
-                    },
-                    {
-                        "codigo_cliente": "72516",
-                        "desc_cliente": "ANITA MACIEL BIEDZICKI"
                     },
                     {
                         "codigo_cliente": "38130",
@@ -52191,6 +52191,10 @@
                     }
                 ],
                 "1 - GERAL": [
+                    {
+                        "codigo_cliente": "68961",
+                        "desc_cliente": "49.716.405 HENRIQUE FERNANDO DE ABREU"
+                    },
                     {
                         "codigo_cliente": "40395",
                         "desc_cliente": "ADOLETA FESTAS E EMBALAGENS EIRELI"
@@ -81337,7 +81341,7 @@
                     },
                     {
                         "codigo_cliente": "72515",
-                        "desc_cliente": "AUTO POSTO PTA FRENTE BRASIL LTDA 09"
+                        "desc_cliente": "AUTO POSTO PRA FRENTE BRASIL LTDA"
                     },
                     {
                         "codigo_cliente": "41633",

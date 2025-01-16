@@ -21502,6 +21502,10 @@
                         "desc_cliente": "MARIA JUCARA MORAES DA SILVA"
                     },
                     {
+                        "codigo_cliente": "62746",
+                        "desc_cliente": "MAXFORT ATACADO E VAREJO LTDA"
+                    },
+                    {
                         "codigo_cliente": "66718",
                         "desc_cliente": "M DE CASTRO DISTRIBUIDOR LTDA"
                     },
@@ -24422,10 +24426,6 @@
                     {
                         "codigo_cliente": "47135",
                         "desc_cliente": "MARLICE IVANETE SCHMITT KURTZ LTDA"
-                    },
-                    {
-                        "codigo_cliente": "62746",
-                        "desc_cliente": "MAXFORT ATACADO E VAREJO LTDA"
                     },
                     {
                         "codigo_cliente": "37134",
@@ -36522,6 +36522,16 @@
                         "desc_cliente": "JOYMARKET RECREIO LTDA"
                     }
                 ],
+                "1164 - NOVO HORIZONTE - RJ": [
+                    {
+                        "codigo_cliente": "55932",
+                        "desc_cliente": "NOVO HORIZONTE COMERCIO DE GENEROS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "62130",
+                        "desc_cliente": "NOVO HORIZONTE COMERCIO DE GENEROS ALIMENTICIOS LTDA"
+                    }
+                ],
                 "1 - GERAL": [
                     {
                         "codigo_cliente": "64929",
@@ -36546,6 +36556,10 @@
                     {
                         "codigo_cliente": "69981",
                         "desc_cliente": "ALFA MARKET SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "47973",
+                        "desc_cliente": "ALFREDO ANDRADE FERREIRA 88317528715"
                     },
                     {
                         "codigo_cliente": "30207",
@@ -36594,6 +36608,10 @@
                     {
                         "codigo_cliente": "66293",
                         "desc_cliente": "COMERCIO DE HORTIFRUTI SAO LUCAS CORDOVIL 2024 LTDA"
+                    },
+                    {
+                        "codigo_cliente": "61939",
+                        "desc_cliente": "CONFEITARIA E PANIFICACAO CASA VELHA DE BONSUCESSO LTDA"
                     },
                     {
                         "codigo_cliente": "46357",
@@ -36736,6 +36754,10 @@
                         "desc_cliente": "LEVI LUCAS ARAUJO DOMINGOS 15617095730"
                     },
                     {
+                        "codigo_cliente": "46491",
+                        "desc_cliente": "MATTIAS MERCEARIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "21875",
                         "desc_cliente": "MERCADINHO IMPERIAL DE BENTO RIBEIRO EIRELI"
                     },
@@ -36822,6 +36844,10 @@
                     {
                         "codigo_cliente": "46806",
                         "desc_cliente": "PADARIA E CONFEITARIA POSTO 11 DO RECREIO LTDA."
+                    },
+                    {
+                        "codigo_cliente": "46773",
+                        "desc_cliente": "PADARIA E CONFEITARIA REI DO RECREIO LTDA"
                     },
                     {
                         "codigo_cliente": "22389",
@@ -36961,6 +36987,10 @@
                 "996 - ROCAL - DA VILA": [
                     {
                         "codigo_cliente": "54879",
+                        "desc_cliente": "ROCAL DISTRIBUIDORA DE ALIMENTOS E BEBIDAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "55508",
                         "desc_cliente": "ROCAL DISTRIBUIDORA DE ALIMENTOS E BEBIDAS LTDA"
                     }
                 ]
@@ -38670,6 +38700,10 @@
                         "desc_cliente": "LORD RODRIGO COMERCIO DE COMBUSTIVEIS LTDA"
                     },
                     {
+                        "codigo_cliente": "66429",
+                        "desc_cliente": "MERCADAO DE ALIMENTOS UNIDOS BRASIL LTDA"
+                    },
+                    {
                         "codigo_cliente": "46471",
                         "desc_cliente": "MERCADO DOIS IRMAOS DE AUSTIN LTDA"
                     },
@@ -38692,6 +38726,10 @@
                     {
                         "codigo_cliente": "71512",
                         "desc_cliente": "MERCADOS BOM PRECO DE SAO JOAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "63577",
+                        "desc_cliente": "MERCADO TUBARAO DE NOVA IGUACU LTDA"
                     },
                     {
                         "codigo_cliente": "56592",
@@ -38732,6 +38770,10 @@
                     {
                         "codigo_cliente": "71698",
                         "desc_cliente": "ORGANIZACOES VICTORIA & PENEDO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "39585",
+                        "desc_cliente": "PARADA MODELO ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "46946",
@@ -38948,54 +38990,6 @@
                     {
                         "codigo_cliente": "53100",
                         "desc_cliente": "MERCEARIA SUPER REDE DE VILA NOVA LTDA"
-                    }
-                ]
-            },
-            "890": {
-                "1164 - NOVO HORIZONTE - RJ": [
-                    {
-                        "codigo_cliente": "55932",
-                        "desc_cliente": "NOVO HORIZONTE COMERCIO DE GENEROS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "62130",
-                        "desc_cliente": "NOVO HORIZONTE COMERCIO DE GENEROS ALIMENTICIOS LTDA"
-                    }
-                ],
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "47973",
-                        "desc_cliente": "ALFREDO ANDRADE FERREIRA 88317528715"
-                    },
-                    {
-                        "codigo_cliente": "61939",
-                        "desc_cliente": "CONFEITARIA E PANIFICACAO CASA VELHA DE BONSUCESSO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "46491",
-                        "desc_cliente": "MATTIAS MERCEARIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "66429",
-                        "desc_cliente": "MERCADAO DE ALIMENTOS UNIDOS BRASIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "63577",
-                        "desc_cliente": "MERCADO TUBARAO DE NOVA IGUACU LTDA"
-                    },
-                    {
-                        "codigo_cliente": "46773",
-                        "desc_cliente": "PADARIA E CONFEITARIA REI DO RECREIO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "39585",
-                        "desc_cliente": "PARADA MODELO ALIMENTOS LTDA"
-                    }
-                ],
-                "996 - ROCAL - DA VILA": [
-                    {
-                        "codigo_cliente": "55508",
-                        "desc_cliente": "ROCAL DISTRIBUIDORA DE ALIMENTOS E BEBIDAS LTDA"
                     }
                 ]
             },
@@ -52025,6 +52019,10 @@
                     },
                     {
                         "codigo_cliente": "28060",
+                        "desc_cliente": "SUPERMERCADOS SUMEPE LIMITADA"
+                    },
+                    {
+                        "codigo_cliente": "31571",
                         "desc_cliente": "SUPERMERCADOS SUMEPE LIMITADA"
                     }
                 ],

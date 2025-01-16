@@ -2964,6 +2964,10 @@
                         "desc_cliente": "SUPERMERCADO ALVARO DA SILVA LTDA"
                     },
                     {
+                        "codigo_cliente": "72546",
+                        "desc_cliente": "SUPERMERCADO ALVARO DA SILVA LTDA"
+                    },
+                    {
                         "codigo_cliente": "68205",
                         "desc_cliente": "SUPERMERCADO CANAA FRANCISCA ADRIANGELA LTDA"
                     },
@@ -13250,6 +13254,10 @@
                     {
                         "codigo_cliente": "3473",
                         "desc_cliente": "EMPORIO PARAISO EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "38235",
+                        "desc_cliente": "ESMERALDA RZEWUSKI 97354686972"
                     },
                     {
                         "codigo_cliente": "12349",
@@ -43563,7 +43571,7 @@
                     },
                     {
                         "codigo_cliente": "72542",
-                        "desc_cliente": "MARTINS COM DE PROD ALIMENT LTDA"
+                        "desc_cliente": "MARTINS TRANSPS E COM DE PROD ALIMENT LTDA"
                     },
                     {
                         "codigo_cliente": "14140",
@@ -49308,6 +49316,10 @@
                     {
                         "codigo_cliente": "33739",
                         "desc_cliente": "MARISANE FONTOURA DA ROCHA 01651748039"
+                    },
+                    {
+                        "codigo_cliente": "72545",
+                        "desc_cliente": "MARISETE C.RODRIGUES"
                     },
                     {
                         "codigo_cliente": "70482",

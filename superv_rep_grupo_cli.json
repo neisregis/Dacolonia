@@ -37670,6 +37670,10 @@
                         "desc_cliente": "ESQUINA DO DOCE LTDA"
                     },
                     {
+                        "codigo_cliente": "45294",
+                        "desc_cliente": "FAMILIA ANTUNES MERCEARIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "68478",
                         "desc_cliente": "FARMACIA NOVO PONTO SAUDE LTDA"
                     },
@@ -37680,6 +37684,10 @@
                     {
                         "codigo_cliente": "63893",
                         "desc_cliente": "GAEL SUPERMERCADOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "48260",
+                        "desc_cliente": "HORTIFRUTI DONA LEDA NO PARQUE ANCHIETA EIRELI"
                     },
                     {
                         "codigo_cliente": "62983",

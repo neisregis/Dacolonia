@@ -1982,10 +1982,6 @@
                         "desc_cliente": "COMERCIAL AVENIDA DE PIRAPORA LTDA"
                     },
                     {
-                        "codigo_cliente": "59544",
-                        "desc_cliente": "COMERCIAL DE ALIMENTOS NOGUEIRA LTDA"
-                    },
-                    {
                         "codigo_cliente": "48935",
                         "desc_cliente": "COMERCIAL EFYSA LTDA"
                     },
@@ -2004,10 +2000,6 @@
                     {
                         "codigo_cliente": "36092",
                         "desc_cliente": "COMERCIAL SUPER SAL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "45187",
-                        "desc_cliente": "COMERCIO DE ALIMENTOS NOGUEIRA E FREITAS EIRELI"
                     },
                     {
                         "codigo_cliente": "35556",
@@ -7250,10 +7242,6 @@
                         "desc_cliente": "DONA LOURDES SUPERMERCADOS LTDA"
                     },
                     {
-                        "codigo_cliente": "46820",
-                        "desc_cliente": "DROGARIA BOM PRECO DE MANDAGUARI LTDA"
-                    },
-                    {
                         "codigo_cliente": "39406",
                         "desc_cliente": "ELAINE CASSIMIRO RODRIGUES MACEDO EIRELI"
                     },
@@ -11348,10 +11336,6 @@
                     {
                         "codigo_cliente": "3318",
                         "desc_cliente": "J.C.LOUREIRO NETO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72490",
-                        "desc_cliente": "JENSEN CARDOSO LTDA"
                     },
                     {
                         "codigo_cliente": "70921",
@@ -58398,6 +58382,10 @@
                         "desc_cliente": "GILBERTO SILVA RODRIGUES"
                     },
                     {
+                        "codigo_cliente": "54034",
+                        "desc_cliente": "GILDO ROTTA FILHO"
+                    },
+                    {
                         "codigo_cliente": "69257",
                         "desc_cliente": "GILDOVANI DOS SANTOS SANTOS LOPES"
                     },
@@ -71782,6 +71770,10 @@
                         "desc_cliente": "MARIANA CONSTANCIO KEPPEN"
                     },
                     {
+                        "codigo_cliente": "72522",
+                        "desc_cliente": "MARIANA DE ASSIS"
+                    },
+                    {
                         "codigo_cliente": "70834",
                         "desc_cliente": "MARIANA DE MATTOS BICALHO"
                     },
@@ -71988,6 +71980,10 @@
                     {
                         "codigo_cliente": "70702",
                         "desc_cliente": "MARINA DORNELES FIGUEIRA"
+                    },
+                    {
+                        "codigo_cliente": "72521",
+                        "desc_cliente": "MARINA MANGINI BUBA"
                     },
                     {
                         "codigo_cliente": "70786",
@@ -76292,6 +76288,10 @@
                     {
                         "codigo_cliente": "65619",
                         "desc_cliente": "MARIA GORETI MORAIS"
+                    },
+                    {
+                        "codigo_cliente": "17464",
+                        "desc_cliente": "MARIA I. PULLI"
                     },
                     {
                         "codigo_cliente": "65445",

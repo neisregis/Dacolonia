@@ -24460,6 +24460,10 @@
                         "desc_cliente": "MERCADO E LANCHERIA JOANETA LTDA"
                     },
                     {
+                        "codigo_cliente": "72520",
+                        "desc_cliente": "MERCADO & FRUTEIRA DO ALEMAO LTDA"
+                    },
+                    {
                         "codigo_cliente": "23637",
                         "desc_cliente": "MERCADO MARFAEL LTDA - ME"
                     },
@@ -33616,6 +33620,10 @@
                     {
                         "codigo_cliente": "52189",
                         "desc_cliente": "DANIELA APARECIDA RODRIGUES 03597424082"
+                    },
+                    {
+                        "codigo_cliente": "71412",
+                        "desc_cliente": "DISTRIBUIDORA UNIPAO LTDA"
                     },
                     {
                         "codigo_cliente": "37848",
@@ -54632,6 +54640,10 @@
                     {
                         "codigo_cliente": "30591",
                         "desc_cliente": "COMERCIAL FEISTEL LTDA - EPP"
+                    },
+                    {
+                        "codigo_cliente": "13220",
+                        "desc_cliente": "CONFEITARIA Q' DELICIA LTDA"
                     },
                     {
                         "codigo_cliente": "29119",

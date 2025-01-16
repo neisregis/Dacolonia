@@ -2960,6 +2960,10 @@
                         "desc_cliente": "SEM ACUCAR LTDA"
                     },
                     {
+                        "codigo_cliente": "72543",
+                        "desc_cliente": "SUPERMERCADO ALVARO DA SILVA LTDA"
+                    },
+                    {
                         "codigo_cliente": "68205",
                         "desc_cliente": "SUPERMERCADO CANAA FRANCISCA ADRIANGELA LTDA"
                     },
@@ -20022,6 +20026,10 @@
                     {
                         "codigo_cliente": "54410",
                         "desc_cliente": "ELIZANGELA GARCIA MOREIRA SUPERMERCADO"
+                    },
+                    {
+                        "codigo_cliente": "60910",
+                        "desc_cliente": "FLOR DO SUL COSMETICOS LTDA"
                     },
                     {
                         "codigo_cliente": "70568",
@@ -43554,6 +43562,10 @@
                         "desc_cliente": "MARTIN KUCZURA MATOSAS"
                     },
                     {
+                        "codigo_cliente": "72542",
+                        "desc_cliente": "MARTINS COM DE PROD ALIMENT LTDA"
+                    },
+                    {
                         "codigo_cliente": "14140",
                         "desc_cliente": "M.BOLZAN & CIA.LTDA - ME"
                     },
@@ -59870,6 +59882,10 @@
                     {
                         "codigo_cliente": "67619",
                         "desc_cliente": "KAREN DOS SANTOS GONÇALVES"
+                    },
+                    {
+                        "codigo_cliente": "72541",
+                        "desc_cliente": "KARINA CARVALHO"
                     },
                     {
                         "codigo_cliente": "69026",
@@ -76546,6 +76562,10 @@
                     {
                         "codigo_cliente": "37202",
                         "desc_cliente": "VANUSA BIBIANA DO NASCIMENTO"
+                    },
+                    {
+                        "codigo_cliente": "72544",
+                        "desc_cliente": "VILARINHO E VILARINHO EMPREENDIMENTOS ALIMEMTOS"
                     },
                     {
                         "codigo_cliente": "29213",

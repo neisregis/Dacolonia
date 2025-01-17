@@ -52300,10 +52300,6 @@
                 ],
                 "1 - GERAL": [
                     {
-                        "codigo_cliente": "68961",
-                        "desc_cliente": "49.716.405 HENRIQUE FERNANDO DE ABREU"
-                    },
-                    {
                         "codigo_cliente": "40395",
                         "desc_cliente": "ADOLETA FESTAS E EMBALAGENS EIRELI"
                     },
@@ -53800,10 +53796,6 @@
                         "desc_cliente": "RODRIGO DA SILVA OLIVEIRA 02259898912"
                     },
                     {
-                        "codigo_cliente": "22801",
-                        "desc_cliente": "ROSINEIA MARIA DE MELO BALDANCA"
-                    },
-                    {
                         "codigo_cliente": "6450",
                         "desc_cliente": "ROZANI APARECIDA KNAUL ME"
                     },
@@ -54448,6 +54440,10 @@
                     {
                         "codigo_cliente": "33025",
                         "desc_cliente": "CINDREIA COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "26376",
+                        "desc_cliente": "DAUPER INDUSTRIA E COMERCIO DE BISCOITOS LTDA."
                     },
                     {
                         "codigo_cliente": "35901",
@@ -60122,6 +60118,10 @@
                         "desc_cliente": "LAIS SILVA DE MELO FREITAS"
                     },
                     {
+                        "codigo_cliente": "62739",
+                        "desc_cliente": "LARISSA BOBSIN"
+                    },
+                    {
                         "codigo_cliente": "72232",
                         "desc_cliente": "LARISSA DE FRAGA"
                     },
@@ -63752,6 +63752,10 @@
                     {
                         "codigo_cliente": "65076",
                         "desc_cliente": "VIVIANE CONCEIÇAO BRAUN"
+                    },
+                    {
+                        "codigo_cliente": "72569",
+                        "desc_cliente": "VIVIANE LIMA DE MEDEIROS"
                     },
                     {
                         "codigo_cliente": "55961",
@@ -76706,6 +76710,10 @@
                         "desc_cliente": "VANUSA BIBIANA DO NASCIMENTO"
                     },
                     {
+                        "codigo_cliente": "72544",
+                        "desc_cliente": "VILARINHO E VILARINHO EMPREENDIMENTOS ALIMENTICIOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "29213",
                         "desc_cliente": "VITOR HUGO FISCHER"
                     },
@@ -79056,6 +79064,10 @@
                     {
                         "codigo_cliente": "36835",
                         "desc_cliente": "EZEQUIEL DE VARGAS"
+                    },
+                    {
+                        "codigo_cliente": "16322",
+                        "desc_cliente": "FORTUNA & CIA LTDA"
                     },
                     {
                         "codigo_cliente": "36612",

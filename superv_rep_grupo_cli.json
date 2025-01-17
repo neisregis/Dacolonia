@@ -9816,6 +9816,10 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "72539",
+                        "desc_cliente": "51.725.245 VINICIUS KRZIZANOVOSKI"
+                    },
+                    {
                         "codigo_cliente": "40248",
                         "desc_cliente": "ARMAZEM MUNICIPAL COMERCIO DE FRUTAS E VERDURAS LTDA"
                     },
@@ -9902,10 +9906,6 @@
                     {
                         "codigo_cliente": "40690",
                         "desc_cliente": "FASEH COMERCIO DE PRODUTOS NATURAIS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72539",
-                        "desc_cliente": "FRUTAL HORTIFRUTI"
                     },
                     {
                         "codigo_cliente": "65241",
@@ -36247,7 +36247,7 @@
                     },
                     {
                         "codigo_cliente": "72548",
-                        "desc_cliente": "FORCA UNIDA COMERCIAL ALIMENTOS E DESCATAVEIS"
+                        "desc_cliente": "FORCA UNIDA COMERCIO DE ALIMENTOS E DESCARTAVEIS LTDA"
                     },
                     {
                         "codigo_cliente": "31100",
@@ -49345,7 +49345,7 @@
                     },
                     {
                         "codigo_cliente": "72545",
-                        "desc_cliente": "MARISETE C.RODRIGUES"
+                        "desc_cliente": "MARISETE C. RODRIGUES"
                     },
                     {
                         "codigo_cliente": "70482",
@@ -49518,6 +49518,10 @@
                         "desc_cliente": "DE CARLI & DALLABRIDA LTDA"
                     },
                     {
+                        "codigo_cliente": "72549",
+                        "desc_cliente": "DE CARLI & DALLABRIDA LTDA"
+                    },
+                    {
                         "codigo_cliente": "33576",
                         "desc_cliente": "DE CARLI E DALLABRIDA LTDA"
                     },
@@ -49598,10 +49602,6 @@
                     {
                         "codigo_cliente": "72094",
                         "desc_cliente": "COOPERATIVA MISTA YUCUMA COOPERYUCUMA"
-                    },
-                    {
-                        "codigo_cliente": "72549",
-                        "desc_cliente": "DE CARLI E DALLABRIDA LTDA"
                     },
                     {
                         "codigo_cliente": "66424",
@@ -58274,6 +58274,10 @@
                         "desc_cliente": "FLAVIO SANTOS OLIVEIRA"
                     },
                     {
+                        "codigo_cliente": "72561",
+                        "desc_cliente": "FLAVIO SILVA"
+                    },
+                    {
                         "codigo_cliente": "47125",
                         "desc_cliente": "FLORI ALCEU"
                     },
@@ -59292,6 +59296,10 @@
                     {
                         "codigo_cliente": "68026",
                         "desc_cliente": "JHULY EVELIN ROSA"
+                    },
+                    {
+                        "codigo_cliente": "72560",
+                        "desc_cliente": "JOACIR JOSE LIMA "
                     },
                     {
                         "codigo_cliente": "68054",
@@ -72306,6 +72314,10 @@
                         "desc_cliente": "MARYLIA BOFF"
                     },
                     {
+                        "codigo_cliente": "72558",
+                        "desc_cliente": "MATEUS BARBOSA NOVAES"
+                    },
+                    {
                         "codigo_cliente": "70735",
                         "desc_cliente": "MATHEUS CAMPOS DA SILVA"
                     },
@@ -76647,7 +76659,7 @@
                     },
                     {
                         "codigo_cliente": "72544",
-                        "desc_cliente": "VILARINHO E VILARINHO EMPREENDIMENTOS ALIMEMTOS"
+                        "desc_cliente": "VILARINHO E VILARINHO EMPREENDIMENTOS ALIMENTICIOS LTDA"
                     },
                     {
                         "codigo_cliente": "29213",

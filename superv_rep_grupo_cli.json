@@ -41886,6 +41886,10 @@
                         "desc_cliente": "COMERCIAL FERREIRA DE ALIMENTOS LTDA - EPP"
                     },
                     {
+                        "codigo_cliente": "72070",
+                        "desc_cliente": "COMERCIO E MERCADO SENANDES LTDA"
+                    },
+                    {
                         "codigo_cliente": "33573",
                         "desc_cliente": "COML PEREIRA DE ALIMENTOS LTDA"
                     },
@@ -49584,6 +49588,10 @@
                     {
                         "codigo_cliente": "72094",
                         "desc_cliente": "COOPERATIVA MISTA YUCUMA COOPERYUCUMA"
+                    },
+                    {
+                        "codigo_cliente": "72549",
+                        "desc_cliente": "DE CARLI E DALLABRIDA LTDA"
                     },
                     {
                         "codigo_cliente": "66424",

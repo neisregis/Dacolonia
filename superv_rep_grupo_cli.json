@@ -986,6 +986,10 @@
                         "desc_cliente": "CRISTO REI LTDA"
                     },
                     {
+                        "codigo_cliente": "72572",
+                        "desc_cliente": "DECIO AUTO POSTO GURUPI LTDA"
+                    },
+                    {
                         "codigo_cliente": "68751",
                         "desc_cliente": "DEPOSITO DE CLORO E AGUA SANITARIA QUEIROZ LTDA"
                     },
@@ -22508,10 +22512,6 @@
                         "desc_cliente": "LALUZ VARIEDADES LTDA"
                     },
                     {
-                        "codigo_cliente": "72451",
-                        "desc_cliente": "LINKE COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "69540",
                         "desc_cliente": "LOCATELLI BASEGIO CONTE & SBARDELOTTO LTDA"
                     },
@@ -40634,10 +40634,6 @@
                         "desc_cliente": "DIMARZARI PANETTERIA E CONFEITARIA - EIRELI"
                     },
                     {
-                        "codigo_cliente": "72488",
-                        "desc_cliente": "DIVINA FRUTEIRA LTDA"
-                    },
-                    {
                         "codigo_cliente": "47276",
                         "desc_cliente": "DSL COM DE COMB LTDA"
                     },
@@ -52300,6 +52296,10 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "68961",
+                        "desc_cliente": "49.716.405 HENRIQUE FERNANDO DE ABREU"
+                    },
+                    {
                         "codigo_cliente": "40395",
                         "desc_cliente": "ADOLETA FESTAS E EMBALAGENS EIRELI"
                     },
@@ -53794,6 +53794,10 @@
                     {
                         "codigo_cliente": "34005",
                         "desc_cliente": "RODRIGO DA SILVA OLIVEIRA 02259898912"
+                    },
+                    {
+                        "codigo_cliente": "22801",
+                        "desc_cliente": "ROSINEIA MARIA DE MELO BALDANCA"
                     },
                     {
                         "codigo_cliente": "6450",
@@ -59410,6 +59414,10 @@
                         "desc_cliente": "JOAO LIMA "
                     },
                     {
+                        "codigo_cliente": "72570",
+                        "desc_cliente": "JOAO LUIS OLIVEIRA"
+                    },
+                    {
                         "codigo_cliente": "71913",
                         "desc_cliente": "JOAO LUIS PEREIRA"
                     },
@@ -60408,6 +60416,10 @@
                     {
                         "codigo_cliente": "60856",
                         "desc_cliente": "LINDOMAR DAMAS"
+                    },
+                    {
+                        "codigo_cliente": "72574",
+                        "desc_cliente": "LINDOMAR PEREIRA DA LUZ"
                     },
                     {
                         "codigo_cliente": "53087",
@@ -63058,6 +63070,10 @@
                         "desc_cliente": "SERGIO LUIS DOS SANTOS SOUZA"
                     },
                     {
+                        "codigo_cliente": "72573",
+                        "desc_cliente": "SERGIO PACHECO DORNELES"
+                    },
+                    {
                         "codigo_cliente": "68516",
                         "desc_cliente": "SERGIO PAULO CEDRES"
                     },
@@ -63520,6 +63536,10 @@
                     {
                         "codigo_cliente": "63075",
                         "desc_cliente": "VALINO VESTERMAN"
+                    },
+                    {
+                        "codigo_cliente": "72571",
+                        "desc_cliente": "VALMIR DA SILVA BRANCO"
                     },
                     {
                         "codigo_cliente": "72047",

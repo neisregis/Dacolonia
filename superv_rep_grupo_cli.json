@@ -22323,6 +22323,12 @@
                         "codigo_cliente": "29233",
                         "desc_cliente": "BENTOSUL DISTRIBUIDOR DE ALIMENTOS LTDA - EPP"
                     }
+                ],
+                "403 - DIVINA TERRA": [
+                    {
+                        "codigo_cliente": "35271",
+                        "desc_cliente": "DIVINOSS ALIMENTACAO LTDA"
+                    }
                 ]
             },
             "903": {
@@ -23696,6 +23702,10 @@
                     {
                         "codigo_cliente": "64725",
                         "desc_cliente": "GD SILVA CHURRASCARIA E RESTAURANTE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72559",
+                        "desc_cliente": "GELICIA SORVETES VALE REAL LTDA"
                     },
                     {
                         "codigo_cliente": "59747",
@@ -54948,6 +54958,10 @@
                         "desc_cliente": "BENTO NORDESTE TRANSPS E LOGISTICA LTDA"
                     },
                     {
+                        "codigo_cliente": "72553",
+                        "desc_cliente": "BROS LOGISTICA E TRANSPORTES LTDA"
+                    },
+                    {
                         "codigo_cliente": "71806",
                         "desc_cliente": "CARPEDIN TRANSPORTES E AGENCIA DE CARGAS LTDA"
                     },
@@ -54964,12 +54978,20 @@
                         "desc_cliente": "CLC LOGISTICA E TRANSPORTES LTDA"
                     },
                     {
+                        "codigo_cliente": "72555",
+                        "desc_cliente": "CR MULTIMODAL LTDA"
+                    },
+                    {
                         "codigo_cliente": "70265",
                         "desc_cliente": "DALLOGS EXPRESS LOGISTICA LTDA"
                     },
                     {
                         "codigo_cliente": "67189",
                         "desc_cliente": "ELL TRANSPORTES EXPRESS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72552",
+                        "desc_cliente": "EVIDENCIA LOGISTICA TRANSPORTES LTDA"
                     },
                     {
                         "codigo_cliente": "70128",
@@ -60210,6 +60232,10 @@
                     {
                         "codigo_cliente": "68902",
                         "desc_cliente": "LEONARDO CARVALHO"
+                    },
+                    {
+                        "codigo_cliente": "72557",
+                        "desc_cliente": "LEONARDO DE AZEVEDO SOARES"
                     },
                     {
                         "codigo_cliente": "57941",
@@ -65708,6 +65734,10 @@
                         "desc_cliente": "ANA LUCIA NEVES DANTAS"
                     },
                     {
+                        "codigo_cliente": "72556",
+                        "desc_cliente": "ANA LUCIA SUBERBIE BRUM"
+                    },
+                    {
                         "codigo_cliente": "66825",
                         "desc_cliente": "ANA LUCIA VIVIAN"
                     },
@@ -66278,6 +66308,10 @@
                     {
                         "codigo_cliente": "67122",
                         "desc_cliente": "BIANCA SCHMIDT"
+                    },
+                    {
+                        "codigo_cliente": "72550",
+                        "desc_cliente": "BIANCA VENERA"
                     },
                     {
                         "codigo_cliente": "65083",
@@ -68062,6 +68096,10 @@
                     {
                         "codigo_cliente": "68107",
                         "desc_cliente": "ELOISE DUARTE"
+                    },
+                    {
+                        "codigo_cliente": "39363",
+                        "desc_cliente": "ELVIRA SANTOS"
                     },
                     {
                         "codigo_cliente": "68744",
@@ -74548,6 +74586,10 @@
                         "desc_cliente": "TARCISIO TROJAN COELHO"
                     },
                     {
+                        "codigo_cliente": "72551",
+                        "desc_cliente": "TARSILA ANDREA MARI"
+                    },
+                    {
                         "codigo_cliente": "72005",
                         "desc_cliente": "TATIANA ALENCASTRE SF"
                     },
@@ -75278,6 +75320,10 @@
                     {
                         "codigo_cliente": "61848",
                         "desc_cliente": "WILSON KIYOSHI TAMASHIRO"
+                    },
+                    {
+                        "codigo_cliente": "72554",
+                        "desc_cliente": "YASMIN CLAUDINO"
                     },
                     {
                         "codigo_cliente": "69524",

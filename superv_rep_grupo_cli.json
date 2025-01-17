@@ -21994,6 +21994,10 @@
                         "desc_cliente": "EMPORIO DE QUEIJOS ELDORADO LTDA"
                     },
                     {
+                        "codigo_cliente": "72433",
+                        "desc_cliente": "EMPORIO IMIGRANTE LTDA"
+                    },
+                    {
                         "codigo_cliente": "58652",
                         "desc_cliente": "ERICKA DE FREITAS DE FARIA SCHUMANN 04320740076"
                     },
@@ -43030,6 +43034,10 @@
                         "desc_cliente": "RUBEM DARIO GONCALVES ZAMBRANO - ME"
                     },
                     {
+                        "codigo_cliente": "72568",
+                        "desc_cliente": "san isidro hotelaria e turismo ltda"
+                    },
+                    {
                         "codigo_cliente": "36305",
                         "desc_cliente": "SPENCER COMERCIO DE ALIMENTOS LTDA"
                     },
@@ -57968,6 +57976,10 @@
                     {
                         "codigo_cliente": "68053",
                         "desc_cliente": "EVERTON LUIS DA ROSA FREITAS"
+                    },
+                    {
+                        "codigo_cliente": "49304",
+                        "desc_cliente": "EZEQUIAS NAZARIO DA SILVA"
                     },
                     {
                         "codigo_cliente": "51612",
@@ -76694,10 +76706,6 @@
                         "desc_cliente": "VANUSA BIBIANA DO NASCIMENTO"
                     },
                     {
-                        "codigo_cliente": "72544",
-                        "desc_cliente": "VILARINHO E VILARINHO EMPREENDIMENTOS ALIMENTICIOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "29213",
                         "desc_cliente": "VITOR HUGO FISCHER"
                     },
@@ -79048,10 +79056,6 @@
                     {
                         "codigo_cliente": "36835",
                         "desc_cliente": "EZEQUIEL DE VARGAS"
-                    },
-                    {
-                        "codigo_cliente": "16322",
-                        "desc_cliente": "FORTUNA & CIA LTDA"
                     },
                     {
                         "codigo_cliente": "36612",
@@ -82074,6 +82078,10 @@
                     {
                         "codigo_cliente": "66895",
                         "desc_cliente": "VEIGAS COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72567",
+                        "desc_cliente": "VIPI COMERCIAL DE ALIMENTOS LTDA"
                     }
                 ],
                 "560 - COMERCIAL CRISTAL ": [

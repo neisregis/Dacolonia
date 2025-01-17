@@ -862,6 +862,10 @@
                 ],
                 "102 - SUPER MAX": [
                     {
+                        "codigo_cliente": "72563",
+                        "desc_cliente": "MN SUPERMERCADOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "8567",
                         "desc_cliente": "MN SUPERMERCADOS LTDA"
                     }
@@ -16160,6 +16164,10 @@
                     {
                         "codigo_cliente": "17451",
                         "desc_cliente": "LICA SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72564",
+                        "desc_cliente": "LOJA E HOTEL SANTA CLARA LTDA"
                     },
                     {
                         "codigo_cliente": "44323",
@@ -58426,10 +58434,6 @@
                         "desc_cliente": "GEFERSON BRAGATTO"
                     },
                     {
-                        "codigo_cliente": "70821",
-                        "desc_cliente": "GEFERSSON CORREIRA SCHIMITT"
-                    },
-                    {
                         "codigo_cliente": "66384",
                         "desc_cliente": "GEISIELLI LOPES DOS SANTOS"
                     },
@@ -59216,6 +59220,10 @@
                     {
                         "codigo_cliente": "67328",
                         "desc_cliente": "JEFERSSON ARAUJO DIAS"
+                    },
+                    {
+                        "codigo_cliente": "70821",
+                        "desc_cliente": "JEFERSSON CORREIRA SCHIMITT"
                     },
                     {
                         "codigo_cliente": "72400",
@@ -63660,6 +63668,10 @@
                     {
                         "codigo_cliente": "67271",
                         "desc_cliente": "VINICIUS SERPA"
+                    },
+                    {
+                        "codigo_cliente": "72565",
+                        "desc_cliente": "VIRGINIA TEIXEIRA"
                     },
                     {
                         "codigo_cliente": "72134",
@@ -76376,6 +76388,10 @@
                     {
                         "codigo_cliente": "23724",
                         "desc_cliente": "D. A. PELLEGRINI - MERCADO. - ME"
+                    },
+                    {
+                        "codigo_cliente": "72562",
+                        "desc_cliente": "DISTRIFRUTAS TIBOLA LTDA"
                     },
                     {
                         "codigo_cliente": "64211",

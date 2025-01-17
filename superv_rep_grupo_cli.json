@@ -22512,6 +22512,10 @@
                         "desc_cliente": "LALUZ VARIEDADES LTDA"
                     },
                     {
+                        "codigo_cliente": "72451",
+                        "desc_cliente": "LINKE COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "69540",
                         "desc_cliente": "LOCATELLI BASEGIO CONTE & SBARDELOTTO LTDA"
                     },
@@ -40632,6 +40636,10 @@
                     {
                         "codigo_cliente": "3058",
                         "desc_cliente": "DIMARZARI PANETTERIA E CONFEITARIA - EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "72488",
+                        "desc_cliente": "DIVINA FRUTEIRA LTDA"
                     },
                     {
                         "codigo_cliente": "47276",

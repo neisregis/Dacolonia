@@ -862,10 +862,6 @@
                 ],
                 "102 - SUPER MAX": [
                     {
-                        "codigo_cliente": "72563",
-                        "desc_cliente": "MN SUPERMERCADOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "8567",
                         "desc_cliente": "MN SUPERMERCADOS LTDA"
                     }
@@ -2966,14 +2962,6 @@
                     {
                         "codigo_cliente": "70638",
                         "desc_cliente": "SEM ACUCAR LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72543",
-                        "desc_cliente": "SUPERMERCADO ALVARO DA SILVA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72546",
-                        "desc_cliente": "SUPERMERCADO ALVARO DA SILVA LTDA"
                     },
                     {
                         "codigo_cliente": "68205",
@@ -23324,6 +23312,10 @@
                         "desc_cliente": "MERCADO E AQUI LTDA"
                     },
                     {
+                        "codigo_cliente": "72589",
+                        "desc_cliente": "MERCADO E MERCEARIA TISATTO"
+                    },
+                    {
                         "codigo_cliente": "48923",
                         "desc_cliente": "MERCADO MULLER COMERCIO DE ALIMENTOS LTDA"
                     },
@@ -36268,6 +36260,10 @@
                     {
                         "codigo_cliente": "55270",
                         "desc_cliente": "CASTRO E CASTRO COMERCIO E IMPORTACAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72548",
+                        "desc_cliente": "FORCA UNIDA COMERCIO DE ALIMENTOS E DESCARTAVEIS LTDA"
                     },
                     {
                         "codigo_cliente": "31100",
@@ -57018,6 +57014,10 @@
                         "desc_cliente": "CRISTIANE MELO"
                     },
                     {
+                        "codigo_cliente": "72590",
+                        "desc_cliente": "CRISTIANE MIGLIAVCCA"
+                    },
+                    {
                         "codigo_cliente": "51679",
                         "desc_cliente": "CRISTIANE SANTOS DA SILVA"
                     },
@@ -63472,6 +63472,10 @@
                     {
                         "codigo_cliente": "51243",
                         "desc_cliente": "TIAGO DOS SANTOS REINHEIMER"
+                    },
+                    {
+                        "codigo_cliente": "63032",
+                        "desc_cliente": "TIAGO EICK LOPES"
                     },
                     {
                         "codigo_cliente": "66994",

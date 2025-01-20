@@ -34772,10 +34772,6 @@
                         "desc_cliente": "57.267.009 GENUIR BARIVIERA"
                     },
                     {
-                        "codigo_cliente": "72516",
-                        "desc_cliente": "58.685.184 ANITA MASIEL BIEDZICKI"
-                    },
-                    {
                         "codigo_cliente": "67972",
                         "desc_cliente": "ADILSON ENGEL RICARDO"
                     },
@@ -65676,6 +65672,10 @@
                     {
                         "codigo_cliente": "69472",
                         "desc_cliente": "AMANDA ALVARENGA"
+                    },
+                    {
+                        "codigo_cliente": "72588",
+                        "desc_cliente": "AMANDA CARDOSO GOMES DE MELLO"
                     },
                     {
                         "codigo_cliente": "68536",

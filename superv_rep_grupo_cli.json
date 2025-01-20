@@ -2968,6 +2968,14 @@
                         "desc_cliente": "SEM ACUCAR LTDA"
                     },
                     {
+                        "codigo_cliente": "72543",
+                        "desc_cliente": "SUPERMERCADO ALVARO DA SILVA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72546",
+                        "desc_cliente": "SUPERMERCADO ALVARO DA SILVA LTDA"
+                    },
+                    {
                         "codigo_cliente": "68205",
                         "desc_cliente": "SUPERMERCADO CANAA FRANCISCA ADRIANGELA LTDA"
                     },
@@ -20614,6 +20622,10 @@
                         "desc_cliente": "MINI MERCADO ONZI LTDA"
                     },
                     {
+                        "codigo_cliente": "72595",
+                        "desc_cliente": "MINUANO INTERLAGOS"
+                    },
+                    {
                         "codigo_cliente": "29124",
                         "desc_cliente": "MIOLO EMPORIO GOURMET LTDA - ME"
                     },
@@ -27888,6 +27900,10 @@
                     {
                         "codigo_cliente": "48278",
                         "desc_cliente": "N R SERVICOS DE ALIMENTACAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "41491",
+                        "desc_cliente": "ODETE FERREIRA MANDELLI"
                     },
                     {
                         "codigo_cliente": "71141",
@@ -63704,6 +63720,10 @@
                     {
                         "codigo_cliente": "70306",
                         "desc_cliente": "VILSON JOSE ZANELLATO"
+                    },
+                    {
+                        "codigo_cliente": "65547",
+                        "desc_cliente": "VILSON JUNIOR SOUZA CARDOSO"
                     },
                     {
                         "codigo_cliente": "67726",

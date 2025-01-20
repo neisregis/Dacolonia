@@ -12186,10 +12186,6 @@
                         "desc_cliente": "DO CAMPO BEBIDAS SAUDAVEIS LTDA "
                     },
                     {
-                        "codigo_cliente": "72575",
-                        "desc_cliente": "DO VALE FILHO COMERCIAL DE ALIMENTOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "63508",
                         "desc_cliente": "DRUZIKI SUPERMERCADOS LTDA"
                     },
@@ -12617,6 +12613,10 @@
                     },
                     {
                         "codigo_cliente": "43586",
+                        "desc_cliente": "DO VALE FILHO COMERCIAL DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72575",
                         "desc_cliente": "DO VALE FILHO COMERCIAL DE ALIMENTOS LTDA"
                     }
                 ],

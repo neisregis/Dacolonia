@@ -36270,10 +36270,6 @@
                         "desc_cliente": "CASTRO E CASTRO COMERCIO E IMPORTACAO LTDA"
                     },
                     {
-                        "codigo_cliente": "72548",
-                        "desc_cliente": "FORCA UNIDA COMERCIO DE ALIMENTOS E DESCARTAVEIS LTDA"
-                    },
-                    {
                         "codigo_cliente": "31100",
                         "desc_cliente": "FORTIN DOS DOCES E CEREAIS LTDA"
                     },
@@ -56704,6 +56700,10 @@
                     {
                         "codigo_cliente": "72250",
                         "desc_cliente": "CAROLYNE ALMEIDA DE SOUZA"
+                    },
+                    {
+                        "codigo_cliente": "72585",
+                        "desc_cliente": "CASSIA DAIANE STEFFEN"
                     },
                     {
                         "codigo_cliente": "72076",

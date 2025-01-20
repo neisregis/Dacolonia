@@ -862,6 +862,10 @@
                 ],
                 "102 - SUPER MAX": [
                     {
+                        "codigo_cliente": "72563",
+                        "desc_cliente": "MN SUPERMERCADOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "8567",
                         "desc_cliente": "MN SUPERMERCADOS LTDA"
                     }

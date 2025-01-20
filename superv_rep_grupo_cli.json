@@ -13854,6 +13854,10 @@
                     {
                         "codigo_cliente": "63236",
                         "desc_cliente": "COOPERATIVA REGIONAL AGROPEC. DE CAMPOS NOVOS - COPERCAMPOS"
+                    },
+                    {
+                        "codigo_cliente": "27804",
+                        "desc_cliente": "COOPERATIVA REGIONAL AGROPECUARIA DE CAMPOS NOVOS - COP"
                     }
                 ],
                 "784 - VENDEDOR/REPRESENTANTE": [
@@ -77830,6 +77834,10 @@
                     {
                         "codigo_cliente": "31490",
                         "desc_cliente": "IVANIR PERETTI & CIA LTDA - ME"
+                    },
+                    {
+                        "codigo_cliente": "36952",
+                        "desc_cliente": "JANETE FIORENTIN CERVELIN"
                     },
                     {
                         "codigo_cliente": "38734",

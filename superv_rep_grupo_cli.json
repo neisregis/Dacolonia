@@ -38854,12 +38854,12 @@
                         "desc_cliente": "RS MERCADO VAREJISTA LTDA"
                     },
                     {
-                        "codigo_cliente": "72576",
-                        "desc_cliente": ".SIPER GRAOS PRODUTO NATURAL  LTDA"
-                    },
-                    {
                         "codigo_cliente": "47814",
                         "desc_cliente": "SUPERDOCE COMERCIAL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72576",
+                        "desc_cliente": "SUPER GRAOS PRODUTOS NATURAIS LTDA"
                     },
                     {
                         "codigo_cliente": "46774",
@@ -43047,7 +43047,7 @@
                     },
                     {
                         "codigo_cliente": "72568",
-                        "desc_cliente": "san isidro hotelaria e turismo ltda"
+                        "desc_cliente": "SAN ISIDRO HOTELARIA E TURISMO LTDA"
                     },
                     {
                         "codigo_cliente": "36305",
@@ -82129,7 +82129,7 @@
                     },
                     {
                         "codigo_cliente": "72567",
-                        "desc_cliente": "VIPI COMERCIAL DE ALIMENTOS LTDA"
+                        "desc_cliente": "VIPI AL COMERCIAL DE ALIMENTOS LTDA"
                     }
                 ],
                 "560 - COMERCIAL CRISTAL ": [

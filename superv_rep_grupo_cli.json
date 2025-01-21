@@ -12618,6 +12618,10 @@
                     {
                         "codigo_cliente": "43586",
                         "desc_cliente": "DO VALE FILHO COMERCIAL DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72575",
+                        "desc_cliente": "DO VALE FILHO COMERCIAL DE ALIMENTOS LTDA"
                     }
                 ],
                 "71 - SENDAS": [
@@ -62152,6 +62156,10 @@
                         "desc_cliente": "PAULO CESAR DA SILVA LAIOLA"
                     },
                     {
+                        "codigo_cliente": "72607",
+                        "desc_cliente": "PAULO CESAR GARÇAL"
+                    },
+                    {
                         "codigo_cliente": "70162",
                         "desc_cliente": "PAULO CESAR PINHEIRO VIANA"
                     },
@@ -63994,6 +64002,10 @@
                     {
                         "codigo_cliente": "67285",
                         "desc_cliente": "ALBERTO VARGAS DOMENISKI"
+                    },
+                    {
+                        "codigo_cliente": "30562",
+                        "desc_cliente": "ALEX BENCK RODRIGUES"
                     },
                     {
                         "codigo_cliente": "57574",
@@ -84604,6 +84616,10 @@
                     {
                         "codigo_cliente": "72339",
                         "desc_cliente": "AL HADAF AL WADEH"
+                    },
+                    {
+                        "codigo_cliente": "72608",
+                        "desc_cliente": "BRASPORT ALIM.BRESILIENNE ET PORTUGAISE"
                     },
                     {
                         "codigo_cliente": "33213",

@@ -25100,6 +25100,10 @@
                         "desc_cliente": "S A SANTANA  LTDA"
                     },
                     {
+                        "codigo_cliente": "72614",
+                        "desc_cliente": "SB SUPERMERCADOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "41186",
                         "desc_cliente": "SB SUPERMERCADOS LTDA - EPP"
                     },
@@ -25118,10 +25122,6 @@
                     {
                         "codigo_cliente": "61598",
                         "desc_cliente": "SUPERAMIGOS COMERCIAL DE ALIMENTOS LTDA - ME"
-                    },
-                    {
-                        "codigo_cliente": "72614",
-                        "desc_cliente": "SUPER BIG SUPERMERCADOS"
                     },
                     {
                         "codigo_cliente": "46639",
@@ -32728,6 +32728,10 @@
                     {
                         "codigo_cliente": "43217",
                         "desc_cliente": "COML HORTIFRUTI DA GRECIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "12856",
+                        "desc_cliente": "CONSTANTIN COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "64684",
@@ -55178,6 +55182,10 @@
                         "desc_cliente": "56.364.324 CLEITON MENGER DE AGUIAR"
                     },
                     {
+                        "codigo_cliente": "72625",
+                        "desc_cliente": "57.496.171 PATRICIA COMASSETTO"
+                    },
+                    {
                         "codigo_cliente": "67285",
                         "desc_cliente": "ALBERTO VARGAS DOMENISKI"
                     },
@@ -57862,6 +57870,10 @@
                     {
                         "codigo_cliente": "63978",
                         "desc_cliente": "ELIZANDRA DO NASCIMENTO"
+                    },
+                    {
+                        "codigo_cliente": "72626",
+                        "desc_cliente": "ELIZANDRA NUNES DA SILVA"
                     },
                     {
                         "codigo_cliente": "50395",
@@ -64031,6 +64043,10 @@
                     }
                 ],
                 "337 - VENDA BALCÃO": [
+                    {
+                        "codigo_cliente": "72625",
+                        "desc_cliente": "57.496.171 PATRICIA COMASSETTO"
+                    },
                     {
                         "codigo_cliente": "35522",
                         "desc_cliente": "ADEMAR BETAT"

@@ -25120,6 +25120,10 @@
                         "desc_cliente": "SUPERAMIGOS COMERCIAL DE ALIMENTOS LTDA - ME"
                     },
                     {
+                        "codigo_cliente": "72614",
+                        "desc_cliente": "SUPER BIG SUPERMERCADOS"
+                    },
+                    {
                         "codigo_cliente": "46639",
                         "desc_cliente": "SUPER DISTRIBUIDOR DE ALIMENTOS W D EIRELI"
                     },
@@ -55852,6 +55856,10 @@
                         "desc_cliente": "ALVARO ALONCIO"
                     },
                     {
+                        "codigo_cliente": "72611",
+                        "desc_cliente": "AMANDA BERGMANN"
+                    },
+                    {
                         "codigo_cliente": "67279",
                         "desc_cliente": "AMANDA DA CRUZ DE OLIVEIRA"
                     },
@@ -57734,6 +57742,10 @@
                     {
                         "codigo_cliente": "70362",
                         "desc_cliente": "EDUARDO NORONHA"
+                    },
+                    {
+                        "codigo_cliente": "72612",
+                        "desc_cliente": "EDUARDO QUARESMA LEDUR"
                     },
                     {
                         "codigo_cliente": "56830",
@@ -74522,6 +74534,10 @@
                     {
                         "codigo_cliente": "70018",
                         "desc_cliente": "SIMONE CASTRO DA SILVEIRA"
+                    },
+                    {
+                        "codigo_cliente": "72606",
+                        "desc_cliente": "SIMONE DA SILVA CARVALHO"
                     },
                     {
                         "codigo_cliente": "71289",

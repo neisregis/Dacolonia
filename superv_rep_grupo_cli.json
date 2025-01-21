@@ -32730,10 +32730,6 @@
                         "desc_cliente": "COML HORTIFRUTI DA GRECIA LTDA"
                     },
                     {
-                        "codigo_cliente": "12856",
-                        "desc_cliente": "CONSTANTIN COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "64684",
                         "desc_cliente": "CT PRODUTOS NATURAIS LTDA"
                     },
@@ -55632,6 +55628,10 @@
                         "desc_cliente": "ALAOR FRANCISCO DE OLIVEIRA"
                     },
                     {
+                        "codigo_cliente": "72623",
+                        "desc_cliente": "ALBINO SERGIO PEDROSO"
+                    },
+                    {
                         "codigo_cliente": "59529",
                         "desc_cliente": "ALCEMAR PEREIRA DE SENNA "
                     },
@@ -57750,10 +57750,6 @@
                     {
                         "codigo_cliente": "70362",
                         "desc_cliente": "EDUARDO NORONHA"
-                    },
-                    {
-                        "codigo_cliente": "72612",
-                        "desc_cliente": "EDUARDO QUARESMA LEDUR"
                     },
                     {
                         "codigo_cliente": "56830",
@@ -63190,6 +63186,10 @@
                     {
                         "codigo_cliente": "69032",
                         "desc_cliente": "SHAINE DE OLIVEIRA TEIXEIRA"
+                    },
+                    {
+                        "codigo_cliente": "72622",
+                        "desc_cliente": "SHAYANA GONÇALVES"
                     },
                     {
                         "codigo_cliente": "65254",

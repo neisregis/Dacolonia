@@ -12618,10 +12618,6 @@
                     {
                         "codigo_cliente": "43586",
                         "desc_cliente": "DO VALE FILHO COMERCIAL DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72575",
-                        "desc_cliente": "DO VALE FILHO COMERCIAL DE ALIMENTOS LTDA"
                     }
                 ],
                 "71 - SENDAS": [
@@ -14494,12 +14490,12 @@
                         "desc_cliente": "SUPERMERCADO MAVEGAL LTDA - ME"
                     },
                     {
-                        "codigo_cliente": "29375",
+                        "codigo_cliente": "61596",
                         "desc_cliente": "SUPERMERCADO PORTO LTDA"
                     },
                     {
-                        "codigo_cliente": "61596",
-                        "desc_cliente": "SUPERMERCADO PORTO LTDA"
+                        "codigo_cliente": "29375",
+                        "desc_cliente": "SUPERMERCADO PORTO LTDA."
                     },
                     {
                         "codigo_cliente": "11631",
@@ -51478,16 +51474,16 @@
                         "desc_cliente": "MARCIO DIOGENES JONER DO AMARAL"
                     },
                     {
+                        "codigo_cliente": "11655",
+                        "desc_cliente": "MERCADO DEPIERI LTDA"
+                    },
+                    {
                         "codigo_cliente": "1534",
                         "desc_cliente": "SUPERMERCADO LINASSI LTDA"
                     },
                     {
                         "codigo_cliente": "25877",
                         "desc_cliente": "SUPER MORESCO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "11655",
-                        "desc_cliente": "TEREZA J C DEPIERI - EPP"
                     },
                     {
                         "codigo_cliente": "61653",
@@ -55380,6 +55376,10 @@
                     {
                         "codigo_cliente": "30535",
                         "desc_cliente": "SILVIO MOREIRA DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "72605",
+                        "desc_cliente": "TENDA PARAISO - COM DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "64666",

@@ -862,10 +862,6 @@
                 ],
                 "102 - SUPER MAX": [
                     {
-                        "codigo_cliente": "72563",
-                        "desc_cliente": "MN SUPERMERCADOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "8567",
                         "desc_cliente": "MN SUPERMERCADOS LTDA"
                     }
@@ -2966,14 +2962,6 @@
                     {
                         "codigo_cliente": "70638",
                         "desc_cliente": "SEM ACUCAR LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72543",
-                        "desc_cliente": "SUPERMERCADO ALVARO DA SILVA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72546",
-                        "desc_cliente": "SUPERMERCADO ALVARO DA SILVA LTDA"
                     },
                     {
                         "codigo_cliente": "68205",
@@ -23292,6 +23280,10 @@
                         "desc_cliente": "CONVENIENCIA HANSEN LTDA"
                     },
                     {
+                        "codigo_cliente": "54296",
+                        "desc_cliente": "CRISTIANE ZANG "
+                    },
+                    {
                         "codigo_cliente": "48573",
                         "desc_cliente": "D B DOS SANTOS BAZAR"
                     },
@@ -39459,10 +39451,6 @@
                     }
                 ],
                 "1 - GERAL": [
-                    {
-                        "codigo_cliente": "26308",
-                        "desc_cliente": "ALEGRIA COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
-                    },
                     {
                         "codigo_cliente": "70026",
                         "desc_cliente": "ASSIS BUARQUE BAR E MERCEARIA LTDA"
@@ -72224,6 +72212,10 @@
                         "desc_cliente": "MARIA DE FATIMA MONTEIRO MARCO"
                     },
                     {
+                        "codigo_cliente": "45863",
+                        "desc_cliente": "MARIA DE LORENA AGGIO CORREA"
+                    },
+                    {
                         "codigo_cliente": "68745",
                         "desc_cliente": "MARIA DE LOURDES ROCHA MARTINS"
                     },
@@ -72718,6 +72710,10 @@
                     {
                         "codigo_cliente": "70430",
                         "desc_cliente": "MATIAS MARIANI"
+                    },
+                    {
+                        "codigo_cliente": "72636",
+                        "desc_cliente": "MAURA ANDRE LARA"
                     },
                     {
                         "codigo_cliente": "42261",

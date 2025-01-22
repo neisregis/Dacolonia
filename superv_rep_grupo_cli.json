@@ -862,6 +862,10 @@
                 ],
                 "102 - SUPER MAX": [
                     {
+                        "codigo_cliente": "72563",
+                        "desc_cliente": "MN SUPERMERCADOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "8567",
                         "desc_cliente": "MN SUPERMERCADOS LTDA"
                     }
@@ -2464,10 +2468,6 @@
                         "desc_cliente": "SUPERMECADO JOAO NOGUEIRA LTDA"
                     },
                     {
-                        "codigo_cliente": "68171",
-                        "desc_cliente": "SUPERMECADO NOVO HORIZONTE CRISTINA LTDA"
-                    },
-                    {
                         "codigo_cliente": "66001",
                         "desc_cliente": "SUPERMERCADO JOAO NOGUEIRA LTDA"
                     },
@@ -2486,52 +2486,6 @@
                     {
                         "codigo_cliente": "55040",
                         "desc_cliente": "VAREJAO BOA IDEIA COMERCIO ALIMENTICIOS LTDA"
-                    }
-                ],
-                "636 - SUPERM. NOVO HORIZONTE": [
-                    {
-                        "codigo_cliente": "44804",
-                        "desc_cliente": "MERCEARIA NASCIMENTO NOVO HORIZONTE LTDA"
-                    },
-                    {
-                        "codigo_cliente": "53872",
-                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE BOA ESPERANCA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44814",
-                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE CATAGUASES LTDA"
-                    },
-                    {
-                        "codigo_cliente": "48240",
-                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE JARDIM LAGUNA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44815",
-                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44811",
-                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE METROPOLITANO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44807",
-                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE NASCIMENTO LTDA."
-                    },
-                    {
-                        "codigo_cliente": "44813",
-                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE PLUS LOJA"
-                    },
-                    {
-                        "codigo_cliente": "59250",
-                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE RESSACA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44809",
-                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE VENEZA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "44805",
-                        "desc_cliente": "SUPERMERCADO NOVOS HORIZONTES LTDA."
                     }
                 ],
                 "843 - COML DE PROD EBENEZER": [
@@ -2900,6 +2854,10 @@
                         "desc_cliente": "HIPER COMPRAS ALIMENTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "70390",
+                        "desc_cliente": "JORGE LUIS DA SILVA"
+                    },
+                    {
                         "codigo_cliente": "59320",
                         "desc_cliente": "KIBARATO ALTEROSA LTDA"
                     },
@@ -2964,6 +2922,18 @@
                         "desc_cliente": "SEM ACUCAR LTDA"
                     },
                     {
+                        "codigo_cliente": "68171",
+                        "desc_cliente": "SUPERMECADO NOVO HORIZONTE CRISTINA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72543",
+                        "desc_cliente": "SUPERMERCADO ALVARO DA SILVA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72546",
+                        "desc_cliente": "SUPERMERCADO ALVARO DA SILVA LTDA"
+                    },
+                    {
                         "codigo_cliente": "68205",
                         "desc_cliente": "SUPERMERCADO CANAA FRANCISCA ADRIANGELA LTDA"
                     },
@@ -2974,6 +2944,52 @@
                     {
                         "codigo_cliente": "60112",
                         "desc_cliente": "SUPERMERCADO PEJOAL LTDA"
+                    }
+                ],
+                "636 - SUPERM. NOVO HORIZONTE": [
+                    {
+                        "codigo_cliente": "44804",
+                        "desc_cliente": "MERCEARIA NASCIMENTO NOVO HORIZONTE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "53872",
+                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE BOA ESPERANCA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44814",
+                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE CATAGUASES LTDA"
+                    },
+                    {
+                        "codigo_cliente": "48240",
+                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE JARDIM LAGUNA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44815",
+                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44811",
+                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE METROPOLITANO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44807",
+                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE NASCIMENTO LTDA."
+                    },
+                    {
+                        "codigo_cliente": "44813",
+                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE PLUS LOJA"
+                    },
+                    {
+                        "codigo_cliente": "59250",
+                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE RESSACA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44809",
+                        "desc_cliente": "SUPERMERCADO NOVO HORIZONTE VENEZA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44805",
+                        "desc_cliente": "SUPERMERCADO NOVOS HORIZONTES LTDA."
                     }
                 ],
                 "88 - ATACADAO": [
@@ -35942,6 +35958,10 @@
                         "desc_cliente": "BIANCA OLIVEIRA DA SILVA PRAVADELLI 16061978782"
                     },
                     {
+                        "codigo_cliente": "65415",
+                        "desc_cliente": "BOM DE PREÇO COMERCIO E DISTRIBUIDORA DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "72469",
                         "desc_cliente": "CDD COMERCIAL LTDA"
                     },
@@ -39452,6 +39472,10 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "26308",
+                        "desc_cliente": "ALEGRIA COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "70026",
                         "desc_cliente": "ASSIS BUARQUE BAR E MERCEARIA LTDA"
                     },
@@ -39524,14 +39548,6 @@
                     {
                         "codigo_cliente": "36873",
                         "desc_cliente": "PRY COMERCIO DE PRODUTOS NATURAIS LTDA"
-                    }
-                ]
-            },
-            "689": {
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "65415",
-                        "desc_cliente": "BOM DE PREÇO COMERCIO E DISTRIBUIDORA DE ALIMENTOS LTDA"
                     }
                 ]
             },
@@ -56180,6 +56196,10 @@
                         "desc_cliente": "ANDRE LUIS OSORIO DA CUNHA"
                     },
                     {
+                        "codigo_cliente": "61415",
+                        "desc_cliente": "ANDRE LUIZ ALMEIDA"
+                    },
+                    {
                         "codigo_cliente": "72379",
                         "desc_cliente": "ANDRE MARTINS VIEIRA"
                     },
@@ -58844,6 +58864,10 @@
                         "desc_cliente": "GRASIELI LIMA PACHECO"
                     },
                     {
+                        "codigo_cliente": "72648",
+                        "desc_cliente": "GUILHERME ANTONIO DE CASTRO"
+                    },
+                    {
                         "codigo_cliente": "66121",
                         "desc_cliente": "GUILHERME ARTHUR DA SILVA MULLER"
                     },
@@ -58974,6 +58998,10 @@
                     {
                         "codigo_cliente": "63599",
                         "desc_cliente": "HENRIQUE MARTINICORENA"
+                    },
+                    {
+                        "codigo_cliente": "72647",
+                        "desc_cliente": "HENRIQUE MOMBACHE DA FONCECA"
                     },
                     {
                         "codigo_cliente": "67826",
@@ -59786,10 +59814,6 @@
                     {
                         "codigo_cliente": "58930",
                         "desc_cliente": "JORGE FRANCISCO GIL NETO"
-                    },
-                    {
-                        "codigo_cliente": "70390",
-                        "desc_cliente": "JORGE LUIS DA SILVA"
                     },
                     {
                         "codigo_cliente": "72465",
@@ -64992,6 +65016,10 @@
                     {
                         "codigo_cliente": "71322",
                         "desc_cliente": "GUILHERME JARDIM RODRIGUES"
+                    },
+                    {
+                        "codigo_cliente": "72646",
+                        "desc_cliente": "GUILHERME ORTIZ"
                     },
                     {
                         "codigo_cliente": "71297",

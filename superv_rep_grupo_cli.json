@@ -10382,6 +10382,10 @@
                 ],
                 "48 - SUL 10": [
                     {
+                        "codigo_cliente": "2311",
+                        "desc_cliente": "COMERCIO DE CEREAIS DELA SANTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "23112",
                         "desc_cliente": "SUPERMERCADO SANTA HELENA LTDA - PALOMA"
                     }
@@ -16330,6 +16334,10 @@
                         "desc_cliente": "MERCADO KAUE EIRELI"
                     },
                     {
+                        "codigo_cliente": "45165",
+                        "desc_cliente": "MERCADO LIDANI LTDA"
+                    },
+                    {
                         "codigo_cliente": "41502",
                         "desc_cliente": "MERCADO LIMA E FILHOS LTDA"
                     },
@@ -17450,6 +17458,10 @@
                     {
                         "codigo_cliente": "57811",
                         "desc_cliente": "POSTOS MERIGO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "52800",
+                        "desc_cliente": "ROSE MARA TEODORO MARQUES 70392722100"
                     },
                     {
                         "codigo_cliente": "28233",
@@ -33038,6 +33050,10 @@
                         "desc_cliente": "SUPER GUAIBOM LTDA"
                     },
                     {
+                        "codigo_cliente": "44377",
+                        "desc_cliente": "SUPERMERCADO JUSTO LTDA"
+                    },
+                    {
                         "codigo_cliente": "35424",
                         "desc_cliente": "SUPER NASSUCA LTDA"
                     },
@@ -40794,6 +40810,10 @@
                     {
                         "codigo_cliente": "42919",
                         "desc_cliente": "ELISA HEGNER MORAIS"
+                    },
+                    {
+                        "codigo_cliente": "59430",
+                        "desc_cliente": "ELISANGELA CORREA NUNES"
                     },
                     {
                         "codigo_cliente": "32636",
@@ -58040,6 +58060,10 @@
                         "desc_cliente": "EMERSON SANHUDO DEVES DA SILVA "
                     },
                     {
+                        "codigo_cliente": "72653",
+                        "desc_cliente": "EMILY CARDOSO DE AVILA"
+                    },
+                    {
                         "codigo_cliente": "67083",
                         "desc_cliente": "ENILSO MUNIZ RIBEIRO"
                     },
@@ -58894,6 +58918,10 @@
                     {
                         "codigo_cliente": "51087",
                         "desc_cliente": "GUILHERME HENN"
+                    },
+                    {
+                        "codigo_cliente": "72652",
+                        "desc_cliente": "GUILHERME KRAMER"
                     },
                     {
                         "codigo_cliente": "71739",
@@ -63102,6 +63130,10 @@
                     {
                         "codigo_cliente": "68399",
                         "desc_cliente": "RUBENS ALVES DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "72654",
+                        "desc_cliente": "RUBERTO DE ASSIS"
                     },
                     {
                         "codigo_cliente": "66411",

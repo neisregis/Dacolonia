@@ -79896,10 +79896,6 @@
                         "desc_cliente": "NESTOR LACHMAN & CIA LTDA"
                     },
                     {
-                        "codigo_cliente": "56961",
-                        "desc_cliente": "REAL LIMA PATO BRANCO LTDA"
-                    },
-                    {
                         "codigo_cliente": "38687",
                         "desc_cliente": "REDECON SUPERMERCADO LTDA"
                     },
@@ -80060,12 +80056,6 @@
                     {
                         "codigo_cliente": "802",
                         "desc_cliente": "ITALO SUPERMERCADOS LTDA"
-                    }
-                ],
-                "256 - IVASKO": [
-                    {
-                        "codigo_cliente": "69165",
-                        "desc_cliente": "SUPERMERCADO NEW LTDA"
                     }
                 ],
                 "368 - CONRADO": [
@@ -80254,12 +80244,6 @@
                     {
                         "codigo_cliente": "806",
                         "desc_cliente": "N TONIAL E CIA LTDA"
-                    }
-                ],
-                "774 - REAL MIX - PR": [
-                    {
-                        "codigo_cliente": "52014",
-                        "desc_cliente": "REAL LIMA FRANCISCO BELTRAO - COM. DE UTILIDADES DOMESTICAS "
                     }
                 ],
                 "816 - SUPER AMIGÃO": [
@@ -82062,6 +82046,10 @@
                         "desc_cliente": "PAULO ROBERTO LONGHINOTTI - EIRELI - EPP"
                     },
                     {
+                        "codigo_cliente": "56961",
+                        "desc_cliente": "REAL LIMA PATO BRANCO LTDA"
+                    },
+                    {
                         "codigo_cliente": "59795",
                         "desc_cliente": "REAL MIX PIONEIRA - COMERCIO DE UTILIDADES DOMESTICAS LTDA"
                     },
@@ -82154,10 +82142,22 @@
                         "desc_cliente": "ZIMMERMANN COMERCIO DE PRODUTOS NATURAIS LTDA - ME"
                     }
                 ],
+                "256 - IVASKO": [
+                    {
+                        "codigo_cliente": "69165",
+                        "desc_cliente": "SUPERMERCADO NEW LTDA"
+                    }
+                ],
                 "524 - KAIROS - BONIATTI": [
                     {
                         "codigo_cliente": "40067",
                         "desc_cliente": "KAIROS COMERCIO DE ALIMENTOS EIRELI"
+                    }
+                ],
+                "774 - REAL MIX - PR": [
+                    {
+                        "codigo_cliente": "52014",
+                        "desc_cliente": "REAL LIMA FRANCISCO BELTRAO - COM. DE UTILIDADES DOMESTICAS "
                     }
                 ],
                 "969 - PUPPO": [

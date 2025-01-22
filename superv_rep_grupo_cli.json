@@ -44608,16 +44608,6 @@
                         "desc_cliente": "SUPERMERCADOS RASTELAO LTDA"
                     }
                 ],
-                "1323 - ALIMAX": [
-                    {
-                        "codigo_cliente": "68782",
-                        "desc_cliente": "ALIMENTARE PRODUTOS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69117",
-                        "desc_cliente": "ALIMENTARE PRODUTOS ALIMENTICIOS LTDA"
-                    }
-                ],
                 "1 - GERAL": [
                     {
                         "codigo_cliente": "69688",
@@ -44632,14 +44622,6 @@
                         "desc_cliente": "54.898.927 MARLY SOUZA GUIMARAES"
                     },
                     {
-                        "codigo_cliente": "66708",
-                        "desc_cliente": "55.168.822 VALDECIR ANTONIO SPADA"
-                    },
-                    {
-                        "codigo_cliente": "68294",
-                        "desc_cliente": "A B DA SILVA VARIEDADES"
-                    },
-                    {
                         "codigo_cliente": "69797",
                         "desc_cliente": "ADILSON APARECIDO BRITO MIRANDA PIRAPOZINHO"
                     },
@@ -44648,24 +44630,8 @@
                         "desc_cliente": "A L DE OLIVEIRA DIAS"
                     },
                     {
-                        "codigo_cliente": "67043",
-                        "desc_cliente": "ANDRESSA LACERDA TREME LTDA"
-                    },
-                    {
-                        "codigo_cliente": "64260",
-                        "desc_cliente": "ANTILHA APARECIDA DOS SANTOS LEITE MARTINS"
-                    },
-                    {
                         "codigo_cliente": "62294",
                         "desc_cliente": "ARAUJO, RODRIGUES & PINHATI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "58851",
-                        "desc_cliente": "ARMAZEM E RESTAURANTE MANZALLI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "68626",
-                        "desc_cliente": "ATENTO DISTRIBUIDORA DE PRODUTOS EM GERAL LTDA"
                     },
                     {
                         "codigo_cliente": "63572",
@@ -44676,36 +44642,8 @@
                         "desc_cliente": "AVENIDAO SUPERMERCADO LTDA"
                     },
                     {
-                        "codigo_cliente": "67856",
-                        "desc_cliente": "BALTICO CONDICIONAMENTO FISICO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67303",
-                        "desc_cliente": "BASMAR COMERCIO DE DOCES LTDA"
-                    },
-                    {
                         "codigo_cliente": "65831",
                         "desc_cliente": "CASA DAS EMBALAGENS LIMA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "25579",
-                        "desc_cliente": "CHURRASCARIA BATISTELLA RIO PRETO LTDA - EPP"
-                    },
-                    {
-                        "codigo_cliente": "68963",
-                        "desc_cliente": "CHURRASCARIA E LANCHONETE NOVA PAINEIRAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "68668",
-                        "desc_cliente": "C. J. OGAWA & CIA. LTDA."
-                    },
-                    {
-                        "codigo_cliente": "69163",
-                        "desc_cliente": "COMERCIAL IRMAOS BURGARELI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "70020",
-                        "desc_cliente": "COMERCIO DE DOCES SANTOS & INACIO LTDA"
                     },
                     {
                         "codigo_cliente": "68228",
@@ -44724,28 +44662,8 @@
                         "desc_cliente": "C. S DA SILVA LTDA"
                     },
                     {
-                        "codigo_cliente": "69210",
-                        "desc_cliente": "DISTRIBUIDORA DE PRODUTOS ALIMENTICIOS NEVES LTDA"
-                    },
-                    {
-                        "codigo_cliente": "68271",
-                        "desc_cliente": "D MARINS COMERCIO DE DOCES E ARTIGOS DE FESTAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "66863",
-                        "desc_cliente": "ELIAS RODRIGUES DA COSTA RIO PRETO"
-                    },
-                    {
-                        "codigo_cliente": "64275",
-                        "desc_cliente": "EMPORIO REZENDE PRODUTOS NATURAIS LTDA"
-                    },
-                    {
                         "codigo_cliente": "60180",
                         "desc_cliente": "EMPORIO VIDAL DE MARILIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69893",
-                        "desc_cliente": "ENSIDES & ALVES LTDA"
                     },
                     {
                         "codigo_cliente": "58274",
@@ -44756,28 +44674,12 @@
                         "desc_cliente": "FABIO VIEIRA LIMA"
                     },
                     {
-                        "codigo_cliente": "67289",
-                        "desc_cliente": "FAVER RIO PRETO SUPERMERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "70406",
-                        "desc_cliente": "FURLAN E ZANEBONI COMERCIO DE DOCES LTDA"
-                    },
-                    {
-                        "codigo_cliente": "66796",
-                        "desc_cliente": "GENACK E MOSSIM BAR E CONVENIENCIA LTDA"
-                    },
-                    {
                         "codigo_cliente": "62262",
                         "desc_cliente": "GILBERTO AMATE MORENO"
                     },
                     {
                         "codigo_cliente": "43247",
                         "desc_cliente": "GUSTAVO SOUZA SANTOS"
-                    },
-                    {
-                        "codigo_cliente": "54652",
-                        "desc_cliente": "HFBR ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "70176",
@@ -44804,24 +44706,12 @@
                         "desc_cliente": "JOSIANE SOBRINHO MARANHO 30754564894"
                     },
                     {
-                        "codigo_cliente": "70136",
-                        "desc_cliente": "JP RAMOS SUPERMERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "64066",
-                        "desc_cliente": "KIYOSHI OHNO ALIMENTOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "70224",
                         "desc_cliente": "LOUBR COMERCIO E EXPORTACAO LTDA"
                     },
                     {
                         "codigo_cliente": "61097",
                         "desc_cliente": "LUCIANA DA SILVA CAMILO"
-                    },
-                    {
-                        "codigo_cliente": "66795",
-                        "desc_cliente": "LUIS AUGUSTO MENDES PRAXEDES"
                     },
                     {
                         "codigo_cliente": "60249",
@@ -44856,10 +44746,6 @@
                         "desc_cliente": "MUNDO DOS DOCES ATACADO E VAREJO LTDA"
                     },
                     {
-                        "codigo_cliente": "67282",
-                        "desc_cliente": "PAULINO SATO E CIA LTDA"
-                    },
-                    {
                         "codigo_cliente": "60290",
                         "desc_cliente": "REGINALDO GOMES MATEUS GARCA"
                     },
@@ -44868,20 +44754,8 @@
                         "desc_cliente": "RESTAURANTE DIONISIO 88 BALSAMO LTDA"
                     },
                     {
-                        "codigo_cliente": "67343",
-                        "desc_cliente": "RESTAURANTE DIONISIO 88 ONDA VERDE LTDA"
-                    },
-                    {
                         "codigo_cliente": "58292",
                         "desc_cliente": "REYNALDO CAMARGO FURLAN LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69155",
-                        "desc_cliente": "R.R.M. MANTOVANI DE OLIVEIRA ARTIGOS PARA FESTAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "68272",
-                        "desc_cliente": "SABOR SAUDAVEL CANTINA E RESTAURANTE LTDA"
                     },
                     {
                         "codigo_cliente": "62974",
@@ -44912,20 +44786,8 @@
                         "desc_cliente": "SUPERMERCADO ZANETTI LTDA"
                     },
                     {
-                        "codigo_cliente": "69233",
-                        "desc_cliente": "THAMIRES CAMILA DE ALMEIDA PADARIA"
-                    },
-                    {
-                        "codigo_cliente": "68182",
-                        "desc_cliente": "UAI CAFE III LTDA"
-                    },
-                    {
                         "codigo_cliente": "71369",
                         "desc_cliente": "VILA FORMOSA COMERCIAL DE BEBIDAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67231",
-                        "desc_cliente": "VINICIUS MARCUS MUSSATO ZUPIROLLI 18146548873"
                     },
                     {
                         "codigo_cliente": "67618",
@@ -45012,7 +44874,69 @@
                         "desc_cliente": "HEIWA SUPERMERCADOS LTDA"
                     }
                 ],
+                "1323 - ALIMAX": [
+                    {
+                        "codigo_cliente": "68782",
+                        "desc_cliente": "ALIMENTARE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69117",
+                        "desc_cliente": "ALIMENTARE PRODUTOS ALIMENTICIOS LTDA"
+                    }
+                ],
                 "1 - GERAL": [
+                    {
+                        "codigo_cliente": "66708",
+                        "desc_cliente": "55.168.822 VALDECIR ANTONIO SPADA"
+                    },
+                    {
+                        "codigo_cliente": "68294",
+                        "desc_cliente": "A B DA SILVA VARIEDADES"
+                    },
+                    {
+                        "codigo_cliente": "67043",
+                        "desc_cliente": "ANDRESSA LACERDA TREME LTDA"
+                    },
+                    {
+                        "codigo_cliente": "64260",
+                        "desc_cliente": "ANTILHA APARECIDA DOS SANTOS LEITE MARTINS"
+                    },
+                    {
+                        "codigo_cliente": "58851",
+                        "desc_cliente": "ARMAZEM E RESTAURANTE MANZALLI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "68626",
+                        "desc_cliente": "ATENTO DISTRIBUIDORA DE PRODUTOS EM GERAL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67856",
+                        "desc_cliente": "BALTICO CONDICIONAMENTO FISICO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67303",
+                        "desc_cliente": "BASMAR COMERCIO DE DOCES LTDA"
+                    },
+                    {
+                        "codigo_cliente": "25579",
+                        "desc_cliente": "CHURRASCARIA BATISTELLA RIO PRETO LTDA - EPP"
+                    },
+                    {
+                        "codigo_cliente": "68963",
+                        "desc_cliente": "CHURRASCARIA E LANCHONETE NOVA PAINEIRAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "68668",
+                        "desc_cliente": "C. J. OGAWA & CIA. LTDA."
+                    },
+                    {
+                        "codigo_cliente": "69163",
+                        "desc_cliente": "COMERCIAL IRMAOS BURGARELI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70020",
+                        "desc_cliente": "COMERCIO DE DOCES SANTOS & INACIO LTDA"
+                    },
                     {
                         "codigo_cliente": "65392",
                         "desc_cliente": "COMPRE FACIL COMERCIO DE PRODUTOS ALIMENTICIOS LIMITADA"
@@ -45020,6 +44944,82 @@
                     {
                         "codigo_cliente": "26683",
                         "desc_cliente": "DICOPEL DISTRIBUICAO  E COMERCIO LTDA - EPP"
+                    },
+                    {
+                        "codigo_cliente": "69210",
+                        "desc_cliente": "DISTRIBUIDORA DE PRODUTOS ALIMENTICIOS NEVES LTDA"
+                    },
+                    {
+                        "codigo_cliente": "68271",
+                        "desc_cliente": "D MARINS COMERCIO DE DOCES E ARTIGOS DE FESTAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66863",
+                        "desc_cliente": "ELIAS RODRIGUES DA COSTA RIO PRETO"
+                    },
+                    {
+                        "codigo_cliente": "64275",
+                        "desc_cliente": "EMPORIO REZENDE PRODUTOS NATURAIS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69893",
+                        "desc_cliente": "ENSIDES & ALVES LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67289",
+                        "desc_cliente": "FAVER RIO PRETO SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70406",
+                        "desc_cliente": "FURLAN E ZANEBONI COMERCIO DE DOCES LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66796",
+                        "desc_cliente": "GENACK E MOSSIM BAR E CONVENIENCIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "54652",
+                        "desc_cliente": "HFBR ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70136",
+                        "desc_cliente": "JP RAMOS SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "64066",
+                        "desc_cliente": "KIYOSHI OHNO ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66795",
+                        "desc_cliente": "LUIS AUGUSTO MENDES PRAXEDES"
+                    },
+                    {
+                        "codigo_cliente": "67282",
+                        "desc_cliente": "PAULINO SATO E CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67343",
+                        "desc_cliente": "RESTAURANTE DIONISIO 88 ONDA VERDE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69155",
+                        "desc_cliente": "R.R.M. MANTOVANI DE OLIVEIRA ARTIGOS PARA FESTAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "68272",
+                        "desc_cliente": "SABOR SAUDAVEL CANTINA E RESTAURANTE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69233",
+                        "desc_cliente": "THAMIRES CAMILA DE ALMEIDA PADARIA"
+                    },
+                    {
+                        "codigo_cliente": "68182",
+                        "desc_cliente": "UAI CAFE III LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67231",
+                        "desc_cliente": "VINICIUS MARCUS MUSSATO ZUPIROLLI 18146548873"
                     }
                 ],
                 "331 - DIAS PASTORINHO SP": [
@@ -57880,6 +57880,10 @@
                         "desc_cliente": "EDUARDO GARCIA"
                     },
                     {
+                        "codigo_cliente": "72656",
+                        "desc_cliente": "EDUARDO MACHADO"
+                    },
+                    {
                         "codigo_cliente": "70362",
                         "desc_cliente": "EDUARDO NORONHA"
                     },
@@ -62794,6 +62798,10 @@
                     {
                         "codigo_cliente": "72502",
                         "desc_cliente": "RICARDO LUIS DE BRITO"
+                    },
+                    {
+                        "codigo_cliente": "72657",
+                        "desc_cliente": "RICARDO MACHADO"
                     },
                     {
                         "codigo_cliente": "67118",

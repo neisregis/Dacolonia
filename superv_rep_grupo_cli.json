@@ -18430,6 +18430,10 @@
                         "desc_cliente": "MERCADO TEND TUDO LTDA"
                     },
                     {
+                        "codigo_cliente": "32699",
+                        "desc_cliente": "MERCADO VANS - EIRELI - ME"
+                    },
+                    {
                         "codigo_cliente": "18793",
                         "desc_cliente": "MERCEARIA E BAR VERDUREIRO LTDA"
                     },
@@ -24440,6 +24444,10 @@
                     {
                         "codigo_cliente": "31818",
                         "desc_cliente": "DAIANE CAFE EIRELI - ME"
+                    },
+                    {
+                        "codigo_cliente": "72644",
+                        "desc_cliente": "DANIEL OLIVEIRA MACHADO E CIA LTDA"
                     },
                     {
                         "codigo_cliente": "71773",

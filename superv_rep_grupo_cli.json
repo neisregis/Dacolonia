@@ -7206,6 +7206,10 @@
                         "desc_cliente": "BONANZA COMERCIO DE GENEROS ALIMENTICIOS LTDA"
                     },
                     {
+                        "codigo_cliente": "63230",
+                        "desc_cliente": "BONANZA COMERCIO DE GENEROS ALIMENTICIOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "37902",
                         "desc_cliente": "CAMPOS E BANACH LTDA"
                     },
@@ -7552,6 +7556,10 @@
                     {
                         "codigo_cliente": "38986",
                         "desc_cliente": "TRANSJA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72650",
+                        "desc_cliente": "VALERIA GIL BUTEN"
                     },
                     {
                         "codigo_cliente": "46092",
@@ -7988,10 +7996,6 @@
                         "desc_cliente": "B M CASSEMIRO - PRODUTOS NATURAIS - ME"
                     },
                     {
-                        "codigo_cliente": "63230",
-                        "desc_cliente": "BONANZA COMERCIO DE GENEROS ALIMENTICIOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "61431",
                         "desc_cliente": "CASAROTTI ORLANDI PRODUTOS NATURAIS LTDA"
                     },
@@ -8150,6 +8154,10 @@
                     {
                         "codigo_cliente": "69124",
                         "desc_cliente": "PLA - PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72649",
+                        "desc_cliente": "RB PRODUTOS NATURAIS LTDA"
                     },
                     {
                         "codigo_cliente": "46728",
@@ -56148,6 +56156,10 @@
                         "desc_cliente": "ANDREA ROSSI"
                     },
                     {
+                        "codigo_cliente": "72651",
+                        "desc_cliente": "ANDREA SIROTSKY"
+                    },
+                    {
                         "codigo_cliente": "70168",
                         "desc_cliente": "ANDRE DA SILVA KORALESKI"
                     },
@@ -58578,6 +58590,10 @@
                     {
                         "codigo_cliente": "69264",
                         "desc_cliente": "GABRIEL MARQUES DE MATTOS"
+                    },
+                    {
+                        "codigo_cliente": "60138",
+                        "desc_cliente": "GABRIEL MONTEIRO DE OLIVEIRA"
                     },
                     {
                         "codigo_cliente": "68796",

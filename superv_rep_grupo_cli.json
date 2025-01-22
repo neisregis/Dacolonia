@@ -3908,6 +3908,10 @@
                         "desc_cliente": "AGNA ARAUJO VIANA SANTOS 91570506515"
                     },
                     {
+                        "codigo_cliente": "72660",
+                        "desc_cliente": "AGNA A V SANTOS KILAO SOL NASCENTE"
+                    },
+                    {
                         "codigo_cliente": "60107",
                         "desc_cliente": "A L M SUPERMERCADOS LTDA"
                     },
@@ -26356,6 +26360,10 @@
                         "desc_cliente": "SUPER MANA LTDA"
                     },
                     {
+                        "codigo_cliente": "72645",
+                        "desc_cliente": "SUPER MANA LTDA"
+                    },
+                    {
                         "codigo_cliente": "62149",
                         "desc_cliente": "SUPER MASTER SUPERMERCADOS LTDA"
                     },
@@ -41464,6 +41472,10 @@
                     {
                         "codigo_cliente": "42911",
                         "desc_cliente": "MARIO MARTINS PINHO"
+                    },
+                    {
+                        "codigo_cliente": "72140",
+                        "desc_cliente": "MAURI MOREIRA MARQUES"
                     },
                     {
                         "codigo_cliente": "44050",

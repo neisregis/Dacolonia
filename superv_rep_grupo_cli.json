@@ -15975,7 +15975,7 @@
                     },
                     {
                         "codigo_cliente": "72621",
-                        "desc_cliente": "COMERCIO  DE EMBALAGENS  CACADOR LTDA EPP"
+                        "desc_cliente": "COMERCIO DE EMBALAGENS CACADOR LTDA"
                     },
                     {
                         "codigo_cliente": "21267",
@@ -16243,7 +16243,7 @@
                     },
                     {
                         "codigo_cliente": "72618",
-                        "desc_cliente": "MERCADO 3M  DIDOMENICO  LTDA"
+                        "desc_cliente": "MERCADO 3M DI DOMENICO LTDA"
                     },
                     {
                         "codigo_cliente": "43935",
@@ -21538,6 +21538,10 @@
                         "desc_cliente": "DORACI DA SILVA BORBA 01058152092"
                     },
                     {
+                        "codigo_cliente": "46975",
+                        "desc_cliente": "ELENITA MEIRELLES"
+                    },
+                    {
                         "codigo_cliente": "24086",
                         "desc_cliente": "ELY MERCADO LTDA"
                     },
@@ -24416,10 +24420,6 @@
                     {
                         "codigo_cliente": "28625",
                         "desc_cliente": "EDILON MARTINS DE SOUZA 13931970000"
-                    },
-                    {
-                        "codigo_cliente": "46975",
-                        "desc_cliente": "ELENITA MEIRELLES"
                     },
                     {
                         "codigo_cliente": "35721",
@@ -28630,6 +28630,10 @@
                         "desc_cliente": "FATIMA SUPERMERCADOS LTDA - EPP"
                     },
                     {
+                        "codigo_cliente": "72619",
+                        "desc_cliente": "FILIPE SCHNEIDER"
+                    },
+                    {
                         "codigo_cliente": "9050",
                         "desc_cliente": "GIOVANI RODRIGUES ODILON ME"
                     },
@@ -28824,10 +28828,6 @@
                     {
                         "codigo_cliente": "60738",
                         "desc_cliente": "SUPERMERCADO GAUCHO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72619",
-                        "desc_cliente": "SUPERMERCADO TONINHO"
                     },
                     {
                         "codigo_cliente": "19100",
@@ -35990,10 +35990,6 @@
                         "desc_cliente": "FRUI VITA SUPLEMENTOS E PRODUTOS NATURAIS LTDA"
                     },
                     {
-                        "codigo_cliente": "72627",
-                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A"
-                    },
-                    {
                         "codigo_cliente": "72603",
                         "desc_cliente": "GUALANDI GRAOS E NATURAIS LTDA"
                     },
@@ -36249,6 +36245,10 @@
                     },
                     {
                         "codigo_cliente": "72435",
+                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A."
+                    },
+                    {
+                        "codigo_cliente": "72627",
                         "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A."
                     }
                 ],
@@ -56052,6 +56052,10 @@
                         "desc_cliente": "ANA MARIA MELO "
                     },
                     {
+                        "codigo_cliente": "72638",
+                        "desc_cliente": "ANA PAULA CIOTTO"
+                    },
+                    {
                         "codigo_cliente": "51021",
                         "desc_cliente": "ANA PAULA GONÇALVES DA SILVA"
                     },
@@ -56606,6 +56610,10 @@
                     {
                         "codigo_cliente": "67542",
                         "desc_cliente": "CAMILA RODRIGUES"
+                    },
+                    {
+                        "codigo_cliente": "72635",
+                        "desc_cliente": "CAMILA ROXO"
                     },
                     {
                         "codigo_cliente": "56554",
@@ -59250,6 +59258,10 @@
                     {
                         "codigo_cliente": "65468",
                         "desc_cliente": "JAIRO SIDNEI DOS SANTOS"
+                    },
+                    {
+                        "codigo_cliente": "72632",
+                        "desc_cliente": "JAIR PAULO DOS SANTOS"
                     },
                     {
                         "codigo_cliente": "68508",
@@ -63184,6 +63196,10 @@
                         "desc_cliente": "SANDRO VALDOIR ARAUJO DE ARAUJO"
                     },
                     {
+                        "codigo_cliente": "72633",
+                        "desc_cliente": "SANIARA KATIELE ALVES DOS REIS STEINMETZ"
+                    },
+                    {
                         "codigo_cliente": "66809",
                         "desc_cliente": "SANIJIO CAETANO FARIAS"
                     },
@@ -63278,6 +63294,10 @@
                     {
                         "codigo_cliente": "72622",
                         "desc_cliente": "SHAYANA GONÇALVES"
+                    },
+                    {
+                        "codigo_cliente": "72637",
+                        "desc_cliente": "SIARA MARTINS FONCESA BERTOLO"
                     },
                     {
                         "codigo_cliente": "65254",
@@ -63680,6 +63700,10 @@
                         "desc_cliente": "VAGNER DA SILVA FONTOURA"
                     },
                     {
+                        "codigo_cliente": "72631",
+                        "desc_cliente": "VAGNER DA TRINDADE"
+                    },
+                    {
                         "codigo_cliente": "72474",
                         "desc_cliente": "VAGNER FAGUNDES"
                     },
@@ -63842,6 +63866,10 @@
                     {
                         "codigo_cliente": "69874",
                         "desc_cliente": "VERIDIANA NUNES"
+                    },
+                    {
+                        "codigo_cliente": "72634",
+                        "desc_cliente": "VESLEI MENDONÇA"
                     },
                     {
                         "codigo_cliente": "69983",

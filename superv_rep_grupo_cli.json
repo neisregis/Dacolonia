@@ -32746,6 +32746,10 @@
                         "desc_cliente": "ALMEIDA E AVILA MINIMERCADO LTDA"
                     },
                     {
+                        "codigo_cliente": "611",
+                        "desc_cliente": "ALVES & BAZACAS LTDA"
+                    },
+                    {
                         "codigo_cliente": "59878",
                         "desc_cliente": "AMERI TEREZINHA PICH"
                     },
@@ -65914,10 +65918,6 @@
                         "desc_cliente": "ALINE MARQUES LIMA"
                     },
                     {
-                        "codigo_cliente": "71117",
-                        "desc_cliente": "ALINE MENDONCA FRAGA"
-                    },
-                    {
                         "codigo_cliente": "71304",
                         "desc_cliente": "ALINE O GARCEZ"
                     },
@@ -70192,6 +70192,10 @@
                     {
                         "codigo_cliente": "57542",
                         "desc_cliente": "JANE PEREIRA DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "71117",
+                        "desc_cliente": "JANETE MENDONCA FRAGA"
                     },
                     {
                         "codigo_cliente": "71148",

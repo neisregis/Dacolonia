@@ -10390,6 +10390,10 @@
                 ],
                 "48 - SUL 10": [
                     {
+                        "codigo_cliente": "2311",
+                        "desc_cliente": "COMERCIO DE CEREAIS DELA SANTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "23112",
                         "desc_cliente": "SUPERMERCADO SANTA HELENA LTDA - PALOMA"
                     }
@@ -20075,10 +20079,6 @@
                     }
                 ],
                 "1 - GERAL": [
-                    {
-                        "codigo_cliente": "71564",
-                        "desc_cliente": "57.101.619 MARLI DE LOURDES GUEDES"
-                    },
                     {
                         "codigo_cliente": "52968",
                         "desc_cliente": "ADILSON LUIZ LUNKES LANGER 71187138053"
@@ -38450,6 +38450,12 @@
                         "desc_cliente": "MERCADO BELOT LTDA"
                     }
                 ],
+                "1259 - LISAMAR - RJ": [
+                    {
+                        "codigo_cliente": "42307",
+                        "desc_cliente": "JM LISAMAR SUPERMERCADO LTDA"
+                    }
+                ],
                 "1359 - MULTI ANGRA": [
                     {
                         "codigo_cliente": "70622",
@@ -52450,6 +52456,10 @@
                         "desc_cliente": "SUPERBOM COMERCIAL DE ALIMENTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "72640",
+                        "desc_cliente": "SUPER KAL LTDA"
+                    },
+                    {
                         "codigo_cliente": "68681",
                         "desc_cliente": "SUPERMERCADO SUPER OPCAO LTDA"
                     },
@@ -57716,6 +57726,10 @@
                         "desc_cliente": "DOUGLAS CASSIANO CORDEIRO CASTRO"
                     },
                     {
+                        "codigo_cliente": "72672",
+                        "desc_cliente": "DOUGLAS DA CONCEIÇAO SOUZA"
+                    },
+                    {
                         "codigo_cliente": "69083",
                         "desc_cliente": "DOUGLAS HENRIQUE DE ALMEIDA DA SILVEIRA"
                     },
@@ -60130,6 +60144,10 @@
                     {
                         "codigo_cliente": "66791",
                         "desc_cliente": "JUCIMAR CARLOS PEROZZO"
+                    },
+                    {
+                        "codigo_cliente": "72675",
+                        "desc_cliente": "JULIA ALVES DE LIMA PEREIRA"
                     },
                     {
                         "codigo_cliente": "72151",
@@ -68112,6 +68130,10 @@
                         "desc_cliente": "DENISE LARANGEIRA DA SILVEIRA PELLITTERI"
                     },
                     {
+                        "codigo_cliente": "72669",
+                        "desc_cliente": "DENISE MASSUDA"
+                    },
+                    {
                         "codigo_cliente": "66952",
                         "desc_cliente": "DENISE MUGNOL"
                     },
@@ -69718,6 +69740,10 @@
                     {
                         "codigo_cliente": "70922",
                         "desc_cliente": "GUILHERME ELY"
+                    },
+                    {
+                        "codigo_cliente": "72671",
+                        "desc_cliente": "GUILHERME FERNANDES DOURADO"
                     },
                     {
                         "codigo_cliente": "71826",
@@ -72816,6 +72842,10 @@
                         "desc_cliente": "MATHEUS CAMPOS DA SILVA"
                     },
                     {
+                        "codigo_cliente": "72670",
+                        "desc_cliente": "MATHEUS CARDOSO"
+                    },
+                    {
                         "codigo_cliente": "68589",
                         "desc_cliente": "MATHEUS NUNES MARTINS"
                     },
@@ -75154,6 +75184,10 @@
                     {
                         "codigo_cliente": "70648",
                         "desc_cliente": "TATIANE CARVALHO DA SILVA BLUMEL"
+                    },
+                    {
+                        "codigo_cliente": "72663",
+                        "desc_cliente": "TATIANE FIORIN"
                     },
                     {
                         "codigo_cliente": "59298",

@@ -44568,80 +44568,8 @@
                 ],
                 "1309 - BIG MART": [
                     {
-                        "codigo_cliente": "67727",
-                        "desc_cliente": "BIG MART CENTRO DE COMPRAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67730",
-                        "desc_cliente": "BIG MART CENTRO DE COMPRAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67731",
-                        "desc_cliente": "BIG MART CENTRO DE COMPRAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67733",
-                        "desc_cliente": "BIG MART CENTRO DE COMPRAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67734",
-                        "desc_cliente": "BIG MART CENTRO DE COMPRAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67735",
-                        "desc_cliente": "BIG MART CENTRO DE COMPRAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67736",
-                        "desc_cliente": "BIG MART CENTRO DE COMPRAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67737",
-                        "desc_cliente": "BIG MART CENTRO DE COMPRAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67739",
-                        "desc_cliente": "BIG MART CENTRO DE COMPRAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67740",
-                        "desc_cliente": "BIG MART CENTRO DE COMPRAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67741",
-                        "desc_cliente": "BIG MART CENTRO DE COMPRAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67742",
-                        "desc_cliente": "BIG MART CENTRO DE COMPRAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67743",
-                        "desc_cliente": "BIG MART CENTRO DE COMPRAS LTDA"
-                    },
-                    {
                         "codigo_cliente": "67751",
                         "desc_cliente": "MINERVA MOVEIS E SUPERMERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67744",
-                        "desc_cliente": "SUPERMERCADOS RASTELAO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67745",
-                        "desc_cliente": "SUPERMERCADOS RASTELAO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67746",
-                        "desc_cliente": "SUPERMERCADOS RASTELAO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67747",
-                        "desc_cliente": "SUPERMERCADOS RASTELAO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67749",
-                        "desc_cliente": "SUPERMERCADOS RASTELAO LTDA"
                     }
                 ],
                 "1 - GERAL": [
@@ -45185,35 +45113,81 @@
                     }
                 ]
             },
-            "1017": {
-                "1323 - ALIMAX": [
-                    {
-                        "codigo_cliente": "68782",
-                        "desc_cliente": "ALIMENTARE PRODUTOS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69117",
-                        "desc_cliente": "ALIMENTARE PRODUTOS ALIMENTICIOS LTDA"
-                    }
-                ],
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "63572",
-                        "desc_cliente": "AVANZI SUPERMERCADOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "70224",
-                        "desc_cliente": "LOUBR COMERCIO E EXPORTACAO LTDA"
-                    }
-                ],
-                "853 - DECIO CHURRASCARIA": [
-                    {
-                        "codigo_cliente": "63223",
-                        "desc_cliente": "DECIO COMERCIO E SERVICOS RODOVIARIOS LTDA"
-                    }
-                ]
-            },
             "1195": {
+                "1309 - BIG MART": [
+                    {
+                        "codigo_cliente": "67727",
+                        "desc_cliente": "BIG MART CENTRO DE COMPRAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67730",
+                        "desc_cliente": "BIG MART CENTRO DE COMPRAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67731",
+                        "desc_cliente": "BIG MART CENTRO DE COMPRAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67733",
+                        "desc_cliente": "BIG MART CENTRO DE COMPRAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67734",
+                        "desc_cliente": "BIG MART CENTRO DE COMPRAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67735",
+                        "desc_cliente": "BIG MART CENTRO DE COMPRAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67736",
+                        "desc_cliente": "BIG MART CENTRO DE COMPRAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67737",
+                        "desc_cliente": "BIG MART CENTRO DE COMPRAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67739",
+                        "desc_cliente": "BIG MART CENTRO DE COMPRAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67740",
+                        "desc_cliente": "BIG MART CENTRO DE COMPRAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67741",
+                        "desc_cliente": "BIG MART CENTRO DE COMPRAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67742",
+                        "desc_cliente": "BIG MART CENTRO DE COMPRAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67743",
+                        "desc_cliente": "BIG MART CENTRO DE COMPRAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67744",
+                        "desc_cliente": "SUPERMERCADOS RASTELAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67745",
+                        "desc_cliente": "SUPERMERCADOS RASTELAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67746",
+                        "desc_cliente": "SUPERMERCADOS RASTELAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67747",
+                        "desc_cliente": "SUPERMERCADOS RASTELAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67749",
+                        "desc_cliente": "SUPERMERCADOS RASTELAO LTDA"
+                    }
+                ],
                 "1 - GERAL": [
                     {
                         "codigo_cliente": "52806",
@@ -45242,6 +45216,34 @@
                     {
                         "codigo_cliente": "52805",
                         "desc_cliente": "SUPERMERCADO VIEIRA DIAS DA SILVA DE BAURU LTDA"
+                    }
+                ]
+            },
+            "1017": {
+                "1323 - ALIMAX": [
+                    {
+                        "codigo_cliente": "68782",
+                        "desc_cliente": "ALIMENTARE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69117",
+                        "desc_cliente": "ALIMENTARE PRODUTOS ALIMENTICIOS LTDA"
+                    }
+                ],
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "63572",
+                        "desc_cliente": "AVANZI SUPERMERCADOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70224",
+                        "desc_cliente": "LOUBR COMERCIO E EXPORTACAO LTDA"
+                    }
+                ],
+                "853 - DECIO CHURRASCARIA": [
+                    {
+                        "codigo_cliente": "63223",
+                        "desc_cliente": "DECIO COMERCIO E SERVICOS RODOVIARIOS LTDA"
                     }
                 ]
             }
@@ -84984,6 +84986,10 @@
                     {
                         "codigo_cliente": "53430",
                         "desc_cliente": "SABOR A MUNDO PRODUTOS ALIMENTARES"
+                    },
+                    {
+                        "codigo_cliente": "72658",
+                        "desc_cliente": "SAS ADM - LA PALETERIA"
                     },
                     {
                         "codigo_cliente": "64763",

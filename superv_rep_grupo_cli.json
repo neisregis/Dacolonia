@@ -39046,6 +39046,10 @@
                         "desc_cliente": "MERCADAO DE ALIMENTOS UNIDOS BRASIL LTDA"
                     },
                     {
+                        "codigo_cliente": "72687",
+                        "desc_cliente": "MERCADO DE GUAPIMIRIM RJ LTD"
+                    },
+                    {
                         "codigo_cliente": "46471",
                         "desc_cliente": "MERCADO DOIS IRMAOS DE AUSTIN LTDA"
                     },
@@ -84644,12 +84648,24 @@
                         "desc_cliente": "COMERCIO DE MEDICAMENTOS FAFENIX LTDA"
                     },
                     {
+                        "codigo_cliente": "72599",
+                        "desc_cliente": "DROGARIA ULTRA MARANHENSE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72604",
+                        "desc_cliente": "FALCÃO E CHAVES DROGARIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "72196",
                         "desc_cliente": "K THALIS BASTOS DOS SANTOS"
                     },
                     {
                         "codigo_cliente": "71407",
                         "desc_cliente": "MAURICIO M DE OLIVEIRA E MEDEIROS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72598",
+                        "desc_cliente": "METTA DROGARIAS LTDA"
                     },
                     {
                         "codigo_cliente": "71473",

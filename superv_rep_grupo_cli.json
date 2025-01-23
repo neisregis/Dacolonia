@@ -13380,6 +13380,10 @@
                         "desc_cliente": "MERCADO RS LTDA"
                     },
                     {
+                        "codigo_cliente": "13838",
+                        "desc_cliente": "MERCEARIA ARAUJO PAPA TUDO LTDA"
+                    },
+                    {
                         "codigo_cliente": "21217",
                         "desc_cliente": "MERCEARIA NARDO LTDA"
                     },
@@ -26350,6 +26354,10 @@
                         "desc_cliente": "CASA DE CARNE WC GOIAS LTDA"
                     },
                     {
+                        "codigo_cliente": "72684",
+                        "desc_cliente": "DISTRIBUIDORA DE ALIMENTOS BARATAO LTDA"
+                    },
+                    {
                         "codigo_cliente": "46359",
                         "desc_cliente": "DISTRIBUIDORA K NEVES LTDA"
                     },
@@ -35884,6 +35892,10 @@
                     {
                         "codigo_cliente": "64684",
                         "desc_cliente": "CT PRODUTOS NATURAIS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "8701",
+                        "desc_cliente": "GARCIA TASSONI DALBEM & CIA LTDA"
                     }
                 ]
             },
@@ -38816,6 +38828,10 @@
                         "desc_cliente": "THOMAZ COMERCIO DE ANGRA LTDA ME"
                     },
                     {
+                        "codigo_cliente": "62359",
+                        "desc_cliente": "T M LEMOS"
+                    },
+                    {
                         "codigo_cliente": "68926",
                         "desc_cliente": "W ARAUJO MINI-MERCADO"
                     }
@@ -39610,10 +39626,6 @@
                     {
                         "codigo_cliente": "27322",
                         "desc_cliente": "SUPERMERKATO COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "62359",
-                        "desc_cliente": "T M LEMOS"
                     }
                 ],
                 "403 - DIVINA TERRA": [
@@ -42956,6 +42968,10 @@
                         "desc_cliente": "GILMAQ COM DE MAQ AGRIC LTDA"
                     },
                     {
+                        "codigo_cliente": "37733",
+                        "desc_cliente": "GLACI BORTOLETTI 51233363034"
+                    },
+                    {
                         "codigo_cliente": "38380",
                         "desc_cliente": "GLAUCI HELENA DA FONSECA NUNES"
                     },
@@ -43242,6 +43258,10 @@
                     {
                         "codigo_cliente": "9305",
                         "desc_cliente": "RUBEM DARIO GONCALVES ZAMBRANO - ME"
+                    },
+                    {
+                        "codigo_cliente": "72686",
+                        "desc_cliente": "SABRINA BLINI DA SILVA LTDA"
                     },
                     {
                         "codigo_cliente": "72568",

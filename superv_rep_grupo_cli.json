@@ -7326,6 +7326,10 @@
                         "desc_cliente": "E O GOLDIN & CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "56809",
+                        "desc_cliente": "F. A. DUTRA CONVENIENCIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "45016",
                         "desc_cliente": "FANTIM & ORIENTE LTDA ME"
                     },
@@ -8380,10 +8384,6 @@
                     {
                         "codigo_cliente": "46930",
                         "desc_cliente": "ELETRO HIGAKI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "56809",
-                        "desc_cliente": "F. A. DUTRA CONVENIENCIA LTDA"
                     },
                     {
                         "codigo_cliente": "33520",
@@ -25112,10 +25112,6 @@
                         "desc_cliente": "HIPER CRISTAL"
                     },
                     {
-                        "codigo_cliente": "43036",
-                        "desc_cliente": "HUGAO SUPERMERCADO LTDA"
-                    },
-                    {
                         "codigo_cliente": "37764",
                         "desc_cliente": "JAO PRODUTOS PARA FESTAS LTDA - EPP"
                     },
@@ -25218,10 +25214,6 @@
                     {
                         "codigo_cliente": "61625",
                         "desc_cliente": "SUPERMERCADO BERTHOLDO LTDA EPP"
-                    },
-                    {
-                        "codigo_cliente": "43035",
-                        "desc_cliente": "SUPERMERCADO BETAO LTDA-EPP"
                     },
                     {
                         "codigo_cliente": "54782",
@@ -27004,6 +26996,10 @@
                         "desc_cliente": "HP SUPERMERCADO LTDA"
                     },
                     {
+                        "codigo_cliente": "43036",
+                        "desc_cliente": "HUGAO SUPERMERCADO LTDA"
+                    },
+                    {
                         "codigo_cliente": "56849",
                         "desc_cliente": "M A MARQUES SUPERMERCADO LTDA"
                     },
@@ -27070,6 +27066,10 @@
                     {
                         "codigo_cliente": "56131",
                         "desc_cliente": "SUPER CRISTAL SUPERMERCADO LTDA "
+                    },
+                    {
+                        "codigo_cliente": "43035",
+                        "desc_cliente": "SUPERMERCADO BETAO LTDA-EPP"
                     },
                     {
                         "codigo_cliente": "46339",
@@ -32667,7 +32667,7 @@
                     }
                 ]
             },
-            "819": {
+            "1215": {
                 "1145 - DGG COMBUSTÍVEIS": [
                     {
                         "codigo_cliente": "55365",
@@ -63712,6 +63712,10 @@
                     {
                         "codigo_cliente": "58759",
                         "desc_cliente": "TANIA GRACIELA KOCH "
+                    },
+                    {
+                        "codigo_cliente": "72673",
+                        "desc_cliente": "TANIA MARA EHNK"
                     },
                     {
                         "codigo_cliente": "68987",

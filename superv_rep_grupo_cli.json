@@ -11378,6 +11378,10 @@
                         "desc_cliente": "FASSINI & FASSINI LTDA"
                     },
                     {
+                        "codigo_cliente": "43455",
+                        "desc_cliente": "FMS COMERCIAL LTDA"
+                    },
+                    {
                         "codigo_cliente": "4249",
                         "desc_cliente": "GERALDO DIVONEI PEDROSO-ME"
                     },
@@ -11451,6 +11455,10 @@
                     },
                     {
                         "codigo_cliente": "32026",
+                        "desc_cliente": "N B DAL SANTOS & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "39200",
                         "desc_cliente": "N B DAL SANTOS & CIA LTDA"
                     },
                     {

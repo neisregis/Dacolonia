@@ -14154,6 +14154,10 @@
                         "desc_cliente": "MERCEARIA FRIGO LTDA"
                     },
                     {
+                        "codigo_cliente": "72691",
+                        "desc_cliente": "MOURA COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "24490",
                         "desc_cliente": "M.V PANASSOLO SUPERMERCADO"
                     },
@@ -16888,6 +16892,10 @@
                     {
                         "codigo_cliente": "49703",
                         "desc_cliente": "DEUS E FIEL ITAPEMA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "40461",
+                        "desc_cliente": "EJK CASA DO CAMPO LTDA"
                     },
                     {
                         "codigo_cliente": "61726",
@@ -21682,6 +21690,10 @@
                         "desc_cliente": "PONTO NATURAL JOHANN LTDA - ME"
                     },
                     {
+                        "codigo_cliente": "72689",
+                        "desc_cliente": "POSTO 2011"
+                    },
+                    {
                         "codigo_cliente": "61161",
                         "desc_cliente": "ROSANGELA DA R BATTIROLA"
                     },
@@ -24528,6 +24540,10 @@
                     {
                         "codigo_cliente": "38741",
                         "desc_cliente": "GRANOS EMPORIO PROD NATURAIS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72676",
+                        "desc_cliente": "JAD COMERCIO DE PRODUTOS NATURAIS LTDA"
                     },
                     {
                         "codigo_cliente": "48662",
@@ -31874,6 +31890,10 @@
                     {
                         "codigo_cliente": "63578",
                         "desc_cliente": "LA CANTINA RESTAURANTE LTDA."
+                    },
+                    {
+                        "codigo_cliente": "63239",
+                        "desc_cliente": "LA MERENDA COM DE PROD ALIMENT LTDA."
                     },
                     {
                         "codigo_cliente": "12912",
@@ -53060,6 +53080,10 @@
                         "desc_cliente": "FRUTARIA LAGOA LTDA"
                     },
                     {
+                        "codigo_cliente": "30905",
+                        "desc_cliente": "FRUTEIRA GRILLI COMERCIO DE ALIMENTOS LTDA - ME"
+                    },
+                    {
                         "codigo_cliente": "29488",
                         "desc_cliente": "GHP PRODUTOS ALIMENTICIOS LTDA - ME"
                     },
@@ -53250,6 +53274,10 @@
                     {
                         "codigo_cliente": "70382",
                         "desc_cliente": "PROJETO DE CRESCIMENTO EXPONENCIAL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "57052",
+                        "desc_cliente": "RAMOS E LOURENCO LTDA"
                     },
                     {
                         "codigo_cliente": "39506",
@@ -79624,6 +79652,10 @@
                     {
                         "codigo_cliente": "36835",
                         "desc_cliente": "EZEQUIEL DE VARGAS"
+                    },
+                    {
+                        "codigo_cliente": "72690",
+                        "desc_cliente": "FATIMA PEGORARO MARCON"
                     },
                     {
                         "codigo_cliente": "16322",

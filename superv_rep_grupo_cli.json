@@ -1595,7 +1595,7 @@
                     },
                     {
                         "codigo_cliente": "72667",
-                        "desc_cliente": "cerejeira emporio de alimentos saudaveis eireli"
+                        "desc_cliente": "CEREJEIRA EMPORIO DE ALIMENTOS SAUDAVEIS LTDA"
                     },
                     {
                         "codigo_cliente": "46660",
@@ -21586,10 +21586,6 @@
                         "desc_cliente": "DOCE ASTRAL CONFEITARIA LTDA"
                     },
                     {
-                        "codigo_cliente": "33747",
-                        "desc_cliente": "DORACI DA SILVA BORBA 01058152092"
-                    },
-                    {
                         "codigo_cliente": "46975",
                         "desc_cliente": "ELENITA MEIRELLES"
                     },
@@ -23420,10 +23416,6 @@
                         "desc_cliente": "MERCADO E AQUI LTDA"
                     },
                     {
-                        "codigo_cliente": "72589",
-                        "desc_cliente": "MERCADO E MERCEARIA TISATTO LTDA"
-                    },
-                    {
                         "codigo_cliente": "48923",
                         "desc_cliente": "MERCADO MULLER COMERCIO DE ALIMENTOS LTDA"
                     },
@@ -24712,10 +24704,6 @@
                     {
                         "codigo_cliente": "60034",
                         "desc_cliente": "THAIS APARECIDA RAMPANELLI MOSCATO"
-                    },
-                    {
-                        "codigo_cliente": "41538",
-                        "desc_cliente": "TIELE DE OLIVEIRA SCHERER"
                     },
                     {
                         "codigo_cliente": "15105",
@@ -33682,10 +33670,6 @@
                         "desc_cliente": "ALEXANDRE SANTOS MERCADO ME"
                     },
                     {
-                        "codigo_cliente": "10437",
-                        "desc_cliente": "ALISSON JUNIOR TONIOLO"
-                    },
-                    {
                         "codigo_cliente": "15259",
                         "desc_cliente": "ANA AZIZA FERRARI AMER"
                     },
@@ -35628,10 +35612,6 @@
                     {
                         "codigo_cliente": "59988",
                         "desc_cliente": "IGET BARRA GARDEN COM DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72620",
-                        "desc_cliente": "IGREJA EVANGELICA SHALOM"
                     },
                     {
                         "codigo_cliente": "34448",
@@ -40646,6 +40626,10 @@
                     {
                         "codigo_cliente": "21623",
                         "desc_cliente": "ADEMIR CARGNELUTTI - ME"
+                    },
+                    {
+                        "codigo_cliente": "15405",
+                        "desc_cliente": "ALBERI MACHADO NOGUEIRA"
                     },
                     {
                         "codigo_cliente": "34302",
@@ -80006,10 +79990,6 @@
                         "desc_cliente": "AJH SUPER MERCOSUL LTDA"
                     },
                     {
-                        "codigo_cliente": "30509",
-                        "desc_cliente": "ALCEBIADES TOFFOLI - ME"
-                    },
-                    {
                         "codigo_cliente": "18770",
                         "desc_cliente": "ANGELI & SAGIORATO LTDA"
                     },
@@ -80074,10 +80054,6 @@
                         "desc_cliente": "J. FOSCHARINI E CIA LTDA"
                     },
                     {
-                        "codigo_cliente": "32007",
-                        "desc_cliente": "LUCAS KULTZ - PANIFICACOES - ME"
-                    },
-                    {
                         "codigo_cliente": "67319",
                         "desc_cliente": "MARCIO DECOL LTDA"
                     },
@@ -80132,10 +80108,6 @@
                     {
                         "codigo_cliente": "33363",
                         "desc_cliente": "SENDESKI SCHUERMAN LTDA"
-                    },
-                    {
-                        "codigo_cliente": "972",
-                        "desc_cliente": "SLONSKI & CIA LTDA"
                     },
                     {
                         "codigo_cliente": "45272",
@@ -80409,14 +80381,6 @@
                 "675 - AB SUPERMERCADOS": [
                     {
                         "codigo_cliente": "37855",
-                        "desc_cliente": "AB SUPERMERCADOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "45549",
-                        "desc_cliente": "AB SUPERMERCADOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "5491",
                         "desc_cliente": "AB SUPERMERCADOS LTDA"
                     }
                 ],
@@ -82080,6 +82044,10 @@
                         "desc_cliente": "40.710.551 ALVARO VALENTIN"
                     },
                     {
+                        "codigo_cliente": "30509",
+                        "desc_cliente": "ALCEBIADES TOFFOLI - ME"
+                    },
+                    {
                         "codigo_cliente": "17586",
                         "desc_cliente": "ALTEMAR ANTONIO"
                     },
@@ -82224,6 +82192,10 @@
                         "desc_cliente": "LEONARDO SCHORR & CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "32007",
+                        "desc_cliente": "LUCAS KULTZ - PANIFICACOES - ME"
+                    },
+                    {
                         "codigo_cliente": "9441",
                         "desc_cliente": "MARCIELE TREVISOL IAGHER - SUPERMERCADO"
                     },
@@ -82294,6 +82266,10 @@
                     {
                         "codigo_cliente": "19342",
                         "desc_cliente": "SIMON VALMINI & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "972",
+                        "desc_cliente": "SLONSKI & CIA LTDA"
                     },
                     {
                         "codigo_cliente": "31880",
@@ -82370,6 +82346,16 @@
                     {
                         "codigo_cliente": "40067",
                         "desc_cliente": "KAIROS COMERCIO DE ALIMENTOS EIRELI"
+                    }
+                ],
+                "675 - AB SUPERMERCADOS": [
+                    {
+                        "codigo_cliente": "45549",
+                        "desc_cliente": "AB SUPERMERCADOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "5491",
+                        "desc_cliente": "AB SUPERMERCADOS LTDA"
                     }
                 ],
                 "774 - REAL MIX - PR": [

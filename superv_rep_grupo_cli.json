@@ -10390,10 +10390,6 @@
                 ],
                 "48 - SUL 10": [
                     {
-                        "codigo_cliente": "2311",
-                        "desc_cliente": "COMERCIO DE CEREAIS DELA SANTOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "23112",
                         "desc_cliente": "SUPERMERCADO SANTA HELENA LTDA - PALOMA"
                     }
@@ -26342,6 +26338,16 @@
                         "desc_cliente": "VICTORIA ATACADO E VAREJO LTDA"
                     }
                 ],
+                "1395 - SUPER MANA - GO": [
+                    {
+                        "codigo_cliente": "68350",
+                        "desc_cliente": "SUPER MANA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72645",
+                        "desc_cliente": "SUPER MANA LTDA"
+                    }
+                ],
                 "1 - GERAL": [
                     {
                         "codigo_cliente": "63797",
@@ -26378,14 +26384,6 @@
                     {
                         "codigo_cliente": "67456",
                         "desc_cliente": "SUPER AVILA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "68350",
-                        "desc_cliente": "SUPER MANA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72645",
-                        "desc_cliente": "SUPER MANA LTDA"
                     },
                     {
                         "codigo_cliente": "62149",
@@ -54598,6 +54596,10 @@
                 ],
                 "1086 - DAKI": [
                     {
+                        "codigo_cliente": "59108",
+                        "desc_cliente": "DAKI BELO HORIZONTE LTDA"
+                    },
+                    {
                         "codigo_cliente": "58081",
                         "desc_cliente": "DAKI CD BARUERI LTDA."
                     }
@@ -55216,6 +55218,10 @@
                     {
                         "codigo_cliente": "20548",
                         "desc_cliente": "EXPRESSO SAO MIGUEL S/A"
+                    },
+                    {
+                        "codigo_cliente": "72666",
+                        "desc_cliente": "FITLOG TRANSPORTES E LOGISTICA LTDA"
                     },
                     {
                         "codigo_cliente": "55762",
@@ -60558,6 +60564,10 @@
                         "desc_cliente": "LEONARDO ADAM CARDOSO DOS SANTOS"
                     },
                     {
+                        "codigo_cliente": "72668",
+                        "desc_cliente": "LEONARDO ARI FAGUNDES OLIVEIRA"
+                    },
+                    {
                         "codigo_cliente": "60297",
                         "desc_cliente": "LEONARDO CARDOSO MACHADO "
                     },
@@ -60908,6 +60918,10 @@
                     {
                         "codigo_cliente": "57884",
                         "desc_cliente": "LUCIANE RAMOS MACHADO"
+                    },
+                    {
+                        "codigo_cliente": "62633",
+                        "desc_cliente": "LUCIANE RONZONI"
                     },
                     {
                         "codigo_cliente": "70264",

@@ -1594,6 +1594,10 @@
                         "desc_cliente": "BREAD FACTORY"
                     },
                     {
+                        "codigo_cliente": "72667",
+                        "desc_cliente": "cerejeira emporio de alimentos saudaveis eireli"
+                    },
+                    {
                         "codigo_cliente": "46660",
                         "desc_cliente": "CERQUEIRA COMERCIO DE DOCES LTDA "
                     },

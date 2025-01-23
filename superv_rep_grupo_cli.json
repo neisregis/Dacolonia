@@ -6720,6 +6720,10 @@
                         "desc_cliente": "COMERCIAL DE ALIMENTOS RELUZ LTDA"
                     },
                     {
+                        "codigo_cliente": "38927",
+                        "desc_cliente": "COMERCIAL E CEREALISTA ARAPOTI LTDA"
+                    },
+                    {
                         "codigo_cliente": "38250",
                         "desc_cliente": "COMERCIO DE PRODUTOS NATURAIS MJJ LTDA"
                     },
@@ -12279,6 +12283,10 @@
                     },
                     {
                         "codigo_cliente": "55975",
+                        "desc_cliente": "LAURITA CENTER IPANEMA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72661",
                         "desc_cliente": "LAURITA CENTER IPANEMA LTDA"
                     },
                     {

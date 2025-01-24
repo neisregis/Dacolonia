@@ -11078,6 +11078,10 @@
                         "desc_cliente": "RICARDO JOSE FERREIRA PINTO & CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "72712",
+                        "desc_cliente": "RODRIGO FELIPE CORDEIRO DA ROSA-COM VAREJ PROD ALIMENT LTDA"
+                    },
+                    {
                         "codigo_cliente": "47350",
                         "desc_cliente": "ROSANI APARECIDA SANTOS DE LIMA MERCADO DA CARNE LTDA"
                     },
@@ -19842,6 +19846,10 @@
                     {
                         "codigo_cliente": "44783",
                         "desc_cliente": "IGOR DIAS BARBOSA"
+                    },
+                    {
+                        "codigo_cliente": "61085",
+                        "desc_cliente": "JADIR MOREIRA DA SILVA"
                     },
                     {
                         "codigo_cliente": "60727",
@@ -37376,6 +37384,10 @@
                 ],
                 "1092 - ARMAZEM DO GRÃO": [
                     {
+                        "codigo_cliente": "35987",
+                        "desc_cliente": "ARMAZEM DO GRAO LTDA"
+                    },
+                    {
                         "codigo_cliente": "59339",
                         "desc_cliente": "ARMAZEM DO GRAO LTDA"
                     }
@@ -44545,7 +44557,7 @@
                     },
                     {
                         "codigo_cliente": "72696",
-                        "desc_cliente": "T.NASCIMENTO & CIA LTDA"
+                        "desc_cliente": "T. DO NASCIMENTO & CIA LTDA"
                     }
                 ],
                 "305 - SUPERMERCADO RONDON": [
@@ -64044,6 +64056,10 @@
                         "desc_cliente": "VALDERES RODRIGUES DUARTE"
                     },
                     {
+                        "codigo_cliente": "66501",
+                        "desc_cliente": "VALDERI MATOS DO NASCIEMENTO"
+                    },
+                    {
                         "codigo_cliente": "69457",
                         "desc_cliente": "VALDIR HUFF"
                     },
@@ -83155,7 +83171,7 @@
                     },
                     {
                         "codigo_cliente": "72705",
-                        "desc_cliente": "HPLAST COMERCIO DE EMBALAGENS EIRELI"
+                        "desc_cliente": "HPLAST COMERCIO DE EMBALAGENS LTDA"
                     },
                     {
                         "codigo_cliente": "67964",

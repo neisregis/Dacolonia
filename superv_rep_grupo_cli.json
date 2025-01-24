@@ -13412,10 +13412,6 @@
                         "desc_cliente": "MERCADO RS LTDA"
                     },
                     {
-                        "codigo_cliente": "13838",
-                        "desc_cliente": "MERCEARIA ARAUJO PAPA TUDO LTDA"
-                    },
-                    {
                         "codigo_cliente": "21217",
                         "desc_cliente": "MERCEARIA NARDO LTDA"
                     },
@@ -16054,10 +16050,6 @@
                         "desc_cliente": "COMERCIO DE ALIMENTOS BORIN EIRELI"
                     },
                     {
-                        "codigo_cliente": "72621",
-                        "desc_cliente": "COMERCIO DE EMBALAGENS CACADOR LTDA"
-                    },
-                    {
                         "codigo_cliente": "21267",
                         "desc_cliente": "COMPRETUDO SUPERMERCADO LTDA"
                     },
@@ -16320,10 +16312,6 @@
                     {
                         "codigo_cliente": "40761",
                         "desc_cliente": "MASSAROLI COMERCIO DE PRODUTOS NATURAIS EIRELI"
-                    },
-                    {
-                        "codigo_cliente": "72618",
-                        "desc_cliente": "MERCADO 3M DI DOMENICO LTDA"
                     },
                     {
                         "codigo_cliente": "43935",
@@ -39158,6 +39146,10 @@
                         "desc_cliente": "MERCADOS BOM PRECO DE SAO JOAO LTDA"
                     },
                     {
+                        "codigo_cliente": "72727",
+                        "desc_cliente": "MERCADO TOP ALIANCA LTDA"
+                    },
+                    {
                         "codigo_cliente": "63577",
                         "desc_cliente": "MERCADO TUBARAO DE NOVA IGUACU LTDA"
                     },
@@ -57448,6 +57440,10 @@
                         "desc_cliente": "CRISTIANO DE OLIVEIRA SOUZA"
                     },
                     {
+                        "codigo_cliente": "72724",
+                        "desc_cliente": "CRISTIANO DE SOUZA"
+                    },
+                    {
                         "codigo_cliente": "68293",
                         "desc_cliente": "CRISTIANO DOS SANTOS VAS"
                     },
@@ -63454,6 +63450,10 @@
                     {
                         "codigo_cliente": "66760",
                         "desc_cliente": "RUDINEI ALESSANDRO DA SILVEIRA"
+                    },
+                    {
+                        "codigo_cliente": "72725",
+                        "desc_cliente": "RUDINEI SANTOS DO NASCIMENTO JUNIOR"
                     },
                     {
                         "codigo_cliente": "72566",

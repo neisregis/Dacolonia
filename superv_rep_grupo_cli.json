@@ -47500,6 +47500,10 @@
                         "desc_cliente": "FAZENDINHA DOCES E SALGADOS LTDA"
                     },
                     {
+                        "codigo_cliente": "48635",
+                        "desc_cliente": "JAQUELINE DE MELLO VICENTE 41572457848"
+                    },
+                    {
                         "codigo_cliente": "35339",
                         "desc_cliente": "J. B. FERREIRA & CIA LTDA"
                     },
@@ -47538,6 +47542,10 @@
                     {
                         "codigo_cliente": "46019",
                         "desc_cliente": "VIA PORTO DISTRIBUIDORA DE PRODUTOS EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "72693",
+                        "desc_cliente": "VIEWGANAS COMERCIO DE SORVETES VEGANOS LTDA"
                     }
                 ],
                 "42 - BERGAMINI": [

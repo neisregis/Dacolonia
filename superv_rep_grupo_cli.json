@@ -18498,6 +18498,10 @@
                         "desc_cliente": "MERCADO TEND TUDO LTDA"
                     },
                     {
+                        "codigo_cliente": "32699",
+                        "desc_cliente": "MERCADO VANS - EIRELI - ME"
+                    },
+                    {
                         "codigo_cliente": "18793",
                         "desc_cliente": "MERCEARIA E BAR VERDUREIRO LTDA"
                     },
@@ -43518,10 +43522,6 @@
                         "desc_cliente": "52.870.355 DIONE CRISTINA ILHA PEREIRA"
                     },
                     {
-                        "codigo_cliente": "71969",
-                        "desc_cliente": "58.155.443 MARIA EDUARDA OCAMPOS CACCIAMANI"
-                    },
-                    {
                         "codigo_cliente": "69985",
                         "desc_cliente": "ABASTECEDORA DE COMBUSTIVEIS T W LTDA"
                     },
@@ -43956,6 +43956,10 @@
                     {
                         "codigo_cliente": "14140",
                         "desc_cliente": "M.BOLZAN & CIA.LTDA - ME"
+                    },
+                    {
+                        "codigo_cliente": "71969",
+                        "desc_cliente": "MERCADO CACCIAMANI LTDA"
                     },
                     {
                         "codigo_cliente": "39790",
@@ -53380,6 +53384,10 @@
                     {
                         "codigo_cliente": "70382",
                         "desc_cliente": "PROJETO DE CRESCIMENTO EXPONENCIAL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "57052",
+                        "desc_cliente": "RAMOS E LOURENCO LTDA"
                     },
                     {
                         "codigo_cliente": "39506",

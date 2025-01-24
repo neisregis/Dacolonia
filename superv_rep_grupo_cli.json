@@ -9234,6 +9234,10 @@
                         "desc_cliente": "AGRICER DISTRIBUIDORA E COMERCIAL DE PRODUTOS ALIMENT LTDA"
                     },
                     {
+                        "codigo_cliente": "40164",
+                        "desc_cliente": "AGRICER DISTRIBUIDORA E COMERCIAL DE PRODUTOS ALIMENT LTDA"
+                    },
+                    {
                         "codigo_cliente": "16812",
                         "desc_cliente": "AGRICER DISTRI E COM DE PRODUTOS ALIMENTICIOS LTDA."
                     },
@@ -9244,6 +9248,10 @@
                     {
                         "codigo_cliente": "37133",
                         "desc_cliente": "E.R.B. DISTR E COM DE PRODUTOS ALIMENTCIOS EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "37135",
+                        "desc_cliente": "E.R.B. DISTR E COM DE PRODUTOS ALIMENTICIOS EIRELI"
                     },
                     {
                         "codigo_cliente": "40155",
@@ -36732,6 +36740,10 @@
                         "desc_cliente": "GRAO DA TERRA COPACABANA LTDA"
                     },
                     {
+                        "codigo_cliente": "53006",
+                        "desc_cliente": "GRAO DA TERRA COPACABANA LTDA"
+                    },
+                    {
                         "codigo_cliente": "57102",
                         "desc_cliente": "GRAO DA TERRA COPACABANA LTDA"
                     },
@@ -36762,6 +36774,10 @@
                     {
                         "codigo_cliente": "57615",
                         "desc_cliente": "GRAO DA TERRA DE BARBACENA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "33730",
+                        "desc_cliente": "GRAO DA TERRA DE CASCADURA PRODUTOS ALIMENTICIOS LTDA"
                     }
                 ],
                 "433 - INTERCONTINENTAL": [

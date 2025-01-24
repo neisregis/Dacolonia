@@ -2624,6 +2624,10 @@
                     {
                         "codigo_cliente": "69735",
                         "desc_cliente": "DMA DISTRIBUIDORA S/A"
+                    },
+                    {
+                        "codigo_cliente": "71837",
+                        "desc_cliente": "DMA DISTRIBUIDORA S/A"
                     }
                 ]
             },
@@ -14162,10 +14166,6 @@
                         "desc_cliente": "MERCEARIA FRIGO LTDA"
                     },
                     {
-                        "codigo_cliente": "72691",
-                        "desc_cliente": "MOURA COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "24490",
                         "desc_cliente": "M.V PANASSOLO SUPERMERCADO"
                     },
@@ -14303,6 +14303,10 @@
                     },
                     {
                         "codigo_cliente": "667",
+                        "desc_cliente": "MOURA COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72691",
                         "desc_cliente": "MOURA COMERCIO DE ALIMENTOS LTDA"
                     }
                 ],
@@ -21699,7 +21703,7 @@
                     },
                     {
                         "codigo_cliente": "72689",
-                        "desc_cliente": "POSTO 2011"
+                        "desc_cliente": "POSTO 2011 DERIVADOS DE PETROLEO LTDA"
                     },
                     {
                         "codigo_cliente": "61161",
@@ -39087,7 +39091,7 @@
                     },
                     {
                         "codigo_cliente": "72687",
-                        "desc_cliente": "MERCADO DE GUAPIMIRIM RJ LTD"
+                        "desc_cliente": "MERCADO DE GUAPIMIRIM RJ LTDA"
                     },
                     {
                         "codigo_cliente": "46471",
@@ -44522,6 +44526,14 @@
                     {
                         "codigo_cliente": "21999",
                         "desc_cliente": "SUPERMERCADO TANIGUCHI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72692",
+                        "desc_cliente": "T. DO NASCIMENTO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72696",
+                        "desc_cliente": "T.NASCIMENTO & CIA LTDA"
                     }
                 ],
                 "305 - SUPERMERCADO RONDON": [
@@ -58996,6 +59008,10 @@
                     {
                         "codigo_cliente": "65466",
                         "desc_cliente": "GISELA HERZOG"
+                    },
+                    {
+                        "codigo_cliente": "65231",
+                        "desc_cliente": "GISELE GOMES DOS SANTOS"
                     },
                     {
                         "codigo_cliente": "72270",

@@ -27432,6 +27432,10 @@
                         "desc_cliente": "SEIARA CEIFA LTDA"
                     },
                     {
+                        "codigo_cliente": "72628",
+                        "desc_cliente": "SIQUEIRA DE PAULA SUPERMERCADO LTDA"
+                    },
+                    {
                         "codigo_cliente": "39467",
                         "desc_cliente": "SOUSA E MATIAS LTDA"
                     },
@@ -38686,6 +38690,10 @@
                     {
                         "codigo_cliente": "41598",
                         "desc_cliente": "CEREAIS NOVA LIBERDADE DE RESENDE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "28076",
+                        "desc_cliente": "CEREALISTA LEAL DE MENDES LTDA"
                     },
                     {
                         "codigo_cliente": "71985",
@@ -56762,6 +56770,10 @@
                     {
                         "codigo_cliente": "62521",
                         "desc_cliente": "BRENDA DE OLIVEIRA"
+                    },
+                    {
+                        "codigo_cliente": "72713",
+                        "desc_cliente": "BRENDA MACHADO PINHEIRO MENDES"
                     },
                     {
                         "codigo_cliente": "51769",
@@ -79593,10 +79605,6 @@
                     },
                     {
                         "codigo_cliente": "35089",
-                        "desc_cliente": "SUPER LUVISA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "39462",
                         "desc_cliente": "SUPER LUVISA LTDA"
                     },
                     {

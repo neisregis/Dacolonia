@@ -930,6 +930,10 @@
                         "desc_cliente": "ALVES E SILVA PRODUTOS NATURAIS LTDA"
                     },
                     {
+                        "codigo_cliente": "72708",
+                        "desc_cliente": "BOM MINEIRO ATACADISTA E TRANSPORTES LTDA"
+                    },
+                    {
                         "codigo_cliente": "36665",
                         "desc_cliente": "BOM MINEIRO INDUSTRIA DE ALIMENTOS LTDA"
                     },
@@ -62506,6 +62510,10 @@
                     {
                         "codigo_cliente": "72398",
                         "desc_cliente": "PAOLA VITORIA DE OLIVEIRA RODRIGUES"
+                    },
+                    {
+                        "codigo_cliente": "72709",
+                        "desc_cliente": "PATRICIA COMASSETTO"
                     },
                     {
                         "codigo_cliente": "66925",

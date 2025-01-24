@@ -236,6 +236,10 @@
                         "desc_cliente": "SUPERMERCADOS BH COMERCIO DE ALIMENTOS S/A"
                     },
                     {
+                        "codigo_cliente": "55686",
+                        "desc_cliente": "SUPERMERCADOS BH COMERCIO DE ALIMENTOS S/A"
+                    },
+                    {
                         "codigo_cliente": "55687",
                         "desc_cliente": "SUPERMERCADOS BH COMERCIO DE ALIMENTOS S/A"
                     },
@@ -1636,6 +1640,10 @@
                     {
                         "codigo_cliente": "62215",
                         "desc_cliente": "RESTAURANTE E CHURRASCARIA DO TCHE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "42362",
+                        "desc_cliente": "SUPERMERCADO E PANIFICADORA KI - DELICIA LTDA"
                     },
                     {
                         "codigo_cliente": "34708",
@@ -58148,6 +58156,10 @@
                         "desc_cliente": "ELIANDRO SANTOS DA SILVA"
                     },
                     {
+                        "codigo_cliente": "72723",
+                        "desc_cliente": "ELIANE APARECIDA"
+                    },
+                    {
                         "codigo_cliente": "57244",
                         "desc_cliente": "ELIANE DA SILVA LEITES "
                     },
@@ -58474,6 +58486,10 @@
                     {
                         "codigo_cliente": "56716",
                         "desc_cliente": "FABIANO MISTURINE "
+                    },
+                    {
+                        "codigo_cliente": "72715",
+                        "desc_cliente": "FABIANO SONEGO"
                     },
                     {
                         "codigo_cliente": "72159",
@@ -59708,6 +59724,10 @@
                         "desc_cliente": "JEFERSSON ARAUJO DIAS"
                     },
                     {
+                        "codigo_cliente": "72719",
+                        "desc_cliente": "JEFERSSON BATEZINI"
+                    },
+                    {
                         "codigo_cliente": "70821",
                         "desc_cliente": "JEFERSSON CORREIRA SCHIMITT"
                     },
@@ -59970,6 +59990,10 @@
                     {
                         "codigo_cliente": "58974",
                         "desc_cliente": "JOCELIO JOSE CUSTORIO"
+                    },
+                    {
+                        "codigo_cliente": "72717",
+                        "desc_cliente": "JOCIEL PEIXOTO MORAES"
                     },
                     {
                         "codigo_cliente": "72615",
@@ -60254,6 +60278,10 @@
                     {
                         "codigo_cliente": "61098",
                         "desc_cliente": "JOSE PAULO LOPES"
+                    },
+                    {
+                        "codigo_cliente": "72720",
+                        "desc_cliente": "JOSE PEDRO GUIMARAES"
                     },
                     {
                         "codigo_cliente": "49313",
@@ -60830,6 +60858,10 @@
                     {
                         "codigo_cliente": "68907",
                         "desc_cliente": "LEONICE DA SILVA SOUZA"
+                    },
+                    {
+                        "codigo_cliente": "72721",
+                        "desc_cliente": "LEONIR TEIXEIRA DOS SANTOS"
                     },
                     {
                         "codigo_cliente": "69755",
@@ -63034,6 +63066,10 @@
                     {
                         "codigo_cliente": "50993",
                         "desc_cliente": "RIAN SILVA DOS SANTOS"
+                    },
+                    {
+                        "codigo_cliente": "72718",
+                        "desc_cliente": "RICARDO ANTONIO CASANOVA"
                     },
                     {
                         "codigo_cliente": "72461",
@@ -66922,6 +66958,10 @@
                     {
                         "codigo_cliente": "71728",
                         "desc_cliente": "BATRIZ T. NAKAYAMA"
+                    },
+                    {
+                        "codigo_cliente": "72710",
+                        "desc_cliente": "BEATRIZ ANITA VOLKMANN"
                     },
                     {
                         "codigo_cliente": "70576",
@@ -71804,6 +71844,10 @@
                         "desc_cliente": "LIZ GRACHTEN"
                     },
                     {
+                        "codigo_cliente": "72722",
+                        "desc_cliente": "LOJA BONANCA"
+                    },
+                    {
                         "codigo_cliente": "66867",
                         "desc_cliente": "LORENZO ABRAHAO FURLAN"
                     },
@@ -72158,6 +72202,10 @@
                     {
                         "codigo_cliente": "71843",
                         "desc_cliente": "LUIZ GUSTAVO NADALIN"
+                    },
+                    {
+                        "codigo_cliente": "72716",
+                        "desc_cliente": "LUIZ HARDING CHANG"
                     },
                     {
                         "codigo_cliente": "68082",
@@ -73302,6 +73350,10 @@
                     {
                         "codigo_cliente": "69331",
                         "desc_cliente": "MONICA DA SILVA CRISTOFOLINI"
+                    },
+                    {
+                        "codigo_cliente": "72711",
+                        "desc_cliente": "MONICA DE BARROS SEGATO"
                     },
                     {
                         "codigo_cliente": "71256",
@@ -75034,6 +75086,10 @@
                     {
                         "codigo_cliente": "68505",
                         "desc_cliente": "SILVANA FRANCISCHINI VANZ"
+                    },
+                    {
+                        "codigo_cliente": "72714",
+                        "desc_cliente": "SILVANA NEVES"
                     },
                     {
                         "codigo_cliente": "71541",

@@ -33802,6 +33802,10 @@
                         "desc_cliente": "COSTA & RIBEIRO LTDA"
                     },
                     {
+                        "codigo_cliente": "68832",
+                        "desc_cliente": "CROSS TREINING VIAMAO LTDA"
+                    },
+                    {
                         "codigo_cliente": "38245",
                         "desc_cliente": "DAIANE DA FONSECA DREHER"
                     },
@@ -45303,6 +45307,10 @@
                     }
                 ],
                 "1 - GERAL": [
+                    {
+                        "codigo_cliente": "69688",
+                        "desc_cliente": "45.028.150 REGIANE CRISTINA DE MELLO CAMARGO"
+                    },
                     {
                         "codigo_cliente": "63572",
                         "desc_cliente": "AVANZI SUPERMERCADOS LTDA"

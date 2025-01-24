@@ -7378,6 +7378,10 @@
                         "desc_cliente": "H DE GODOY BUENO & CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "72729",
+                        "desc_cliente": "HELLEN PATRICIA DE LIMA DA SILVA"
+                    },
+                    {
                         "codigo_cliente": "33376",
                         "desc_cliente": "IACIDA EMBALAGENS E PRESENTES LTDA"
                     },
@@ -13412,6 +13416,10 @@
                         "desc_cliente": "MERCADO RS LTDA"
                     },
                     {
+                        "codigo_cliente": "13838",
+                        "desc_cliente": "MERCEARIA ARAUJO PAPA TUDO LTDA"
+                    },
+                    {
                         "codigo_cliente": "21217",
                         "desc_cliente": "MERCEARIA NARDO LTDA"
                     },
@@ -16050,6 +16058,10 @@
                         "desc_cliente": "COMERCIO DE ALIMENTOS BORIN EIRELI"
                     },
                     {
+                        "codigo_cliente": "72621",
+                        "desc_cliente": "COMERCIO DE EMBALAGENS CACADOR LTDA"
+                    },
+                    {
                         "codigo_cliente": "21267",
                         "desc_cliente": "COMPRETUDO SUPERMERCADO LTDA"
                     },
@@ -16312,6 +16324,10 @@
                     {
                         "codigo_cliente": "40761",
                         "desc_cliente": "MASSAROLI COMERCIO DE PRODUTOS NATURAIS EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "72618",
+                        "desc_cliente": "MERCADO 3M DI DOMENICO LTDA"
                     },
                     {
                         "codigo_cliente": "43935",
@@ -23830,6 +23846,10 @@
                     {
                         "codigo_cliente": "53827",
                         "desc_cliente": "ANDREIA C DE M KLEIN"
+                    },
+                    {
+                        "codigo_cliente": "61025",
+                        "desc_cliente": "BOURSCHEID SOLUCOES E EMBALAGENS LTDA"
                     },
                     {
                         "codigo_cliente": "71037",
@@ -36362,6 +36382,10 @@
                         "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A"
                     },
                     {
+                        "codigo_cliente": "26373",
+                        "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A."
+                    },
+                    {
                         "codigo_cliente": "55666",
                         "desc_cliente": "G.M.A.P. SUPERMERCADOS S.A."
                     },
@@ -39188,6 +39212,10 @@
                     {
                         "codigo_cliente": "64999",
                         "desc_cliente": "NYC FRUT MINIMERCADO & HORTIFRUTI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72726",
+                        "desc_cliente": "NYC FRUT PARQUE ARARUAMA LTDA"
                     },
                     {
                         "codigo_cliente": "71698",
@@ -44355,6 +44383,10 @@
                 "871 - GBI COMBUSTÍVEIS": [
                     {
                         "codigo_cliente": "17221",
+                        "desc_cliente": "GBI COMBUSTIVEIS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "35589",
                         "desc_cliente": "GBI COMBUSTIVEIS LTDA"
                     },
                     {
@@ -58296,6 +58328,10 @@
                         "desc_cliente": "EMERSON JOÃO SOARES"
                     },
                     {
+                        "codigo_cliente": "72728",
+                        "desc_cliente": "EMERSON OSORIO DA CUNHA"
+                    },
+                    {
                         "codigo_cliente": "56647",
                         "desc_cliente": "EMERSON SANHUDO DEVES DA SILVA "
                     },
@@ -64922,6 +64958,10 @@
                     {
                         "codigo_cliente": "36408",
                         "desc_cliente": "MATHAUS NETTO"
+                    },
+                    {
+                        "codigo_cliente": "34275",
+                        "desc_cliente": "PEDRO JORGE MARQUES"
                     },
                     {
                         "codigo_cliente": "52918",

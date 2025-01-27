@@ -1392,6 +1392,10 @@
                         "desc_cliente": "IRMAOS TEIXEIRA DE CARVALHO LTDA"
                     },
                     {
+                        "codigo_cliente": "44361",
+                        "desc_cliente": "JAYME VIEIRA SUPERMERCADO LTDA"
+                    },
+                    {
                         "codigo_cliente": "20714",
                         "desc_cliente": "J.E.A. REZENDE E CIA LTDA"
                     },
@@ -62676,6 +62680,10 @@
                     {
                         "codigo_cliente": "55711",
                         "desc_cliente": "PATRICIA SILVEIRA DE SOUZA"
+                    },
+                    {
+                        "codigo_cliente": "72745",
+                        "desc_cliente": "PATRICIA SOSNOWSKE"
                     },
                     {
                         "codigo_cliente": "51595",

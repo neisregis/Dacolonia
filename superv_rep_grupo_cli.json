@@ -24166,12 +24166,12 @@
                 ],
                 "1 - GERAL": [
                     {
-                        "codigo_cliente": "72735",
-                        "desc_cliente": "AS RUBASKI DISTRIBUIDORA"
-                    },
-                    {
                         "codigo_cliente": "39096",
                         "desc_cliente": "AS RUBASKI DISTRIBUIDORA EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "72735",
+                        "desc_cliente": "AS RUBASKI DISTRIBUIDORA LTDA"
                     },
                     {
                         "codigo_cliente": "52074",
@@ -31926,6 +31926,10 @@
                         "desc_cliente": "HEINRICH FICHTNER COM DE ALIMENTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "52793",
+                        "desc_cliente": "HT COM DE ALIMENTOS SAUDAVEIS LTDA"
+                    },
+                    {
                         "codigo_cliente": "59564",
                         "desc_cliente": "I. DA SILVA VARGAS - MERCADO"
                     },
@@ -38767,7 +38771,7 @@
                     },
                     {
                         "codigo_cliente": "72740",
-                        "desc_cliente": "J C ANDRADE RETAURANTE EIRELLI"
+                        "desc_cliente": "J C A ANDRADE RESTAURANTE LTDA"
                     },
                     {
                         "codigo_cliente": "55065",
@@ -58702,6 +58706,10 @@
                         "desc_cliente": "FERNANDA VIEIRA SANTOS"
                     },
                     {
+                        "codigo_cliente": "72742",
+                        "desc_cliente": "FERNANDO BRANDAO"
+                    },
+                    {
                         "codigo_cliente": "66659",
                         "desc_cliente": "FERNANDO CESAR GOMES"
                     },
@@ -65094,6 +65102,10 @@
                     {
                         "codigo_cliente": "65431",
                         "desc_cliente": "PALOMA CLAUDINO DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "60998",
+                        "desc_cliente": "PEDRO HAETINGER"
                     },
                     {
                         "codigo_cliente": "69035",

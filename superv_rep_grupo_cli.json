@@ -2132,6 +2132,10 @@
                         "desc_cliente": "MERCEARIA DO AFONSO LTDA"
                     },
                     {
+                        "codigo_cliente": "47908",
+                        "desc_cliente": "MGS DISTRIBUIDORA LTDA"
+                    },
+                    {
                         "codigo_cliente": "59731",
                         "desc_cliente": "MUR NUTRICAO LTDA"
                     },
@@ -11144,6 +11148,10 @@
                         "desc_cliente": "SUPERMERCADO REAL MAXXI GULA 2 LTDA"
                     },
                     {
+                        "codigo_cliente": "18499",
+                        "desc_cliente": "SUPERMERCADO ROCHA CANDIDO E LIMA LTDA"
+                    },
+                    {
                         "codigo_cliente": "36734",
                         "desc_cliente": "SUPERMERCADO ROLF LTDA"
                     },
@@ -11199,6 +11207,14 @@
                     }
                 ],
                 "511 - SUPER IDEAL": [
+                    {
+                        "codigo_cliente": "39804",
+                        "desc_cliente": "SUPER IDEAL COMERCIAL DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "39805",
+                        "desc_cliente": "SUPER IDEAL COMERCIAL DE ALIMENTOS LTDA"
+                    },
                     {
                         "codigo_cliente": "36304",
                         "desc_cliente": "SUPER IDEAL COMERCIAL DE ALIMENTOS LTDA."
@@ -19868,6 +19884,10 @@
                     {
                         "codigo_cliente": "44783",
                         "desc_cliente": "IGOR DIAS BARBOSA"
+                    },
+                    {
+                        "codigo_cliente": "61085",
+                        "desc_cliente": "JADIR MOREIRA DA SILVA"
                     },
                     {
                         "codigo_cliente": "60727",
@@ -33918,6 +33938,10 @@
                     {
                         "codigo_cliente": "52189",
                         "desc_cliente": "DANIELA APARECIDA RODRIGUES 03597424082"
+                    },
+                    {
+                        "codigo_cliente": "71412",
+                        "desc_cliente": "DISTRIBUIDORA UNIPAO LTDA"
                     },
                     {
                         "codigo_cliente": "37848",
@@ -83891,6 +83915,10 @@
                     },
                     {
                         "codigo_cliente": "57554",
+                        "desc_cliente": "ATACADAO DIA A DIA S.A"
+                    },
+                    {
+                        "codigo_cliente": "72642",
                         "desc_cliente": "ATACADAO DIA A DIA S.A"
                     }
                 ],

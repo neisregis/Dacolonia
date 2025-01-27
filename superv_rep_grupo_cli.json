@@ -17290,6 +17290,10 @@
                         "desc_cliente": "CARLOS ALBERTO BISSOLI"
                     },
                     {
+                        "codigo_cliente": "22174",
+                        "desc_cliente": "CASA DAS ESPECIARIAD"
+                    },
+                    {
                         "codigo_cliente": "39919",
                         "desc_cliente": "CASA DAS ESPECIARIAS COMERCIO LTDA"
                     },
@@ -23482,6 +23486,10 @@
                         "desc_cliente": "MASCARELLO DISTRIBUIDOR ATACADISTA LTDA"
                     },
                     {
+                        "codigo_cliente": "72753",
+                        "desc_cliente": "mercado BENTO"
+                    },
+                    {
                         "codigo_cliente": "48725",
                         "desc_cliente": "MERCADO BORTOLETTI LTDA"
                     },
@@ -26296,6 +26304,10 @@
                     {
                         "codigo_cliente": "55992",
                         "desc_cliente": "VICENTE DE PAULO LIMA NEVES"
+                    },
+                    {
+                        "codigo_cliente": "61418",
+                        "desc_cliente": "VILELA E TEODORO LTDA"
                     },
                     {
                         "codigo_cliente": "63424",
@@ -38456,10 +38468,6 @@
                 ],
                 "522 - RIO SUL": [
                     {
-                        "codigo_cliente": "64334",
-                        "desc_cliente": "MERCADO RC DE MIGUEL PEREIRA LTDA"
-                    },
-                    {
                         "codigo_cliente": "52264",
                         "desc_cliente": "MERCADO RIO SUL DA VILA OPERÁRIA LTDA."
                     },
@@ -38977,6 +38985,10 @@
                     }
                 ],
                 "522 - RIO SUL": [
+                    {
+                        "codigo_cliente": "64334",
+                        "desc_cliente": "MERCADO RC DE MIGUEL PEREIRA LTDA"
+                    },
                     {
                         "codigo_cliente": "61028",
                         "desc_cliente": "SUPERMERCADO RIO SUL DE SEROPEDICA LTDA"
@@ -41638,10 +41650,6 @@
                     {
                         "codigo_cliente": "53822",
                         "desc_cliente": "LISANDRA HORNKE KLUG"
-                    },
-                    {
-                        "codigo_cliente": "42731",
-                        "desc_cliente": "LIZANDRA DEVANTIER ZILMER"
                     },
                     {
                         "codigo_cliente": "34208",
@@ -64108,6 +64116,10 @@
                     {
                         "codigo_cliente": "70726",
                         "desc_cliente": "THEO CORREIA DOS SANTOS"
+                    },
+                    {
+                        "codigo_cliente": "60066",
+                        "desc_cliente": "THIAGO CRIPPA REY"
                     },
                     {
                         "codigo_cliente": "59029",

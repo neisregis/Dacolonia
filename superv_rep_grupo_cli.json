@@ -884,6 +884,16 @@
                         "desc_cliente": "SUPERMERCADO DONA BEIJA LTDA"
                     }
                 ],
+                "1396 - BOM MINEIRO - MG": [
+                    {
+                        "codigo_cliente": "72708",
+                        "desc_cliente": "BOM MINEIRO ATACADISTA E TRANSPORTES LTDA"
+                    },
+                    {
+                        "codigo_cliente": "36665",
+                        "desc_cliente": "BOM MINEIRO INDUSTRIA DE ALIMENTOS LTDA"
+                    }
+                ],
                 "152 - SUP. LEAL": [
                     {
                         "codigo_cliente": "46269",
@@ -932,14 +942,6 @@
                     {
                         "codigo_cliente": "65573",
                         "desc_cliente": "ALVES E SILVA PRODUTOS NATURAIS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72708",
-                        "desc_cliente": "BOM MINEIRO ATACADISTA E TRANSPORTES LTDA"
-                    },
-                    {
-                        "codigo_cliente": "36665",
-                        "desc_cliente": "BOM MINEIRO INDUSTRIA DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "39934",
@@ -25532,6 +25534,10 @@
                     {
                         "codigo_cliente": "67485",
                         "desc_cliente": "MERCADINHO RAPOSO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "39481",
+                        "desc_cliente": "MERCEARIA DINIZ LTDA"
                     },
                     {
                         "codigo_cliente": "67525",
@@ -56676,6 +56682,10 @@
                         "desc_cliente": "ARIANA ALENCAR CORREA "
                     },
                     {
+                        "codigo_cliente": "72738",
+                        "desc_cliente": "ARISTEU AYRES DUARTE"
+                    },
+                    {
                         "codigo_cliente": "54913",
                         "desc_cliente": "ARLEI VLADIMIR DE SOUZA"
                     },
@@ -59010,6 +59020,10 @@
                     {
                         "codigo_cliente": "58856",
                         "desc_cliente": "GERSON ZANDAVALLI"
+                    },
+                    {
+                        "codigo_cliente": "72737",
+                        "desc_cliente": "GEVERTON HOLZ"
                     },
                     {
                         "codigo_cliente": "66956",

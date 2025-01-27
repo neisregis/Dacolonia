@@ -17542,6 +17542,10 @@
                         "desc_cliente": "SANDRO ROGERIO KUMINECK"
                     },
                     {
+                        "codigo_cliente": "15921",
+                        "desc_cliente": "SANTHIAGO COM DE HORTIFRUTIGRANGEIROS LTDA"
+                    },
+                    {
                         "codigo_cliente": "45212",
                         "desc_cliente": "SANTPAR SC COMERCIO DE ALIMENTOS LTDA"
                     },
@@ -23283,6 +23287,10 @@
                 "430 - SUPERMERCADO DALPIAZ": [
                     {
                         "codigo_cliente": "258",
+                        "desc_cliente": "SUPERMERCADOS DALPIAZ LTDA"
+                    },
+                    {
+                        "codigo_cliente": "37159",
                         "desc_cliente": "SUPERMERCADOS DALPIAZ LTDA"
                     }
                 ],
@@ -37414,10 +37422,6 @@
                 ],
                 "1092 - ARMAZEM DO GRÃO": [
                     {
-                        "codigo_cliente": "35987",
-                        "desc_cliente": "ARMAZEM DO GRAO LTDA"
-                    },
-                    {
                         "codigo_cliente": "59339",
                         "desc_cliente": "ARMAZEM DO GRAO LTDA"
                     }
@@ -38760,6 +38764,10 @@
                     {
                         "codigo_cliente": "28072",
                         "desc_cliente": "HENARDI LANCHONETE EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "72740",
+                        "desc_cliente": "J C ANDRADE RETAURANTE EIRELLI"
                     },
                     {
                         "codigo_cliente": "55065",
@@ -63680,6 +63688,10 @@
                     {
                         "codigo_cliente": "68824",
                         "desc_cliente": "SERENITA DE OLIVEIRA"
+                    },
+                    {
+                        "codigo_cliente": "72739",
+                        "desc_cliente": "SERGIO ALEXANDRE AIROLDE"
                     },
                     {
                         "codigo_cliente": "68878",

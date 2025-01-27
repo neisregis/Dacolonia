@@ -7182,6 +7182,10 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "72729",
+                        "desc_cliente": "55.751.924 HELLEN PATRICIA DE LIMA DA SILVA"
+                    },
+                    {
                         "codigo_cliente": "65391",
                         "desc_cliente": "ACOPAR-COMERCIAL E AGRICOLA LTDA"
                     },
@@ -7376,10 +7380,6 @@
                     {
                         "codigo_cliente": "20145",
                         "desc_cliente": "H DE GODOY BUENO & CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72729",
-                        "desc_cliente": "HELLEN PATRICIA DE LIMA DA SILVA"
                     },
                     {
                         "codigo_cliente": "33376",
@@ -9255,10 +9255,6 @@
                     },
                     {
                         "codigo_cliente": "40158",
-                        "desc_cliente": "AGRICER DISTRIBUIDORA E COMERCIAL DE PRODUTOS ALIMENT LTDA"
-                    },
-                    {
-                        "codigo_cliente": "40164",
                         "desc_cliente": "AGRICER DISTRIBUIDORA E COMERCIAL DE PRODUTOS ALIMENT LTDA"
                     },
                     {
@@ -24159,6 +24155,10 @@
                     }
                 ],
                 "1 - GERAL": [
+                    {
+                        "codigo_cliente": "72735",
+                        "desc_cliente": "AS RUBASKI DISTRIBUIDORA"
+                    },
                     {
                         "codigo_cliente": "39096",
                         "desc_cliente": "AS RUBASKI DISTRIBUIDORA EIRELI"
@@ -40249,7 +40249,7 @@
                     },
                     {
                         "codigo_cliente": "72733",
-                        "desc_cliente": "INES BERGMANN DE OLIVEIRA"
+                        "desc_cliente": "INES BERGMANN DE OLIVEIRA - FLORICULTURA"
                     },
                     {
                         "codigo_cliente": "23277",
@@ -64202,6 +64202,10 @@
                     {
                         "codigo_cliente": "50618",
                         "desc_cliente": "VALMIR PEDROSO DE MORAES"
+                    },
+                    {
+                        "codigo_cliente": "72736",
+                        "desc_cliente": "VALMIR SANTANA"
                     },
                     {
                         "codigo_cliente": "70363",

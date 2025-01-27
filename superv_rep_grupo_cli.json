@@ -1028,6 +1028,10 @@
                         "desc_cliente": "FREITAS MARQUES VAREJO LTDA"
                     },
                     {
+                        "codigo_cliente": "72766",
+                        "desc_cliente": "GONCALVES E ASSIS LTDA"
+                    },
+                    {
                         "codigo_cliente": "30976",
                         "desc_cliente": "HELIO ANTONIO MACHADO"
                     },
@@ -11014,6 +11018,10 @@
                     {
                         "codigo_cliente": "59459",
                         "desc_cliente": "MERCADINHO B&P - COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72765",
+                        "desc_cliente": "MERCADO COMPRE CERTO LTDA"
                     },
                     {
                         "codigo_cliente": "54528",
@@ -25898,6 +25906,10 @@
                         "desc_cliente": "BRASIL SUL DISTRIBUIDORA COMERCIO E SERVICOS LTDA - ME"
                     },
                     {
+                        "codigo_cliente": "72755",
+                        "desc_cliente": "CLEOMAR LUIZ FACCO"
+                    },
+                    {
                         "codigo_cliente": "63851",
                         "desc_cliente": "COMERCIAL MIGOTTO LTDA"
                     },
@@ -25908,6 +25920,10 @@
                     {
                         "codigo_cliente": "23012",
                         "desc_cliente": "D'GUST TEMPEROS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "35956",
+                        "desc_cliente": "EDINA MOREIRA QUEIROZ EIRELI"
                     },
                     {
                         "codigo_cliente": "61204",

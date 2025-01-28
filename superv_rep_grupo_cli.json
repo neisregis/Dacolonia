@@ -11104,10 +11104,6 @@
                         "desc_cliente": "RICARDO JOSE FERREIRA PINTO & CIA LTDA"
                     },
                     {
-                        "codigo_cliente": "72712",
-                        "desc_cliente": "RODRIGO FELIPE CORDEIRO DA ROSA-COM VAREJ PROD ALIMENT LTDA"
-                    },
-                    {
                         "codigo_cliente": "47350",
                         "desc_cliente": "ROSANI APARECIDA SANTOS DE LIMA MERCADO DA CARNE LTDA"
                     },
@@ -21628,6 +21624,10 @@
                         "desc_cliente": "37.879.581 MAILSON DAIGO DOS SANTOS"
                     },
                     {
+                        "codigo_cliente": "72773",
+                        "desc_cliente": "53.403.585 FELIPE PADILHA DA SILVA"
+                    },
+                    {
                         "codigo_cliente": "45514",
                         "desc_cliente": "ADEMACRO DISTRIB DE PROD ALIMENT LTDA"
                     },
@@ -21878,12 +21878,6 @@
                     {
                         "codigo_cliente": "35137",
                         "desc_cliente": "SUPER COMPANY ATACADO E VAREJO DE PROD ALIMENT LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "72773",
-                        "desc_cliente": "FELIPE PADILHA DA SILVA"
                     }
                 ]
             },
@@ -25921,7 +25915,7 @@
                     },
                     {
                         "codigo_cliente": "72755",
-                        "desc_cliente": "CLEOMAR LUIZ FACCO"
+                        "desc_cliente": "CLEOMAR LUIS FACCO"
                     },
                     {
                         "codigo_cliente": "63851",
@@ -25937,7 +25931,7 @@
                     },
                     {
                         "codigo_cliente": "72767",
-                        "desc_cliente": "DOIS AMIGOS COM. VAREJISTA DE ALIMENTOS"
+                        "desc_cliente": "DOIS AMIGOS COMERCIO VAREJISTA DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "35956",
@@ -78908,6 +78902,10 @@
                         "desc_cliente": "PANIFICADORA DALL AGNOL LTDA - EPP"
                     },
                     {
+                        "codigo_cliente": "18712",
+                        "desc_cliente": "PARADA 99 BELVEDERE ARTESANATO LTDA"
+                    },
+                    {
                         "codigo_cliente": "32840",
                         "desc_cliente": "PARCERIA DISTRIBUIDORA EIRELI"
                     },
@@ -84251,27 +84249,27 @@
                     },
                     {
                         "codigo_cliente": "29424",
-                        "desc_cliente": "STO ATACADISTA DE ALIMENTOS EIRELI"
+                        "desc_cliente": "SANTA THEREZINHA ATACADISTA DE PRODUTOS ALIMENTICIOS LTDA"
                     },
                     {
                         "codigo_cliente": "34408",
-                        "desc_cliente": "STO ATACADISTA DE ALIMENTOS EIRELI"
+                        "desc_cliente": "SANTA THEREZINHA ATACADISTA DE PRODUTOS ALIMENTICIOS LTDA"
                     },
                     {
                         "codigo_cliente": "34410",
-                        "desc_cliente": "STO ATACADISTA DE ALIMENTOS EIRELI"
+                        "desc_cliente": "SANTA THEREZINHA ATACADISTA DE PRODUTOS ALIMENTICIOS LTDA"
                     },
                     {
                         "codigo_cliente": "34413",
-                        "desc_cliente": "STO ATACADISTA DE ALIMENTOS EIRELI"
+                        "desc_cliente": "SANTA THEREZINHA ATACADISTA DE PRODUTOS ALIMENTICIOS LTDA"
                     },
                     {
                         "codigo_cliente": "35561",
-                        "desc_cliente": "STO ATACADISTA DE ALIMENTOS EIRELI"
+                        "desc_cliente": "SANTA THEREZINHA ATACADISTA DE PRODUTOS ALIMENTICIOS LTDA"
                     },
                     {
                         "codigo_cliente": "49035",
-                        "desc_cliente": "STO ATACADISTA DE ALIMENTOS EIRELI"
+                        "desc_cliente": "SANTA THEREZINHA ATACADISTA DE PRODUTOS ALIMENTICIOS LTDA"
                     }
                 ],
                 "46 - SUPERMERCADOS VENEZA": [

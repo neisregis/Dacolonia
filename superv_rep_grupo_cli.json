@@ -22547,6 +22547,12 @@
                         "codigo_cliente": "35271",
                         "desc_cliente": "DIVINOSS ALIMENTACAO LTDA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "72781",
+                        "desc_cliente": "MERCADO LELUAL  LTDA"
+                    }
                 ]
             },
             "903": {
@@ -22867,6 +22873,12 @@
                     },
                     {
                         "codigo_cliente": "46049",
+                        "desc_cliente": "OSANA PAULETTI LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "72782",
                         "desc_cliente": "OSANA PAULETTI LTDA"
                     }
                 ]
@@ -65522,6 +65534,10 @@
                         "desc_cliente": "EDUARDA APARECIDA DA LUZ"
                     },
                     {
+                        "codigo_cliente": "72783",
+                        "desc_cliente": "EDUARDA LOPES PEREIRA"
+                    },
+                    {
                         "codigo_cliente": "71211",
                         "desc_cliente": "EDUARDO BIANCHE "
                     },
@@ -65552,6 +65568,10 @@
                     {
                         "codigo_cliente": "71381",
                         "desc_cliente": "FELIPE AUGUSTO PIRES AMARAL"
+                    },
+                    {
+                        "codigo_cliente": "72779",
+                        "desc_cliente": "FELIPE SILVEIRA"
                     },
                     {
                         "codigo_cliente": "71295",
@@ -81290,6 +81310,10 @@
                     {
                         "codigo_cliente": "42759",
                         "desc_cliente": "SANTA ROSA SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "46954",
+                        "desc_cliente": "SHEIQUE LTDA"
                     },
                     {
                         "codigo_cliente": "26852",

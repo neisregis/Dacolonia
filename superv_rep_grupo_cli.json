@@ -22084,6 +22084,10 @@
                         "desc_cliente": "ACDS SUPERMERCADO LTDA"
                     },
                     {
+                        "codigo_cliente": "72730",
+                        "desc_cliente": "ADRIANE BIZZOTTO RODRIGUES 97918814053"
+                    },
+                    {
                         "codigo_cliente": "66409",
                         "desc_cliente": "ALEXANDRO DALLA SANTA"
                     },
@@ -55082,6 +55086,16 @@
                         "desc_cliente": "SODEXO DO BRASIL COML SA"
                     }
                 ],
+                "429 - AMAZON": [
+                    {
+                        "codigo_cliente": "69607",
+                        "desc_cliente": "AMAZON SERVICOS DE VAREJO DO BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69608",
+                        "desc_cliente": "AMAZON SERVICOS DE VAREJO DO BRASIL LTDA"
+                    }
+                ],
                 "72 - CIA BRASILEIRA": [
                     {
                         "codigo_cliente": "31220",
@@ -65620,6 +65634,10 @@
                         "desc_cliente": "FRANCIELE SOARES"
                     },
                     {
+                        "codigo_cliente": "72792",
+                        "desc_cliente": "FRANCISCO BRAGANÇA"
+                    },
+                    {
                         "codigo_cliente": "71058",
                         "desc_cliente": "FRUTAMIX CONVENIENCIA GRUDKA LTDA."
                     },
@@ -65906,6 +65924,10 @@
                     {
                         "codigo_cliente": "71594",
                         "desc_cliente": "RAFAEL MULUSSI"
+                    },
+                    {
+                        "codigo_cliente": "72791",
+                        "desc_cliente": "RAFAEL OLIVEIRA"
                     },
                     {
                         "codigo_cliente": "71301",

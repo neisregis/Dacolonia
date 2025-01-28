@@ -11104,6 +11104,10 @@
                         "desc_cliente": "RICARDO JOSE FERREIRA PINTO & CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "72712",
+                        "desc_cliente": "RODRIGO FELIPE CORDEIRO DA ROSA-COM VAREJ PROD ALIMENT LTDA"
+                    },
+                    {
                         "codigo_cliente": "47350",
                         "desc_cliente": "ROSANI APARECIDA SANTOS DE LIMA MERCADO DA CARNE LTDA"
                     },
@@ -30822,6 +30826,10 @@
                         "desc_cliente": "SUPERMERCADO DA MAMA EIRELI"
                     },
                     {
+                        "codigo_cliente": "72751",
+                        "desc_cliente": "SUPERMERCADO FIO DE TAPIRAI LTDA"
+                    },
+                    {
                         "codigo_cliente": "39504",
                         "desc_cliente": "SUPER MERCADO SAO ROQUE LTDA."
                     },
@@ -33192,6 +33200,10 @@
                     {
                         "codigo_cliente": "8421",
                         "desc_cliente": "PANIFICIO E SUPERMERCADO ROSARIO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "38468",
+                        "desc_cliente": "PAULO RICARDO CABRAL LEAL"
                     },
                     {
                         "codigo_cliente": "36749",
@@ -39814,6 +39826,10 @@
                         "desc_cliente": "MERCADO TATAIS JULIETA LTDA"
                     },
                     {
+                        "codigo_cliente": "72774",
+                        "desc_cliente": "MERCEARIA DO AGNELO LTDA"
+                    },
+                    {
                         "codigo_cliente": "40866",
                         "desc_cliente": "PINHEIRAL CEREAIS LTDA"
                     },
@@ -39834,12 +39850,6 @@
                     {
                         "codigo_cliente": "36873",
                         "desc_cliente": "PRY COMERCIO DE PRODUTOS NATURAIS LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "72774",
-                        "desc_cliente": "MERCEARIA DO AGNELO"
                     }
                 ]
             },
@@ -55414,6 +55424,10 @@
                         "desc_cliente": "JULIA NATHALIA KAPPEL"
                     },
                     {
+                        "codigo_cliente": "64486",
+                        "desc_cliente": "LAIDEXS COMERCIO DE GENEROS ALIMENTICIOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "30590",
                         "desc_cliente": "LUIZ DE MELO & SOUZA DE MELO LTDA"
                     },
@@ -60194,6 +60208,10 @@
                     {
                         "codigo_cliente": "70419",
                         "desc_cliente": "JONATA COSTA"
+                    },
+                    {
+                        "codigo_cliente": "61687",
+                        "desc_cliente": "JONATA GRAEFF"
                     },
                     {
                         "codigo_cliente": "50908",
@@ -78654,6 +78672,10 @@
                         "desc_cliente": "DINO CESAR PONTEL"
                     },
                     {
+                        "codigo_cliente": "35574",
+                        "desc_cliente": "EDUARDO STANGA & CIA LTDA"
+                    },
+                    {
                         "codigo_cliente": "29334",
                         "desc_cliente": "ELISETE ANA SIGNORI"
                     },
@@ -79064,10 +79086,6 @@
                     {
                         "codigo_cliente": "53514",
                         "desc_cliente": "TROPICANA COM DE FRUTAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "35574",
-                        "desc_cliente": "VANIA DE CARLI"
                     },
                     {
                         "codigo_cliente": "23975",

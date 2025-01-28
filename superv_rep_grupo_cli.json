@@ -26732,6 +26732,10 @@
                         "desc_cliente": "3M SUPERMERCADO E ATACADISTA LTDA"
                     },
                     {
+                        "codigo_cliente": "72731",
+                        "desc_cliente": "58.515.655 GABRIELA GONCALVES LISBOA"
+                    },
+                    {
                         "codigo_cliente": "43086",
                         "desc_cliente": "ADEMIR DE SOUZA & CIA LTDA"
                     },
@@ -27058,6 +27062,10 @@
                     {
                         "codigo_cliente": "40106",
                         "desc_cliente": "COMERCIAL DE ALIMENTOS AVANTHE"
+                    },
+                    {
+                        "codigo_cliente": "72768",
+                        "desc_cliente": "GALVAO COMERCIO DE ALIMENTOS LTDA"
                     }
                 ],
                 "1167 - PRATIKO - GO": [
@@ -65490,6 +65498,10 @@
                     {
                         "codigo_cliente": "71665",
                         "desc_cliente": "EDNALDO DOS SANTOS AZEVEDO"
+                    },
+                    {
+                        "codigo_cliente": "72776",
+                        "desc_cliente": "EDSON LEIRIAS"
                     },
                     {
                         "codigo_cliente": "71336",

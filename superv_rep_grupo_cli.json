@@ -16960,6 +16960,10 @@
                         "desc_cliente": "EJK CASA DO CAMPO LTDA"
                     },
                     {
+                        "codigo_cliente": "48911",
+                        "desc_cliente": "ELIZABETH ANGELINA REIS LTDA"
+                    },
+                    {
                         "codigo_cliente": "61726",
                         "desc_cliente": "EMPORIO VERSAILLES BRASIL LTDA"
                     },
@@ -21875,6 +21879,12 @@
                         "codigo_cliente": "35137",
                         "desc_cliente": "SUPER COMPANY ATACADO E VAREJO DE PROD ALIMENT LTDA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "72773",
+                        "desc_cliente": "FELIPE PADILHA DA SILVA"
+                    }
                 ]
             },
             "907": {
@@ -25926,6 +25936,10 @@
                         "desc_cliente": "D'GUST TEMPEROS LTDA"
                     },
                     {
+                        "codigo_cliente": "72767",
+                        "desc_cliente": "DOIS AMIGOS COM. VAREJISTA DE ALIMENTOS"
+                    },
+                    {
                         "codigo_cliente": "35956",
                         "desc_cliente": "EDINA MOREIRA QUEIROZ EIRELI"
                     },
@@ -25956,6 +25970,10 @@
                     {
                         "codigo_cliente": "37989",
                         "desc_cliente": "RL PANIFICACAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "35960",
+                        "desc_cliente": "SUPERMERCADO PARAISO LTDA"
                     },
                     {
                         "codigo_cliente": "22599",
@@ -39822,6 +39840,12 @@
                     {
                         "codigo_cliente": "36873",
                         "desc_cliente": "PRY COMERCIO DE PRODUTOS NATURAIS LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "72774",
+                        "desc_cliente": "MERCEARIA DO AGNELO"
                     }
                 ]
             },

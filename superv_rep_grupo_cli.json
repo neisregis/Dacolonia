@@ -22072,6 +22072,10 @@
                         "desc_cliente": "ACDS SUPERMERCADO LTDA"
                     },
                     {
+                        "codigo_cliente": "72730",
+                        "desc_cliente": "ADRIANE BIZZOTTO RODRIGUES 97918814053"
+                    },
+                    {
                         "codigo_cliente": "66409",
                         "desc_cliente": "ALEXANDRO DALLA SANTA"
                     },
@@ -70704,6 +70708,10 @@
                     {
                         "codigo_cliente": "66984",
                         "desc_cliente": "JANAINA SANTOS"
+                    },
+                    {
+                        "codigo_cliente": "72756",
+                        "desc_cliente": "JANDESMARA CAVALHERI"
                     },
                     {
                         "codigo_cliente": "69918",

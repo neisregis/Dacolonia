@@ -8343,6 +8343,12 @@
                         "codigo_cliente": "71405",
                         "desc_cliente": "SUPERMERCADO SANTAREM LTDA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "72786",
+                        "desc_cliente": "COMERCIO DE PRODUTOS NATURAIS ARMAZEM 50 LTDA"
+                    }
                 ]
             },
             "1063": {
@@ -14782,6 +14788,12 @@
                     {
                         "codigo_cliente": "32650",
                         "desc_cliente": "WILMAR JACO GOEDERT & CIA LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "72777",
+                        "desc_cliente": "SUPER SALETE LTDA"
                     }
                 ]
             },
@@ -22072,10 +22084,6 @@
                         "desc_cliente": "ACDS SUPERMERCADO LTDA"
                     },
                     {
-                        "codigo_cliente": "72730",
-                        "desc_cliente": "ADRIANE BIZZOTTO RODRIGUES 97918814053"
-                    },
-                    {
                         "codigo_cliente": "66409",
                         "desc_cliente": "ALEXANDRO DALLA SANTA"
                     },
@@ -22549,6 +22557,10 @@
                     }
                 ],
                 "null": [
+                    {
+                        "codigo_cliente": "72789",
+                        "desc_cliente": "ARMAZEM SAO PELEGRINO"
+                    },
                     {
                         "codigo_cliente": "72781",
                         "desc_cliente": "MERCADO LELUAL  LTDA"
@@ -54581,6 +54593,12 @@
                         "codigo_cliente": "36791",
                         "desc_cliente": "MANOEL FRANCISCO DOS SANTOS & FILHOS LTDA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "72785",
+                        "desc_cliente": "GIACOMELLI COMERCIO DE EMBALAGENS LTDA"
+                    }
                 ]
             },
             "642": {
@@ -65450,6 +65468,10 @@
                         "desc_cliente": "CRISTIANO DA SILVA BOEIRA"
                     },
                     {
+                        "codigo_cliente": "72787",
+                        "desc_cliente": "CRISTIANO PEDRA QUEVEDO"
+                    },
+                    {
                         "codigo_cliente": "71620",
                         "desc_cliente": "DANIELE DE SOUZA MACEDO"
                     },
@@ -65528,6 +65550,10 @@
                     {
                         "codigo_cliente": "71336",
                         "desc_cliente": "EDSON RAFAEL BITTENCOURT"
+                    },
+                    {
+                        "codigo_cliente": "72790",
+                        "desc_cliente": "EDSON VIEIRA DA SILVA"
                     },
                     {
                         "codigo_cliente": "71384",
@@ -65980,6 +66006,10 @@
                     {
                         "codigo_cliente": "71621",
                         "desc_cliente": "THIAGO BONNESS"
+                    },
+                    {
+                        "codigo_cliente": "72788",
+                        "desc_cliente": "THIAGO PAIXAO"
                     },
                     {
                         "codigo_cliente": "71270",
@@ -69552,6 +69582,10 @@
                         "desc_cliente": "FERNANDA CENEDESI STUCCHI"
                     },
                     {
+                        "codigo_cliente": "72762",
+                        "desc_cliente": "FERNANDA CENSI"
+                    },
+                    {
                         "codigo_cliente": "66836",
                         "desc_cliente": "FERNANDA DE OLIVEIRA PRETO BIEGING"
                     },
@@ -70868,6 +70902,10 @@
                         "desc_cliente": "JEFFERSON PEREIRA DIAS"
                     },
                     {
+                        "codigo_cliente": "72757",
+                        "desc_cliente": "JEFFERSON PEREIRA DIAS"
+                    },
+                    {
                         "codigo_cliente": "69375",
                         "desc_cliente": "JENIFER KURZ GRION"
                     },
@@ -70994,6 +71032,10 @@
                     {
                         "codigo_cliente": "64476",
                         "desc_cliente": "JOAO LAORENCE AIMI"
+                    },
+                    {
+                        "codigo_cliente": "72758",
+                        "desc_cliente": "JOÃO LUIZ JUNQUEIRA FRANCO BARBOSA"
                     },
                     {
                         "codigo_cliente": "71953",
@@ -72596,6 +72638,10 @@
                         "desc_cliente": "MANUELA DOMINGUES DE CEZERO"
                     },
                     {
+                        "codigo_cliente": "72761",
+                        "desc_cliente": "MANUELLA SOBRAL"
+                    },
+                    {
                         "codigo_cliente": "72080",
                         "desc_cliente": "MARA LUCIA SOARES LOPES"
                     },
@@ -73024,6 +73070,10 @@
                         "desc_cliente": "MARIANA BONILHA"
                     },
                     {
+                        "codigo_cliente": "72760",
+                        "desc_cliente": "MARIANA CASTRO"
+                    },
+                    {
                         "codigo_cliente": "69055",
                         "desc_cliente": "MARIANA C BISTACO"
                     },
@@ -73106,6 +73156,10 @@
                     {
                         "codigo_cliente": "66904",
                         "desc_cliente": "MARIANA VERRI LOVATTO"
+                    },
+                    {
+                        "codigo_cliente": "72759",
+                        "desc_cliente": "MARIANA YAMASHITA"
                     },
                     {
                         "codigo_cliente": "68834",
@@ -85248,6 +85302,14 @@
                     {
                         "codigo_cliente": "69789",
                         "desc_cliente": "SOARES E TECLES COMERCIO E REPRESENTACOES LTDA"
+                    }
+                ]
+            },
+            "1199": {
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "72747",
+                        "desc_cliente": "SORVEDOCES INDUSTRIA E COM. DE PRODUTOS ALIMENTICIOS LTDA"
                     }
                 ]
             },

@@ -8074,6 +8074,14 @@
                         "desc_cliente": "COMERCIO DE GENEROS ALIM. TAJIMA LTDA"
                     },
                     {
+                        "codigo_cliente": "72786",
+                        "desc_cliente": "COMERCIO DE PRODUTOS NATURAIS ARMAZEM 50 LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72794",
+                        "desc_cliente": "CUPIMZAO LONDRINA - AUTO POSTO E SERVICOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "59962",
                         "desc_cliente": "EAT FIT COZINHA SAUDAVEL LTDA"
                     },
@@ -8342,16 +8350,6 @@
                     {
                         "codigo_cliente": "71405",
                         "desc_cliente": "SUPERMERCADO SANTAREM LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "72786",
-                        "desc_cliente": "COMERCIO DE PRODUTOS NATURAIS ARMAZEM 50 LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72794",
-                        "desc_cliente": "CUPIMZAO LONDRINA AUTO POSTO E SERVICOS LTDA"
                     }
                 ]
             },
@@ -20092,6 +20090,14 @@
                         "desc_cliente": "TAIS MENGUE BEHENCK 03918803066"
                     },
                     {
+                        "codigo_cliente": "72580",
+                        "desc_cliente": "UNIBOM SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72582",
+                        "desc_cliente": "UNILITORAL SUPERMERCADO LTDA"
+                    },
+                    {
                         "codigo_cliente": "67793",
                         "desc_cliente": "VIGNOCHI COMERCIAL E DISTRIBUIDORA DE EMBALAGEM LTDA"
                     },
@@ -22118,6 +22124,10 @@
                         "desc_cliente": "ARMAZEM ESQUINAO LTDA"
                     },
                     {
+                        "codigo_cliente": "72789",
+                        "desc_cliente": "ARMAZEM SAN PELLEGRINO LTDA"
+                    },
+                    {
                         "codigo_cliente": "70412",
                         "desc_cliente": "ARMAZEM SCAIN LTDA"
                     },
@@ -22350,6 +22360,10 @@
                         "desc_cliente": "MERCADO FRONTEIRA LTDA"
                     },
                     {
+                        "codigo_cliente": "72781",
+                        "desc_cliente": "MERCADO LELUAL LTDA"
+                    },
+                    {
                         "codigo_cliente": "58415",
                         "desc_cliente": "MERCADO MISSIONEIRO LTDA"
                     },
@@ -22572,16 +22586,6 @@
                     {
                         "codigo_cliente": "35271",
                         "desc_cliente": "DIVINOSS ALIMENTACAO LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "72789",
-                        "desc_cliente": "ARMAZEM SAO PELEGRINO"
-                    },
-                    {
-                        "codigo_cliente": "72781",
-                        "desc_cliente": "MERCADO LELUAL  LTDA"
                     }
                 ]
             },
@@ -22904,9 +22908,7 @@
                     {
                         "codigo_cliente": "46049",
                         "desc_cliente": "OSANA PAULETTI LTDA"
-                    }
-                ],
-                "null": [
+                    },
                     {
                         "codigo_cliente": "72782",
                         "desc_cliente": "OSANA PAULETTI LTDA"
@@ -39008,6 +39010,10 @@
                         "desc_cliente": "NOVO DSL MINIMERCADO LTDA"
                     },
                     {
+                        "codigo_cliente": "72793",
+                        "desc_cliente": "NS OLIVEIRA COMERCIO LTDA"
+                    },
+                    {
                         "codigo_cliente": "58381",
                         "desc_cliente": "OPEN STORE BOA VISTA LANCHONETE LTDA"
                     },
@@ -39172,12 +39178,6 @@
                     {
                         "codigo_cliente": "52775",
                         "desc_cliente": "JM COMERCIO SERVICOS E EVENTOS LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "72793",
-                        "desc_cliente": "ADRIELE FERNANDES DE OLIVEIRA"
                     }
                 ]
             },
@@ -54516,6 +54516,10 @@
                         "desc_cliente": "GALE DISTRIBUIDORA LTDA - ME"
                     },
                     {
+                        "codigo_cliente": "72785",
+                        "desc_cliente": "GIACOMELLI COMERCIO DE EMBALAGENS LTDA"
+                    },
+                    {
                         "codigo_cliente": "28374",
                         "desc_cliente": "GIOVANA MOTIN DE MELLO - ME"
                     },
@@ -54622,12 +54626,6 @@
                     {
                         "codigo_cliente": "36791",
                         "desc_cliente": "MANOEL FRANCISCO DOS SANTOS & FILHOS LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "72785",
-                        "desc_cliente": "GIACOMELLI COMERCIO DE EMBALAGENS LTDA"
                     }
                 ]
             },
@@ -82900,6 +82898,10 @@
                         "desc_cliente": "LUCAS KULTZ - PANIFICACOES - ME"
                     },
                     {
+                        "codigo_cliente": "72796",
+                        "desc_cliente": "LUCIANE RIBEIRO ZAPAUOVSKI"
+                    },
+                    {
                         "codigo_cliente": "9441",
                         "desc_cliente": "MARCIELE TREVISOL IAGHER - SUPERMERCADO"
                     },
@@ -83080,12 +83082,6 @@
                     {
                         "codigo_cliente": "54339",
                         "desc_cliente": "SUPER PUPPO SUPERMERCADOS LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "72796",
-                        "desc_cliente": "LUCIANE RIBEIRO ZAPAUOVSKI"
                     }
                 ]
             },

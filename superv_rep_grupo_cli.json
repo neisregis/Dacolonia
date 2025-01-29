@@ -1056,10 +1056,6 @@
                         "desc_cliente": "JOSE ARAUJO SUPERMERCADOS E CIA LTDA"
                     },
                     {
-                        "codigo_cliente": "71110",
-                        "desc_cliente": "KINKAS COMERCIO VAREJISTA LTDA"
-                    },
-                    {
                         "codigo_cliente": "68760",
                         "desc_cliente": "LENIRA GOMES DE FREITAS"
                     },
@@ -4048,6 +4044,10 @@
                     {
                         "codigo_cliente": "59107",
                         "desc_cliente": "KG COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71110",
+                        "desc_cliente": "KINKAS COMERCIO VAREJISTA LTDA"
                     },
                     {
                         "codigo_cliente": "16958",
@@ -7372,6 +7372,10 @@
                         "desc_cliente": "FARIA BERNARDINO E SILVA LTDA"
                     },
                     {
+                        "codigo_cliente": "33520",
+                        "desc_cliente": "FENATO & MESQUITA COMERCIO DE PRODUTOS NATURAIS LTDA - ME"
+                    },
+                    {
                         "codigo_cliente": "10368",
                         "desc_cliente": "FERRETI & MANGOLIM LTDA - ME"
                     },
@@ -8430,10 +8434,6 @@
                     {
                         "codigo_cliente": "46930",
                         "desc_cliente": "ELETRO HIGAKI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "33520",
-                        "desc_cliente": "FENATO & MESQUITA COMERCIO DE PRODUTOS NATURAIS LTDA - ME"
                     },
                     {
                         "codigo_cliente": "48010",
@@ -46256,6 +46256,10 @@
                         "desc_cliente": "MINI - MERCADO JORGE E NAKAO LTDA"
                     },
                     {
+                        "codigo_cliente": "41464",
+                        "desc_cliente": "MINI MERCADO NATURAL SANTOMO DE ALMEIDA EIRELI"
+                    },
+                    {
                         "codigo_cliente": "45342",
                         "desc_cliente": "NELSON JOSE CLARO AKINAGA"
                     },
@@ -61346,6 +61350,10 @@
                     {
                         "codigo_cliente": "72014",
                         "desc_cliente": "LUCAS OLIVEIRA"
+                    },
+                    {
+                        "codigo_cliente": "56721",
+                        "desc_cliente": "LUCAS SCHEFFER "
                     },
                     {
                         "codigo_cliente": "51780",

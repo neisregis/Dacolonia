@@ -1648,6 +1648,10 @@
                         "desc_cliente": "RESTAURANTE E CHURRASCARIA DO TCHE LTDA"
                     },
                     {
+                        "codigo_cliente": "72772",
+                        "desc_cliente": "RESTAURANTE E LANCHONETE COSTELA GRILL II LTDA"
+                    },
+                    {
                         "codigo_cliente": "42362",
                         "desc_cliente": "SUPERMERCADO E PANIFICADORA KI - DELICIA LTDA"
                     },
@@ -9952,8 +9956,16 @@
                         "desc_cliente": "AUTO POSTO ANGRA BATEL COMERCIO DE COMBUSTIVEIS LTDA"
                     },
                     {
+                        "codigo_cliente": "72827",
+                        "desc_cliente": "AUTO POSTO FLIX"
+                    },
+                    {
                         "codigo_cliente": "72820",
                         "desc_cliente": "AUTO POSTO TAMARINDO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72826",
+                        "desc_cliente": "AUTO POSTO VICENZA"
                     },
                     {
                         "codigo_cliente": "44920",
@@ -27202,10 +27214,6 @@
                         "desc_cliente": "COMERCIAL SECOS E MOLHADOS SHEKINAH EIRELI"
                     },
                     {
-                        "codigo_cliente": "72778",
-                        "desc_cliente": "DEZ COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "53575",
                         "desc_cliente": "DIAMANTE COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
                     },
@@ -38530,6 +38538,10 @@
                     {
                         "codigo_cliente": "58987",
                         "desc_cliente": "PANIFICACAO JAFA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "32840",
+                        "desc_cliente": "PARCERIA DISTRIBUIDORA EIRELI"
                     },
                     {
                         "codigo_cliente": "52171",
@@ -57778,10 +57790,6 @@
                         "desc_cliente": "CRISTINA DOS SANTOS SIEGE"
                     },
                     {
-                        "codigo_cliente": "4126",
-                        "desc_cliente": "DACOLONIA ALIMENTOS NATURAIS LTDA "
-                    },
-                    {
                         "codigo_cliente": "55211",
                         "desc_cliente": "DAGUIMAR MACIEL OLIVEIRA "
                     },
@@ -57904,6 +57912,10 @@
                     {
                         "codigo_cliente": "51483",
                         "desc_cliente": "DARLAN FREITAS FERREIRA"
+                    },
+                    {
+                        "codigo_cliente": "72825",
+                        "desc_cliente": "DARLI INACIO ALVES"
                     },
                     {
                         "codigo_cliente": "66934",
@@ -59236,6 +59248,10 @@
                     {
                         "codigo_cliente": "64324",
                         "desc_cliente": "GELSIR MIGUEL TOASSI"
+                    },
+                    {
+                        "codigo_cliente": "72830",
+                        "desc_cliente": "GELSON ANTONIO KERBER"
                     },
                     {
                         "codigo_cliente": "62332",
@@ -63576,6 +63592,10 @@
                     {
                         "codigo_cliente": "72077",
                         "desc_cliente": "RODRIGO DOS SANTOS"
+                    },
+                    {
+                        "codigo_cliente": "72824",
+                        "desc_cliente": "RODRIGO FERNANDO"
                     },
                     {
                         "codigo_cliente": "59001",
@@ -79214,10 +79234,6 @@
                     {
                         "codigo_cliente": "18712",
                         "desc_cliente": "PARADA 99 BELVEDERE ARTESANATO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "32840",
-                        "desc_cliente": "PARCERIA DISTRIBUIDORA EIRELI"
                     },
                     {
                         "codigo_cliente": "7300",

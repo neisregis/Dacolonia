@@ -53494,6 +53494,10 @@
                         "desc_cliente": "JUNIOR FERNANDO DA SILVA RIZZO"
                     },
                     {
+                        "codigo_cliente": "40551",
+                        "desc_cliente": "JU PADARIA E CONFEITARIA EIRELI"
+                    },
+                    {
                         "codigo_cliente": "18843",
                         "desc_cliente": "KERBER - PRODUTOS NATURAIS LTDA - ME"
                     },
@@ -53620,6 +53624,10 @@
                     {
                         "codigo_cliente": "32685",
                         "desc_cliente": "NILSE CARLESSO TOSS ME"
+                    },
+                    {
+                        "codigo_cliente": "31615",
+                        "desc_cliente": "PANIFICADORA E MERCEARIA JONAS LTDA - ME"
                     },
                     {
                         "codigo_cliente": "19882",

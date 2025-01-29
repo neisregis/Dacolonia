@@ -19764,6 +19764,16 @@
                         "desc_cliente": "SUPER NOVO COMERCIO DE ALIMENTOS LTDA"
                     }
                 ],
+                "1397 - SUPER LITORAL": [
+                    {
+                        "codigo_cliente": "72580",
+                        "desc_cliente": "UNIBOM SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72582",
+                        "desc_cliente": "UNILITORAL SUPERMERCADO LTDA"
+                    }
+                ],
                 "1 - GERAL": [
                     {
                         "codigo_cliente": "52710",
@@ -19852,6 +19862,10 @@
                     {
                         "codigo_cliente": "60800",
                         "desc_cliente": "CASSIA BERETTA DA SILVEIRA"
+                    },
+                    {
+                        "codigo_cliente": "60867",
+                        "desc_cliente": "CHAVES LINCK SUPERMERCADO LTDA"
                     },
                     {
                         "codigo_cliente": "31846",
@@ -20058,10 +20072,6 @@
                         "desc_cliente": "ROSELI RANOF DE OLIVEIRA"
                     },
                     {
-                        "codigo_cliente": "60867",
-                        "desc_cliente": "R. R. ARESI LTDA"
-                    },
-                    {
                         "codigo_cliente": "43867",
                         "desc_cliente": "SCHEROLIN DE OLIVEIRA MARQUES 02722622009"
                     },
@@ -20088,14 +20098,6 @@
                     {
                         "codigo_cliente": "46789",
                         "desc_cliente": "TAIS MENGUE BEHENCK 03918803066"
-                    },
-                    {
-                        "codigo_cliente": "72580",
-                        "desc_cliente": "UNIBOM SUPERMERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72582",
-                        "desc_cliente": "UNILITORAL SUPERMERCADO LTDA"
                     },
                     {
                         "codigo_cliente": "67793",
@@ -42548,6 +42550,10 @@
                         "desc_cliente": "FARMACIA DO SUL LTDA"
                     },
                     {
+                        "codigo_cliente": "72801",
+                        "desc_cliente": "FELICIANA DUARTE SOUSA BORGES"
+                    },
+                    {
                         "codigo_cliente": "25497",
                         "desc_cliente": "FERNANDA COLLI EIRELI ME"
                     },
@@ -47026,6 +47032,10 @@
                     {
                         "codigo_cliente": "43951",
                         "desc_cliente": "F S X COMERCIO DE UTILIDADES DOMESTICAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72803",
+                        "desc_cliente": "HIPER REAL LTDA"
                     },
                     {
                         "codigo_cliente": "31527",
@@ -53208,10 +53218,6 @@
                 ],
                 "1 - GERAL": [
                     {
-                        "codigo_cliente": "68961",
-                        "desc_cliente": "49.716.405 HENRIQUE FERNANDO DE ABREU"
-                    },
-                    {
                         "codigo_cliente": "71133",
                         "desc_cliente": "55.863.212 BIANCA CAMILA SCHOULTEN DE LIMA"
                     },
@@ -56998,6 +57004,10 @@
                     {
                         "codigo_cliente": "68838",
                         "desc_cliente": "BRAIAN OLIVEIRA"
+                    },
+                    {
+                        "codigo_cliente": "72802",
+                        "desc_cliente": "BRAYAN"
                     },
                     {
                         "codigo_cliente": "66316",
@@ -61508,6 +61518,10 @@
                         "desc_cliente": "LUCINEIA DE VARGAS PEREIRA "
                     },
                     {
+                        "codigo_cliente": "72800",
+                        "desc_cliente": "LUCINEIA KORALESK"
+                    },
+                    {
                         "codigo_cliente": "69194",
                         "desc_cliente": "LUCIO DIAS "
                     },
@@ -64358,6 +64372,10 @@
                     {
                         "codigo_cliente": "64526",
                         "desc_cliente": "TOMAS BALBINOTE"
+                    },
+                    {
+                        "codigo_cliente": "63791",
+                        "desc_cliente": "TOMAS RIGARDI RODRIGUES"
                     },
                     {
                         "codigo_cliente": "55485",

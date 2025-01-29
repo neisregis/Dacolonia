@@ -27214,6 +27214,10 @@
                         "desc_cliente": "COMERCIAL SECOS E MOLHADOS SHEKINAH EIRELI"
                     },
                     {
+                        "codigo_cliente": "72778",
+                        "desc_cliente": "DEZ COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "53575",
                         "desc_cliente": "DIAMANTE COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
                     },
@@ -54294,6 +54298,10 @@
                         "desc_cliente": "MERE TEREZINHA PRIM SEEMANN"
                     },
                     {
+                        "codigo_cliente": "54730",
+                        "desc_cliente": "MFC EMBALAGENS E FESTA LTDA"
+                    },
+                    {
                         "codigo_cliente": "43729",
                         "desc_cliente": "MILTON BENTO DA SILVA"
                     },
@@ -54552,6 +54560,16 @@
                         "desc_cliente": "HIPPO SUPERMERCADOS LTDA"
                     }
                 ],
+                "1398 - GIACOMELLI": [
+                    {
+                        "codigo_cliente": "72785",
+                        "desc_cliente": "GIACOMELLI COMERCIO DE EMBALAGENS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "24165",
+                        "desc_cliente": "ROGERIO LUIZ EITELVEIN EIRELI"
+                    }
+                ],
                 "1 - GERAL": [
                     {
                         "codigo_cliente": "30073",
@@ -54582,10 +54600,6 @@
                         "desc_cliente": "GALE DISTRIBUIDORA LTDA - ME"
                     },
                     {
-                        "codigo_cliente": "72785",
-                        "desc_cliente": "GIACOMELLI COMERCIO DE EMBALAGENS LTDA"
-                    },
-                    {
                         "codigo_cliente": "28374",
                         "desc_cliente": "GIOVANA MOTIN DE MELLO - ME"
                     },
@@ -54604,10 +54618,6 @@
                     {
                         "codigo_cliente": "11944",
                         "desc_cliente": "NATURAL LIFE EMPORIUM LTDA"
-                    },
-                    {
-                        "codigo_cliente": "24165",
-                        "desc_cliente": "ROGERIO LUIZ EITELVEIN EIRELI"
                     }
                 ],
                 "274 - FELIPE ROYER": [
@@ -61558,6 +61568,10 @@
                         "desc_cliente": "LUCIANO RANFLOR"
                     },
                     {
+                        "codigo_cliente": "72833",
+                        "desc_cliente": "LUCIANO SANTOS"
+                    },
+                    {
                         "codigo_cliente": "61658",
                         "desc_cliente": "LUCIANO SILVA "
                     },
@@ -63468,6 +63482,10 @@
                     {
                         "codigo_cliente": "64312",
                         "desc_cliente": "RICARDO OTOMAR MARIA DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "72832",
+                        "desc_cliente": "RICARDO SANTOS"
                     },
                     {
                         "codigo_cliente": "55265",

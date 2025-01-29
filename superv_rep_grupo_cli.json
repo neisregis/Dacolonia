@@ -38738,6 +38738,20 @@
                         "desc_cliente": "MERCADO BELOT LTDA"
                     }
                 ],
+                "1197 - BARRA FESTA": [
+                    {
+                        "codigo_cliente": "64085",
+                        "desc_cliente": "L P MOREIRA MERCEARIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "64087",
+                        "desc_cliente": "L P MOREIRA MERCEARIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67170",
+                        "desc_cliente": "L P MOREIRA MERCEARIA LTDA"
+                    }
+                ],
                 "1259 - LISAMAR - RJ": [
                     {
                         "codigo_cliente": "42307",
@@ -39829,18 +39843,6 @@
             },
             "1185": {
                 "1197 - BARRA FESTA": [
-                    {
-                        "codigo_cliente": "64085",
-                        "desc_cliente": "L P MOREIRA MERCEARIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "64087",
-                        "desc_cliente": "L P MOREIRA MERCEARIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67170",
-                        "desc_cliente": "L P MOREIRA MERCEARIA LTDA"
-                    },
                     {
                         "codigo_cliente": "64084",
                         "desc_cliente": "P M DIAS MERCEARIA LTDA"
@@ -57812,6 +57814,10 @@
                     {
                         "codigo_cliente": "71949",
                         "desc_cliente": "DANIEL AZEVEDO"
+                    },
+                    {
+                        "codigo_cliente": "72810",
+                        "desc_cliente": "DANIEL CASTRO"
                     },
                     {
                         "codigo_cliente": "69928",

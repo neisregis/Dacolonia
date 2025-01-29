@@ -16012,6 +16012,10 @@
                         "desc_cliente": "BANANA DA TERRA PRODUTOS NATURAIS LTDA"
                     },
                     {
+                        "codigo_cliente": "72804",
+                        "desc_cliente": "BARATAO  ATACADISTA LTDA"
+                    },
+                    {
                         "codigo_cliente": "70365",
                         "desc_cliente": "BEL CENTRO ALIMENTOS LTDA"
                     },
@@ -28009,6 +28013,10 @@
                     },
                     {
                         "codigo_cliente": "72357",
+                        "desc_cliente": "HORTIFRUTI ALDO E EMPORIO DOS GRAOS FONTANA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72358",
                         "desc_cliente": "HORTIFRUTI ALDO E EMPORIO DOS GRAOS FONTANA LTDA"
                     },
                     {
@@ -62904,6 +62912,10 @@
                     {
                         "codigo_cliente": "57533",
                         "desc_cliente": "PATRICIO CESAR PIRES DE SENA "
+                    },
+                    {
+                        "codigo_cliente": "72805",
+                        "desc_cliente": "PATRICK PAES"
                     },
                     {
                         "codigo_cliente": "72525",

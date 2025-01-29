@@ -15262,6 +15262,10 @@
                         "desc_cliente": "COMERCIAL SALTINHO LTDA"
                     },
                     {
+                        "codigo_cliente": "23760",
+                        "desc_cliente": "COMERCIAL SANTA LUCIA LTDA - EPP"
+                    },
+                    {
                         "codigo_cliente": "13764",
                         "desc_cliente": "COMERCIAL ZENI LTDA - ME"
                     },
@@ -39912,6 +39916,10 @@
                     {
                         "codigo_cliente": "27322",
                         "desc_cliente": "SUPERMERKATO COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "32588",
+                        "desc_cliente": "TABET SOLON MELLO COMERCIO E REPRESENTACAO LTDA"
                     }
                 ],
                 "403 - DIVINA TERRA": [
@@ -57712,6 +57720,10 @@
                     {
                         "codigo_cliente": "64360",
                         "desc_cliente": "CRISTINA DOS SANTOS SIEGE"
+                    },
+                    {
+                        "codigo_cliente": "4126",
+                        "desc_cliente": "DACOLONIA ALIMENTOS NATURAIS LTDA "
                     },
                     {
                         "codigo_cliente": "55211",
@@ -83068,6 +83080,12 @@
                     {
                         "codigo_cliente": "54339",
                         "desc_cliente": "SUPER PUPPO SUPERMERCADOS LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "72796",
+                        "desc_cliente": "LUCIANE RIBEIRO ZAPAUOVSKI"
                     }
                 ]
             },

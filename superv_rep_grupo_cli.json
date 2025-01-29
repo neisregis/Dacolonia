@@ -16013,7 +16013,7 @@
                     },
                     {
                         "codigo_cliente": "72804",
-                        "desc_cliente": "BARATAO  ATACADISTA LTDA"
+                        "desc_cliente": "BARATAO ATACADISTA LTDA"
                     },
                     {
                         "codigo_cliente": "70365",
@@ -42250,6 +42250,10 @@
                         "desc_cliente": "19.758.053 RITTA MODERNEL OLEINSKI"
                     },
                     {
+                        "codigo_cliente": "72801",
+                        "desc_cliente": "30.308.362 FELICIANA DUARTE SOUSA BORGES"
+                    },
+                    {
                         "codigo_cliente": "47563",
                         "desc_cliente": "41.090.417 KIZE ARRIECHE DUTRA"
                     },
@@ -42556,10 +42560,6 @@
                     {
                         "codigo_cliente": "62456",
                         "desc_cliente": "FARMACIA DO SUL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72801",
-                        "desc_cliente": "FELICIANA DUARTE SOUSA BORGES"
                     },
                     {
                         "codigo_cliente": "25497",
@@ -61362,6 +61362,10 @@
                         "desc_cliente": "LUCAS GONÇALVES"
                     },
                     {
+                        "codigo_cliente": "72806",
+                        "desc_cliente": "LUCAS KAUAN TEIXEIRA"
+                    },
+                    {
                         "codigo_cliente": "67389",
                         "desc_cliente": "LUCAS MONTEIRO MALHEIROS"
                     },
@@ -64248,6 +64252,10 @@
                     {
                         "codigo_cliente": "72673",
                         "desc_cliente": "TANIA MARA EHNK"
+                    },
+                    {
+                        "codigo_cliente": "72807",
+                        "desc_cliente": "TANIA MARIA DA SILVA"
                     },
                     {
                         "codigo_cliente": "68987",

@@ -7326,6 +7326,10 @@
                         "desc_cliente": "CONTI COMERCIO DE PRODUTOS E CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "72828",
+                        "desc_cliente": "CONVENIENCIA CAVALN LTDA"
+                    },
+                    {
                         "codigo_cliente": "45032",
                         "desc_cliente": "COSTA COMERCIO DE ALIMENTOS LTDA"
                     },
@@ -55211,6 +55215,10 @@
             },
             "820": {
                 "10 - CARREFOUR": [
+                    {
+                        "codigo_cliente": "35311",
+                        "desc_cliente": "CARREFOUR COM E IND LTDA"
+                    },
                     {
                         "codigo_cliente": "35309",
                         "desc_cliente": "CARREFOUR COMERCIO E INDUSTRIAL LTDA"

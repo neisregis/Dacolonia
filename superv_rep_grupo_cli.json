@@ -13588,6 +13588,10 @@
                         "desc_cliente": "SUPERMERCADO NOVA ESPERANCA LTDA"
                     },
                     {
+                        "codigo_cliente": "70069",
+                        "desc_cliente": "SUPER SANTOS ATACAREJO LTDA"
+                    },
+                    {
                         "codigo_cliente": "57499",
                         "desc_cliente": "VILA CELEIRO E EMBALAGENS LTDA"
                     },
@@ -16064,6 +16068,10 @@
                     {
                         "codigo_cliente": "47331",
                         "desc_cliente": "BANANA DA TERRA PRODUTOS NATURAIS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72804",
+                        "desc_cliente": "BARATAO ATACADISTA LTDA"
                     },
                     {
                         "codigo_cliente": "70365",
@@ -57062,6 +57070,10 @@
                         "desc_cliente": "ANGELA CRISTINA ENIEDERLER KONRADE"
                     },
                     {
+                        "codigo_cliente": "72857",
+                        "desc_cliente": "ANGELA ZANI"
+                    },
+                    {
                         "codigo_cliente": "60150",
                         "desc_cliente": "ANGELICA DOS SANTOS LEANDRO "
                     },
@@ -64732,6 +64744,10 @@
                     {
                         "codigo_cliente": "63032",
                         "desc_cliente": "TIAGO EICK LOPES"
+                    },
+                    {
+                        "codigo_cliente": "72856",
+                        "desc_cliente": "TIAGO ENDREI STRIEDER"
                     },
                     {
                         "codigo_cliente": "66994",
@@ -79534,6 +79550,10 @@
                     {
                         "codigo_cliente": "23066",
                         "desc_cliente": "PANIFICADORA DALL AGNOL LTDA - EPP"
+                    },
+                    {
+                        "codigo_cliente": "18712",
+                        "desc_cliente": "PARADA 99 BELVEDERE ARTESANATO LTDA"
                     },
                     {
                         "codigo_cliente": "7300",

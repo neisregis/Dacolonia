@@ -17590,6 +17590,10 @@
                         "desc_cliente": "MAICON ALBINO SUPERMERCADO EIRELI"
                     },
                     {
+                        "codigo_cliente": "72863",
+                        "desc_cliente": "MAICON JOSE DA COSTA"
+                    },
+                    {
                         "codigo_cliente": "40112",
                         "desc_cliente": "MARCIA ROTHBARTH-ME"
                     },
@@ -23708,6 +23712,10 @@
                         "desc_cliente": "PADARIA E CONFEITARIA TIA LOLA LTDA"
                     },
                     {
+                        "codigo_cliente": "56457",
+                        "desc_cliente": "PADARIA MUNARI LTDA"
+                    },
+                    {
                         "codigo_cliente": "65393",
                         "desc_cliente": "PORTO D'ORO PADARIA E RESTAURANTE LTDA"
                     },
@@ -27500,6 +27508,10 @@
                     {
                         "codigo_cliente": "43036",
                         "desc_cliente": "HUGAO SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72862",
+                        "desc_cliente": "J A BERNARDINO SUPERMERCADO LTDA- ME"
                     },
                     {
                         "codigo_cliente": "56849",
@@ -37404,10 +37416,6 @@
                         "desc_cliente": "45.215.744 MOACIR PEREIRA DA SILVA"
                     },
                     {
-                        "codigo_cliente": "60075",
-                        "desc_cliente": "50.447.824 DANIELE CARRASCOSO GOMES"
-                    },
-                    {
                         "codigo_cliente": "63747",
                         "desc_cliente": "A BELA DA VILA MERCEARIA LTDA"
                     },
@@ -37998,10 +38006,6 @@
                         "desc_cliente": "ARRAIAL DO CABO SUPERMERCADO EIRELI"
                     },
                     {
-                        "codigo_cliente": "35986",
-                        "desc_cliente": "AUTO SERVICO CORDEIRENSE LTDA"
-                    },
-                    {
                         "codigo_cliente": "40782",
                         "desc_cliente": "AUTO SERVICO PINHEIRO NETO LTDA"
                     },
@@ -38558,6 +38562,10 @@
                     {
                         "codigo_cliente": "59597",
                         "desc_cliente": "47.004.078 LUIZ ANTONIO RIBEIRO DE AMORIM"
+                    },
+                    {
+                        "codigo_cliente": "60075",
+                        "desc_cliente": "50.447.824 DANIELE CARRASCOSO GOMES"
                     },
                     {
                         "codigo_cliente": "60491",
@@ -39568,6 +39576,10 @@
                     {
                         "codigo_cliente": "43110",
                         "desc_cliente": "AMSTERDAM MARKETS PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "35986",
+                        "desc_cliente": "AUTO SERVICO CORDEIRENSE LTDA"
                     },
                     {
                         "codigo_cliente": "40940",
@@ -42044,6 +42056,10 @@
                     {
                         "codigo_cliente": "53710",
                         "desc_cliente": "ISAIAS MARQUES LEAL & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72519",
+                        "desc_cliente": "ISAIR CARDOSO COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "62971",
@@ -64118,6 +64134,10 @@
                     {
                         "codigo_cliente": "61186",
                         "desc_cliente": "RUAN FERREIRA"
+                    },
+                    {
+                        "codigo_cliente": "72864",
+                        "desc_cliente": "RUAN LEONARDO DOS SANTOS"
                     },
                     {
                         "codigo_cliente": "67114",

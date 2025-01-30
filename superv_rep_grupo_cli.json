@@ -29504,6 +29504,10 @@
                         "desc_cliente": "MERCADO VANDRESEN LTDA"
                     },
                     {
+                        "codigo_cliente": "72835",
+                        "desc_cliente": "NEIDE FERRARI SELMER"
+                    },
+                    {
                         "codigo_cliente": "67245",
                         "desc_cliente": "NETA BASCHIROTTO FRUTAS LTDA"
                     },
@@ -29614,6 +29618,10 @@
                     {
                         "codigo_cliente": "66776",
                         "desc_cliente": "VALDELIR DE SOUZA & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72836",
+                        "desc_cliente": "VALEMAX ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "37263",

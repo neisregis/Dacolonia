@@ -3391,12 +3391,6 @@
                         "codigo_cliente": "70328",
                         "desc_cliente": "PARANAIBA GUANABARA ALIMENTOS LTDA"
                     }
-                ],
-                "88 - ATACADAO": [
-                    {
-                        "codigo_cliente": "34845",
-                        "desc_cliente": "ATACADAO S.A."
-                    }
                 ]
             },
             "1092": {
@@ -6688,6 +6682,10 @@
                     {
                         "codigo_cliente": "64848",
                         "desc_cliente": "MOLINI'S SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72850",
+                        "desc_cliente": "MOLINI'S SUPERMERCADO LTDA"
                     }
                 ],
                 "1346 - SUPER SÃO MARCOS - PR": [
@@ -6952,10 +6950,6 @@
                     {
                         "codigo_cliente": "3329",
                         "desc_cliente": "MERCADO MOCHON LTDA_ME"
-                    },
-                    {
-                        "codigo_cliente": "72850",
-                        "desc_cliente": "MOLINIS SUPERMERCADO LTDA"
                     },
                     {
                         "codigo_cliente": "12119",
@@ -16070,10 +16064,6 @@
                     {
                         "codigo_cliente": "47331",
                         "desc_cliente": "BANANA DA TERRA PRODUTOS NATURAIS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72804",
-                        "desc_cliente": "BARATAO ATACADISTA LTDA"
                     },
                     {
                         "codigo_cliente": "70365",
@@ -27474,6 +27464,10 @@
                         "desc_cliente": "GUTHIERE FERNANDES SUPERMERCADO LTDA"
                     },
                     {
+                        "codigo_cliente": "72854",
+                        "desc_cliente": "HIPER COMPRAS SUPERMERCADO LTDA"
+                    },
+                    {
                         "codigo_cliente": "46687",
                         "desc_cliente": "HM 3 LTDA"
                     },
@@ -36161,7 +36155,7 @@
                     },
                     {
                         "codigo_cliente": "72846",
-                        "desc_cliente": "GRAO NATURAL PRODUTOS MATURAIS LTDA"
+                        "desc_cliente": "GRAO NATURAL PRODUTOS SAUDAVEIS LTDA"
                     },
                     {
                         "codigo_cliente": "59988",
@@ -60024,6 +60018,10 @@
                         "desc_cliente": "ISAQUE MACEDO DE LIMA"
                     },
                     {
+                        "codigo_cliente": "69845",
+                        "desc_cliente": "ISMAEL FERNANDO DA SILVA"
+                    },
+                    {
                         "codigo_cliente": "72702",
                         "desc_cliente": "ISMAEL SBRUZZI CARNEVALI"
                     },
@@ -64346,6 +64344,10 @@
                     {
                         "codigo_cliente": "72637",
                         "desc_cliente": "SIARA MARTINS FONCESA BERTOLO"
+                    },
+                    {
+                        "codigo_cliente": "72855",
+                        "desc_cliente": "SIDIMAR DEMOLINER"
                     },
                     {
                         "codigo_cliente": "65254",
@@ -79532,10 +79534,6 @@
                     {
                         "codigo_cliente": "23066",
                         "desc_cliente": "PANIFICADORA DALL AGNOL LTDA - EPP"
-                    },
-                    {
-                        "codigo_cliente": "18712",
-                        "desc_cliente": "PARADA 99 BELVEDERE ARTESANATO LTDA"
                     },
                     {
                         "codigo_cliente": "7300",

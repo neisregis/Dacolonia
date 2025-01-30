@@ -26070,6 +26070,10 @@
                         "desc_cliente": "RL PANIFICACAO LTDA"
                     },
                     {
+                        "codigo_cliente": "45888",
+                        "desc_cliente": "SUPERMERCADO JATAI ATACAD E VAREJ DE PROD ALIMENT EIRELI"
+                    },
+                    {
                         "codigo_cliente": "35960",
                         "desc_cliente": "SUPERMERCADO PARAISO LTDA"
                     },
@@ -55206,6 +55210,10 @@
                     {
                         "codigo_cliente": "69608",
                         "desc_cliente": "AMAZON SERVICOS DE VAREJO DO BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "37197",
+                        "desc_cliente": "AMAZON SERVICOS DE VAREJO DO BRASIL LTDA."
                     }
                 ],
                 "72 - CIA BRASILEIRA": [

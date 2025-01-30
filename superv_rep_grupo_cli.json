@@ -2286,6 +2286,10 @@
                         "desc_cliente": "MERCEARIA DO AFONSO LTDA"
                     },
                     {
+                        "codigo_cliente": "47908",
+                        "desc_cliente": "MGS DISTRIBUIDORA LTDA"
+                    },
+                    {
                         "codigo_cliente": "59731",
                         "desc_cliente": "MUR NUTRICAO LTDA"
                     },
@@ -6301,6 +6305,28 @@
                         "codigo_cliente": "44478",
                         "desc_cliente": "GMAIS COMERCIO DE ALIMENTOS LTDA"
                     }
+                ],
+                "985 - SUPER GAUCHÃO": [
+                    {
+                        "codigo_cliente": "40901",
+                        "desc_cliente": "SUPERMERCADO GAUCHAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44463",
+                        "desc_cliente": "SUPERMERCADO GAUCHAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "47588",
+                        "desc_cliente": "SUPERMERCADO GAUCHAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "55054",
+                        "desc_cliente": "SUPERMERCADO GAUCHAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "62619",
+                        "desc_cliente": "SUPERMERCADO GAUCHAO LTDA"
+                    }
                 ]
             },
             "1166": {
@@ -6926,6 +6952,10 @@
                     {
                         "codigo_cliente": "3329",
                         "desc_cliente": "MERCADO MOCHON LTDA_ME"
+                    },
+                    {
+                        "codigo_cliente": "72850",
+                        "desc_cliente": "MOLINIS SUPERMERCADO LTDA"
                     },
                     {
                         "codigo_cliente": "12119",
@@ -37028,6 +37058,10 @@
                         "desc_cliente": "HELENA COMERCIO E MERCEARIA LTDA"
                     },
                     {
+                        "codigo_cliente": "34852",
+                        "desc_cliente": "NITEROIENSE DISTRIBUIDORA DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "32524",
                         "desc_cliente": "NOVA EMPORIO DO SERTAO DE MINAS EIRELI"
                     },
@@ -50668,6 +50702,10 @@
                         "desc_cliente": "SONIA M. P. O. MARCA"
                     },
                     {
+                        "codigo_cliente": "35366",
+                        "desc_cliente": "STEFANELLO & PELLEGRIN LTDA"
+                    },
+                    {
                         "codigo_cliente": "7489",
                         "desc_cliente": "SUPERMERCADO BALDIN LTDA"
                     },
@@ -59434,6 +59472,10 @@
                         "desc_cliente": "GABRIEL SOARES DE OLIVEIRA"
                     },
                     {
+                        "codigo_cliente": "72853",
+                        "desc_cliente": "GABRIEL TREHER FERREIRA"
+                    },
+                    {
                         "codigo_cliente": "54714",
                         "desc_cliente": "GARDENE LILIAN DA SILVA FUCKS"
                     },
@@ -61932,6 +61974,10 @@
                     {
                         "codigo_cliente": "68551",
                         "desc_cliente": "LUIZ EVERALDO DOS SANTOS"
+                    },
+                    {
+                        "codigo_cliente": "72851",
+                        "desc_cliente": "LUIZ FELIPE DE MEDEIROS SILVA"
                     },
                     {
                         "codigo_cliente": "65189",

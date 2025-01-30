@@ -8292,10 +8292,6 @@
                         "desc_cliente": "SSM SUPERMERCADO LTDA"
                     },
                     {
-                        "codigo_cliente": "14234",
-                        "desc_cliente": "SUPERMERCADO BAZA LTDA"
-                    },
-                    {
                         "codigo_cliente": "51849",
                         "desc_cliente": "SUPERMERCADO CENTAURO LTDA"
                     },
@@ -8310,6 +8306,10 @@
                     {
                         "codigo_cliente": "41102",
                         "desc_cliente": "SUPERMERCADO MOLINARI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "14234",
+                        "desc_cliente": "SUPERMERCADOS BAZA LTDA"
                     },
                     {
                         "codigo_cliente": "21713",
@@ -27132,6 +27132,200 @@
                     {
                         "codigo_cliente": "42336",
                         "desc_cliente": "SUPERMERCADO GERLU EIRELI"
+                    }
+                ]
+            },
+            "1217": {
+                "1118 - CAIQUE SUPERMERCADOS": [
+                    {
+                        "codigo_cliente": "60007",
+                        "desc_cliente": "COMERCIAL DE ALIMENTOS CAIQUE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "60011",
+                        "desc_cliente": "COMERCIAL DE ALIMENTOS CAIQUE LTDA"
+                    },
+                    {
+                        "codigo_cliente": "59906",
+                        "desc_cliente": "COMERCIAL DE ALIMENTOS CAIQUE LTDA EPP"
+                    },
+                    {
+                        "codigo_cliente": "60010",
+                        "desc_cliente": "LOGISTICA ALIMENTOS SUL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "60009",
+                        "desc_cliente": "SEMPRE BEM 2 SUPERMERCADOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "60008",
+                        "desc_cliente": "SEMPRE BEM SUPERMERCADOS LTDA"
+                    }
+                ],
+                "1270 - CASA NORDESTINA - DF": [
+                    {
+                        "codigo_cliente": "63010",
+                        "desc_cliente": "WR CASA NORDESTINA COMERCIO DE ALIMENTO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "65063",
+                        "desc_cliente": "WR CASA NORDESTINA,COMERCIO DE ALIMENTO LTDA"
+                    }
+                ],
+                "1282 - SUPERMERCADO EURO": [
+                    {
+                        "codigo_cliente": "65413",
+                        "desc_cliente": "SEMPRE COMERCIAL DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "65736",
+                        "desc_cliente": "SEMPRE COMERCIAL DE ALIMENTOS LTDA"
+                    }
+                ],
+                "1316 - BONAMIX ATACAREJO": [
+                    {
+                        "codigo_cliente": "66366",
+                        "desc_cliente": "AUDAX COM. ATACADISTA E VAREJISTA DE PROD. ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66363",
+                        "desc_cliente": "AUDAX COM ATAC E VAREJO PROD ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66362",
+                        "desc_cliente": "AUDAX COM ATAC E VAREJ PROD ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66431",
+                        "desc_cliente": "AUDAX COM. ATAC E VAREJ PROD. ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66359",
+                        "desc_cliente": "AUDAX COM ATAC. E VAR. PROD. ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66361",
+                        "desc_cliente": "CANDY SHOP COMERCIO VAREJISTA DE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66360",
+                        "desc_cliente": "TYGER ATACADISTA E DISTRIBUIDORA LTDA"
+                    }
+                ],
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "45125",
+                        "desc_cliente": "ATACADAO PREMIUM COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "61109",
+                        "desc_cliente": "BCM COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "65167",
+                        "desc_cliente": "BRASILIA COMERCIO E REPRESENTACOES DE BEBIDAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67281",
+                        "desc_cliente": "CARAMUJO DISTRIBUIDORA DE EMBALAGENS LTDA ME"
+                    },
+                    {
+                        "codigo_cliente": "46072",
+                        "desc_cliente": "COMERCIAL DE ALIMENTOS SUPER ALIANCA COM JESUS EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "67135",
+                        "desc_cliente": "COMERCIAL DE DOCES SUPREMA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "46799",
+                        "desc_cliente": "COMERCIO DE GENEROS ALIMENTICIOS R. A. LTDA"
+                    },
+                    {
+                        "codigo_cliente": "64632",
+                        "desc_cliente": "EMPORIO CASA DO REI PRODUTOS NATURAIS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "36390",
+                        "desc_cliente": "J. I. DE LIMA DISTRIBUIDORA DE EMBALAGENS E FRIOS"
+                    },
+                    {
+                        "codigo_cliente": "45311",
+                        "desc_cliente": "LA PALMA DELLI MERCADO, IMPORTACAO E EXPORTACAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "54597",
+                        "desc_cliente": "MASTER FRIOS COMERCIAL DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "45068",
+                        "desc_cliente": "MERCONORTE GENEROS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "47909",
+                        "desc_cliente": "MERKADO PRIME COMERCIO VAREJISTA  LTDA"
+                    },
+                    {
+                        "codigo_cliente": "54263",
+                        "desc_cliente": "MINIMERCADO SP LTDA"
+                    },
+                    {
+                        "codigo_cliente": "36503",
+                        "desc_cliente": "NATURAL OCEANO DISTRIBUIDORA DE ALIMENTOS EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "40036",
+                        "desc_cliente": "NEVES & LINHARES LTDA - ME"
+                    },
+                    {
+                        "codigo_cliente": "69650",
+                        "desc_cliente": "OPTIMER COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69651",
+                        "desc_cliente": "OPTIMER COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "70812",
+                        "desc_cliente": "PIMENTA FERREIRA COM. ALIM LTDA"
+                    },
+                    {
+                        "codigo_cliente": "45438",
+                        "desc_cliente": "QUEIJOS E CIA COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66515",
+                        "desc_cliente": "ROTA DE CASA MINIMERCADO COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "64405",
+                        "desc_cliente": "SEMPRE DISTRIBUICAO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71772",
+                        "desc_cliente": "SOL NASCENTE ATACADO & VAREJO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69643",
+                        "desc_cliente": "SUPER HIPER GIRO COMERCIAL DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "62838",
+                        "desc_cliente": "SUPERMERCADO SILVA E SANTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "66895",
+                        "desc_cliente": "VEIGAS COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72567",
+                        "desc_cliente": "VIPI AL COMERCIAL DE ALIMENTOS LTDA"
+                    }
+                ],
+                "560 - COMERCIAL CRISTAL ": [
+                    {
+                        "codigo_cliente": "41369",
+                        "desc_cliente": "COMERCIAL DE ALIMENTOS CRISTAL ABC LTDA"
                     }
                 ]
             },
@@ -63490,6 +63684,10 @@
                         "desc_cliente": "RICARDO DALENOGARE"
                     },
                     {
+                        "codigo_cliente": "72839",
+                        "desc_cliente": "RICARDO DE JESUS"
+                    },
+                    {
                         "codigo_cliente": "67436",
                         "desc_cliente": "RICARDO DE MEDEIROS "
                     },
@@ -67822,6 +68020,10 @@
                         "desc_cliente": "CARLA MARIA BRITZ BAUERMANN"
                     },
                     {
+                        "codigo_cliente": "72838",
+                        "desc_cliente": "CARLA MICHELON"
+                    },
+                    {
                         "codigo_cliente": "69014",
                         "desc_cliente": "CARLA PEREIRA"
                     },
@@ -70424,6 +70626,10 @@
                     {
                         "codigo_cliente": "70645",
                         "desc_cliente": "GISELZA MEDEIROS SCARPATO"
+                    },
+                    {
+                        "codigo_cliente": "72837",
+                        "desc_cliente": "GISLAYNE BOETTCHER"
                     },
                     {
                         "codigo_cliente": "69330",
@@ -81390,6 +81596,10 @@
                         "desc_cliente": "ARMAZEM EXPRESS FOZ LTDA"
                     },
                     {
+                        "codigo_cliente": "72797",
+                        "desc_cliente": "ASSOCIACAO DE PRODUTORES RURAIS FAMILIAR DE FOZ DO IGUACU"
+                    },
+                    {
                         "codigo_cliente": "46337",
                         "desc_cliente": "ASSOCIACAO DOS HORTIFRUTIGRANJEIROS STA TEREZINHA DE ITAIPU"
                     },
@@ -83315,7 +83525,7 @@
     },
     "1042": {
         "representantes": {
-            "1023": {
+            "1217": {
                 "1118 - CAIQUE SUPERMERCADOS": [
                     {
                         "codigo_cliente": "60007",
@@ -83330,33 +83540,11 @@
                         "desc_cliente": "COMERCIAL DE ALIMENTOS CAIQUE LTDA EPP"
                     },
                     {
-                        "codigo_cliente": "60010",
-                        "desc_cliente": "LOGISTICA ALIMENTOS SUL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "60009",
-                        "desc_cliente": "SEMPRE BEM 2 SUPERMERCADOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "60008",
                         "desc_cliente": "SEMPRE BEM SUPERMERCADOS LTDA"
                     }
                 ],
-                "1270 - CASA NORDESTINA - DF": [
-                    {
-                        "codigo_cliente": "63010",
-                        "desc_cliente": "WR CASA NORDESTINA COMERCIO DE ALIMENTO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "65063",
-                        "desc_cliente": "WR CASA NORDESTINA,COMERCIO DE ALIMENTO LTDA"
-                    }
-                ],
                 "1282 - SUPERMERCADO EURO": [
-                    {
-                        "codigo_cliente": "65413",
-                        "desc_cliente": "SEMPRE COMERCIAL DE ALIMENTOS LTDA"
-                    },
                     {
                         "codigo_cliente": "65736",
                         "desc_cliente": "SEMPRE COMERCIAL DE ALIMENTOS LTDA"
@@ -83364,28 +83552,8 @@
                 ],
                 "1316 - BONAMIX ATACAREJO": [
                     {
-                        "codigo_cliente": "66366",
-                        "desc_cliente": "AUDAX COM. ATACADISTA E VAREJISTA DE PROD. ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "66363",
-                        "desc_cliente": "AUDAX COM ATAC E VAREJO PROD ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "66362",
-                        "desc_cliente": "AUDAX COM ATAC E VAREJ PROD ALIMENTICIOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "66431",
                         "desc_cliente": "AUDAX COM. ATAC E VAREJ PROD. ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "66359",
-                        "desc_cliente": "AUDAX COM ATAC. E VAR. PROD. ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "66361",
-                        "desc_cliente": "CANDY SHOP COMERCIO VAREJISTA DE PRODUTOS ALIMENTICIOS LTDA"
                     },
                     {
                         "codigo_cliente": "66360",
@@ -83393,10 +83561,6 @@
                     }
                 ],
                 "1 - GERAL": [
-                    {
-                        "codigo_cliente": "45125",
-                        "desc_cliente": "ATACADAO PREMIUM COMERCIO DE ALIMENTOS LTDA"
-                    },
                     {
                         "codigo_cliente": "61109",
                         "desc_cliente": "BCM COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
@@ -83406,32 +83570,8 @@
                         "desc_cliente": "BRASILIA COMERCIO E REPRESENTACOES DE BEBIDAS LTDA"
                     },
                     {
-                        "codigo_cliente": "67281",
-                        "desc_cliente": "CARAMUJO DISTRIBUIDORA DE EMBALAGENS LTDA ME"
-                    },
-                    {
                         "codigo_cliente": "46072",
                         "desc_cliente": "COMERCIAL DE ALIMENTOS SUPER ALIANCA COM JESUS EIRELI"
-                    },
-                    {
-                        "codigo_cliente": "67135",
-                        "desc_cliente": "COMERCIAL DE DOCES SUPREMA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "46799",
-                        "desc_cliente": "COMERCIO DE GENEROS ALIMENTICIOS R. A. LTDA"
-                    },
-                    {
-                        "codigo_cliente": "64632",
-                        "desc_cliente": "EMPORIO CASA DO REI PRODUTOS NATURAIS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "36390",
-                        "desc_cliente": "J. I. DE LIMA DISTRIBUIDORA DE EMBALAGENS E FRIOS"
-                    },
-                    {
-                        "codigo_cliente": "45311",
-                        "desc_cliente": "LA PALMA DELLI MERCADO, IMPORTACAO E EXPORTACAO LTDA"
                     },
                     {
                         "codigo_cliente": "54597",
@@ -83442,74 +83582,20 @@
                         "desc_cliente": "MERCONORTE GENEROS ALIMENTICIOS LTDA"
                     },
                     {
-                        "codigo_cliente": "47909",
-                        "desc_cliente": "MERKADO PRIME COMERCIO VAREJISTA  LTDA"
-                    },
-                    {
-                        "codigo_cliente": "54263",
-                        "desc_cliente": "MINIMERCADO SP LTDA"
-                    },
-                    {
-                        "codigo_cliente": "36503",
-                        "desc_cliente": "NATURAL OCEANO DISTRIBUIDORA DE ALIMENTOS EIRELI"
-                    },
-                    {
                         "codigo_cliente": "40036",
                         "desc_cliente": "NEVES & LINHARES LTDA - ME"
-                    },
-                    {
-                        "codigo_cliente": "69650",
-                        "desc_cliente": "OPTIMER COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69651",
-                        "desc_cliente": "OPTIMER COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "70812",
-                        "desc_cliente": "PIMENTA FERREIRA COM. ALIM LTDA"
-                    },
-                    {
-                        "codigo_cliente": "45438",
-                        "desc_cliente": "QUEIJOS E CIA COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "66515",
                         "desc_cliente": "ROTA DE CASA MINIMERCADO COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
-                        "codigo_cliente": "64405",
-                        "desc_cliente": "SEMPRE DISTRIBUICAO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71772",
-                        "desc_cliente": "SOL NASCENTE ATACADO & VAREJO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69643",
-                        "desc_cliente": "SUPER HIPER GIRO COMERCIAL DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "62838",
-                        "desc_cliente": "SUPERMERCADO SILVA E SANTOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "66895",
                         "desc_cliente": "VEIGAS COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72567",
-                        "desc_cliente": "VIPI AL COMERCIAL DE ALIMENTOS LTDA"
-                    }
-                ],
-                "560 - COMERCIAL CRISTAL ": [
-                    {
-                        "codigo_cliente": "41369",
-                        "desc_cliente": "COMERCIAL DE ALIMENTOS CRISTAL ABC LTDA"
                     }
                 ]
             },
-            "1095": {
+            "1216": {
                 "1163 - TEM SUPERMERCADOS": [
                     {
                         "codigo_cliente": "61833",

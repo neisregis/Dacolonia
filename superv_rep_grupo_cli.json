@@ -3391,6 +3391,12 @@
                         "codigo_cliente": "70328",
                         "desc_cliente": "PARANAIBA GUANABARA ALIMENTOS LTDA"
                     }
+                ],
+                "88 - ATACADAO": [
+                    {
+                        "codigo_cliente": "34845",
+                        "desc_cliente": "ATACADAO S.A."
+                    }
                 ]
             },
             "1092": {
@@ -15710,6 +15716,10 @@
                         "desc_cliente": "MINI MERCADO SOLIVO LTDA."
                     },
                     {
+                        "codigo_cliente": "29852",
+                        "desc_cliente": "MINIMERCADO WENDY EIRELI - ME"
+                    },
+                    {
                         "codigo_cliente": "39389",
                         "desc_cliente": "MOTTA E HORBACH LTDA"
                     },
@@ -16492,6 +16502,10 @@
                     {
                         "codigo_cliente": "40946",
                         "desc_cliente": "MERCADO E ACOUGUE THERMAS PIRATUBA LTDA."
+                    },
+                    {
+                        "codigo_cliente": "13782",
+                        "desc_cliente": "MERCADO ENGEL LTDA"
                     },
                     {
                         "codigo_cliente": "40636",
@@ -62456,6 +62470,10 @@
                     {
                         "codigo_cliente": "70044",
                         "desc_cliente": "MARIANE VERPP"
+                    },
+                    {
+                        "codigo_cliente": "72858",
+                        "desc_cliente": "MARIA PEREIRA DE SOUZA"
                     },
                     {
                         "codigo_cliente": "65335",

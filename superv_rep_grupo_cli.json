@@ -1278,6 +1278,10 @@
                     {
                         "codigo_cliente": "36962",
                         "desc_cliente": "KAMEL COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "41968",
+                        "desc_cliente": "KAMEL COMERCIO DE ALIMENTOS LTDA"
                     }
                 ],
                 "926 - CAP MINAS": [
@@ -4486,6 +4490,14 @@
                     {
                         "codigo_cliente": "59347",
                         "desc_cliente": "A R FILHO & CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72867",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "72868",
+                        "desc_cliente": "ATACADAO S.A."
                     },
                     {
                         "codigo_cliente": "46341",
@@ -83567,6 +83579,10 @@
                 "524 - KAIROS - BONIATTI": [
                     {
                         "codigo_cliente": "40067",
+                        "desc_cliente": "KAIROS COMERCIO DE ALIMENTOS EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "52062",
                         "desc_cliente": "KAIROS COMERCIO DE ALIMENTOS EIRELI"
                     }
                 ],

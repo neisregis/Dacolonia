@@ -3018,6 +3018,10 @@
                         "desc_cliente": "COMERCIAL OLEBAR LTDA"
                     },
                     {
+                        "codigo_cliente": "66014",
+                        "desc_cliente": "COMERCIAL PEGA BEM LTDA"
+                    },
+                    {
                         "codigo_cliente": "68202",
                         "desc_cliente": "COMERCIO VAREJISTA DE ALIMENTOS L T LTDA"
                     },
@@ -24408,6 +24412,10 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "29515",
+                        "desc_cliente": "ARISI & ARISI PRODUTOS NATURAIS LTDA"
+                    },
+                    {
                         "codigo_cliente": "39096",
                         "desc_cliente": "AS RUBASKI DISTRIBUIDORA EIRELI"
                     },
@@ -24486,6 +24494,10 @@
                     {
                         "codigo_cliente": "24520",
                         "desc_cliente": "SINANDRO FANOR DECKER EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "72872",
+                        "desc_cliente": "sll comercio de alimentos  ltda"
                     },
                     {
                         "codigo_cliente": "60838",

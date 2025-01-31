@@ -26374,6 +26374,26 @@
                         "desc_cliente": "ROBSON COMERCIAL LTDA"
                     }
                 ],
+                "1313 - MERCEARIA EXTRA - MT/GO": [
+                    {
+                        "codigo_cliente": "43146",
+                        "desc_cliente": "MERCEARIA EXTRA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "55210",
+                        "desc_cliente": "MERCEARIA EXTRA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72203",
+                        "desc_cliente": "MERCEARIA EXTRA LTDA"
+                    }
+                ],
+                "1314 - SUPER MACHADO - MT": [
+                    {
+                        "codigo_cliente": "39479",
+                        "desc_cliente": "SUPER MACHADO COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
+                    }
+                ],
                 "1 - GERAL": [
                     {
                         "codigo_cliente": "71372",
@@ -26390,6 +26410,10 @@
                     {
                         "codigo_cliente": "59473",
                         "desc_cliente": "ARTUR RICARDO BETTO 04045192964"
+                    },
+                    {
+                        "codigo_cliente": "65584",
+                        "desc_cliente": "ATACADO BRASIL LTDA"
                     },
                     {
                         "codigo_cliente": "65156",
@@ -26410,6 +26434,10 @@
                     {
                         "codigo_cliente": "56525",
                         "desc_cliente": "CARREIRO ATACAREJO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "23390",
+                        "desc_cliente": "COMERCIAL BARATAO LTDA"
                     },
                     {
                         "codigo_cliente": "59641",
@@ -26486,6 +26514,10 @@
                     {
                         "codigo_cliente": "56971",
                         "desc_cliente": "J. R. LEITE"
+                    },
+                    {
+                        "codigo_cliente": "68334",
+                        "desc_cliente": "L.A. DA SILVA ATACADISTA"
                     },
                     {
                         "codigo_cliente": "57142",
@@ -26580,6 +26612,10 @@
                         "desc_cliente": "VILELA & LEITE LTDA"
                     },
                     {
+                        "codigo_cliente": "43200",
+                        "desc_cliente": "WCTM SUPERMERCADO LTDA "
+                    },
+                    {
                         "codigo_cliente": "56129",
                         "desc_cliente": "W RAFAEL CARDOSO LIMA SUPERMERCADO"
                     }
@@ -26587,6 +26623,10 @@
                 "613 - N BEVILACQUA": [
                     {
                         "codigo_cliente": "44037",
+                        "desc_cliente": "N BEVILACQUA JUNIOR EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "44038",
                         "desc_cliente": "N BEVILACQUA JUNIOR EIRELI"
                     },
                     {
@@ -27748,52 +27788,6 @@
                     {
                         "codigo_cliente": "43393",
                         "desc_cliente": "MACHADAO W.J ALIMENTOS LTDA - ME"
-                    }
-                ]
-            },
-            "913": {
-                "1313 - MERCEARIA EXTRA - MT/GO": [
-                    {
-                        "codigo_cliente": "43146",
-                        "desc_cliente": "MERCEARIA EXTRA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "55210",
-                        "desc_cliente": "MERCEARIA EXTRA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72203",
-                        "desc_cliente": "MERCEARIA EXTRA LTDA"
-                    }
-                ],
-                "1314 - SUPER MACHADO - MT": [
-                    {
-                        "codigo_cliente": "39479",
-                        "desc_cliente": "SUPER MACHADO COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
-                    }
-                ],
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "65584",
-                        "desc_cliente": "ATACADO BRASIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "23390",
-                        "desc_cliente": "COMERCIAL BARATAO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "68334",
-                        "desc_cliente": "L.A. DA SILVA ATACADISTA"
-                    },
-                    {
-                        "codigo_cliente": "43200",
-                        "desc_cliente": "WCTM SUPERMERCADO LTDA "
-                    }
-                ],
-                "613 - N BEVILACQUA": [
-                    {
-                        "codigo_cliente": "44038",
-                        "desc_cliente": "N BEVILACQUA JUNIOR EIRELI"
                     }
                 ]
             },
@@ -56678,6 +56672,10 @@
                         "desc_cliente": "ALEXANDRE JOAO RADAVELE"
                     },
                     {
+                        "codigo_cliente": "72889",
+                        "desc_cliente": "ALEXANDRE PADILHA"
+                    },
+                    {
                         "codigo_cliente": "69954",
                         "desc_cliente": "ALEXANDRE PLATES DOS SANTOS"
                     },
@@ -70834,6 +70832,10 @@
                         "desc_cliente": "GIZELDA MARIA BONATTO ALBERICI"
                     },
                     {
+                        "codigo_cliente": "72859",
+                        "desc_cliente": "GLAUCIA CONFORTIN"
+                    },
+                    {
                         "codigo_cliente": "70537",
                         "desc_cliente": "GLAUCO LUIS DOS SANTOS"
                     },
@@ -73082,6 +73084,10 @@
                         "desc_cliente": "LUIZA MONTEIRO DE MACEDO"
                     },
                     {
+                        "codigo_cliente": "40044",
+                        "desc_cliente": "LUIZ ANTONIO BEZERRA NETO"
+                    },
+                    {
                         "codigo_cliente": "71185",
                         "desc_cliente": "LUIZA SENA "
                     },
@@ -74148,6 +74154,10 @@
                     {
                         "codigo_cliente": "70763",
                         "desc_cliente": "MELANIE QUIRINO"
+                    },
+                    {
+                        "codigo_cliente": "72852",
+                        "desc_cliente": "MELANIE WALCZAK FIORENZA"
                     },
                     {
                         "codigo_cliente": "70034",

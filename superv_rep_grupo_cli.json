@@ -25630,6 +25630,18 @@
                     {
                         "codigo_cliente": "47193",
                         "desc_cliente": "B V COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "47192",
+                        "desc_cliente": "F G COMERCIO DE SECOS E MOLHADOS LTDA EPP"
+                    },
+                    {
+                        "codigo_cliente": "47191",
+                        "desc_cliente": "G F COMERCIO DE SECOS E MOLHADOS EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "47189",
+                        "desc_cliente": "NC COMERCIO DE SECOS E MOLHADOS LTDA"
                     }
                 ],
                 "750 - SUPERMERCADO 007": [
@@ -37680,6 +37692,10 @@
                         "desc_cliente": "MATTIAS MERCEARIA LTDA"
                     },
                     {
+                        "codigo_cliente": "64415",
+                        "desc_cliente": "MDB COMERCIAL LTDA"
+                    },
+                    {
                         "codigo_cliente": "21875",
                         "desc_cliente": "MERCADINHO IMPERIAL DE BENTO RIBEIRO EIRELI"
                     },
@@ -48759,6 +48775,14 @@
                     }
                 ]
             },
+            "1203": {
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "72874",
+                        "desc_cliente": "POSTO PINDA DUTRA LTDA"
+                    }
+                ]
+            },
             "1075": {
                 "259 - ROSSI": [
                     {
@@ -52807,6 +52831,10 @@
                     },
                     {
                         "codigo_cliente": "68138",
+                        "desc_cliente": "DMA DISTRIBUIDORA S/A"
+                    },
+                    {
+                        "codigo_cliente": "68139",
                         "desc_cliente": "DMA DISTRIBUIDORA S/A"
                     },
                     {
@@ -58770,6 +58798,10 @@
                         "desc_cliente": "EDUARDO DIAS RAMOS"
                     },
                     {
+                        "codigo_cliente": "65546",
+                        "desc_cliente": "EDUARDO DIETZ"
+                    },
+                    {
                         "codigo_cliente": "59727",
                         "desc_cliente": "EDUARDO ELI PREUSS"
                     },
@@ -59072,6 +59104,10 @@
                     {
                         "codigo_cliente": "68220",
                         "desc_cliente": "EVANDRO ORTIZ TEIXEIRA"
+                    },
+                    {
+                        "codigo_cliente": "72893",
+                        "desc_cliente": "EVANDRO PALAORO"
                     },
                     {
                         "codigo_cliente": "62952",
@@ -59624,6 +59660,10 @@
                     {
                         "codigo_cliente": "69464",
                         "desc_cliente": "GEORGEA FOGAÇA"
+                    },
+                    {
+                        "codigo_cliente": "72892",
+                        "desc_cliente": "GEORGE CORREA DA SILVA"
                     },
                     {
                         "codigo_cliente": "72436",

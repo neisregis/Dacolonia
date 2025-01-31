@@ -8436,6 +8436,10 @@
                         "desc_cliente": "AUTO POSTO SEIS LTDA"
                     },
                     {
+                        "codigo_cliente": "72899",
+                        "desc_cliente": "AUTO POSTO VAROTTO LOANDA"
+                    },
+                    {
                         "codigo_cliente": "45228",
                         "desc_cliente": "BARBOSA, BARBOSA & FERNANDES LTDA"
                     },
@@ -47436,10 +47440,6 @@
                         "desc_cliente": "F S X COMERCIO DE UTILIDADES DOMESTICAS LTDA"
                     },
                     {
-                        "codigo_cliente": "72803",
-                        "desc_cliente": "HIPER REAL LTDA"
-                    },
-                    {
                         "codigo_cliente": "31527",
                         "desc_cliente": "HORTIFRUTI CELSO GARCIA LTDA"
                     },
@@ -54756,6 +54756,10 @@
                     {
                         "codigo_cliente": "70844",
                         "desc_cliente": "NICOLINI GELATERIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "56587",
+                        "desc_cliente": "NINA PRESENTES LTDA"
                     },
                     {
                         "codigo_cliente": "39947",
@@ -68006,6 +68010,10 @@
                         "desc_cliente": "BRUNA GABRIELA BERNARDI DE SOUZA"
                     },
                     {
+                        "codigo_cliente": "72896",
+                        "desc_cliente": "BRUNA GHELLER"
+                    },
+                    {
                         "codigo_cliente": "46244",
                         "desc_cliente": "BRUNA LIMA LOMBARDO"
                     },
@@ -69436,6 +69444,10 @@
                     {
                         "codigo_cliente": "67666",
                         "desc_cliente": "DIOGO LUIZ BORGONHA"
+                    },
+                    {
+                        "codigo_cliente": "72898",
+                        "desc_cliente": "DIONATAN ROCHA"
                     },
                     {
                         "codigo_cliente": "67647",
@@ -74806,6 +74818,10 @@
                         "desc_cliente": "PAULA BALESTRIN"
                     },
                     {
+                        "codigo_cliente": "72890",
+                        "desc_cliente": "PAULA BASSI SINELLI"
+                    },
+                    {
                         "codigo_cliente": "67770",
                         "desc_cliente": "PAULA BIF LUCAS"
                     },
@@ -75228,6 +75244,10 @@
                     {
                         "codigo_cliente": "69184",
                         "desc_cliente": "RAQUEL GOEDERT"
+                    },
+                    {
+                        "codigo_cliente": "72891",
+                        "desc_cliente": "RAQUEL NEIS HARTMANN"
                     },
                     {
                         "codigo_cliente": "68853",
@@ -77044,6 +77064,10 @@
                     {
                         "codigo_cliente": "69541",
                         "desc_cliente": "VITORIA CHEDIAN PIMENTEL ZANUTTO"
+                    },
+                    {
+                        "codigo_cliente": "72897",
+                        "desc_cliente": "VITORIA DEGERING"
                     },
                     {
                         "codigo_cliente": "68381",

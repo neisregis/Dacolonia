@@ -1000,10 +1000,6 @@
                         "desc_cliente": "DECIO AUTO POSTO GURUPI LTDA"
                     },
                     {
-                        "codigo_cliente": "68751",
-                        "desc_cliente": "DEPOSITO DE CLORO E AGUA SANITARIA QUEIROZ LTDA"
-                    },
-                    {
                         "codigo_cliente": "71051",
                         "desc_cliente": "EMPORIO JOAB LTDA"
                     },
@@ -4026,6 +4022,10 @@
                     {
                         "codigo_cliente": "60351",
                         "desc_cliente": "D. BORTOLINI COMERCIO DE GRAOS"
+                    },
+                    {
+                        "codigo_cliente": "68751",
+                        "desc_cliente": "DEPOSITO DE CLORO E AGUA SANITARIA QUEIROZ LTDA"
                     },
                     {
                         "codigo_cliente": "65658",
@@ -26424,10 +26424,6 @@
                         "desc_cliente": "ARTUR RICARDO BETTO 04045192964"
                     },
                     {
-                        "codigo_cliente": "65584",
-                        "desc_cliente": "ATACADO BRASIL LTDA"
-                    },
-                    {
                         "codigo_cliente": "65156",
                         "desc_cliente": "ATACAREJO MORATO LTDA"
                     },
@@ -28136,6 +28132,14 @@
                     {
                         "codigo_cliente": "47816",
                         "desc_cliente": "O BARATAO E LIMA SUPERMERCADOS LTDA"
+                    }
+                ]
+            },
+            "913": {
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "65584",
+                        "desc_cliente": "ATACADO BRASIL LTDA"
                     }
                 ]
             }
@@ -38070,6 +38074,10 @@
                         "desc_cliente": "ARRAIAL DO CABO SUPERMERCADO EIRELI"
                     },
                     {
+                        "codigo_cliente": "35986",
+                        "desc_cliente": "AUTO SERVICO CORDEIRENSE LTDA"
+                    },
+                    {
                         "codigo_cliente": "40782",
                         "desc_cliente": "AUTO SERVICO PINHEIRO NETO LTDA"
                     },
@@ -39642,10 +39650,6 @@
                         "desc_cliente": "AMSTERDAM MARKETS PRODUTOS ALIMENTICIOS LTDA"
                     },
                     {
-                        "codigo_cliente": "35986",
-                        "desc_cliente": "AUTO SERVICO CORDEIRENSE LTDA"
-                    },
-                    {
                         "codigo_cliente": "40940",
                         "desc_cliente": "BAR E MERC PORTO ALEGRE DE CAXIAS LTDA"
                     },
@@ -40242,6 +40246,10 @@
                     {
                         "codigo_cliente": "25833",
                         "desc_cliente": "COMERCIAL R D DE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72884",
+                        "desc_cliente": "DOCE E SONHO COMERCIAL LTDA"
                     },
                     {
                         "codigo_cliente": "27674",
@@ -57872,6 +57880,10 @@
                     {
                         "codigo_cliente": "69584",
                         "desc_cliente": "CESAR PEREIRA"
+                    },
+                    {
+                        "codigo_cliente": "72894",
+                        "desc_cliente": "CHAIANE DE OLIVEIRA"
                     },
                     {
                         "codigo_cliente": "59975",
@@ -85895,6 +85907,10 @@
             },
             "1164": {
                 "1 - GERAL": [
+                    {
+                        "codigo_cliente": "72895",
+                        "desc_cliente": "IRMAOS MATTAR & CIA LTDA"
+                    },
                     {
                         "codigo_cliente": "69789",
                         "desc_cliente": "SOARES E TECLES COMERCIO E REPRESENTACOES LTDA"

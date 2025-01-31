@@ -4496,14 +4496,6 @@
                         "desc_cliente": "A R FILHO & CIA LTDA"
                     },
                     {
-                        "codigo_cliente": "72867",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "72868",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
                         "codigo_cliente": "46341",
                         "desc_cliente": "CDA-CENTRAL DE DISTRIBUICAO AZEVEDO LTDA"
                     },
@@ -5071,6 +5063,14 @@
                     },
                     {
                         "codigo_cliente": "72163",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "72867",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "72868",
                         "desc_cliente": "ATACADAO S.A."
                     },
                     {
@@ -8417,7 +8417,7 @@
                     }
                 ]
             },
-            "1063": {
+            "1218": {
                 "1 - GERAL": [
                     {
                         "codigo_cliente": "43955",
@@ -8626,10 +8626,6 @@
                     {
                         "codigo_cliente": "46117",
                         "desc_cliente": "SUPERMERCADOS SENNA - EIRELI"
-                    },
-                    {
-                        "codigo_cliente": "5985",
-                        "desc_cliente": "SUPERMERCADO TIBURCIO LTDA"
                     },
                     {
                         "codigo_cliente": "69554",
@@ -8988,6 +8984,14 @@
                     {
                         "codigo_cliente": "68968",
                         "desc_cliente": "SANCHES E VECCHIATE LTDA"
+                    }
+                ]
+            },
+            "1063": {
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "5985",
+                        "desc_cliente": "SUPERMERCADO TIBURCIO LTDA"
                     }
                 ]
             }
@@ -17611,7 +17615,7 @@
                     },
                     {
                         "codigo_cliente": "72863",
-                        "desc_cliente": "MAICON JOSE DA COSTA"
+                        "desc_cliente": "MAIKON JOSE DA COSTA 07583318947"
                     },
                     {
                         "codigo_cliente": "40112",
@@ -24497,7 +24501,7 @@
                     },
                     {
                         "codigo_cliente": "72872",
-                        "desc_cliente": "sll comercio de alimentos  ltda"
+                        "desc_cliente": "SLL COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "60838",
@@ -27236,10 +27240,6 @@
             "1217": {
                 "1118 - CAIQUE SUPERMERCADOS": [
                     {
-                        "codigo_cliente": "60007",
-                        "desc_cliente": "COMERCIAL DE ALIMENTOS CAIQUE LTDA"
-                    },
-                    {
                         "codigo_cliente": "60011",
                         "desc_cliente": "COMERCIAL DE ALIMENTOS CAIQUE LTDA"
                     },
@@ -27254,10 +27254,6 @@
                     {
                         "codigo_cliente": "60009",
                         "desc_cliente": "SEMPRE BEM 2 SUPERMERCADOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "60008",
-                        "desc_cliente": "SEMPRE BEM SUPERMERCADOS LTDA"
                     }
                 ],
                 "1270 - CASA NORDESTINA - DF": [
@@ -27575,7 +27571,7 @@
                     },
                     {
                         "codigo_cliente": "72862",
-                        "desc_cliente": "J A BERNARDINO SUPERMERCADO LTDA- ME"
+                        "desc_cliente": "J A BERNARDINO SUPERMERCADO LTDA"
                     },
                     {
                         "codigo_cliente": "56849",
@@ -29588,10 +29584,6 @@
                     {
                         "codigo_cliente": "9025",
                         "desc_cliente": "I.S. COMERCIO E DISTRIBUICAO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "23337",
-                        "desc_cliente": "I.S.SUPERMERCADOS LTDA"
                     }
                 ],
                 "157 - ABIMAR": [
@@ -63280,6 +63272,10 @@
                         "desc_cliente": "OZIEL MORAES DOS SANTOS "
                     },
                     {
+                        "codigo_cliente": "72875",
+                        "desc_cliente": "PABLO CHAVES TERRA"
+                    },
+                    {
                         "codigo_cliente": "66681",
                         "desc_cliente": "PABLO IUDI SANTOS SILVA"
                     },
@@ -65038,6 +65034,10 @@
                     {
                         "codigo_cliente": "50971",
                         "desc_cliente": "VANUSA DUARTE DE SOUZA"
+                    },
+                    {
+                        "codigo_cliente": "72865",
+                        "desc_cliente": "VERA COSTA"
                     },
                     {
                         "codigo_cliente": "54514",
@@ -83701,12 +83701,20 @@
     },
     "1042": {
         "representantes": {
-            "1217": {
+            "1023": {
                 "1118 - CAIQUE SUPERMERCADOS": [
                     {
                         "codigo_cliente": "60007",
                         "desc_cliente": "COMERCIAL DE ALIMENTOS CAIQUE LTDA"
                     },
+                    {
+                        "codigo_cliente": "60008",
+                        "desc_cliente": "SEMPRE BEM SUPERMERCADOS LTDA"
+                    }
+                ]
+            },
+            "1217": {
+                "1118 - CAIQUE SUPERMERCADOS": [
                     {
                         "codigo_cliente": "60011",
                         "desc_cliente": "COMERCIAL DE ALIMENTOS CAIQUE LTDA"
@@ -83714,10 +83722,6 @@
                     {
                         "codigo_cliente": "59906",
                         "desc_cliente": "COMERCIAL DE ALIMENTOS CAIQUE LTDA EPP"
-                    },
-                    {
-                        "codigo_cliente": "60008",
-                        "desc_cliente": "SEMPRE BEM SUPERMERCADOS LTDA"
                     }
                 ],
                 "1282 - SUPERMERCADO EURO": [

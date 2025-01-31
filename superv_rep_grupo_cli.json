@@ -18652,6 +18652,10 @@
                         "desc_cliente": "MERCADO ESCOLA AGRICOLA LTDA"
                     },
                     {
+                        "codigo_cliente": "72798",
+                        "desc_cliente": "MERCADO FRIGOTTO FIFOU LTDA"
+                    },
+                    {
                         "codigo_cliente": "64245",
                         "desc_cliente": "MERCADO TEND TUDO LTDA"
                     },
@@ -18862,6 +18866,30 @@
                     {
                         "codigo_cliente": "26144",
                         "desc_cliente": "RWR LOGISTICA E DISTRIBUICAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "26403",
+                        "desc_cliente": "RWR LOGISTICA E DISTRIBUICAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "28253",
+                        "desc_cliente": "RWR LOGISTICA E DISTRIBUICAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "32753",
+                        "desc_cliente": "RWR LOGISTICA E DISTRIBUICAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "34062",
+                        "desc_cliente": "RWR LOGISTICA E DISTRIBUICAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "64350",
+                        "desc_cliente": "RWR LOGISTICA E DISTRIBUICAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71581",
+                        "desc_cliente": "RWR LOGISTICA E DISTRIBUICAO LTDA"
                     }
                 ],
                 "17 - CONDOR": [
@@ -19054,6 +19082,14 @@
                     {
                         "codigo_cliente": "34257",
                         "desc_cliente": "RIKATI PRODUTOS NATURAIS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "42333",
+                        "desc_cliente": "RWR LOGISTICA E DISTRIBUICAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "42334",
+                        "desc_cliente": "RWR LOGISTICA E DISTRIBUICAO LTDA"
                     },
                     {
                         "codigo_cliente": "69398",
@@ -81938,6 +81974,10 @@
                     {
                         "codigo_cliente": "11604",
                         "desc_cliente": "RUBEM ARNOLDO KUHNE E CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "43407",
+                        "desc_cliente": "SAN RUFINO COMERCIO DE ALIMENTOS EIRELI"
                     },
                     {
                         "codigo_cliente": "68118",

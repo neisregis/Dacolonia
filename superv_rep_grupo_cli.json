@@ -18892,6 +18892,14 @@
                         "desc_cliente": "RWR LOGISTICA E DISTRIBUICAO LTDA"
                     },
                     {
+                        "codigo_cliente": "42333",
+                        "desc_cliente": "RWR LOGISTICA E DISTRIBUICAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "42334",
+                        "desc_cliente": "RWR LOGISTICA E DISTRIBUICAO LTDA"
+                    },
+                    {
                         "codigo_cliente": "64350",
                         "desc_cliente": "RWR LOGISTICA E DISTRIBUICAO LTDA"
                     },
@@ -19090,14 +19098,6 @@
                     {
                         "codigo_cliente": "34257",
                         "desc_cliente": "RIKATI PRODUTOS NATURAIS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "42333",
-                        "desc_cliente": "RWR LOGISTICA E DISTRIBUICAO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "42334",
-                        "desc_cliente": "RWR LOGISTICA E DISTRIBUICAO LTDA"
                     },
                     {
                         "codigo_cliente": "69398",
@@ -22456,10 +22456,6 @@
                     {
                         "codigo_cliente": "58062",
                         "desc_cliente": "MAURICIO MESNEROVICZ"
-                    },
-                    {
-                        "codigo_cliente": "57490",
-                        "desc_cliente": "MERCADO A & D LTDA"
                     },
                     {
                         "codigo_cliente": "57437",
@@ -26504,6 +26500,10 @@
                         "desc_cliente": "NADIANY FERREIRA DE SOUSA"
                     },
                     {
+                        "codigo_cliente": "71003",
+                        "desc_cliente": "N. BEVILACQUA JUNIOR LTDA"
+                    },
+                    {
                         "codigo_cliente": "68020",
                         "desc_cliente": "NILSON PEREIRA VALVERDE"
                     },
@@ -26582,6 +26582,24 @@
                     {
                         "codigo_cliente": "56129",
                         "desc_cliente": "W RAFAEL CARDOSO LIMA SUPERMERCADO"
+                    }
+                ],
+                "613 - N BEVILACQUA": [
+                    {
+                        "codigo_cliente": "44037",
+                        "desc_cliente": "N BEVILACQUA JUNIOR EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "44043",
+                        "desc_cliente": "N BEVILACQUA JUNIOR EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "44044",
+                        "desc_cliente": "N BEVILACQUA JUNIOR EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "55683",
+                        "desc_cliente": "N. BEVILACQUA JUNIOR EIRELI"
                     }
                 ],
                 "673 - SUPER TRIUNFO GO": [
@@ -27768,34 +27786,14 @@
                         "desc_cliente": "L.A. DA SILVA ATACADISTA"
                     },
                     {
-                        "codigo_cliente": "71003",
-                        "desc_cliente": "N. BEVILACQUA JUNIOR LTDA"
-                    },
-                    {
                         "codigo_cliente": "43200",
                         "desc_cliente": "WCTM SUPERMERCADO LTDA "
                     }
                 ],
                 "613 - N BEVILACQUA": [
                     {
-                        "codigo_cliente": "44037",
-                        "desc_cliente": "N BEVILACQUA JUNIOR EIRELI"
-                    },
-                    {
                         "codigo_cliente": "44038",
                         "desc_cliente": "N BEVILACQUA JUNIOR EIRELI"
-                    },
-                    {
-                        "codigo_cliente": "44043",
-                        "desc_cliente": "N BEVILACQUA JUNIOR EIRELI"
-                    },
-                    {
-                        "codigo_cliente": "44044",
-                        "desc_cliente": "N BEVILACQUA JUNIOR EIRELI"
-                    },
-                    {
-                        "codigo_cliente": "55683",
-                        "desc_cliente": "N. BEVILACQUA JUNIOR EIRELI"
                     }
                 ]
             },
@@ -50194,6 +50192,10 @@
                         "desc_cliente": "GRACIELA P. P. DA SILVA & DANIEL E. PETROCELLI LTDA"
                     },
                     {
+                        "codigo_cliente": "37885",
+                        "desc_cliente": "H A T MOHAMED ME"
+                    },
+                    {
                         "codigo_cliente": "68666",
                         "desc_cliente": "HENRIQUE DE LEMOS FORQUIM"
                     },
@@ -62324,6 +62326,10 @@
                         "desc_cliente": "MARCIANO LUCAS E SILVA"
                     },
                     {
+                        "codigo_cliente": "72879",
+                        "desc_cliente": "MARCIA RONEIDA DA SILVA"
+                    },
+                    {
                         "codigo_cliente": "69899",
                         "desc_cliente": "MARCIELEN DA SILVA ROSA"
                     },
@@ -62946,6 +62952,10 @@
                     {
                         "codigo_cliente": "66828",
                         "desc_cliente": "MOACIR BACCARIN"
+                    },
+                    {
+                        "codigo_cliente": "72881",
+                        "desc_cliente": "MOACIR CESAR DOS SANTOS"
                     },
                     {
                         "codigo_cliente": "52385",

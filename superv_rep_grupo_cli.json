@@ -27958,6 +27958,10 @@
                         "desc_cliente": "SEIARA CEIFA LTDA"
                     },
                     {
+                        "codigo_cliente": "72913",
+                        "desc_cliente": "SHEGO LENE E ANNE SUPERMERCADOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "72628",
                         "desc_cliente": "SIQUEIRA DE PAULA SUPERMERCADO LTDA"
                     },
@@ -47502,6 +47506,10 @@
                     {
                         "codigo_cliente": "38071",
                         "desc_cliente": "MEGA-DOCES DISTRIBUIDORA DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "42949",
+                        "desc_cliente": "MENINO LEITE COMERCIO DE DOCES E ARTIGOS PARA FESTAS LTDA"
                     },
                     {
                         "codigo_cliente": "71492",

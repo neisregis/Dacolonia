@@ -3058,6 +3058,18 @@
                         "desc_cliente": "NOBILE COMERCIO DE ALIMENTOS E BEBIDAS LTDA"
                     },
                     {
+                        "codigo_cliente": "72919",
+                        "desc_cliente": "OLIVEIRA SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72917",
+                        "desc_cliente": "OLIVEIRA SUPERMERCADOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72918",
+                        "desc_cliente": "OLIVEIRA SUPERMERCADOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "55569",
                         "desc_cliente": "ORGANIZACAO NOSSA SENHORA DA ABADIA LTDA"
                     },
@@ -39864,6 +39876,10 @@
                     {
                         "codigo_cliente": "66198",
                         "desc_cliente": "TORRES DISTRIBUIDORA DE ALIMENTOS LATICINIOS E BEBIDAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72920",
+                        "desc_cliente": "VIDA SUPERMWRCADO D LTDA"
                     },
                     {
                         "codigo_cliente": "68149",

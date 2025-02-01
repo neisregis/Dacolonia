@@ -38309,7 +38309,7 @@
                     },
                     {
                         "codigo_cliente": "72920",
-                        "desc_cliente": "VIDA SUPERMWRCADO D LTDA"
+                        "desc_cliente": "VIDA SUPERMERCADOS D LTDA"
                     },
                     {
                         "codigo_cliente": "68149",
@@ -79098,6 +79098,10 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "72915",
+                        "desc_cliente": "54.811.571 DANIELA DE SOUZA RIBEIRO"
+                    },
+                    {
                         "codigo_cliente": "68717",
                         "desc_cliente": "ALVORADA COMERCIAL DE ALIMENTOS LTDA"
                     },
@@ -79124,10 +79128,6 @@
                     {
                         "codigo_cliente": "64519",
                         "desc_cliente": "COMERCIAL DE FRUTAS E VERDURAS CANTEIROS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72915",
-                        "desc_cliente": "DANIELA DE SOUZA RIBEIRO"
                     },
                     {
                         "codigo_cliente": "69100",

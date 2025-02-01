@@ -12372,6 +12372,10 @@
                         "desc_cliente": "CWB COMERCIO DE ARMARINHOS EIRELI"
                     },
                     {
+                        "codigo_cliente": "72916",
+                        "desc_cliente": "CWB COMERCIO DE ARMARINHOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "37392",
                         "desc_cliente": "DANIELE CECHET - FRANGO & FRIOS"
                     },
@@ -48502,6 +48506,12 @@
                     {
                         "codigo_cliente": "5655",
                         "desc_cliente": "SUPERMERCADOS BERGAMINI LTDA"
+                    }
+                ],
+                "565 - PURPLE BERRY BRASIL": [
+                    {
+                        "codigo_cliente": "36686",
+                        "desc_cliente": "DGT ALIMENTACAO LTDA."
                     }
                 ],
                 "705 - JORDMIX - SP": [

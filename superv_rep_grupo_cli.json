@@ -35111,6 +35111,140 @@
                     }
                 ]
             },
+            "651": {
+                "14 - REDE FORT": [
+                    {
+                        "codigo_cliente": "54237",
+                        "desc_cliente": "SDB COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "58388",
+                        "desc_cliente": "SDB COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "60440",
+                        "desc_cliente": "SDB COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "69229",
+                        "desc_cliente": "SDB COMERCIO DE ALIMENTOS LTDA"
+                    }
+                ],
+                "88 - ATACADAO": [
+                    {
+                        "codigo_cliente": "24946",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "24947",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "24948",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "25335",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "25450",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "25595",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "25972",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "30508",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "35786",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "38634",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "39228",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "58907",
+                        "desc_cliente": "ATACADAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "20015",
+                        "desc_cliente": "ATACADAO SA"
+                    },
+                    {
+                        "codigo_cliente": "2347",
+                        "desc_cliente": "ATACADAO SA"
+                    },
+                    {
+                        "codigo_cliente": "34966",
+                        "desc_cliente": "ATACADAO SA"
+                    },
+                    {
+                        "codigo_cliente": "37245",
+                        "desc_cliente": "ATACADAO SA"
+                    },
+                    {
+                        "codigo_cliente": "385",
+                        "desc_cliente": "ATACADAO SA"
+                    },
+                    {
+                        "codigo_cliente": "6160",
+                        "desc_cliente": "ATACADAO SA"
+                    },
+                    {
+                        "codigo_cliente": "284",
+                        "desc_cliente": "WMS SUPERM.DO BRASIL LTDA-WALMART LJ 112"
+                    },
+                    {
+                        "codigo_cliente": "19111",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "20962",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "23994",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "24586",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "3492",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "35050",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
+                    },
+                    {
+                        "codigo_cliente": "6013",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA. LJ-010"
+                    },
+                    {
+                        "codigo_cliente": "643",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA LJ-164"
+                    },
+                    {
+                        "codigo_cliente": "20418",
+                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA. LJ-210"
+                    }
+                ]
+            },
             "819": {
                 "1 - GERAL": [
                     {
@@ -53732,6 +53866,10 @@
                     {
                         "codigo_cliente": "30590",
                         "desc_cliente": "LUIZ DE MELO & SOUZA DE MELO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72928",
+                        "desc_cliente": "PAULO SOARES"
                     },
                     {
                         "codigo_cliente": "6416",
@@ -81220,144 +81358,6 @@
                     {
                         "codigo_cliente": "18935",
                         "desc_cliente": "A. ANGELONI E CIA LTDA"
-                    }
-                ]
-            }
-        }
-    },
-    "1041": {
-        "representantes": {
-            "651": {
-                "14 - REDE FORT": [
-                    {
-                        "codigo_cliente": "54237",
-                        "desc_cliente": "SDB COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "58388",
-                        "desc_cliente": "SDB COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "60440",
-                        "desc_cliente": "SDB COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "69229",
-                        "desc_cliente": "SDB COMERCIO DE ALIMENTOS LTDA"
-                    }
-                ],
-                "88 - ATACADAO": [
-                    {
-                        "codigo_cliente": "24946",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "24947",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "24948",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "25335",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "25450",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "25595",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "25972",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "30508",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "35786",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "38634",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "39228",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "58907",
-                        "desc_cliente": "ATACADAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "20015",
-                        "desc_cliente": "ATACADAO SA"
-                    },
-                    {
-                        "codigo_cliente": "2347",
-                        "desc_cliente": "ATACADAO SA"
-                    },
-                    {
-                        "codigo_cliente": "34966",
-                        "desc_cliente": "ATACADAO SA"
-                    },
-                    {
-                        "codigo_cliente": "37245",
-                        "desc_cliente": "ATACADAO SA"
-                    },
-                    {
-                        "codigo_cliente": "385",
-                        "desc_cliente": "ATACADAO SA"
-                    },
-                    {
-                        "codigo_cliente": "6160",
-                        "desc_cliente": "ATACADAO SA"
-                    },
-                    {
-                        "codigo_cliente": "284",
-                        "desc_cliente": "WMS SUPERM.DO BRASIL LTDA-WALMART LJ 112"
-                    },
-                    {
-                        "codigo_cliente": "19111",
-                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "20962",
-                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "23994",
-                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "24586",
-                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "3492",
-                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA"
-                    },
-                    {
-                        "codigo_cliente": "35050",
-                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA."
-                    },
-                    {
-                        "codigo_cliente": "6013",
-                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA. LJ-010"
-                    },
-                    {
-                        "codigo_cliente": "643",
-                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA LJ-164"
-                    },
-                    {
-                        "codigo_cliente": "20418",
-                        "desc_cliente": "WMS SUPERMERCADOS DO BRASIL LTDA. LJ-210"
                     }
                 ]
             }

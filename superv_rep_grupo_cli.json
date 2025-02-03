@@ -15688,6 +15688,10 @@
                         "desc_cliente": "EDILZA SERIGHELLI"
                     },
                     {
+                        "codigo_cliente": "60581",
+                        "desc_cliente": "ELZA FATIMA CASAGRANDE"
+                    },
+                    {
                         "codigo_cliente": "42319",
                         "desc_cliente": "EMPORIO SABOR E SAUDE EIRELI"
                     },
@@ -16138,6 +16142,10 @@
                     {
                         "codigo_cliente": "43575",
                         "desc_cliente": "RODRIGO VICENTE"
+                    },
+                    {
+                        "codigo_cliente": "43748",
+                        "desc_cliente": "ROSANE MARIA CLAMER"
                     },
                     {
                         "codigo_cliente": "33401",
@@ -16666,6 +16674,10 @@
                     {
                         "codigo_cliente": "39969",
                         "desc_cliente": "SUPERMERCADO MONTIBELLER LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72953",
+                        "desc_cliente": "SUPERMERCADO MOSER LTDA ME"
                     },
                     {
                         "codigo_cliente": "63018",
@@ -38008,6 +38020,10 @@
                     {
                         "codigo_cliente": "52616",
                         "desc_cliente": "MERCADO PANAINO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72952",
+                        "desc_cliente": "MERCADO PM DIAS LTDA"
                     },
                     {
                         "codigo_cliente": "72457",

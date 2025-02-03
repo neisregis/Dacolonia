@@ -67192,6 +67192,10 @@
                         "desc_cliente": "GISELLE DE SOUSA"
                     },
                     {
+                        "codigo_cliente": "72937",
+                        "desc_cliente": "GISELLE RENATA VIEIRA"
+                    },
+                    {
                         "codigo_cliente": "70645",
                         "desc_cliente": "GISELZA MEDEIROS SCARPATO"
                     },
@@ -81448,18 +81452,6 @@
                     {
                         "codigo_cliente": "66789",
                         "desc_cliente": "SUMMIT3S ALLIANCE AND DISTRIBUTION LLC"
-                    }
-                ]
-            }
-        }
-    },
-    "null": {
-        "representantes": {
-            "null": {
-                "null": [
-                    {
-                        "codigo_cliente": null,
-                        "desc_cliente": null
                     }
                 ]
             }

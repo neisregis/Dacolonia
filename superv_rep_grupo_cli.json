@@ -16677,7 +16677,7 @@
                     },
                     {
                         "codigo_cliente": "72953",
-                        "desc_cliente": "SUPERMERCADO MOSER LTDA ME"
+                        "desc_cliente": "SUPERMERCADO MOSER LTDA"
                     },
                     {
                         "codigo_cliente": "63018",
@@ -27118,6 +27118,10 @@
                     {
                         "codigo_cliente": "65584",
                         "desc_cliente": "ATACADO BRASIL LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71003",
+                        "desc_cliente": "N. BEVILACQUA JUNIOR LTDA"
                     }
                 ]
             }
@@ -32958,6 +32962,10 @@
                 ],
                 "962 - ARMAZEM 21": [
                     {
+                        "codigo_cliente": "32252",
+                        "desc_cliente": "ANA GONSALVES DA SILVA - ME"
+                    },
+                    {
                         "codigo_cliente": "54272",
                         "desc_cliente": "M.C COMERCIO VAREJISTA DE EMBALAGENS E ALIMENTOS LTDA"
                     },
@@ -38023,7 +38031,7 @@
                     },
                     {
                         "codigo_cliente": "72952",
-                        "desc_cliente": "MERCADO PM DIAS LTDA"
+                        "desc_cliente": "MERCADO P.M DIAS LTDA"
                     },
                     {
                         "codigo_cliente": "72457",
@@ -45848,6 +45856,10 @@
                         "desc_cliente": "UTILIDADES YANXIN LTDA"
                     },
                     {
+                        "codigo_cliente": "72955",
+                        "desc_cliente": "VIDY COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "69294",
                         "desc_cliente": "WELLINGTON REIS SILVA 33119724300"
                     },
@@ -53535,6 +53547,12 @@
                         "codigo_cliente": "45973",
                         "desc_cliente": "IRMAOS BOA LTDA "
                     }
+                ],
+                "81 - TOZZETO": [
+                    {
+                        "codigo_cliente": "27409",
+                        "desc_cliente": "TOZETTO & CIA LTDA"
+                    }
                 ]
             },
             "820": {
@@ -55254,10 +55272,6 @@
                     {
                         "codigo_cliente": "72802",
                         "desc_cliente": "BRAYAN"
-                    },
-                    {
-                        "codigo_cliente": "65288",
-                        "desc_cliente": "BRAYAN DOS SANTOS TOMASI"
                     },
                     {
                         "codigo_cliente": "68002",
@@ -58534,6 +58548,10 @@
                     {
                         "codigo_cliente": "72336",
                         "desc_cliente": "JULIANO ANDRE DORR"
+                    },
+                    {
+                        "codigo_cliente": "72954",
+                        "desc_cliente": "JULIANO DA SILVA FRAGA"
                     },
                     {
                         "codigo_cliente": "54418",
@@ -62758,6 +62776,10 @@
                     {
                         "codigo_cliente": "53695",
                         "desc_cliente": "ANGELO MIGUEL COSTA"
+                    },
+                    {
+                        "codigo_cliente": "65288",
+                        "desc_cliente": "BRAYAN DOS SANTOS TOMASI"
                     },
                     {
                         "codigo_cliente": "9927",

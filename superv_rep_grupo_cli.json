@@ -2374,6 +2374,36 @@
                         "desc_cliente": "BEM QUE TEM HORTIFRUTI LTDA"
                     }
                 ],
+                "1400 - OLIVERIRA SUPERMERCADOS": [
+                    {
+                        "codigo_cliente": "72922",
+                        "desc_cliente": "OLIVEIRAS SUPERMERCADOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72919",
+                        "desc_cliente": "OLIVEIRA SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72923",
+                        "desc_cliente": "OLIVEIRA SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72924",
+                        "desc_cliente": "OLIVEIRA SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72917",
+                        "desc_cliente": "OLIVEIRA SUPERMERCADOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72918",
+                        "desc_cliente": "OLIVEIRA SUPERMERCADOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72921",
+                        "desc_cliente": "OLIVEIRA SUPERMERCADOS LTDA"
+                    }
+                ],
                 "1 - GERAL": [
                     {
                         "codigo_cliente": "64035",
@@ -2422,34 +2452,6 @@
                     {
                         "codigo_cliente": "52583",
                         "desc_cliente": "NOBILE COMERCIO DE ALIMENTOS E BEBIDAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72922",
-                        "desc_cliente": "OLIVEIRAS SUPERMERCADOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72919",
-                        "desc_cliente": "OLIVEIRA SUPERMERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72923",
-                        "desc_cliente": "OLIVEIRA SUPERMERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72924",
-                        "desc_cliente": "OLIVEIRA SUPERMERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72917",
-                        "desc_cliente": "OLIVEIRA SUPERMERCADOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72918",
-                        "desc_cliente": "OLIVEIRA SUPERMERCADOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72921",
-                        "desc_cliente": "OLIVEIRA SUPERMERCADOS LTDA"
                     },
                     {
                         "codigo_cliente": "55196",
@@ -81446,6 +81448,18 @@
                     {
                         "codigo_cliente": "66789",
                         "desc_cliente": "SUMMIT3S ALLIANCE AND DISTRIBUTION LLC"
+                    }
+                ]
+            }
+        }
+    },
+    "null": {
+        "representantes": {
+            "null": {
+                "null": [
+                    {
+                        "codigo_cliente": null,
+                        "desc_cliente": null
                     }
                 ]
             }

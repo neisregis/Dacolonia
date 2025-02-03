@@ -14716,6 +14716,10 @@
                         "desc_cliente": "AGA SUPERMERCADO LTDA-ME"
                     },
                     {
+                        "codigo_cliente": "39700",
+                        "desc_cliente": "ALBINO REBITSKI 00025247913"
+                    },
+                    {
                         "codigo_cliente": "24134",
                         "desc_cliente": "ALCIONE SCHULTZ EIRELI"
                     },
@@ -21112,10 +21116,6 @@
                         "desc_cliente": "EVA V F AQUINO"
                     },
                     {
-                        "codigo_cliente": "72834",
-                        "desc_cliente": "GARCIA DISTRIBUIDORA E ATACADO DE ALIMENTOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "33780",
                         "desc_cliente": "IRELIO DE OLIVEIRA KNOFF"
                     },
@@ -22908,10 +22908,6 @@
                     {
                         "codigo_cliente": "59101",
                         "desc_cliente": "PADARIA E CONFEITARIA TIA LOLA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "56457",
-                        "desc_cliente": "PADARIA MUNARI LTDA"
                     },
                     {
                         "codigo_cliente": "65393",
@@ -34858,10 +34854,6 @@
                     {
                         "codigo_cliente": "72370",
                         "desc_cliente": "DF FRUTEIRA E MERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72846",
-                        "desc_cliente": "GRAO NATURAL PRODUTOS SAUDAVEIS LTDA"
                     },
                     {
                         "codigo_cliente": "59988",
@@ -60374,6 +60366,10 @@
                     {
                         "codigo_cliente": "70091",
                         "desc_cliente": "OSCAR ROBERTO GOMES DA SILVA"
+                    },
+                    {
+                        "codigo_cliente": "72947",
+                        "desc_cliente": "OSEIAS DIAS SEVERO"
                     },
                     {
                         "codigo_cliente": "50556",

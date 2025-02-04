@@ -7270,10 +7270,6 @@
                         "desc_cliente": "N R NOCHI PRODUTOS NATURAIS LTDA"
                     },
                     {
-                        "codigo_cliente": "48848",
-                        "desc_cliente": "N RONQUI & CIA LTDA"
-                    },
-                    {
                         "codigo_cliente": "44602",
                         "desc_cliente": "O. CATANIO & CIA LTDA"
                     },
@@ -8238,6 +8234,10 @@
                     {
                         "codigo_cliente": "68045",
                         "desc_cliente": "MICHEL ZACHYTKO CAVALCANTE"
+                    },
+                    {
+                        "codigo_cliente": "48848",
+                        "desc_cliente": "N RONQUI & CIA LTDA"
                     },
                     {
                         "codigo_cliente": "52660",
@@ -10978,6 +10978,16 @@
                     {
                         "codigo_cliente": "54391",
                         "desc_cliente": "BITTENCOURT & ZEM LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "72984",
+                        "desc_cliente": "JOSE ARNALDO PAVIN LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72983",
+                        "desc_cliente": "MERCADO STA CRUZ LTDA"
                     }
                 ]
             },
@@ -43088,6 +43098,10 @@
                         "desc_cliente": "MAURICIO OLIVEIRA ALMEIDA"
                     },
                     {
+                        "codigo_cliente": "72964",
+                        "desc_cliente": "MAURICIO OLIVEIRA ALMEIDA"
+                    },
+                    {
                         "codigo_cliente": "65049",
                         "desc_cliente": "MAX JONIERSON LOPES DA SILVA 01867622084"
                     },
@@ -52658,6 +52672,10 @@
                         "desc_cliente": "MERCADO DO MINGA LTDA"
                     },
                     {
+                        "codigo_cliente": "72981",
+                        "desc_cliente": "MERCADO ENCANTADA LTDA"
+                    },
+                    {
                         "codigo_cliente": "19922",
                         "desc_cliente": "MERCADO FOLSTER & LIMAS LTDA"
                     },
@@ -52934,12 +52952,6 @@
                     {
                         "codigo_cliente": "40022",
                         "desc_cliente": "SUPERMERCADO BIFFAO LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "72981",
-                        "desc_cliente": "MERCADO ENCANTADA LTDA"
                     }
                 ]
             },
@@ -79858,6 +79870,10 @@
                         "desc_cliente": "QUALITHY SACOLAO E MERCEARIA LTDA"
                     },
                     {
+                        "codigo_cliente": "72975",
+                        "desc_cliente": "RJ 2 FRIOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "61759",
                         "desc_cliente": "RJ FRIOS LTDA"
                     },
@@ -79896,12 +79912,6 @@
                     {
                         "codigo_cliente": "61549",
                         "desc_cliente": "VPS COMERCIAL DE ALIMENTOS LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "72975",
-                        "desc_cliente": "RJ 2 FRIOS LTDA"
                     }
                 ]
             },

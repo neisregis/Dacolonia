@@ -8808,6 +8808,10 @@
                         "desc_cliente": "FONSECA E RIGO LTDA "
                     },
                     {
+                        "codigo_cliente": "46971",
+                        "desc_cliente": "GARCIA E LIRA SUPERMERCADO LTDA"
+                    },
+                    {
                         "codigo_cliente": "45447",
                         "desc_cliente": "GIULIANO RICARDO RODRIGUES COMERCIO DE MERCADORIAS ME"
                     },
@@ -38695,6 +38699,12 @@
                         "codigo_cliente": "53100",
                         "desc_cliente": "MERCEARIA SUPER REDE DE VILA NOVA LTDA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "72987",
+                        "desc_cliente": "GUEREIRO E LISBOA COM COM DE PRODUTOS ALMETICIOS LTDA"
+                    }
                 ]
             },
             "653": {
@@ -43892,6 +43902,12 @@
                     {
                         "codigo_cliente": "54270",
                         "desc_cliente": "OMOTE & CIA LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "72986",
+                        "desc_cliente": "SUPERMERCADO LUIZETTI"
                     }
                 ]
             },

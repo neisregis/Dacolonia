@@ -79476,10 +79476,6 @@
                         "desc_cliente": "GD DISTRIBUICAO DE ALIMENTOS LTDA"
                     },
                     {
-                        "codigo_cliente": "6599",
-                        "desc_cliente": "GOIAS FORTE ATACADISTA LTDA"
-                    },
-                    {
                         "codigo_cliente": "62514",
                         "desc_cliente": "HIPER BOX SUPERMERCADO LTDA"
                     },
@@ -79514,10 +79510,6 @@
                     {
                         "codigo_cliente": "66217",
                         "desc_cliente": "ML - DISTRIBUIDORA DE DOCES E ARTIGOS PARA FESTAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71700",
-                        "desc_cliente": "MMA COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "66775",
@@ -80506,6 +80498,18 @@
                     {
                         "codigo_cliente": "55223",
                         "desc_cliente": "TOTAL DISTRIBUIDORA LTDA"
+                    }
+                ]
+            },
+            "1095": {
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "6599",
+                        "desc_cliente": "GOIAS FORTE ATACADISTA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71700",
+                        "desc_cliente": "MMA COMERCIO DE ALIMENTOS LTDA"
                     }
                 ]
             }

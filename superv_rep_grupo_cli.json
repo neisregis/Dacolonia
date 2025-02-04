@@ -7448,6 +7448,10 @@
                 ],
                 "823 - KATAYAMA": [
                     {
+                        "codigo_cliente": "10965",
+                        "desc_cliente": "MERCADO KATAYAMA EIRELI"
+                    },
+                    {
                         "codigo_cliente": "20996",
                         "desc_cliente": "MERCADO KATAYAMA EIRELI"
                     }
@@ -32994,6 +32998,12 @@
                     {
                         "codigo_cliente": "48456",
                         "desc_cliente": "MJE COM. VAREJISTA E ATACADISTA DE EMBALAGENS E DOCES LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "72985",
+                        "desc_cliente": "DAIANE COUTO PACHECO  LTDA"
                     }
                 ]
             },

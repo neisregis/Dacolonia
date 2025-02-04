@@ -36202,6 +36202,12 @@
                         "desc_cliente": "JOYMARKET RECREIO LTDA"
                     }
                 ],
+                "1401 - FRUITWAY": [
+                    {
+                        "codigo_cliente": "58016",
+                        "desc_cliente": "FRUITWAY HORTIFRUTI LTDA"
+                    }
+                ],
                 "1 - GERAL": [
                     {
                         "codigo_cliente": "64929",
@@ -36318,10 +36324,6 @@
                     {
                         "codigo_cliente": "54140",
                         "desc_cliente": "FLA RESTAURANTE 1 LTDA"
-                    },
-                    {
-                        "codigo_cliente": "58016",
-                        "desc_cliente": "FRUITWAY HORTIFRUTI LTDA"
                     },
                     {
                         "codigo_cliente": "63630",
@@ -38294,6 +38296,12 @@
                         "desc_cliente": "MERCADOS BOM PRECO & NEW MAR LTDA"
                     }
                 ],
+                "1401 - FRUITWAY": [
+                    {
+                        "codigo_cliente": "54551",
+                        "desc_cliente": "FRUITWAY HORTIFRUTI LTDA"
+                    }
+                ],
                 "1 - GERAL": [
                     {
                         "codigo_cliente": "63471",
@@ -38366,10 +38374,6 @@
                     {
                         "codigo_cliente": "38341",
                         "desc_cliente": "F P CORDEIRO ACOUGUE LTDA"
-                    },
-                    {
-                        "codigo_cliente": "54551",
-                        "desc_cliente": "FRUITWAY HORTIFRUTI LTDA"
                     },
                     {
                         "codigo_cliente": "63219",
@@ -53878,6 +53882,12 @@
                     {
                         "codigo_cliente": "67633",
                         "desc_cliente": "J DE M FREITAS LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "72982",
+                        "desc_cliente": "URUGUAI ALFAJORES LTDA"
                     }
                 ]
             },

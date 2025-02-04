@@ -22918,6 +22918,10 @@
                         "desc_cliente": "MINIMERCADO TRAJANO EIRELI "
                     },
                     {
+                        "codigo_cliente": "72956",
+                        "desc_cliente": "MP LEMES"
+                    },
+                    {
                         "codigo_cliente": "61997",
                         "desc_cliente": "ONIVALDO PEDRO DA SILVA"
                     },
@@ -79340,6 +79344,10 @@
                     {
                         "codigo_cliente": "65167",
                         "desc_cliente": "BRASILIA COMERCIO E REPRESENTACOES DE BEBIDAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "39694",
+                        "desc_cliente": "DGIOVANA SANATANA ROMAM ROS ME"
                     },
                     {
                         "codigo_cliente": "54597",

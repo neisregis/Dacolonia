@@ -52931,6 +52931,12 @@
                         "codigo_cliente": "40022",
                         "desc_cliente": "SUPERMERCADO BIFFAO LTDA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "72981",
+                        "desc_cliente": "MERCADO ENCANTADA LTDA"
+                    }
                 ]
             },
             "678": {
@@ -66968,6 +66974,10 @@
                         "desc_cliente": "FRANCESCA BRUTTOMESSO DE PAOLI"
                     },
                     {
+                        "codigo_cliente": "44154",
+                        "desc_cliente": "FRANCIELE BUECKMANN"
+                    },
+                    {
                         "codigo_cliente": "64385",
                         "desc_cliente": "FRANCIELE CARPES"
                     },
@@ -67758,6 +67768,10 @@
                     {
                         "codigo_cliente": "66507",
                         "desc_cliente": "ISADORA FURLANETTO"
+                    },
+                    {
+                        "codigo_cliente": "72980",
+                        "desc_cliente": "ISADORA KNECHT COLLETT"
                     },
                     {
                         "codigo_cliente": "66604",
@@ -79872,6 +79886,12 @@
                     {
                         "codigo_cliente": "61549",
                         "desc_cliente": "VPS COMERCIAL DE ALIMENTOS LTDA"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "72975",
+                        "desc_cliente": "RJ 2 FRIOS LTDA"
                     }
                 ]
             },

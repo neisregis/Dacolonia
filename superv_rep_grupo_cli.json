@@ -7450,6 +7450,12 @@
                         "desc_cliente": "S.R. MARTINS LIMA COM. DE ALIM. E UTILIDADES DOMESTICAS LTDA"
                     }
                 ],
+                "823 - KATAYAMA": [
+                    {
+                        "codigo_cliente": "20996",
+                        "desc_cliente": "MERCADO KATAYAMA EIRELI"
+                    }
+                ],
                 "998 - SUPER NIPPON": [
                     {
                         "codigo_cliente": "55551",
@@ -8328,12 +8334,6 @@
                     {
                         "codigo_cliente": "22168",
                         "desc_cliente": "ZACARIAS & SANTOS LTDA"
-                    }
-                ],
-                "823 - KATAYAMA": [
-                    {
-                        "codigo_cliente": "20996",
-                        "desc_cliente": "MERCADO KATAYAMA EIRELI"
                     }
                 ]
             },
@@ -54369,6 +54369,12 @@
                         "codigo_cliente": "49127",
                         "desc_cliente": "CARLOS EDUARDO FERNANDES DA SILVA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "72978",
+                        "desc_cliente": "JOAO PEDRO MARTINS"
+                    }
                 ]
             },
             "744": {
@@ -62960,6 +62966,10 @@
                         "desc_cliente": "CLEBER LOPES"
                     },
                     {
+                        "codigo_cliente": "72976",
+                        "desc_cliente": "CLEITON BARRETO"
+                    },
+                    {
                         "codigo_cliente": "71293",
                         "desc_cliente": "CLEITON DO AMARAL SILVA"
                     },
@@ -63502,6 +63512,10 @@
                     {
                         "codigo_cliente": "71233",
                         "desc_cliente": "SIMONE REIS"
+                    },
+                    {
+                        "codigo_cliente": "72979",
+                        "desc_cliente": "SOLIMAR MARTINS DA SILVA"
                     },
                     {
                         "codigo_cliente": "71307",
@@ -70200,6 +70214,10 @@
                     {
                         "codigo_cliente": "71525",
                         "desc_cliente": "MARLI INES STEFFENS"
+                    },
+                    {
+                        "codigo_cliente": "72977",
+                        "desc_cliente": "MARLITON S SOUZA"
                     },
                     {
                         "codigo_cliente": "71271",
@@ -76979,7 +76997,7 @@
     },
     "1173": {
         "representantes": {
-            "1037": {
+            "1221": {
                 "110 - SUP QUADRI": [
                     {
                         "codigo_cliente": "29090",

@@ -1454,6 +1454,44 @@
                         "desc_cliente": "VAREJAO PLANALTO LTDA"
                     }
                 ],
+                "71 - SENDAS": [
+                    {
+                        "codigo_cliente": "33330",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A"
+                    },
+                    {
+                        "codigo_cliente": "43050",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A"
+                    },
+                    {
+                        "codigo_cliente": "44793",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A"
+                    },
+                    {
+                        "codigo_cliente": "47653",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A"
+                    },
+                    {
+                        "codigo_cliente": "48708",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A"
+                    },
+                    {
+                        "codigo_cliente": "52214",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A"
+                    },
+                    {
+                        "codigo_cliente": "52216",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A"
+                    },
+                    {
+                        "codigo_cliente": "65599",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A"
+                    },
+                    {
+                        "codigo_cliente": "32181",
+                        "desc_cliente": "SENDAS DISTRIBUIDORA S/A lj 158"
+                    }
+                ],
                 "723 - SÓ FESTA": [
                     {
                         "codigo_cliente": "44274",
@@ -63552,6 +63590,10 @@
                     {
                         "codigo_cliente": "71074",
                         "desc_cliente": "RANIERI ROSA"
+                    },
+                    {
+                        "codigo_cliente": "73006",
+                        "desc_cliente": "RENAN DA ROSA FONSECA"
                     },
                     {
                         "codigo_cliente": "71296",

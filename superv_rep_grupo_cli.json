@@ -63194,6 +63194,10 @@
                         "desc_cliente": "FABIANA TERESINHA NUNES DA ROSA"
                     },
                     {
+                        "codigo_cliente": "73003",
+                        "desc_cliente": "FABIANA VARGAS"
+                    },
+                    {
                         "codigo_cliente": "71381",
                         "desc_cliente": "FELIPE AUGUSTO PIRES AMARAL"
                     },
@@ -63496,6 +63500,10 @@
                     {
                         "codigo_cliente": "71309",
                         "desc_cliente": "NIKAELA FIORAVANTE"
+                    },
+                    {
+                        "codigo_cliente": "73002",
+                        "desc_cliente": "PAOLA DE CASTRO RODRIGUES"
                     },
                     {
                         "codigo_cliente": "71317",

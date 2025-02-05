@@ -39428,6 +39428,10 @@
                         "desc_cliente": "INES BERGMANN DE OLIVEIRA - FLORICULTURA"
                     },
                     {
+                        "codigo_cliente": "34743",
+                        "desc_cliente": "IRMAOS SCHUSTER LTDA"
+                    },
+                    {
                         "codigo_cliente": "23277",
                         "desc_cliente": "JORGE P HELFER"
                     },
@@ -62968,6 +62972,10 @@
                     {
                         "codigo_cliente": "71378",
                         "desc_cliente": "ANA LUISA MARTINELLI"
+                    },
+                    {
+                        "codigo_cliente": "73004",
+                        "desc_cliente": "ANA PAULA KUERTEN"
                     },
                     {
                         "codigo_cliente": "71706",

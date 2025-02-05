@@ -54080,6 +54080,10 @@
                         "desc_cliente": "EXPRESSO LEOMAR LTDA EM RECUPERACAO JUDICIAL"
                     },
                     {
+                        "codigo_cliente": "27598",
+                        "desc_cliente": "EXPRESSO SAO MIGUEL LTDA"
+                    },
+                    {
                         "codigo_cliente": "37318",
                         "desc_cliente": "EXPRESSO SAO MIGUEL LTDA"
                     },
@@ -65258,6 +65262,10 @@
                         "desc_cliente": "CAROLINE NELCI MARCELINO DE ANDRADE"
                     },
                     {
+                        "codigo_cliente": "72995",
+                        "desc_cliente": "CAROLINE SAUTHIER DUPONT"
+                    },
+                    {
                         "codigo_cliente": "67334",
                         "desc_cliente": "CAROLINE SILVA SOUZA"
                     },
@@ -75797,7 +75805,7 @@
                     },
                     {
                         "codigo_cliente": "11364",
-                        "desc_cliente": "IRMAOS BRESCIANI & CIA LTDA"
+                        "desc_cliente": "IRMAOS BRESCIANI & CIA LTDA ME"
                     },
                     {
                         "codigo_cliente": "20336",
@@ -81800,6 +81808,18 @@
                     {
                         "codigo_cliente": "66789",
                         "desc_cliente": "SUMMIT3S ALLIANCE AND DISTRIBUTION LLC"
+                    }
+                ]
+            }
+        }
+    },
+    "null": {
+        "representantes": {
+            "null": {
+                "null": [
+                    {
+                        "codigo_cliente": null,
+                        "desc_cliente": null
                     }
                 ]
             }

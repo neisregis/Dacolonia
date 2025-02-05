@@ -1800,6 +1800,10 @@
                     {
                         "codigo_cliente": "34709",
                         "desc_cliente": "SUPERMERCADO NBC LTDA"
+                    },
+                    {
+                        "codigo_cliente": "23584",
+                        "desc_cliente": "SUPERMERCADO SOUSA & SILVA LTDA"
                     }
                 ]
             }
@@ -32712,6 +32716,10 @@
                         "desc_cliente": "CR SANTOS COM DE BEBIDAS LTDA"
                     },
                     {
+                        "codigo_cliente": "72985",
+                        "desc_cliente": "DAIANE COUTO PACHECO  LTDA"
+                    },
+                    {
                         "codigo_cliente": "40286",
                         "desc_cliente": "DANRLEI STEUERNAGEL LTDA"
                     },
@@ -63134,6 +63142,10 @@
                         "desc_cliente": "EDNALDO DOS SANTOS AZEVEDO"
                     },
                     {
+                        "codigo_cliente": "73001",
+                        "desc_cliente": "EDSON CASSER"
+                    },
+                    {
                         "codigo_cliente": "72776",
                         "desc_cliente": "EDSON LEIRIAS"
                     },
@@ -63272,6 +63284,10 @@
                     {
                         "codigo_cliente": "71261",
                         "desc_cliente": "JAIR BORSSATO"
+                    },
+                    {
+                        "codigo_cliente": "73000",
+                        "desc_cliente": "JEVERSON RODRIGUES"
                     },
                     {
                         "codigo_cliente": "71643",

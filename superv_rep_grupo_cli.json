@@ -81812,17 +81812,5 @@
                 ]
             }
         }
-    },
-    "null": {
-        "representantes": {
-            "null": {
-                "null": [
-                    {
-                        "codigo_cliente": null,
-                        "desc_cliente": null
-                    }
-                ]
-            }
-        }
     }
 }

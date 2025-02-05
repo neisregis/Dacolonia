@@ -13800,6 +13800,10 @@
                         "desc_cliente": "LCK MERCEARIA LTDA"
                     },
                     {
+                        "codigo_cliente": "72989",
+                        "desc_cliente": "MAXSUL DISTRIBUIDORA DE COMBUSTIVEIS LTDA"
+                    },
+                    {
                         "codigo_cliente": "44460",
                         "desc_cliente": "MERCADO E ACOUGUE AMIGAO LTDA"
                     },
@@ -13976,12 +13980,6 @@
                     {
                         "codigo_cliente": "52867",
                         "desc_cliente": "COOPERATIVA AGROPECUARIA SAO LOURENCO - CASLO"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "72989",
-                        "desc_cliente": "MAXSUL DISTRIBUIDORA DE COMBUSTIVEIS LTDA"
                     }
                 ]
             },
@@ -32712,10 +32710,6 @@
                     {
                         "codigo_cliente": "58855",
                         "desc_cliente": "CR SANTOS COM DE BEBIDAS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72985",
-                        "desc_cliente": "DAIANE COUTO PACHECO  LTDA"
                     },
                     {
                         "codigo_cliente": "40286",
@@ -52322,6 +52316,10 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "72958",
+                        "desc_cliente": "36.671.643 ROSEMERI MARIA ROCHA"
+                    },
+                    {
                         "codigo_cliente": "61351",
                         "desc_cliente": "47.137.403 GISLAINE PIBER ALVARES"
                     },
@@ -62974,6 +62972,10 @@
                     {
                         "codigo_cliente": "71642",
                         "desc_cliente": "ANDRE LUIS VOLKMANN"
+                    },
+                    {
+                        "codigo_cliente": "72999",
+                        "desc_cliente": "ANDRESSA MENDONÇA"
                     },
                     {
                         "codigo_cliente": "71294",

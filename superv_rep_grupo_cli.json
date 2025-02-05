@@ -10678,6 +10678,10 @@
                         "desc_cliente": "JOEL DO ROCIO JOSE BOMFIM COMERCIO LTDA"
                     },
                     {
+                        "codigo_cliente": "72984",
+                        "desc_cliente": "JOSE ARNALDO PAVIN"
+                    },
+                    {
                         "codigo_cliente": "54830",
                         "desc_cliente": "K.A. COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
                     },
@@ -10732,6 +10736,10 @@
                     {
                         "codigo_cliente": "72765",
                         "desc_cliente": "MERCADO COMPRE CERTO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72983",
+                        "desc_cliente": "MERCADO SANTA CRUZ LTDA"
                     },
                     {
                         "codigo_cliente": "54528",
@@ -10986,16 +10994,6 @@
                     {
                         "codigo_cliente": "54391",
                         "desc_cliente": "BITTENCOURT & ZEM LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "72984",
-                        "desc_cliente": "JOSE ARNALDO PAVIN LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72983",
-                        "desc_cliente": "MERCADO STA CRUZ LTDA"
                     }
                 ]
             },
@@ -32716,6 +32714,10 @@
                         "desc_cliente": "CR SANTOS COM DE BEBIDAS LTDA"
                     },
                     {
+                        "codigo_cliente": "72985",
+                        "desc_cliente": "DAIANE COUTO PACHECO  LTDA"
+                    },
+                    {
                         "codigo_cliente": "40286",
                         "desc_cliente": "DANRLEI STEUERNAGEL LTDA"
                     },
@@ -33002,12 +33004,6 @@
                     {
                         "codigo_cliente": "48456",
                         "desc_cliente": "MJE COM. VAREJISTA E ATACADISTA DE EMBALAGENS E DOCES LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "72985",
-                        "desc_cliente": "DAIANE COUTO PACHECO  LTDA"
                     }
                 ]
             },
@@ -38400,6 +38396,10 @@
                         "desc_cliente": "F P CORDEIRO ACOUGUE LTDA"
                     },
                     {
+                        "codigo_cliente": "72987",
+                        "desc_cliente": "GUEREIRO E LISBOA COM COM DE PRODUTOS ALMETICIOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "63219",
                         "desc_cliente": "HORTI PRIME BRASIL LTDA."
                     },
@@ -38698,12 +38698,6 @@
                     {
                         "codigo_cliente": "53100",
                         "desc_cliente": "MERCEARIA SUPER REDE DE VILA NOVA LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "72987",
-                        "desc_cliente": "GUEREIRO E LISBOA COM COM DE PRODUTOS ALMETICIOS LTDA"
                     }
                 ]
             },
@@ -43756,6 +43750,10 @@
                         "desc_cliente": "SUPERMERCADO IRMAOS NAGAI LTDA"
                     },
                     {
+                        "codigo_cliente": "72986",
+                        "desc_cliente": "SUPERMERCADO LUIZETI LTDA"
+                    },
+                    {
                         "codigo_cliente": "61173",
                         "desc_cliente": "SUPERMERCADO MACHADO COMERCIO DE GENEROS ALIMENTICIOS LTDA"
                     },
@@ -43902,12 +43900,6 @@
                     {
                         "codigo_cliente": "54270",
                         "desc_cliente": "OMOTE & CIA LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "72986",
-                        "desc_cliente": "SUPERMERCADO LUIZETTI"
                     }
                 ]
             },
@@ -62108,6 +62100,10 @@
                     {
                         "codigo_cliente": "51510",
                         "desc_cliente": "VANESSA SILVA DE FRAGA"
+                    },
+                    {
+                        "codigo_cliente": "72764",
+                        "desc_cliente": "VANILZA ANTUNES PRIETSCH"
                     },
                     {
                         "codigo_cliente": "63698",

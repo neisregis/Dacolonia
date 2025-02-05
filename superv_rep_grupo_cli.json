@@ -2384,18 +2384,6 @@
                         "desc_cliente": "OLIVEIRA SUPERMERCADO LTDA"
                     },
                     {
-                        "codigo_cliente": "72923",
-                        "desc_cliente": "OLIVEIRA SUPERMERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72924",
-                        "desc_cliente": "OLIVEIRA SUPERMERCADO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72917",
-                        "desc_cliente": "OLIVEIRA SUPERMERCADOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "72918",
                         "desc_cliente": "OLIVEIRA SUPERMERCADOS LTDA"
                     },
@@ -11938,10 +11926,6 @@
                         "desc_cliente": "CWB COMERCIO DE ARMARINHOS EIRELI"
                     },
                     {
-                        "codigo_cliente": "72916",
-                        "desc_cliente": "CWB COMERCIO DE ARMARINHOS LTDA"
-                    },
-                    {
                         "codigo_cliente": "37392",
                         "desc_cliente": "DANIELE CECHET - FRANGO & FRIOS"
                     },
@@ -13976,6 +13960,12 @@
                     {
                         "codigo_cliente": "52867",
                         "desc_cliente": "COOPERATIVA AGROPECUARIA SAO LOURENCO - CASLO"
+                    }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "72989",
+                        "desc_cliente": "MAXSUL DISTRIBUIDORA DE COMBUSTIVEIS LTDA"
                     }
                 ]
             },
@@ -30259,216 +30249,6 @@
                     }
                 ]
             },
-            "762": {
-                "10 - CARREFOUR": [
-                    {
-                        "codigo_cliente": "27153",
-                        "desc_cliente": "CARREFOUR COMERCIO E INDUSTRIA LTDA"
-                    }
-                ],
-                "31 - MASTER ATS": [
-                    {
-                        "codigo_cliente": "27520",
-                        "desc_cliente": "MASTER ATS SUPERMERCADOS LTDA"
-                    }
-                ],
-                "3 - CIA.ZAFFARI": [
-                    {
-                        "codigo_cliente": "19468",
-                        "desc_cliente": "COMPANHIA ZAFFARI COMERCIO E INDUSTRIA"
-                    },
-                    {
-                        "codigo_cliente": "27997",
-                        "desc_cliente": "COMPANHIA ZAFFARI COMERCIO E INDUSTRIA"
-                    },
-                    {
-                        "codigo_cliente": "29694",
-                        "desc_cliente": "COMPANHIA ZAFFARI COMERCIO E INDUSTRIA"
-                    }
-                ],
-                "69 - SONDA": [
-                    {
-                        "codigo_cliente": "21459",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "1188",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "1189",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "1190",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "1191",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "1972",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "1973",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "21304",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "21305",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "21458",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "21460",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "21808",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "21983",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "21984",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "23222",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "23223",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "23306",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "2411",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "26975",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "27533",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "28435",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "28778",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "28944",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "29059",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "29061",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "29209",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "29895",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "30434",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "32638",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "33954",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "33993",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "33996",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "33997",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "34139",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "34441",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "34442",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "34443",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "34444",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "35142",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "35943",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "57856",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "7089",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "7379",
-                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "21457",
-                        "desc_cliente": "SONDA SUP. EXP. E IMPORTACAO S.A."
-                    },
-                    {
-                        "codigo_cliente": "21307",
-                        "desc_cliente": "SONDA SUP.EXPORT.E IMPORTACAO LTDA-FL 23"
-                    }
-                ]
-            },
             "1016": {
                 "1206 - UNISUPER UNIAO": [
                     {
@@ -30834,6 +30614,210 @@
                     {
                         "codigo_cliente": "69445",
                         "desc_cliente": "MIXTER ATACADO E VAREJO DE GENEROS ALIMENTICIOS LTDA"
+                    }
+                ]
+            },
+            "762": {
+                "31 - MASTER ATS": [
+                    {
+                        "codigo_cliente": "27520",
+                        "desc_cliente": "MASTER ATS SUPERMERCADOS LTDA"
+                    }
+                ],
+                "3 - CIA.ZAFFARI": [
+                    {
+                        "codigo_cliente": "19468",
+                        "desc_cliente": "COMPANHIA ZAFFARI COMERCIO E INDUSTRIA"
+                    },
+                    {
+                        "codigo_cliente": "27997",
+                        "desc_cliente": "COMPANHIA ZAFFARI COMERCIO E INDUSTRIA"
+                    },
+                    {
+                        "codigo_cliente": "29694",
+                        "desc_cliente": "COMPANHIA ZAFFARI COMERCIO E INDUSTRIA"
+                    }
+                ],
+                "69 - SONDA": [
+                    {
+                        "codigo_cliente": "21459",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "1188",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "1189",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "1190",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "1191",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "1972",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "1973",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "21304",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "21305",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "21458",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "21460",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "21808",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "21983",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "21984",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "23222",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "23223",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "23306",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "2411",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "26975",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "27533",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "28435",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "28778",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "28944",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "29059",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "29061",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "29209",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "29895",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "30434",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "32638",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "33954",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "33993",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "33996",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "33997",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "34139",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "34441",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "34442",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "34443",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "34444",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "35142",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "35943",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "57856",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "7089",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "7379",
+                        "desc_cliente": "SONDA SUPERMERCADOS EXPORTACAO E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "21457",
+                        "desc_cliente": "SONDA SUP. EXP. E IMPORTACAO S.A."
+                    },
+                    {
+                        "codigo_cliente": "21307",
+                        "desc_cliente": "SONDA SUP.EXPORT.E IMPORTACAO LTDA-FL 23"
                     }
                 ]
             }
@@ -36438,10 +36422,6 @@
                         "desc_cliente": "MATTIAS MERCEARIA LTDA"
                     },
                     {
-                        "codigo_cliente": "64415",
-                        "desc_cliente": "MDB COMERCIAL LTDA"
-                    },
-                    {
                         "codigo_cliente": "21875",
                         "desc_cliente": "MERCADINHO IMPERIAL DE BENTO RIBEIRO EIRELI"
                     },
@@ -37808,14 +37788,6 @@
                     {
                         "codigo_cliente": "64085",
                         "desc_cliente": "L P MOREIRA MERCEARIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "64087",
-                        "desc_cliente": "L P MOREIRA MERCEARIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "67170",
-                        "desc_cliente": "L P MOREIRA MERCEARIA LTDA"
                     }
                 ],
                 "1259 - LISAMAR - RJ": [
@@ -38076,16 +38048,8 @@
                         "desc_cliente": "MERCADO SERRA MAR DE BARRA GRANDE LTDA"
                     },
                     {
-                        "codigo_cliente": "72906",
-                        "desc_cliente": "MERCEARIA P.M DIAS LTDA"
-                    },
-                    {
                         "codigo_cliente": "59645",
                         "desc_cliente": "MINIMERCADO PAG LEV DE ITAGUAI LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72907",
-                        "desc_cliente": "MINIMERCADOS P.M DIAS LTDA"
                     },
                     {
                         "codigo_cliente": "49163",
@@ -38142,10 +38106,6 @@
                     {
                         "codigo_cliente": "71844",
                         "desc_cliente": "R A G ATACAREJO LTDA"
-                    },
-                    {
-                        "codigo_cliente": "26445",
-                        "desc_cliente": "RODOSNACK ITATIAIA LANCHONETE E RESTAURANTE LTDA"
                     },
                     {
                         "codigo_cliente": "52173",
@@ -38524,10 +38484,6 @@
                         "desc_cliente": "TORRES DISTRIBUIDORA DE ALIMENTOS LATICINIOS E BEBIDAS LTDA"
                     },
                     {
-                        "codigo_cliente": "72920",
-                        "desc_cliente": "VIDA SUPERMERCADOS D LTDA"
-                    },
-                    {
                         "codigo_cliente": "68149",
                         "desc_cliente": "VIEIRAS CEREAIS E MERCEARIA 2020 LTDA"
                     }
@@ -38890,10 +38846,6 @@
                     {
                         "codigo_cliente": "25833",
                         "desc_cliente": "COMERCIAL R D DE PRODUTOS ALIMENTICIOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72884",
-                        "desc_cliente": "DOCE E SONHO COMERCIAL LTDA"
                     },
                     {
                         "codigo_cliente": "27674",
@@ -50950,10 +50902,6 @@
                         "desc_cliente": "DMA DISTRIBUIDORA S/A"
                     },
                     {
-                        "codigo_cliente": "68139",
-                        "desc_cliente": "DMA DISTRIBUIDORA S/A"
-                    },
-                    {
                         "codigo_cliente": "71035",
                         "desc_cliente": "DMA DISTRIBUIDORA S/A"
                     }
@@ -51235,10 +51183,6 @@
                     }
                 ],
                 "997 - SUPER SÃO LUCAS": [
-                    {
-                        "codigo_cliente": "54617",
-                        "desc_cliente": "SUPERMERCADO SAO LUCAS LTDA"
-                    },
                     {
                         "codigo_cliente": "54618",
                         "desc_cliente": "SUPERMERCADO SAO LUCAS LTDA"
@@ -56120,6 +56064,10 @@
                     {
                         "codigo_cliente": "55486",
                         "desc_cliente": "DAVI SILVA DE OLIVEIRA "
+                    },
+                    {
+                        "codigo_cliente": "51693",
+                        "desc_cliente": "DEBORA ALMEIDA DA COSTA"
                     },
                     {
                         "codigo_cliente": "69492",

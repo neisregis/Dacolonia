@@ -2384,6 +2384,18 @@
                         "desc_cliente": "OLIVEIRA SUPERMERCADO LTDA"
                     },
                     {
+                        "codigo_cliente": "72923",
+                        "desc_cliente": "OLIVEIRA SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72924",
+                        "desc_cliente": "OLIVEIRA SUPERMERCADO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72917",
+                        "desc_cliente": "OLIVEIRA SUPERMERCADOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "72918",
                         "desc_cliente": "OLIVEIRA SUPERMERCADOS LTDA"
                     },
@@ -11924,6 +11936,10 @@
                     {
                         "codigo_cliente": "33102",
                         "desc_cliente": "CWB COMERCIO DE ARMARINHOS EIRELI"
+                    },
+                    {
+                        "codigo_cliente": "72916",
+                        "desc_cliente": "CWB COMERCIO DE ARMARINHOS LTDA"
                     },
                     {
                         "codigo_cliente": "37392",
@@ -36422,6 +36438,10 @@
                         "desc_cliente": "MATTIAS MERCEARIA LTDA"
                     },
                     {
+                        "codigo_cliente": "64415",
+                        "desc_cliente": "MDB COMERCIAL LTDA"
+                    },
+                    {
                         "codigo_cliente": "21875",
                         "desc_cliente": "MERCADINHO IMPERIAL DE BENTO RIBEIRO EIRELI"
                     },
@@ -37788,6 +37808,14 @@
                     {
                         "codigo_cliente": "64085",
                         "desc_cliente": "L P MOREIRA MERCEARIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "64087",
+                        "desc_cliente": "L P MOREIRA MERCEARIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "67170",
+                        "desc_cliente": "L P MOREIRA MERCEARIA LTDA"
                     }
                 ],
                 "1259 - LISAMAR - RJ": [
@@ -38048,8 +38076,16 @@
                         "desc_cliente": "MERCADO SERRA MAR DE BARRA GRANDE LTDA"
                     },
                     {
+                        "codigo_cliente": "72906",
+                        "desc_cliente": "MERCEARIA P.M DIAS LTDA"
+                    },
+                    {
                         "codigo_cliente": "59645",
                         "desc_cliente": "MINIMERCADO PAG LEV DE ITAGUAI LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72907",
+                        "desc_cliente": "MINIMERCADOS P.M DIAS LTDA"
                     },
                     {
                         "codigo_cliente": "49163",
@@ -38106,6 +38142,10 @@
                     {
                         "codigo_cliente": "71844",
                         "desc_cliente": "R A G ATACAREJO LTDA"
+                    },
+                    {
+                        "codigo_cliente": "26445",
+                        "desc_cliente": "RODOSNACK ITATIAIA LANCHONETE E RESTAURANTE LTDA"
                     },
                     {
                         "codigo_cliente": "52173",
@@ -38484,6 +38524,10 @@
                         "desc_cliente": "TORRES DISTRIBUIDORA DE ALIMENTOS LATICINIOS E BEBIDAS LTDA"
                     },
                     {
+                        "codigo_cliente": "72920",
+                        "desc_cliente": "VIDA SUPERMERCADOS D LTDA"
+                    },
+                    {
                         "codigo_cliente": "68149",
                         "desc_cliente": "VIEIRAS CEREAIS E MERCEARIA 2020 LTDA"
                     }
@@ -38846,6 +38890,10 @@
                     {
                         "codigo_cliente": "25833",
                         "desc_cliente": "COMERCIAL R D DE PRODUTOS ALIMENTICIOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "72884",
+                        "desc_cliente": "DOCE E SONHO COMERCIAL LTDA"
                     },
                     {
                         "codigo_cliente": "27674",
@@ -50902,6 +50950,10 @@
                         "desc_cliente": "DMA DISTRIBUIDORA S/A"
                     },
                     {
+                        "codigo_cliente": "68139",
+                        "desc_cliente": "DMA DISTRIBUIDORA S/A"
+                    },
+                    {
                         "codigo_cliente": "71035",
                         "desc_cliente": "DMA DISTRIBUIDORA S/A"
                     }
@@ -51183,6 +51235,10 @@
                     }
                 ],
                 "997 - SUPER SÃO LUCAS": [
+                    {
+                        "codigo_cliente": "54617",
+                        "desc_cliente": "SUPERMERCADO SAO LUCAS LTDA"
+                    },
                     {
                         "codigo_cliente": "54618",
                         "desc_cliente": "SUPERMERCADO SAO LUCAS LTDA"
@@ -57966,6 +58022,10 @@
                         "desc_cliente": "JEFFERSON AUGUSTO LEMOS GONCALVES "
                     },
                     {
+                        "codigo_cliente": "53996",
+                        "desc_cliente": "JEFFERSON FRIEBEL"
+                    },
+                    {
                         "codigo_cliente": "62811",
                         "desc_cliente": "JEFFERSON SIB"
                     },
@@ -63274,6 +63334,10 @@
                     {
                         "codigo_cliente": "71704",
                         "desc_cliente": "LUCAS RODRIGUES VIANA "
+                    },
+                    {
+                        "codigo_cliente": "72993",
+                        "desc_cliente": "LUCAS VELOSO"
                     },
                     {
                         "codigo_cliente": "71031",

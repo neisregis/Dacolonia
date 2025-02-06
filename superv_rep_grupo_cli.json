@@ -49048,6 +49048,10 @@
                         "desc_cliente": "STEFANELLO & PELLEGRIN LTDA"
                     },
                     {
+                        "codigo_cliente": "73012",
+                        "desc_cliente": "SUPERMERCADO AVENIDA PLANALTO LTDA"
+                    },
+                    {
                         "codigo_cliente": "7489",
                         "desc_cliente": "SUPERMERCADO BALDIN LTDA"
                     },
@@ -49230,12 +49234,6 @@
                     {
                         "codigo_cliente": "33972",
                         "desc_cliente": "TIAGO DA ROSA VASCONCELOS -ME(OPT)"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "73012",
-                        "desc_cliente": "SUPERMERCADO AVENIDA PLANALTO LTDA"
                     }
                 ]
             },
@@ -63208,6 +63206,10 @@
                     {
                         "codigo_cliente": "71166",
                         "desc_cliente": "DIOGO PEREIRA"
+                    },
+                    {
+                        "codigo_cliente": "73015",
+                        "desc_cliente": "DIONE MARQUES"
                     },
                     {
                         "codigo_cliente": "71118",
@@ -79760,6 +79762,10 @@
                 ],
                 "1 - GERAL": [
                     {
+                        "codigo_cliente": "72915",
+                        "desc_cliente": "54.811.571 DANIELA DE SOUZA RIBEIRO"
+                    },
+                    {
                         "codigo_cliente": "68717",
                         "desc_cliente": "ALVORADA COMERCIAL DE ALIMENTOS LTDA"
                     },
@@ -80084,6 +80090,10 @@
                         "desc_cliente": "QUALITHY SACOLAO E MERCEARIA LTDA"
                     },
                     {
+                        "codigo_cliente": "72975",
+                        "desc_cliente": "RJ 2 FRIOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "61759",
                         "desc_cliente": "RJ FRIOS LTDA"
                     },
@@ -80098,6 +80108,10 @@
                     {
                         "codigo_cliente": "62002",
                         "desc_cliente": "SAUDE TOTAL COMERCIO DE MEDICAMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "61345",
+                        "desc_cliente": "S F DA SILVA DISTRIBUIDORA"
                     },
                     {
                         "codigo_cliente": "63982",

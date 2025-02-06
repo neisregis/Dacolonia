@@ -12981,6 +12981,12 @@
                         "codigo_cliente": "590",
                         "desc_cliente": "SUPERMERCADO ZABOT LTDA"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "73007",
+                        "desc_cliente": "GUIZINHO ACAI E PIZZA"
+                    }
                 ]
             },
             "925": {

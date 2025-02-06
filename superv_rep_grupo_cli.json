@@ -24828,6 +24828,10 @@
                         "desc_cliente": "B V COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
                     },
                     {
+                        "codigo_cliente": "47192",
+                        "desc_cliente": "F G COMERCIO DE SECOS E MOLHADOS LTDA EPP"
+                    },
+                    {
                         "codigo_cliente": "47191",
                         "desc_cliente": "G F COMERCIO DE SECOS E MOLHADOS EIRELI"
                     },
@@ -79756,10 +79760,6 @@
                 ],
                 "1 - GERAL": [
                     {
-                        "codigo_cliente": "72915",
-                        "desc_cliente": "54.811.571 DANIELA DE SOUZA RIBEIRO"
-                    },
-                    {
                         "codigo_cliente": "68717",
                         "desc_cliente": "ALVORADA COMERCIAL DE ALIMENTOS LTDA"
                     },
@@ -80098,10 +80098,6 @@
                     {
                         "codigo_cliente": "62002",
                         "desc_cliente": "SAUDE TOTAL COMERCIO DE MEDICAMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "61345",
-                        "desc_cliente": "S F DA SILVA DISTRIBUIDORA"
                     },
                     {
                         "codigo_cliente": "63982",

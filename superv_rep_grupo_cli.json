@@ -12678,6 +12678,10 @@
                         "desc_cliente": "GR SUPERMERCADO LTDA"
                     },
                     {
+                        "codigo_cliente": "73007",
+                        "desc_cliente": "GUIZINHO ACAI E PIZZA LTDA"
+                    },
+                    {
                         "codigo_cliente": "39233",
                         "desc_cliente": "HIGOR DE OLIVEIRA DECHER"
                     },
@@ -12980,12 +12984,6 @@
                     {
                         "codigo_cliente": "590",
                         "desc_cliente": "SUPERMERCADO ZABOT LTDA"
-                    }
-                ],
-                "null": [
-                    {
-                        "codigo_cliente": "73007",
-                        "desc_cliente": "GUIZINHO ACAI E PIZZA"
                     }
                 ]
             },
@@ -64752,6 +64750,10 @@
                         "desc_cliente": "ANTONIO MARCOS SEGA"
                     },
                     {
+                        "codigo_cliente": "72992",
+                        "desc_cliente": "ANTONIO MOREIRA SILVA NETO"
+                    },
+                    {
                         "codigo_cliente": "72210",
                         "desc_cliente": "ANTONIO VASCONCELOS"
                     },
@@ -65308,12 +65310,20 @@
                         "desc_cliente": "CAROLINA MEDEIROS"
                     },
                     {
+                        "codigo_cliente": "58182",
+                        "desc_cliente": "CAROLINA PATROCINIO TEIXEIRA VAZ"
+                    },
+                    {
                         "codigo_cliente": "68707",
                         "desc_cliente": "CAROLINA PORTUGAL FERRADEIRA PINHEIRO"
                     },
                     {
                         "codigo_cliente": "69907",
                         "desc_cliente": "CAROLINA RAMOS CORREIA"
+                    },
+                    {
+                        "codigo_cliente": "72997",
+                        "desc_cliente": "CAROLINA ROSSI ZAIA"
                     },
                     {
                         "codigo_cliente": "72266",
@@ -66864,6 +66874,10 @@
                         "desc_cliente": "FELIPE DAPPER"
                     },
                     {
+                        "codigo_cliente": "60553",
+                        "desc_cliente": "FELIPE DE ALMEIDA SAWAF"
+                    },
+                    {
                         "codigo_cliente": "71684",
                         "desc_cliente": "FELIPE DEMETRIO"
                     },
@@ -67198,6 +67212,10 @@
                     {
                         "codigo_cliente": "71819",
                         "desc_cliente": "FRANCISCO P. K. MELO"
+                    },
+                    {
+                        "codigo_cliente": "72996",
+                        "desc_cliente": "FRANCISLENE RIBEIRO DE ALMEIDA"
                     },
                     {
                         "codigo_cliente": "71206",
@@ -69504,6 +69522,10 @@
                         "desc_cliente": "LUIZA EDUARDA CORREA DA SILVA"
                     },
                     {
+                        "codigo_cliente": "72994",
+                        "desc_cliente": "LUIZA LEAL"
+                    },
+                    {
                         "codigo_cliente": "70472",
                         "desc_cliente": "LUIZA MISSAU"
                     },
@@ -71456,6 +71478,10 @@
                         "desc_cliente": "RAQUEL RADKE KLIEMANN"
                     },
                     {
+                        "codigo_cliente": "72991",
+                        "desc_cliente": "RAUL PINHO"
+                    },
+                    {
                         "codigo_cliente": "69631",
                         "desc_cliente": "RAYANA SERRUYA"
                     },
@@ -73290,6 +73316,10 @@
                     {
                         "codigo_cliente": "48075",
                         "desc_cliente": "YOLANDA MARIA PORTO DE CARVALHO"
+                    },
+                    {
+                        "codigo_cliente": "72990",
+                        "desc_cliente": "YOSEPH YOO"
                     },
                     {
                         "codigo_cliente": "62565",

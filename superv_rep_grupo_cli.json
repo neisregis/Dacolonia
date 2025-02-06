@@ -49223,6 +49223,12 @@
                         "codigo_cliente": "33972",
                         "desc_cliente": "TIAGO DA ROSA VASCONCELOS -ME(OPT)"
                     }
+                ],
+                "null": [
+                    {
+                        "codigo_cliente": "73012",
+                        "desc_cliente": "SUPERMERCADO AVENIDA PLANALTO LTDA"
+                    }
                 ]
             },
             "619": {
@@ -57276,6 +57282,10 @@
                     {
                         "codigo_cliente": "71978",
                         "desc_cliente": "GABRIEL BIASI"
+                    },
+                    {
+                        "codigo_cliente": "55083",
+                        "desc_cliente": "GABRIEL BOGO"
                     },
                     {
                         "codigo_cliente": "67039",

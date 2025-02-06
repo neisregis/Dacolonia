@@ -5906,6 +5906,10 @@
                 ],
                 "554 - PIRES - MS": [
                     {
+                        "codigo_cliente": "22112",
+                        "desc_cliente": "BONANCA COM DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "41254",
                         "desc_cliente": "BONANCA COMERCIO DE ALIMENTOS LTDA"
                     },

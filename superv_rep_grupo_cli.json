@@ -24828,10 +24828,6 @@
                         "desc_cliente": "B V COMERCIO DE PRODUTOS ALIMENTICIOS LTDA"
                     },
                     {
-                        "codigo_cliente": "47192",
-                        "desc_cliente": "F G COMERCIO DE SECOS E MOLHADOS LTDA EPP"
-                    },
-                    {
                         "codigo_cliente": "47191",
                         "desc_cliente": "G F COMERCIO DE SECOS E MOLHADOS EIRELI"
                     },
@@ -26412,6 +26408,10 @@
             "1217": {
                 "1118 - CAIQUE SUPERMERCADOS": [
                     {
+                        "codigo_cliente": "60007",
+                        "desc_cliente": "COMERCIAL DE ALIMENTOS CAIQUE LTDA"
+                    },
+                    {
                         "codigo_cliente": "60011",
                         "desc_cliente": "COMERCIAL DE ALIMENTOS CAIQUE LTDA"
                     },
@@ -26426,6 +26426,10 @@
                     {
                         "codigo_cliente": "60009",
                         "desc_cliente": "SEMPRE BEM 2 SUPERMERCADOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "60008",
+                        "desc_cliente": "SEMPRE BEM SUPERMERCADOS LTDA"
                     }
                 ],
                 "1270 - CASA NORDESTINA - DF": [
@@ -63586,6 +63590,10 @@
                         "desc_cliente": "PATRICIA PACHECO"
                     },
                     {
+                        "codigo_cliente": "73014",
+                        "desc_cliente": "PAULO ALEXANDRE DA SILVA"
+                    },
+                    {
                         "codigo_cliente": "71646",
                         "desc_cliente": "PAULO HENRIQUE SCHNAIDER"
                     },
@@ -79629,20 +79637,12 @@
     },
     "1042": {
         "representantes": {
-            "1023": {
+            "1217": {
                 "1118 - CAIQUE SUPERMERCADOS": [
                     {
                         "codigo_cliente": "60007",
                         "desc_cliente": "COMERCIAL DE ALIMENTOS CAIQUE LTDA"
                     },
-                    {
-                        "codigo_cliente": "60008",
-                        "desc_cliente": "SEMPRE BEM SUPERMERCADOS LTDA"
-                    }
-                ]
-            },
-            "1217": {
-                "1118 - CAIQUE SUPERMERCADOS": [
                     {
                         "codigo_cliente": "60011",
                         "desc_cliente": "COMERCIAL DE ALIMENTOS CAIQUE LTDA"
@@ -79650,6 +79650,10 @@
                     {
                         "codigo_cliente": "59906",
                         "desc_cliente": "COMERCIAL DE ALIMENTOS CAIQUE LTDA EPP"
+                    },
+                    {
+                        "codigo_cliente": "60008",
+                        "desc_cliente": "SEMPRE BEM SUPERMERCADOS LTDA"
                     }
                 ],
                 "1282 - SUPERMERCADO EURO": [
@@ -79808,6 +79812,10 @@
                         "desc_cliente": "GD DISTRIBUICAO DE ALIMENTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "6599",
+                        "desc_cliente": "GOIAS FORTE ATACADISTA LTDA"
+                    },
+                    {
                         "codigo_cliente": "62514",
                         "desc_cliente": "HIPER BOX SUPERMERCADO LTDA"
                     },
@@ -79842,6 +79850,10 @@
                     {
                         "codigo_cliente": "66217",
                         "desc_cliente": "ML - DISTRIBUIDORA DE DOCES E ARTIGOS PARA FESTAS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "71700",
+                        "desc_cliente": "MMA COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
                         "codigo_cliente": "66775",
@@ -80070,10 +80082,6 @@
                     {
                         "codigo_cliente": "65312",
                         "desc_cliente": "QUALITHY SACOLAO E MERCEARIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "72975",
-                        "desc_cliente": "RJ 2 FRIOS LTDA"
                     },
                     {
                         "codigo_cliente": "61759",
@@ -80834,18 +80842,6 @@
                     {
                         "codigo_cliente": "55223",
                         "desc_cliente": "TOTAL DISTRIBUIDORA LTDA"
-                    }
-                ]
-            },
-            "1095": {
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "6599",
-                        "desc_cliente": "GOIAS FORTE ATACADISTA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "71700",
-                        "desc_cliente": "MMA COMERCIO DE ALIMENTOS LTDA"
                     }
                 ]
             }

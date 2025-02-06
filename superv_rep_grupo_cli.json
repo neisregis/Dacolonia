@@ -5922,6 +5922,14 @@
                         "desc_cliente": "BONANCA COMERCIO DE ALIMENTOS LTDA"
                     },
                     {
+                        "codigo_cliente": "47484",
+                        "desc_cliente": "BONANCA COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "73005",
+                        "desc_cliente": "BONANCA COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "27551",
                         "desc_cliente": "BONANCA COMERCIO DE ALIMENTOS LTDA - ME"
                     },
@@ -5963,6 +5971,10 @@
                     },
                     {
                         "codigo_cliente": "41260",
+                        "desc_cliente": "S. PIRES COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "52921",
                         "desc_cliente": "S. PIRES COMERCIO DE ALIMENTOS LTDA"
                     }
                 ],
@@ -63720,6 +63732,10 @@
                         "desc_cliente": "VILLIAN GEBESK"
                     },
                     {
+                        "codigo_cliente": "73008",
+                        "desc_cliente": "VINICIUS GAITKOSKI"
+                    },
+                    {
                         "codigo_cliente": "71386",
                         "desc_cliente": "VITOR ARIGONY"
                     },
@@ -63730,6 +63746,10 @@
                     {
                         "codigo_cliente": "71394",
                         "desc_cliente": "WANDER RODRIGUES"
+                    },
+                    {
+                        "codigo_cliente": "73010",
+                        "desc_cliente": "WILLIAN BARROSO"
                     }
                 ]
             },

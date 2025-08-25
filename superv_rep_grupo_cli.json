@@ -5028,6 +5028,10 @@
                         "desc_cliente": "MERCADO RIO SUL DE PEDRA DE GUARATIBA LTDA"
                     },
                     {
+                        "codigo_cliente": "46463",
+                        "desc_cliente": "SUPERMERCADOS RIO SUL DE COMENDADOR SOARES LTDA"
+                    },
+                    {
                         "codigo_cliente": "39499",
                         "desc_cliente": "SUPERMERCADOS RIO SUL DE PRIMAVERA LTDA"
                     }
@@ -7306,10 +7310,6 @@
                     {
                         "codigo_cliente": "39500",
                         "desc_cliente": "SUPERMERCADO RIO SUL JARDIM VILA NOVA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "46463",
-                        "desc_cliente": "SUPERMERCADOS RIO SUL DE COMENDADOR SOARES LTDA"
                     }
                 ],
                 "784 - VENDEDOR/REPRESENTANTE": [
@@ -13000,6 +13000,10 @@
                     {
                         "codigo_cliente": "59944",
                         "desc_cliente": "SLMF COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "78768",
+                        "desc_cliente": "SOUZA SUPERMERCADOS"
                     },
                     {
                         "codigo_cliente": "62259",
@@ -21140,6 +21144,10 @@
                     {
                         "codigo_cliente": "37863",
                         "desc_cliente": "MERCEARIA FERREIRA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "23930",
+                        "desc_cliente": "MINI MERCADO MILCHESKI LTDA"
                     },
                     {
                         "codigo_cliente": "29520",
@@ -32288,6 +32296,10 @@
                         "desc_cliente": "EVA OLIVEIRA FERREIRA"
                     },
                     {
+                        "codigo_cliente": "78773",
+                        "desc_cliente": "EVA SILVEIRA"
+                    },
+                    {
                         "codigo_cliente": "77197",
                         "desc_cliente": "EVELIN SILVEIRA PASSOS"
                     },
@@ -35436,6 +35448,10 @@
                         "desc_cliente": "LUCILELIA OLIVEIRA PINTO"
                     },
                     {
+                        "codigo_cliente": "78774",
+                        "desc_cliente": "LUCIMARA SILVEIRA DOS SANTOS"
+                    },
+                    {
                         "codigo_cliente": "56648",
                         "desc_cliente": "LUCINEIA DE VARGAS PEREIRA "
                     },
@@ -35920,6 +35936,10 @@
                         "desc_cliente": "MARCIA ROSANE MOGE"
                     },
                     {
+                        "codigo_cliente": "78776",
+                        "desc_cliente": "MARCIA SANTOS"
+                    },
+                    {
                         "codigo_cliente": "73708",
                         "desc_cliente": "MARCIA VALLIN CANDIAGO"
                     },
@@ -36122,6 +36142,10 @@
                     {
                         "codigo_cliente": "76929",
                         "desc_cliente": "MARGARETH RITA FERRARI"
+                    },
+                    {
+                        "codigo_cliente": "78772",
+                        "desc_cliente": "MARIA ALICE GOMES DA SILVA"
                     },
                     {
                         "codigo_cliente": "74334",
@@ -37898,6 +37922,10 @@
                     {
                         "codigo_cliente": "55522",
                         "desc_cliente": "RONALDO WERUTSKY"
+                    },
+                    {
+                        "codigo_cliente": "78769",
+                        "desc_cliente": "RONAS MENDES"
                     },
                     {
                         "codigo_cliente": "49343",
@@ -54544,6 +54572,10 @@
                         "desc_cliente": "FRANCISCO PEDRO CARDOZO & CIA LTDA"
                     },
                     {
+                        "codigo_cliente": "78734",
+                        "desc_cliente": "FRUTEIRA VILA NOVA LTDA"
+                    },
+                    {
                         "codigo_cliente": "75964",
                         "desc_cliente": "GABRIEL ABEL ORTOLAN BAR E RESTAURANTE LTDA"
                     },
@@ -55786,6 +55818,10 @@
                     {
                         "codigo_cliente": "59272",
                         "desc_cliente": "REI DO QUEIJO E DO BACALHAU LDTA"
+                    },
+                    {
+                        "codigo_cliente": "68884",
+                        "desc_cliente": "REI DO QUEIJO E DO BACALHAU MERCADAO LTDA"
                     },
                     {
                         "codigo_cliente": "76411",
@@ -57734,6 +57770,10 @@
                         "desc_cliente": "LOPES SUPERMERCADOS LTDA"
                     },
                     {
+                        "codigo_cliente": "34720",
+                        "desc_cliente": "LOPES SUPERMERCADOS LTDA"
+                    },
+                    {
                         "codigo_cliente": "34721",
                         "desc_cliente": "LOPES SUPERMERCADOS LTDA"
                     },
@@ -57954,6 +57994,10 @@
                     {
                         "codigo_cliente": "34531",
                         "desc_cliente": "SILVA, CARVALHO & CIA. SUPERMERCADOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "78393",
+                        "desc_cliente": "SUPERMERCADO BAGARELLI LTDA"
                     }
                 ],
                 "351 - TAUSTE SUPERMERCADOS": [
@@ -68594,6 +68638,10 @@
                         "desc_cliente": "LD CARAMELO COMERCIAL DE PRODUTOS ALIMENTICIOS LTDA"
                     },
                     {
+                        "codigo_cliente": "70161",
+                        "desc_cliente": "L.D.M. CARAMELO FESTAS E DOCES LTDA"
+                    },
+                    {
                         "codigo_cliente": "64179",
                         "desc_cliente": "LOJA TIO GIL LTDA"
                     },
@@ -68900,6 +68948,10 @@
                     {
                         "codigo_cliente": "40038",
                         "desc_cliente": "LAMAR S FOOD LTDA"
+                    },
+                    {
+                        "codigo_cliente": "44864",
+                        "desc_cliente": "NAC ALIMENTACAO E COMERCIO EIRELI"
                     },
                     {
                         "codigo_cliente": "35726",

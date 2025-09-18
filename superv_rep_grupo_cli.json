@@ -6628,6 +6628,10 @@
                         "desc_cliente": "COMERCIAL R D DE PRODUTOS ALIMENTICIOS LTDA"
                     },
                     {
+                        "codigo_cliente": "25846",
+                        "desc_cliente": "COMERCIAL SANTA ISABEL LTDA"
+                    },
+                    {
                         "codigo_cliente": "70259",
                         "desc_cliente": "COMERCIAL SURUBI LTDA"
                     },
@@ -7878,6 +7882,10 @@
                     {
                         "codigo_cliente": "36546",
                         "desc_cliente": "SUPERMAIS COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "31373",
+                        "desc_cliente": "SUPERMAIS COMERCIO DE ALIMENTOS LTDA - ME"
                     },
                     {
                         "codigo_cliente": "31758",
@@ -9267,6 +9275,18 @@
                     }
                 ]
             },
+            "1264": {
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "78959",
+                        "desc_cliente": "49.975.365 GRACIELE CRISTINE MADEIRA DO NASCIMENTO"
+                    },
+                    {
+                        "codigo_cliente": "78596",
+                        "desc_cliente": "FORMOSA SUPERMERCADOS E MAGAZINE LTDA"
+                    }
+                ]
+            },
             "1239": {
                 "1 - GERAL": [
                     {
@@ -9324,14 +9344,6 @@
                     {
                         "codigo_cliente": "78983",
                         "desc_cliente": "SUPERMERCADO SUPER PONTO BOM RETIRO LTDA"
-                    }
-                ]
-            },
-            "1264": {
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "78596",
-                        "desc_cliente": "FORMOSA SUPERMERCADOS E MAGAZINE LTDA"
                     }
                 ]
             },
@@ -17897,7 +17909,7 @@
                     },
                     {
                         "codigo_cliente": "79485",
-                        "desc_cliente": "GREICE CRISTINA TODESCHINI - ME"
+                        "desc_cliente": "GREICE CRISTINA TODESCHINI"
                     },
                     {
                         "codigo_cliente": "78129",
@@ -39056,6 +39068,10 @@
                         "desc_cliente": "THAIS SOUZA DE MELO"
                     },
                     {
+                        "codigo_cliente": "79489",
+                        "desc_cliente": "THALIA SILVA DA SILVA"
+                    },
+                    {
                         "codigo_cliente": "58024",
                         "desc_cliente": "THAMYRES DA ROSA SEIDLER"
                     },
@@ -57556,6 +57572,10 @@
                         "desc_cliente": "MARIA MERCIA AGOSTINHO - ME"
                     },
                     {
+                        "codigo_cliente": "40734",
+                        "desc_cliente": "MARINA DE SOUZA MORAIS"
+                    },
+                    {
                         "codigo_cliente": "42596",
                         "desc_cliente": "M. A. SILVA DE FREITAS COMERCIO DE PRODUTOS NATURAIS"
                     },
@@ -69735,6 +69755,38 @@
                     }
                 ]
             },
+            "1233": {
+                "1 - GERAL": [
+                    {
+                        "codigo_cliente": "24120",
+                        "desc_cliente": "ADRIANE MARIA BARATO - ME"
+                    },
+                    {
+                        "codigo_cliente": "8356",
+                        "desc_cliente": "FEDRIGO E BERTAN LTDA"
+                    },
+                    {
+                        "codigo_cliente": "55332",
+                        "desc_cliente": "HERBERTS COMERCIO DE ALIMENTOS LTDA"
+                    },
+                    {
+                        "codigo_cliente": "75723",
+                        "desc_cliente": "JUSSARA GARCIA ROCHA E CIA LTDA"
+                    },
+                    {
+                        "codigo_cliente": "65882",
+                        "desc_cliente": "MARA NANCI FLORES SCHMITT"
+                    },
+                    {
+                        "codigo_cliente": "46360",
+                        "desc_cliente": "RICARDO ANDREIS"
+                    },
+                    {
+                        "codigo_cliente": "75074",
+                        "desc_cliente": "SUL DOCES DISTRIBUIDORA LTDA"
+                    }
+                ]
+            },
             "586": {
                 "1 - GERAL": [
                     {
@@ -69804,34 +69856,6 @@
                     {
                         "codigo_cliente": "29457",
                         "desc_cliente": "DISTRIBUIDORA BARBOSA LTDA"
-                    }
-                ]
-            },
-            "1233": {
-                "1 - GERAL": [
-                    {
-                        "codigo_cliente": "8356",
-                        "desc_cliente": "FEDRIGO E BERTAN LTDA"
-                    },
-                    {
-                        "codigo_cliente": "55332",
-                        "desc_cliente": "HERBERTS COMERCIO DE ALIMENTOS LTDA"
-                    },
-                    {
-                        "codigo_cliente": "75723",
-                        "desc_cliente": "JUSSARA GARCIA ROCHA E CIA LTDA"
-                    },
-                    {
-                        "codigo_cliente": "65882",
-                        "desc_cliente": "MARA NANCI FLORES SCHMITT"
-                    },
-                    {
-                        "codigo_cliente": "46360",
-                        "desc_cliente": "RICARDO ANDREIS"
-                    },
-                    {
-                        "codigo_cliente": "75074",
-                        "desc_cliente": "SUL DOCES DISTRIBUIDORA LTDA"
                     }
                 ]
             },
